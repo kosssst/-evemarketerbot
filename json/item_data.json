@@ -1,0 +1,37 @@
+{
+	"Ore": {
+		"sheetname": "Ore",
+		"items": {
+			"Plagioclase":{
+				"name": "Plagioclase",
+				"typeid": 18,
+				"cell": "B2"
+			},
+			"Spodumain":{
+				"name": "Spodumain",
+				"typeid": 19,
+				"cell": "B3"
+			},
+			"Kernite":{
+				"name": "Kernit",
+				"typeid": 20,
+				"cell": "B4"
+			},
+			"Hedbergite":{
+				"name": "Hedbergite",
+				"typeid": 21,
+				"cell": "B5"
+			},
+			"Arkonor":{
+				"name": "Arkonor",
+				"typeid": 22,
+				"cell": "B6"
+			},
+			"Bezdnacine":{
+				"name": "Bezdnacine",
+				"typeid": 52316,
+				"cell": "B7"
+			}
+		}
+	}
+}

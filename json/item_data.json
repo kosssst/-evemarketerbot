@@ -5,32 +5,197 @@
 			"Plagioclase":{
 				"name": "Plagioclase",
 				"typeid": 18,
-				"cell": "B2"
+				"line": "3"
 			},
 			"Spodumain":{
 				"name": "Spodumain",
 				"typeid": 19,
-				"cell": "B3"
+				"line": "4"
 			},
 			"Kernite":{
 				"name": "Kernit",
 				"typeid": 20,
-				"cell": "B4"
+				"line": "5"
 			},
 			"Hedbergite":{
 				"name": "Hedbergite",
 				"typeid": 21,
-				"cell": "B5"
+				"line": "6"
 			},
 			"Arkonor":{
 				"name": "Arkonor",
 				"typeid": 22,
-				"cell": "B6"
+				"line": "7"
 			},
 			"Bezdnacine":{
 				"name": "Bezdnacine",
 				"typeid": 52316,
-				"cell": "B7"
+				"line": "8"
+			},
+			"Compressed Arkonor":{
+				"name": "Compressed Arkonor",
+				"typeid": 28367,
+				"line": "9"
+			},
+			"Compressed Crimson Arkonor":{
+				"name": "Compressed Crimson Arkonor",
+				"typeid": 28385,
+				"line": "10"
+			},
+			"Compressed Flawless Arkonor":{
+				"name": "Compressed Flawless Arkonor",
+				"typeid": 46691,
+				"line": "11"
+			},
+			"Compressed Prime Arkonor":{
+				"name": "Compressed Prime Arkonor",
+				"typeid": 28387,
+				"line": "12"
+			},
+			"Crimson Arkonor":{
+				"name": "Crimson Arkonor",
+				"typeid": 17425,
+				"line": "13"
+			},
+			"Flawless Arkonor":{
+				"name": "Flawless Arkonor",
+				"typeid": 46678,
+				"line": "14"
+			},
+			"Prime Arkonor":{
+				"name": "Prime Arkonor",
+				"typeid": 17426,
+				"line": "15"
+			},
+			"Abyssal Bezdnacine":{
+				"name": "Abyssal Bezdnacine",
+				"typeid": 56627,
+				"line": "16"
+			},
+			"Hadal Bezdnacine":{
+				"name": "Hadal Bezdnacine",
+				"typeid": 56628,
+				"line": "17"
+			},
+			"Bistot":{
+				"name": "Bistot",
+				"typeid": 1223,
+				"line": "18"
+			},
+			"Compressed Bistot":{
+				"name": "Compressed Bistot",
+				"typeid": 28388,
+				"line": "19"
+			},
+			"Compressed Cubic Bistot":{
+				"name": "Compressed Cubic Bistot",
+				"typeid": 46692,
+				"line": "20"
+			},
+			"Compressed Monoclinic Bistot":{
+				"name": "Compressed Monoclinic Bistot",
+				"typeid": 28389,
+				"line": "21"
+			},
+			"Compressed Triclinic Bistot":{
+				"name": "Compressed Triclinic Bistot",
+				"typeid": 28390,
+				"line": "22"
+			},
+			"Cubic Bistot":{
+				"name": "Cubic Bistot",
+				"typeid": 46676,
+				"line": "23"
+			},
+			"Monoclinic Bistot":{
+				"name": "Monoclinic Bistot",
+				"typeid": 17429,
+				"line": "24"
+			},
+			"Triclinic Bistot":{
+				"name": "Triclinic Bistot",
+				"typeid": 17428,
+				"line": "25"
+			},
+			"Compressed Crokite":{
+				"name": "Compressed Crokite",
+				"typeid": 28391,
+				"line": "26"
+			},
+			"Compressed Crystalline Crokite":{
+				"name": "Compressed Crystalline Crokite",
+				"typeid": 28392,
+				"line": "27"
+			},
+			"Compressed Pellucid Crokite":{
+				"name": "Compressed Pellucid Crokite",
+				"typeid": 46693,
+				"line": "28"
+			},
+			"Compressed Sharp Crokite":{
+				"name": "Compressed Sharp Crokite",
+				"typeid": 28393,
+				"line": "29"
+			},
+			"Crokite":{
+				"name": "Crokite",
+				"typeid": 1225,
+				"line": "30"
+			},
+			"Crystalline Crokite":{
+				"name": "Crystalline Crokite",
+				"typeid": 17433,
+				"line": "31"
+			},
+			"Pellucid Crokite":{
+				"name": "Pellucid Crokite",
+				"typeid": 46677,
+				"line": "32"
+			},
+			"Sharp Crokite":{
+				"name": "Sharp Crokite",
+				"typeid": 17432,
+				"line": "33"
+			},
+			"Compressed Dark Ochre":{
+				"name": "Compressed Dark Ochre",
+				"typeid": 28394,
+				"line": "34"
+			},
+			"Compressed Jet Ochre":{
+				"name": "Compressed Jet Ochre",
+				"typeid": 46694,
+				"line": "35"
+			},
+			"Compressed Obsidian Ochre":{
+				"name": "Compressed Obsidian Ochre",
+				"typeid": 28395,
+				"line": "36"
+			},
+			"Compressed Onyx Ochre":{
+				"name": "Compressed Onyx Ochre",
+				"typeid": 28396,
+				"line": "37"
+			},
+			"Dark Ochre":{
+				"name": "Dark Ochre",
+				"typeid": 1232,
+				"line": "38"
+			},
+			"Jet Ochre":{
+				"name": "Jet Ochre",
+				"typeid": 46675,
+				"line": "39"
+			},
+			"Obsidian Ochre":{
+				"name": "Obsidian Ochre",
+				"typeid": 17437,
+				"line": "40"
+			},
+			"Onyx Ochre":{
+				"name": "Onyx Ochre",
+				"typeid": 17436,
+				"line": "41"
 			}
 		}
 	}

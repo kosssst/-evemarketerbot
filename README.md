@@ -11,9 +11,9 @@ This bot allows to transfer prices from Eve Marketer to Google Sheets.
 ### **How to install:**
 
 **Download code**
-	``` 
-	git clone https://github.com/kostyamed/-evemarketerbot.git
-	```
+``` 
+git clone https://github.com/kostyamed/-evemarketerbot.git
+```
 
 **Create Google application for each type of item what you want to track:**
 

@@ -1,9 +1,5 @@
 requests
 gspread
 oauth2client
-json
 schedule
-time
 datetime
-sys
-subprocess

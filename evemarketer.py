@@ -5,26 +5,18 @@ import json
 import schedule
 import config
 import time
-import sys
 from datetime import datetime
 
 creds = ServiceAccountCredentials.from_json_keyfile_name(config.key,config.scope)
 client = gspread.authorize(creds)
 sheet = client.open('evemarketer')
 
-print("[INFO]: Connected to Google Sheets API")
+print("[STARTING]: Connected to Google Sheets API")
+time.sleep(2)
+print("[STARTING]: Bot started working")
 
-try:
-	json_file = open(config.file, 'r')
-except:
-	print("[ERROR]: Invalid file")
-	sys.exit()
-
-try:
-	json_data = json.load(json_file)
-except:
-	print("[ERROR]: Not json file")
-	sys.exit()
+json_file = open(config.file, 'r')
+json_data = json.load(json_file)
 
 try:
 	while True:

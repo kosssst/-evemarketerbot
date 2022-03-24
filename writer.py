@@ -78,7 +78,7 @@ try:
 				current_time = now.strftime("%H:%M:%S")
 				print("[" + str(current_time) + "] [INFO]: Updated item " + str(name))
 
-				time.sleep(10)
+				time.sleep(15)
 				
 					
 except KeyboardInterrupt:

@@ -10,26 +10,39 @@ This bot allows to transfer prices from Eve Marketer to Google Sheets.
 
 ### **How to install:**
 
-**Download code**
+- **Download code**
 ``` 
 git clone https://github.com/kostyamed/-evemarketerbot.git
 ```
 
-**Create Google application for each type of item what you want to track:**
+- **Create Google application for each type of item what you want to track:**
 
 https://medium.com/daily-python/python-script-to-edit-google-sheets-daily-python-7-aadce27846c0
 
 after this you need to have .json files with login data
 
-**Enter folder**
+- **Enter folder**
 ```
 cd -evemarketerbot
 ```
 
-**Create folder for your login files with name `keys`**
+- **Create folder for your login files with name `keys`**
 ```
 mkdir keys
 ```
 
-**Move files, which you got earlier, to folder `keys`**
+- **Install libraries:**
+```
+pip install -r requirements.txt
+```
 
+- **Move files, which you got earlier, to folder `keys`**
+
+- **Create table on Google Sheets**
+
+- **Edit `config.py` and files in `json/` for you**
+
+- **Start program:**
+```
+python main.py
+```

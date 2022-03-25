@@ -8,7 +8,7 @@ import time
 from datetime import datetime
 import sys
 
-def update(file, key):
+def update(file, key, process):
 	json_file = open(("json/"+file), 'r')
 	json_data = json.load(json_file)
 
@@ -18,10 +18,11 @@ def update(file, key):
 		sheet = client.open(config.tablename)
 	except gspread.exceptions.APIError:
 		print("[ERROR]: APIError")
+		return
 
-	print("[STARTING]: Connected to Google Sheets API")
+	print("[STARTING]: Connected to Google Sheets API (" + str(process) + ")")
 	time.sleep(2)
-	print("[STARTING]: Bot started working")
+	print("[STARTING]: Bot started working (" + str(process) + ")")
 
 	try:
 		while True:
@@ -38,7 +39,7 @@ def update(file, key):
 					except:
 						now = datetime.now()
 						current_time = now.strftime("%H:%M:%S")
-						print("[" + str(current_time) + "] [ERROR]: Skipped " + str(name))
+						print("[" + str(current_time) + "] [ERROR]: Skipped " + str(name) + " (" + process + ")")
 						continue
 					data = resp.json()
 					buy_volume = data[0]["buy"]["volume"]
@@ -81,7 +82,7 @@ def update(file, key):
 					
 					now = datetime.now()
 					current_time = now.strftime("%H:%M:%S")
-					print("[" + str(current_time) + "] [INFO]: Updated item " + str(name))
+					print("[" + str(current_time) + "] [INFO]: Updated item " + str(name) + " ("+ process + ")")
 
 					time.sleep(config.delay)
 					
@@ -91,4 +92,4 @@ def update(file, key):
 
 
 if __name__ == "__main__":
-	update(sys.argv[1], sys.argv[2])
+	update(sys.argv[1], sys.argv[2], sys.argv[3])

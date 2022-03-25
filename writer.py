@@ -9,16 +9,19 @@ from datetime import datetime
 import sys
 
 def update(file, key):
-	creds = ServiceAccountCredentials.from_json_keyfile_name(("keys/"+key),config.scope)
-	client = gspread.authorize(creds)
-	sheet = client.open('evemarketer')
+	json_file = open(("json/"+file), 'r')
+	json_data = json.load(json_file)
+
+	try:
+		creds = ServiceAccountCredentials.from_json_keyfile_name(("keys/"+key),config.scope)
+		client = gspread.authorize(creds)
+		sheet = client.open('evemarketer')
+	except gspread.exceptions.APIError:
+		print("[ERROR]: APIError (" + json_data + ")")
 
 	print("[STARTING]: Connected to Google Sheets API")
 	time.sleep(2)
 	print("[STARTING]: Bot started working")
-
-	json_file = open(("json/"+file), 'r')
-	json_data = json.load(json_file)
 
 	try:
 		while True:

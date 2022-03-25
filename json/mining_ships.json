@@ -1,0 +1,22 @@
+{
+	"Mining ships": {
+		"sheetname": "Mining ships",
+		"items": {
+			"Covetor": {
+				"name": "Covetor",
+				"typeid": 17476,
+				"line": "3"
+			},
+			"Procurer": {
+				"name": "Procurer",
+				"typeid": 17480,
+				"line": "4"
+			},
+			"Retriever": {
+				"name": "Retriever",
+				"typeid": 17478,
+				"line": "5"
+			}
+		}
+	}
+}

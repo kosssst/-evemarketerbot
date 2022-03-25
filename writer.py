@@ -15,9 +15,9 @@ def update(file, key):
 	try:
 		creds = ServiceAccountCredentials.from_json_keyfile_name(("keys/"+key),config.scope)
 		client = gspread.authorize(creds)
-		sheet = client.open('evemarketer')
+		sheet = client.open(config.tablename)
 	except gspread.exceptions.APIError:
-		print("[ERROR]: APIError (" + json_data + ")")
+		print("[ERROR]: APIError")
 
 	print("[STARTING]: Connected to Google Sheets API")
 	time.sleep(2)
@@ -83,7 +83,7 @@ def update(file, key):
 					current_time = now.strftime("%H:%M:%S")
 					print("[" + str(current_time) + "] [INFO]: Updated item " + str(name))
 
-					time.sleep(15)
+					time.sleep(config.delay)
 					
 						
 	except KeyboardInterrupt:

@@ -1,11 +1,17 @@
 import subprocess
 from threading import Thread
+import json
+import config
+
+keyfile = open(config.key, 'r')
+data = json.load(keyfile)
+
 
 def ore():
-	subprocess.call("python writer.py ore.json evemarketerbot-49efda14a63b.json", shell=True)
+	subprocess.call("python writer.py " + str(data["Ore"]["file"]) + " " + str(data["Ore"]["key"]), shell=True)
 
 def minerals():
-	subprocess.call("python writer.py minerals.json evemarketerbotminerals-3fabc2f71956.json", shell=True)
+	subprocess.call("python writer.py " + str(data["Minerals"]["file"]) + " " + str(data["Minerals"]["key"]), shell=True)
 
 
 if __name__ == "__main__":

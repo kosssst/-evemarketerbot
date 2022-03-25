@@ -16,6 +16,21 @@
 				"name": "Retriever",
 				"typeid": 17478,
 				"line": "5"
+			},
+			"Hulk": {
+				"name": "Hulk",
+				"typeid": 22544,
+				"line": "6"
+			},
+			"Mackinaw": {
+				"name": "Mackinaw",
+				"typeid": 22548,
+				"line": "7"
+			},
+			"Skiff": {
+				"name": "Skiff",
+				"typeid": 22546,
+				"line": "8"
 			}
 		}
 	}

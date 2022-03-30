@@ -1,6 +1,6 @@
 # -evemarketerbot
 
-## **Bot is not ready**
+## **Bot is not ready!**
 
 ***Works only on Windows***
 

@@ -1,0 +1,2034 @@
+{
+    "Structures":[
+        {
+            "Cynosural Suppression":{
+                "name":"Cynosural Suppression",
+                "typeid":"2001",
+                "line":"3"
+            }
+        },
+        {
+            "Cynosural Navigation":{
+                "name":"Cynosural Navigation",
+                "typeid":"2008",
+                "line":"4"
+            }
+        },
+        {
+            "Supercapital Construction Facilities":{
+                "name":"Supercapital Construction Facilities",
+                "typeid":"2009",
+                "line":"5"
+            }
+        },
+        {
+            "Pirate Detection Array 1":{
+                "name":"Pirate Detection Array 1",
+                "typeid":"2026",
+                "line":"6"
+            }
+        },
+        {
+            "Pirate Detection Array 3":{
+                "name":"Pirate Detection Array 3",
+                "typeid":"2028",
+                "line":"7"
+            }
+        },
+        {
+            "Pirate Detection Array 4":{
+                "name":"Pirate Detection Array 4",
+                "typeid":"2029",
+                "line":"8"
+            }
+        },
+        {
+            "Pirate Detection Array 5":{
+                "name":"Pirate Detection Array 5",
+                "typeid":"2030",
+                "line":"9"
+            }
+        },
+        {
+            "Entrapment Array 1":{
+                "name":"Entrapment Array 1",
+                "typeid":"2031",
+                "line":"10"
+            }
+        },
+        {
+            "Entrapment Array 2":{
+                "name":"Entrapment Array 2",
+                "typeid":"2034",
+                "line":"11"
+            }
+        },
+        {
+            "Entrapment Array 4":{
+                "name":"Entrapment Array 4",
+                "typeid":"2036",
+                "line":"12"
+            }
+        },
+        {
+            "Entrapment Array 5":{
+                "name":"Entrapment Array 5",
+                "typeid":"2037",
+                "line":"13"
+            }
+        },
+        {
+            "Ore Prospecting Array 1":{
+                "name":"Ore Prospecting Array 1",
+                "typeid":"2040",
+                "line":"14"
+            }
+        },
+        {
+            "Ore Prospecting Array 2":{
+                "name":"Ore Prospecting Array 2",
+                "typeid":"2041",
+                "line":"15"
+            }
+        },
+        {
+            "Ore Prospecting Array 3":{
+                "name":"Ore Prospecting Array 3",
+                "typeid":"2042",
+                "line":"16"
+            }
+        },
+        {
+            "Ore Prospecting Array 4":{
+                "name":"Ore Prospecting Array 4",
+                "typeid":"2043",
+                "line":"17"
+            }
+        },
+        {
+            "Ore Prospecting Array 5":{
+                "name":"Ore Prospecting Array 5",
+                "typeid":"2044",
+                "line":"18"
+            }
+        },
+        {
+            "Survey Networks 1":{
+                "name":"Survey Networks 1",
+                "typeid":"2053",
+                "line":"19"
+            }
+        },
+        {
+            "Survey Networks 2":{
+                "name":"Survey Networks 2",
+                "typeid":"2054",
+                "line":"20"
+            }
+        },
+        {
+            "Survey Networks 3":{
+                "name":"Survey Networks 3",
+                "typeid":"2055",
+                "line":"21"
+            }
+        },
+        {
+            "Survey Networks 4":{
+                "name":"Survey Networks 4",
+                "typeid":"2056",
+                "line":"22"
+            }
+        },
+        {
+            "Survey Networks 5":{
+                "name":"Survey Networks 5",
+                "typeid":"2057",
+                "line":"23"
+            }
+        },
+        {
+            "Quantum Flux Generator 1":{
+                "name":"Quantum Flux Generator 1",
+                "typeid":"2058",
+                "line":"24"
+            }
+        },
+        {
+            "Quantum Flux Generator 2":{
+                "name":"Quantum Flux Generator 2",
+                "typeid":"2059",
+                "line":"25"
+            }
+        },
+        {
+            "Quantum Flux Generator 3":{
+                "name":"Quantum Flux Generator 3",
+                "typeid":"2060",
+                "line":"26"
+            }
+        },
+        {
+            "Quantum Flux Generator 5":{
+                "name":"Quantum Flux Generator 5",
+                "typeid":"2062",
+                "line":"27"
+            }
+        },
+        {
+            "Medium Standard Container":{
+                "name":"Medium Standard Container",
+                "typeid":"3293",
+                "line":"28"
+            }
+        },
+        {
+            "Large Standard Container":{
+                "name":"Large Standard Container",
+                "typeid":"3296",
+                "line":"29"
+            }
+        },
+        {
+            "Small Standard Container":{
+                "name":"Small Standard Container",
+                "typeid":"3297",
+                "line":"30"
+            }
+        },
+        {
+            "Medium Secure Container":{
+                "name":"Medium Secure Container",
+                "typeid":"3466",
+                "line":"31"
+            }
+        },
+        {
+            "Small Secure Container":{
+                "name":"Small Secure Container",
+                "typeid":"3467",
+                "line":"32"
+            }
+        },
+        {
+            "Mobile Large Jump Disruptor I":{
+                "name":"Mobile Large Jump Disruptor I",
+                "typeid":"4386",
+                "line":"33"
+            }
+        },
+        {
+            "Huge Secure Container":{
+                "name":"Huge Secure Container",
+                "typeid":"11488",
+                "line":"34"
+            }
+        },
+        {
+            "Giant Secure Container":{
+                "name":"Giant Secure Container",
+                "typeid":"11489",
+                "line":"35"
+            }
+        },
+        {
+            "Mobile Small Warp Disruptor I":{
+                "name":"Mobile Small Warp Disruptor I",
+                "typeid":"12198",
+                "line":"36"
+            }
+        },
+        {
+            "Mobile Medium Warp Disruptor I":{
+                "name":"Mobile Medium Warp Disruptor I",
+                "typeid":"12199",
+                "line":"37"
+            }
+        },
+        {
+            "Mobile Large Warp Disruptor I":{
+                "name":"Mobile Large Warp Disruptor I",
+                "typeid":"12200",
+                "line":"38"
+            }
+        },
+        {
+            "Amarr Control Tower":{
+                "name":"Amarr Control Tower",
+                "typeid":"12235",
+                "line":"39"
+            }
+        },
+        {
+            "Gallente Control Tower":{
+                "name":"Gallente Control Tower",
+                "typeid":"12236",
+                "line":"40"
+            }
+        },
+        {
+            "Ship Maintenance Array":{
+                "name":"Ship Maintenance Array",
+                "typeid":"12237",
+                "line":"41"
+            }
+        },
+        {
+            "Reprocessing Array":{
+                "name":"Reprocessing Array",
+                "typeid":"12238",
+                "line":"42"
+            }
+        },
+        {
+            "Compression Array":{
+                "name":"Compression Array",
+                "typeid":"12239",
+                "line":"43"
+            }
+        },
+        {
+            "Equipment Assembly Array":{
+                "name":"Equipment Assembly Array",
+                "typeid":"13780",
+                "line":"44"
+            }
+        },
+        {
+            "Silo":{
+                "name":"Silo",
+                "typeid":"14343",
+                "line":"45"
+            }
+        },
+        {
+            "Caldari Control Tower":{
+                "name":"Caldari Control Tower",
+                "typeid":"16213",
+                "line":"46"
+            }
+        },
+        {
+            "Minmatar Control Tower":{
+                "name":"Minmatar Control Tower",
+                "typeid":"16214",
+                "line":"47"
+            }
+        },
+        {
+            "Research Laboratory":{
+                "name":"Research Laboratory",
+                "typeid":"16216",
+                "line":"48"
+            }
+        },
+        {
+            "Rapid Equipment Assembly Array":{
+                "name":"Rapid Equipment Assembly Array",
+                "typeid":"16220",
+                "line":"49"
+            }
+        },
+        {
+            "Moon Harvesting Array":{
+                "name":"Moon Harvesting Array",
+                "typeid":"16221",
+                "line":"50"
+            }
+        },
+        {
+            "Small Artillery Battery":{
+                "name":"Small Artillery Battery",
+                "typeid":"16631",
+                "line":"51"
+            }
+        },
+        {
+            "Medium Artillery Battery":{
+                "name":"Medium Artillery Battery",
+                "typeid":"16688",
+                "line":"52"
+            }
+        },
+        {
+            "Large Artillery Battery":{
+                "name":"Large Artillery Battery",
+                "typeid":"16689",
+                "line":"53"
+            }
+        },
+        {
+            "Small Railgun Battery":{
+                "name":"Small Railgun Battery",
+                "typeid":"16690",
+                "line":"54"
+            }
+        },
+        {
+            "Medium Railgun Battery":{
+                "name":"Medium Railgun Battery",
+                "typeid":"16691",
+                "line":"55"
+            }
+        },
+        {
+            "Large Railgun Battery":{
+                "name":"Large Railgun Battery",
+                "typeid":"16692",
+                "line":"56"
+            }
+        },
+        {
+            "Large Beam Laser Battery":{
+                "name":"Large Beam Laser Battery",
+                "typeid":"16694",
+                "line":"57"
+            }
+        },
+        {
+            "Cruise Missile Battery":{
+                "name":"Cruise Missile Battery",
+                "typeid":"16696",
+                "line":"58"
+            }
+        },
+        {
+            "Torpedo Battery":{
+                "name":"Torpedo Battery",
+                "typeid":"16697",
+                "line":"59"
+            }
+        },
+        {
+            "Complex Reactor Array":{
+                "name":"Complex Reactor Array",
+                "typeid":"16869",
+                "line":"60"
+            }
+        },
+        {
+            "Small Beam Laser Battery":{
+                "name":"Small Beam Laser Battery",
+                "typeid":"17167",
+                "line":"61"
+            }
+        },
+        {
+            "Medium Beam Laser Battery":{
+                "name":"Medium Beam Laser Battery",
+                "typeid":"17168",
+                "line":"62"
+            }
+        },
+        {
+            "Ion Field Projection Battery":{
+                "name":"Ion Field Projection Battery",
+                "typeid":"17174",
+                "line":"63"
+            }
+        },
+        {
+            "Phase Inversion Battery":{
+                "name":"Phase Inversion Battery",
+                "typeid":"17175",
+                "line":"64"
+            }
+        },
+        {
+            "Spatial Destabilization Battery":{
+                "name":"Spatial Destabilization Battery",
+                "typeid":"17176",
+                "line":"65"
+            }
+        },
+        {
+            "Stasis Webification Battery":{
+                "name":"Stasis Webification Battery",
+                "typeid":"17178",
+                "line":"66"
+            }
+        },
+        {
+            "Sensor Dampening Battery":{
+                "name":"Sensor Dampening Battery",
+                "typeid":"17180",
+                "line":"67"
+            }
+        },
+        {
+            "Warp Disruption Battery":{
+                "name":"Warp Disruption Battery",
+                "typeid":"17181",
+                "line":"68"
+            }
+        },
+        {
+            "Warp Scrambling Battery":{
+                "name":"Warp Scrambling Battery",
+                "typeid":"17182",
+                "line":"69"
+            }
+        },
+        {
+            "Ballistic Deflection Array":{
+                "name":"Ballistic Deflection Array",
+                "typeid":"17184",
+                "line":"70"
+            }
+        },
+        {
+            "Explosion Dampening Array":{
+                "name":"Explosion Dampening Array",
+                "typeid":"17185",
+                "line":"71"
+            }
+        },
+        {
+            "Heat Dissipation Array":{
+                "name":"Heat Dissipation Array",
+                "typeid":"17186",
+                "line":"72"
+            }
+        },
+        {
+            "Photon Scattering Array":{
+                "name":"Photon Scattering Array",
+                "typeid":"17187",
+                "line":"73"
+            }
+        },
+        {
+            "Small Audit Log Secure Container":{
+                "name":"Small Audit Log Secure Container",
+                "typeid":"17363",
+                "line":"74"
+            }
+        },
+        {
+            "Medium Audit Log Secure Container":{
+                "name":"Medium Audit Log Secure Container",
+                "typeid":"17364",
+                "line":"75"
+            }
+        },
+        {
+            "Large Audit Log Secure Container":{
+                "name":"Large Audit Log Secure Container",
+                "typeid":"17365",
+                "line":"76"
+            }
+        },
+        {
+            "Station Container":{
+                "name":"Station Container",
+                "typeid":"17366",
+                "line":"77"
+            }
+        },
+        {
+            "Station Vault Container":{
+                "name":"Station Vault Container",
+                "typeid":"17367",
+                "line":"78"
+            }
+        },
+        {
+            "Station Warehouse Container":{
+                "name":"Station Warehouse Container",
+                "typeid":"17368",
+                "line":"79"
+            }
+        },
+        {
+            "Large Blaster Battery":{
+                "name":"Large Blaster Battery",
+                "typeid":"17402",
+                "line":"80"
+            }
+        },
+        {
+            "Medium Blaster Battery":{
+                "name":"Medium Blaster Battery",
+                "typeid":"17403",
+                "line":"81"
+            }
+        },
+        {
+            "Small Blaster Battery":{
+                "name":"Small Blaster Battery",
+                "typeid":"17404",
+                "line":"82"
+            }
+        },
+        {
+            "Large Pulse Laser Battery":{
+                "name":"Large Pulse Laser Battery",
+                "typeid":"17406",
+                "line":"83"
+            }
+        },
+        {
+            "Medium Pulse Laser Battery":{
+                "name":"Medium Pulse Laser Battery",
+                "typeid":"17407",
+                "line":"84"
+            }
+        },
+        {
+            "Small Pulse Laser Battery":{
+                "name":"Small Pulse Laser Battery",
+                "typeid":"17408",
+                "line":"85"
+            }
+        },
+        {
+            "Corporate Hangar Array":{
+                "name":"Corporate Hangar Array",
+                "typeid":"17621",
+                "line":"86"
+            }
+        },
+        {
+            "Large AutoCannon Battery":{
+                "name":"Large AutoCannon Battery",
+                "typeid":"17770",
+                "line":"87"
+            }
+        },
+        {
+            "Small AutoCannon Battery":{
+                "name":"Small AutoCannon Battery",
+                "typeid":"17772",
+                "line":"88"
+            }
+        },
+        {
+            "XL Torpedo Battery":{
+                "name":"XL Torpedo Battery",
+                "typeid":"17773",
+                "line":"89"
+            }
+        },
+        {
+            "Coupling Array":{
+                "name":"Coupling Array",
+                "typeid":"17982",
+                "line":"90"
+            }
+        },
+        {
+            "Intensive Reprocessing Array":{
+                "name":"Intensive Reprocessing Array",
+                "typeid":"19470",
+                "line":"91"
+            }
+        },
+        {
+            "Amarr Control Tower Medium":{
+                "name":"Amarr Control Tower Medium",
+                "typeid":"20059",
+                "line":"92"
+            }
+        },
+        {
+            "Amarr Control Tower Small":{
+                "name":"Amarr Control Tower Small",
+                "typeid":"20060",
+                "line":"93"
+            }
+        },
+        {
+            "Caldari Control Tower Medium":{
+                "name":"Caldari Control Tower Medium",
+                "typeid":"20061",
+                "line":"94"
+            }
+        },
+        {
+            "Caldari Control Tower Small":{
+                "name":"Caldari Control Tower Small",
+                "typeid":"20062",
+                "line":"95"
+            }
+        },
+        {
+            "Gallente Control Tower Medium":{
+                "name":"Gallente Control Tower Medium",
+                "typeid":"20063",
+                "line":"96"
+            }
+        },
+        {
+            "Gallente Control Tower Small":{
+                "name":"Gallente Control Tower Small",
+                "typeid":"20064",
+                "line":"97"
+            }
+        },
+        {
+            "Minmatar Control Tower Medium":{
+                "name":"Minmatar Control Tower Medium",
+                "typeid":"20065",
+                "line":"98"
+            }
+        },
+        {
+            "Minmatar Control Tower Small":{
+                "name":"Minmatar Control Tower Small",
+                "typeid":"20066",
+                "line":"99"
+            }
+        },
+        {
+            "Simple Reactor Array":{
+                "name":"Simple Reactor Array",
+                "typeid":"20175",
+                "line":"100"
+            }
+        },
+        {
+            "Medium Biochemical Reactor Array":{
+                "name":"Medium Biochemical Reactor Array",
+                "typeid":"22634",
+                "line":"101"
+            }
+        },
+        {
+            "Giant Freight Container":{
+                "name":"Giant Freight Container",
+                "typeid":"24445",
+                "line":"102"
+            }
+        },
+        {
+            "Experimental Laboratory":{
+                "name":"Experimental Laboratory",
+                "typeid":"24567",
+                "line":"103"
+            }
+        },
+        {
+            "Small Ship Assembly Array":{
+                "name":"Small Ship Assembly Array",
+                "typeid":"24574",
+                "line":"104"
+            }
+        },
+        {
+            "Supercapital Ship Assembly Array":{
+                "name":"Supercapital Ship Assembly Array",
+                "typeid":"24575",
+                "line":"105"
+            }
+        },
+        {
+            "X-Large Ship Maintenance Array":{
+                "name":"X-Large Ship Maintenance Array",
+                "typeid":"24646",
+                "line":"106"
+            }
+        },
+        {
+            "Advanced Small Ship Assembly Array":{
+                "name":"Advanced Small Ship Assembly Array",
+                "typeid":"24653",
+                "line":"107"
+            }
+        },
+        {
+            "Medium Ship Assembly Array":{
+                "name":"Medium Ship Assembly Array",
+                "typeid":"24654",
+                "line":"108"
+            }
+        },
+        {
+            "Advanced Medium Ship Assembly Array":{
+                "name":"Advanced Medium Ship Assembly Array",
+                "typeid":"24655",
+                "line":"109"
+            }
+        },
+        {
+            "Capital Ship Assembly Array":{
+                "name":"Capital Ship Assembly Array",
+                "typeid":"24656",
+                "line":"110"
+            }
+        },
+        {
+            "Advanced Large Ship Assembly Array":{
+                "name":"Advanced Large Ship Assembly Array",
+                "typeid":"24657",
+                "line":"111"
+            }
+        },
+        {
+            "Ammunition Assembly Array":{
+                "name":"Ammunition Assembly Array",
+                "typeid":"24658",
+                "line":"112"
+            }
+        },
+        {
+            "Drone Assembly Array":{
+                "name":"Drone Assembly Array",
+                "typeid":"24659",
+                "line":"113"
+            }
+        },
+        {
+            "Component Assembly Array":{
+                "name":"Component Assembly Array",
+                "typeid":"24660",
+                "line":"114"
+            }
+        },
+        {
+            "Biochemical Reactor Array":{
+                "name":"Biochemical Reactor Array",
+                "typeid":"24684",
+                "line":"115"
+            }
+        },
+        {
+            "Biochemical Silo":{
+                "name":"Biochemical Silo",
+                "typeid":"25270",
+                "line":"116"
+            }
+        },
+        {
+            "Catalyst Silo":{
+                "name":"Catalyst Silo",
+                "typeid":"25271",
+                "line":"117"
+            }
+        },
+        {
+            "Hazardous Chemical Silo":{
+                "name":"Hazardous Chemical Silo",
+                "typeid":"25280",
+                "line":"118"
+            }
+        },
+        {
+            "Drug Lab":{
+                "name":"Drug Lab",
+                "typeid":"25305",
+                "line":"119"
+            }
+        },
+        {
+            "General Storage":{
+                "name":"General Storage",
+                "typeid":"25821",
+                "line":"120"
+            }
+        },
+        {
+            "Mobile Large Warp Disruptor II":{
+                "name":"Mobile Large Warp Disruptor II",
+                "typeid":"26888",
+                "line":"121"
+            }
+        },
+        {
+            "Mobile Medium Warp Disruptor II":{
+                "name":"Mobile Medium Warp Disruptor II",
+                "typeid":"26890",
+                "line":"122"
+            }
+        },
+        {
+            "Mobile Small Warp Disruptor II":{
+                "name":"Mobile Small Warp Disruptor II",
+                "typeid":"26892",
+                "line":"123"
+            }
+        },
+        {
+            "Blood Control Tower":{
+                "name":"Blood Control Tower",
+                "typeid":"27530",
+                "line":"124"
+            }
+        },
+        {
+            "Dark Blood Control Tower":{
+                "name":"Dark Blood Control Tower",
+                "typeid":"27532",
+                "line":"125"
+            }
+        },
+        {
+            "Guristas Control Tower":{
+                "name":"Guristas Control Tower",
+                "typeid":"27533",
+                "line":"126"
+            }
+        },
+        {
+            "Dread Guristas Control Tower":{
+                "name":"Dread Guristas Control Tower",
+                "typeid":"27535",
+                "line":"127"
+            }
+        },
+        {
+            "Serpentis Control Tower":{
+                "name":"Serpentis Control Tower",
+                "typeid":"27536",
+                "line":"128"
+            }
+        },
+        {
+            "Shadow Control Tower":{
+                "name":"Shadow Control Tower",
+                "typeid":"27538",
+                "line":"129"
+            }
+        },
+        {
+            "Angel Control Tower":{
+                "name":"Angel Control Tower",
+                "typeid":"27539",
+                "line":"130"
+            }
+        },
+        {
+            "Domination Control Tower":{
+                "name":"Domination Control Tower",
+                "typeid":"27540",
+                "line":"131"
+            }
+        },
+        {
+            "Serpentis Large Blaster Battery":{
+                "name":"Serpentis Large Blaster Battery",
+                "typeid":"27542",
+                "line":"132"
+            }
+        },
+        {
+            "Shadow Large Blaster Battery":{
+                "name":"Shadow Large Blaster Battery",
+                "typeid":"27544",
+                "line":"133"
+            }
+        },
+        {
+            "Serpentis Large Railgun Battery":{
+                "name":"Serpentis Large Railgun Battery",
+                "typeid":"27545",
+                "line":"134"
+            }
+        },
+        {
+            "Shadow Large Railgun Battery":{
+                "name":"Shadow Large Railgun Battery",
+                "typeid":"27547",
+                "line":"135"
+            }
+        },
+        {
+            "Blood Large Pulse Laser Battery":{
+                "name":"Blood Large Pulse Laser Battery",
+                "typeid":"27548",
+                "line":"136"
+            }
+        },
+        {
+            "Dark Blood Large Pulse Laser Battery":{
+                "name":"Dark Blood Large Pulse Laser Battery",
+                "typeid":"27550",
+                "line":"137"
+            }
+        },
+        {
+            "Blood Large Beam Laser Battery":{
+                "name":"Blood Large Beam Laser Battery",
+                "typeid":"27551",
+                "line":"138"
+            }
+        },
+        {
+            "Dark Blood Large Beam Laser Battery":{
+                "name":"Dark Blood Large Beam Laser Battery",
+                "typeid":"27553",
+                "line":"139"
+            }
+        },
+        {
+            "Angel Large AutoCannon Battery":{
+                "name":"Angel Large AutoCannon Battery",
+                "typeid":"27554",
+                "line":"140"
+            }
+        },
+        {
+            "Domination Large AutoCannon Battery":{
+                "name":"Domination Large AutoCannon Battery",
+                "typeid":"27556",
+                "line":"141"
+            }
+        },
+        {
+            "Angel Large Artillery Battery":{
+                "name":"Angel Large Artillery Battery",
+                "typeid":"27557",
+                "line":"142"
+            }
+        },
+        {
+            "Domination Large Artillery Battery":{
+                "name":"Domination Large Artillery Battery",
+                "typeid":"27559",
+                "line":"143"
+            }
+        },
+        {
+            "Guristas XL Torpedo Battery":{
+                "name":"Guristas XL Torpedo Battery",
+                "typeid":"27560",
+                "line":"144"
+            }
+        },
+        {
+            "Dread Guristas XL Torpedo Battery":{
+                "name":"Dread Guristas XL Torpedo Battery",
+                "typeid":"27562",
+                "line":"145"
+            }
+        },
+        {
+            "Serpentis Warp Disruption Battery":{
+                "name":"Serpentis Warp Disruption Battery",
+                "typeid":"27563",
+                "line":"146"
+            }
+        },
+        {
+            "Shadow Warp Disruption Battery":{
+                "name":"Shadow Warp Disruption Battery",
+                "typeid":"27565",
+                "line":"147"
+            }
+        },
+        {
+            "Serpentis Warp Scrambling Battery":{
+                "name":"Serpentis Warp Scrambling Battery",
+                "typeid":"27567",
+                "line":"148"
+            }
+        },
+        {
+            "Shadow Warp Scrambling Battery":{
+                "name":"Shadow Warp Scrambling Battery",
+                "typeid":"27569",
+                "line":"149"
+            }
+        },
+        {
+            "Angel Stasis Webification Battery":{
+                "name":"Angel Stasis Webification Battery",
+                "typeid":"27570",
+                "line":"150"
+            }
+        },
+        {
+            "Domination Stasis Webification Battery":{
+                "name":"Domination Stasis Webification Battery",
+                "typeid":"27573",
+                "line":"151"
+            }
+        },
+        {
+            "Guristas Ion Field Projection Battery":{
+                "name":"Guristas Ion Field Projection Battery",
+                "typeid":"27574",
+                "line":"152"
+            }
+        },
+        {
+            "Dread Guristas Ion Field Projection Battery":{
+                "name":"Dread Guristas Ion Field Projection Battery",
+                "typeid":"27576",
+                "line":"153"
+            }
+        },
+        {
+            "Guristas Phase Inversion Battery":{
+                "name":"Guristas Phase Inversion Battery",
+                "typeid":"27577",
+                "line":"154"
+            }
+        },
+        {
+            "Dread Guristas Phase Inversion Battery":{
+                "name":"Dread Guristas Phase Inversion Battery",
+                "typeid":"27579",
+                "line":"155"
+            }
+        },
+        {
+            "Guristas Spatial Destabilization Battery":{
+                "name":"Guristas Spatial Destabilization Battery",
+                "typeid":"27580",
+                "line":"156"
+            }
+        },
+        {
+            "Dread Guristas Spatial Destabilization Battery":{
+                "name":"Dread Guristas Spatial Destabilization Battery",
+                "typeid":"27582",
+                "line":"157"
+            }
+        },
+        {
+            "Guristas White Noise Generation Battery":{
+                "name":"Guristas White Noise Generation Battery",
+                "typeid":"27583",
+                "line":"158"
+            }
+        },
+        {
+            "Dread Guristas White Noise Generation Battery":{
+                "name":"Dread Guristas White Noise Generation Battery",
+                "typeid":"27585",
+                "line":"159"
+            }
+        },
+        {
+            "Blood Control Tower Medium":{
+                "name":"Blood Control Tower Medium",
+                "typeid":"27589",
+                "line":"160"
+            }
+        },
+        {
+            "Dark Blood Control Tower Medium":{
+                "name":"Dark Blood Control Tower Medium",
+                "typeid":"27591",
+                "line":"161"
+            }
+        },
+        {
+            "Blood Control Tower Small":{
+                "name":"Blood Control Tower Small",
+                "typeid":"27592",
+                "line":"162"
+            }
+        },
+        {
+            "Dark Blood Control Tower Small":{
+                "name":"Dark Blood Control Tower Small",
+                "typeid":"27594",
+                "line":"163"
+            }
+        },
+        {
+            "Guristas Control Tower Medium":{
+                "name":"Guristas Control Tower Medium",
+                "typeid":"27595",
+                "line":"164"
+            }
+        },
+        {
+            "Dread Guristas Control Tower Medium":{
+                "name":"Dread Guristas Control Tower Medium",
+                "typeid":"27597",
+                "line":"165"
+            }
+        },
+        {
+            "Guristas Control Tower Small":{
+                "name":"Guristas Control Tower Small",
+                "typeid":"27598",
+                "line":"166"
+            }
+        },
+        {
+            "Dread Guristas Control Tower Small":{
+                "name":"Dread Guristas Control Tower Small",
+                "typeid":"27600",
+                "line":"167"
+            }
+        },
+        {
+            "Serpentis Control Tower Medium":{
+                "name":"Serpentis Control Tower Medium",
+                "typeid":"27601",
+                "line":"168"
+            }
+        },
+        {
+            "Shadow Control Tower Medium":{
+                "name":"Shadow Control Tower Medium",
+                "typeid":"27603",
+                "line":"169"
+            }
+        },
+        {
+            "Serpentis Control Tower Small":{
+                "name":"Serpentis Control Tower Small",
+                "typeid":"27604",
+                "line":"170"
+            }
+        },
+        {
+            "Shadow Control Tower Small":{
+                "name":"Shadow Control Tower Small",
+                "typeid":"27606",
+                "line":"171"
+            }
+        },
+        {
+            "Angel Control Tower Medium":{
+                "name":"Angel Control Tower Medium",
+                "typeid":"27607",
+                "line":"172"
+            }
+        },
+        {
+            "Domination Control Tower Medium":{
+                "name":"Domination Control Tower Medium",
+                "typeid":"27609",
+                "line":"173"
+            }
+        },
+        {
+            "Angel Control Tower Small":{
+                "name":"Angel Control Tower Small",
+                "typeid":"27610",
+                "line":"174"
+            }
+        },
+        {
+            "Domination Control Tower Small":{
+                "name":"Domination Control Tower Small",
+                "typeid":"27612",
+                "line":"175"
+            }
+        },
+        {
+            "Serpentis Medium Blaster Battery":{
+                "name":"Serpentis Medium Blaster Battery",
+                "typeid":"27613",
+                "line":"176"
+            }
+        },
+        {
+            "Shadow Medium Blaster Battery":{
+                "name":"Shadow Medium Blaster Battery",
+                "typeid":"27615",
+                "line":"177"
+            }
+        },
+        {
+            "Serpentis Medium Railgun Battery":{
+                "name":"Serpentis Medium Railgun Battery",
+                "typeid":"27616",
+                "line":"178"
+            }
+        },
+        {
+            "Shadow Medium Railgun Battery":{
+                "name":"Shadow Medium Railgun Battery",
+                "typeid":"27618",
+                "line":"179"
+            }
+        },
+        {
+            "Serpentis Small Blaster Battery":{
+                "name":"Serpentis Small Blaster Battery",
+                "typeid":"27619",
+                "line":"180"
+            }
+        },
+        {
+            "Shadow Small Blaster Battery":{
+                "name":"Shadow Small Blaster Battery",
+                "typeid":"27621",
+                "line":"181"
+            }
+        },
+        {
+            "Serpentis Small Railgun Battery":{
+                "name":"Serpentis Small Railgun Battery",
+                "typeid":"27622",
+                "line":"182"
+            }
+        },
+        {
+            "Shadow Small Railgun Battery":{
+                "name":"Shadow Small Railgun Battery",
+                "typeid":"27624",
+                "line":"183"
+            }
+        },
+        {
+            "Blood Medium Beam Laser Battery":{
+                "name":"Blood Medium Beam Laser Battery",
+                "typeid":"27625",
+                "line":"184"
+            }
+        },
+        {
+            "Dark Blood Medium Beam Laser Battery":{
+                "name":"Dark Blood Medium Beam Laser Battery",
+                "typeid":"27627",
+                "line":"185"
+            }
+        },
+        {
+            "Blood Medium Pulse Laser Battery":{
+                "name":"Blood Medium Pulse Laser Battery",
+                "typeid":"27628",
+                "line":"186"
+            }
+        },
+        {
+            "Dark Blood Medium Pulse Laser Battery":{
+                "name":"Dark Blood Medium Pulse Laser Battery",
+                "typeid":"27630",
+                "line":"187"
+            }
+        },
+        {
+            "Blood Small Beam Laser Battery":{
+                "name":"Blood Small Beam Laser Battery",
+                "typeid":"27631",
+                "line":"188"
+            }
+        },
+        {
+            "Dark Blood Small Beam Laser Battery":{
+                "name":"Dark Blood Small Beam Laser Battery",
+                "typeid":"27633",
+                "line":"189"
+            }
+        },
+        {
+            "Blood Small Pulse Laser Battery":{
+                "name":"Blood Small Pulse Laser Battery",
+                "typeid":"27634",
+                "line":"190"
+            }
+        },
+        {
+            "Dark Blood Small Pulse Laser Battery":{
+                "name":"Dark Blood Small Pulse Laser Battery",
+                "typeid":"27636",
+                "line":"191"
+            }
+        },
+        {
+            "Guristas Cruise Missile Battery":{
+                "name":"Guristas Cruise Missile Battery",
+                "typeid":"27638",
+                "line":"192"
+            }
+        },
+        {
+            "Dread Guristas Cruise Missile Battery":{
+                "name":"Dread Guristas Cruise Missile Battery",
+                "typeid":"27640",
+                "line":"193"
+            }
+        },
+        {
+            "Guristas Torpedo Battery":{
+                "name":"Guristas Torpedo Battery",
+                "typeid":"27641",
+                "line":"194"
+            }
+        },
+        {
+            "Dread Guristas Torpedo Battery":{
+                "name":"Dread Guristas Torpedo Battery",
+                "typeid":"27643",
+                "line":"195"
+            }
+        },
+        {
+            "Angel Medium Artillery Battery":{
+                "name":"Angel Medium Artillery Battery",
+                "typeid":"27644",
+                "line":"196"
+            }
+        },
+        {
+            "Domination Medium Artillery Battery":{
+                "name":"Domination Medium Artillery Battery",
+                "typeid":"27646",
+                "line":"197"
+            }
+        },
+        {
+            "Angel Medium AutoCannon Battery":{
+                "name":"Angel Medium AutoCannon Battery",
+                "typeid":"27647",
+                "line":"198"
+            }
+        },
+        {
+            "Domination Medium AutoCannon Battery":{
+                "name":"Domination Medium AutoCannon Battery",
+                "typeid":"27649",
+                "line":"199"
+            }
+        },
+        {
+            "Angel Small Artillery Battery":{
+                "name":"Angel Small Artillery Battery",
+                "typeid":"27650",
+                "line":"200"
+            }
+        },
+        {
+            "Domination Small Artillery Battery":{
+                "name":"Domination Small Artillery Battery",
+                "typeid":"27652",
+                "line":"201"
+            }
+        },
+        {
+            "Angel Small AutoCannon Battery":{
+                "name":"Angel Small AutoCannon Battery",
+                "typeid":"27653",
+                "line":"202"
+            }
+        },
+        {
+            "Domination Small AutoCannon Battery":{
+                "name":"Domination Small AutoCannon Battery",
+                "typeid":"27655",
+                "line":"203"
+            }
+        },
+        {
+            "Energy Neutralizing Battery":{
+                "name":"Energy Neutralizing Battery",
+                "typeid":"27672",
+                "line":"204"
+            }
+        },
+        {
+            "Cynosural Generator Array":{
+                "name":"Cynosural Generator Array",
+                "typeid":"27673",
+                "line":"205"
+            }
+        },
+        {
+            "Cynosural System Jammer":{
+                "name":"Cynosural System Jammer",
+                "typeid":"27674",
+                "line":"206"
+            }
+        },
+        {
+            "System Scanning Array":{
+                "name":"System Scanning Array",
+                "typeid":"27675",
+                "line":"207"
+            }
+        },
+        {
+            "Sansha Large Beam Laser Battery":{
+                "name":"Sansha Large Beam Laser Battery",
+                "typeid":"27766",
+                "line":"208"
+            }
+        },
+        {
+            "Sansha Large Pulse Laser Battery":{
+                "name":"Sansha Large Pulse Laser Battery",
+                "typeid":"27767",
+                "line":"209"
+            }
+        },
+        {
+            "Sansha Medium Beam Laser Battery":{
+                "name":"Sansha Medium Beam Laser Battery",
+                "typeid":"27768",
+                "line":"210"
+            }
+        },
+        {
+            "Sansha Medium Pulse Laser Battery":{
+                "name":"Sansha Medium Pulse Laser Battery",
+                "typeid":"27769",
+                "line":"211"
+            }
+        },
+        {
+            "Sansha Small Beam Laser Battery":{
+                "name":"Sansha Small Beam Laser Battery",
+                "typeid":"27770",
+                "line":"212"
+            }
+        },
+        {
+            "Sansha Small Pulse Laser Battery":{
+                "name":"Sansha Small Pulse Laser Battery",
+                "typeid":"27771",
+                "line":"213"
+            }
+        },
+        {
+            "True Sansha Large Beam Laser Battery":{
+                "name":"True Sansha Large Beam Laser Battery",
+                "typeid":"27772",
+                "line":"214"
+            }
+        },
+        {
+            "True Sansha Large Pulse Laser Battery":{
+                "name":"True Sansha Large Pulse Laser Battery",
+                "typeid":"27773",
+                "line":"215"
+            }
+        },
+        {
+            "True Sansha Medium Beam Laser Battery":{
+                "name":"True Sansha Medium Beam Laser Battery",
+                "typeid":"27774",
+                "line":"216"
+            }
+        },
+        {
+            "True Sansha Medium Pulse Laser Battery":{
+                "name":"True Sansha Medium Pulse Laser Battery",
+                "typeid":"27775",
+                "line":"217"
+            }
+        },
+        {
+            "True Sansha Small Beam Laser Battery":{
+                "name":"True Sansha Small Beam Laser Battery",
+                "typeid":"27776",
+                "line":"218"
+            }
+        },
+        {
+            "True Sansha Small Pulse Laser Battery":{
+                "name":"True Sansha Small Pulse Laser Battery",
+                "typeid":"27777",
+                "line":"219"
+            }
+        },
+        {
+            "Serpentis Sensor Dampening Battery":{
+                "name":"Serpentis Sensor Dampening Battery",
+                "typeid":"27778",
+                "line":"220"
+            }
+        },
+        {
+            "Shadow Sensor Dampening Battery":{
+                "name":"Shadow Sensor Dampening Battery",
+                "typeid":"27779",
+                "line":"221"
+            }
+        },
+        {
+            "Sansha Control Tower":{
+                "name":"Sansha Control Tower",
+                "typeid":"27780",
+                "line":"222"
+            }
+        },
+        {
+            "Sansha Control Tower Medium":{
+                "name":"Sansha Control Tower Medium",
+                "typeid":"27782",
+                "line":"223"
+            }
+        },
+        {
+            "Sansha Control Tower Small":{
+                "name":"Sansha Control Tower Small",
+                "typeid":"27784",
+                "line":"224"
+            }
+        },
+        {
+            "True Sansha Control Tower":{
+                "name":"True Sansha Control Tower",
+                "typeid":"27786",
+                "line":"225"
+            }
+        },
+        {
+            "True Sansha Control Tower Medium":{
+                "name":"True Sansha Control Tower Medium",
+                "typeid":"27788",
+                "line":"226"
+            }
+        },
+        {
+            "True Sansha Control Tower Small":{
+                "name":"True Sansha Control Tower Small",
+                "typeid":"27790",
+                "line":"227"
+            }
+        },
+        {
+            "Sansha Energy Neutralizing Battery":{
+                "name":"Sansha Energy Neutralizing Battery",
+                "typeid":"27855",
+                "line":"228"
+            }
+        },
+        {
+            "True Sansha Energy Neutralizing Battery":{
+                "name":"True Sansha Energy Neutralizing Battery",
+                "typeid":"27856",
+                "line":"229"
+            }
+        },
+        {
+            "Blood Energy Neutralizing Battery":{
+                "name":"Blood Energy Neutralizing Battery",
+                "typeid":"27857",
+                "line":"230"
+            }
+        },
+        {
+            "Dark Blood Energy Neutralizing Battery":{
+                "name":"Dark Blood Energy Neutralizing Battery",
+                "typeid":"27858",
+                "line":"231"
+            }
+        },
+        {
+            "Jump Bridge":{
+                "name":"Jump Bridge",
+                "typeid":"27897",
+                "line":"232"
+            }
+        },
+        {
+            "Design Laboratory":{
+                "name":"Design Laboratory",
+                "typeid":"28351",
+                "line":"233"
+            }
+        },
+        {
+            "Syndicate Mobile Large Warp Disruptor":{
+                "name":"Syndicate Mobile Large Warp Disruptor",
+                "typeid":"28770",
+                "line":"234"
+            }
+        },
+        {
+            "Syndicate Mobile Medium Warp Disruptor":{
+                "name":"Syndicate Mobile Medium Warp Disruptor",
+                "typeid":"28772",
+                "line":"235"
+            }
+        },
+        {
+            "Syndicate Mobile Small Warp Disruptor":{
+                "name":"Syndicate Mobile Small Warp Disruptor",
+                "typeid":"28774",
+                "line":"236"
+            }
+        },
+        {
+            "Large Ship Assembly Array":{
+                "name":"Large Ship Assembly Array",
+                "typeid":"29613",
+                "line":"237"
+            }
+        },
+        {
+            "Subsystem Assembly Array":{
+                "name":"Subsystem Assembly Array",
+                "typeid":"30389",
+                "line":"238"
+            }
+        },
+        {
+            "Hybrid Polymer Silo":{
+                "name":"Hybrid Polymer Silo",
+                "typeid":"30655",
+                "line":"239"
+            }
+        },
+        {
+            "Polymer Reactor Array":{
+                "name":"Polymer Reactor Array",
+                "typeid":"30656",
+                "line":"240"
+            }
+        },
+        {
+            "Territorial Claim Unit":{
+                "name":"Territorial Claim Unit",
+                "typeid":"32226",
+                "line":"241"
+            }
+        },
+        {
+            "Hyasyoda Research Laboratory":{
+                "name":"Hyasyoda Research Laboratory",
+                "typeid":"32245",
+                "line":"242"
+            }
+        },
+        {
+            "Advanced Logistics Network":{
+                "name":"Advanced Logistics Network",
+                "typeid":"32422",
+                "line":"243"
+            }
+        },
+        {
+            "Infrastructure Hub":{
+                "name":"Infrastructure Hub",
+                "typeid":"32458",
+                "line":"244"
+            }
+        },
+        {
+            "Enormous Freight Container":{
+                "name":"Enormous Freight Container",
+                "typeid":"33003",
+                "line":"245"
+            }
+        },
+        {
+            "Huge Freight Container":{
+                "name":"Huge Freight Container",
+                "typeid":"33005",
+                "line":"246"
+            }
+        },
+        {
+            "Large Freight Container":{
+                "name":"Large Freight Container",
+                "typeid":"33007",
+                "line":"247"
+            }
+        },
+        {
+            "Medium Freight Container":{
+                "name":"Medium Freight Container",
+                "typeid":"33009",
+                "line":"248"
+            }
+        },
+        {
+            "Small Freight Container":{
+                "name":"Small Freight Container",
+                "typeid":"33011",
+                "line":"249"
+            }
+        },
+        {
+            "Personal Hangar Array":{
+                "name":"Personal Hangar Array",
+                "typeid":"33149",
+                "line":"250"
+            }
+        },
+        {
+            "Mobile Depot":{
+                "name":"Mobile Depot",
+                "typeid":"33474",
+                "line":"251"
+            }
+        },
+        {
+            "Mobile Tractor Unit":{
+                "name":"Mobile Tractor Unit",
+                "typeid":"33475",
+                "line":"252"
+            }
+        },
+        {
+            "Mobile Cynosural Inhibitor":{
+                "name":"Mobile Cynosural Inhibitor",
+                "typeid":"33476",
+                "line":"253"
+            }
+        },
+        {
+            "Small Mobile Siphon Unit":{
+                "name":"Small Mobile Siphon Unit",
+                "typeid":"33477",
+                "line":"254"
+            }
+        },
+        {
+            "'Wetu' Mobile Depot":{
+                "name":"'Wetu' Mobile Depot",
+                "typeid":"33520",
+                "line":"255"
+            }
+        },
+        {
+            "'Yurt' Mobile Depot":{
+                "name":"'Yurt' Mobile Depot",
+                "typeid":"33522",
+                "line":"256"
+            }
+        },
+        {
+            "Small Mobile 'Hybrid' Siphon Unit":{
+                "name":"Small Mobile 'Hybrid' Siphon Unit",
+                "typeid":"33581",
+                "line":"257"
+            }
+        },
+        {
+            "Small Mobile 'Rote' Siphon Unit":{
+                "name":"Small Mobile 'Rote' Siphon Unit",
+                "typeid":"33583",
+                "line":"258"
+            }
+        },
+        {
+            "Defunct Amarr Encounter Surveillance System":{
+                "name":"Defunct Amarr Encounter Surveillance System",
+                "typeid":"33585",
+                "line":"259"
+            }
+        },
+        {
+            "Mobile Scan Inhibitor":{
+                "name":"Mobile Scan Inhibitor",
+                "typeid":"33589",
+                "line":"260"
+            }
+        },
+        {
+            "Mobile Micro Jump Unit":{
+                "name":"Mobile Micro Jump Unit",
+                "typeid":"33591",
+                "line":"261"
+            }
+        },
+        {
+            "Defunct Caldari Encounter Surveillance System":{
+                "name":"Defunct Caldari Encounter Surveillance System",
+                "typeid":"33595",
+                "line":"262"
+            }
+        },
+        {
+            "Defunct Gallente Encounter Surveillance System":{
+                "name":"Defunct Gallente Encounter Surveillance System",
+                "typeid":"33608",
+                "line":"263"
+            }
+        },
+        {
+            "Defunct Minmatar Encounter Surveillance System":{
+                "name":"Defunct Minmatar Encounter Surveillance System",
+                "typeid":"33610",
+                "line":"264"
+            }
+        },
+        {
+            "'Packrat' Mobile Tractor Unit":{
+                "name":"'Packrat' Mobile Tractor Unit",
+                "typeid":"33700",
+                "line":"265"
+            }
+        },
+        {
+            "'Magpie' Mobile Tractor Unit":{
+                "name":"'Magpie' Mobile Tractor Unit",
+                "typeid":"33702",
+                "line":"266"
+            }
+        },
+        {
+            "Thukker Component Assembly Array":{
+                "name":"Thukker Component Assembly Array",
+                "typeid":"33867",
+                "line":"267"
+            }
+        },
+        {
+            "Raitaru":{
+                "name":"Raitaru",
+                "typeid":"35825",
+                "line":"268"
+            }
+        },
+        {
+            "Azbel":{
+                "name":"Azbel",
+                "typeid":"35826",
+                "line":"269"
+            }
+        },
+        {
+            "Sotiyo":{
+                "name":"Sotiyo",
+                "typeid":"35827",
+                "line":"270"
+            }
+        },
+        {
+            "Astrahus":{
+                "name":"Astrahus",
+                "typeid":"35832",
+                "line":"271"
+            }
+        },
+        {
+            "Keepstar":{
+                "name":"Keepstar",
+                "typeid":"35834",
+                "line":"272"
+            }
+        },
+        {
+            "Athanor":{
+                "name":"Athanor",
+                "typeid":"35835",
+                "line":"273"
+            }
+        },
+        {
+            "Tatara":{
+                "name":"Tatara",
+                "typeid":"35836",
+                "line":"274"
+            }
+        },
+        {
+            "Pharolux Cyno Beacon":{
+                "name":"Pharolux Cyno Beacon",
+                "typeid":"35840",
+                "line":"275"
+            }
+        },
+        {
+            "Ansiblex Jump Gate":{
+                "name":"Ansiblex Jump Gate",
+                "typeid":"35841",
+                "line":"276"
+            }
+        },
+        {
+            "Tenebrex Cyno Jammer":{
+                "name":"Tenebrex Cyno Jammer",
+                "typeid":"37534",
+                "line":"277"
+            }
+        },
+        {
+            "Upwell Palatine Keepstar":{
+                "name":"Upwell Palatine Keepstar",
+                "typeid":"40340",
+                "line":"278"
+            }
+        },
+        {
+            "'Draccous' Fortizar":{
+                "name":"'Draccous' Fortizar",
+                "typeid":"47513",
+                "line":"279"
+            }
+        },
+        {
+            "'Horizon' Fortizar":{
+                "name":"'Horizon' Fortizar",
+                "typeid":"47514",
+                "line":"280"
+            }
+        },
+        {
+            "Mobile Cynosural Beacon":{
+                "name":"Mobile Cynosural Beacon",
+                "typeid":"57319",
+                "line":"281"
+            }
+        },
+        {
+            "Mobile Observatory":{
+                "name":"Mobile Observatory",
+                "typeid":"58904",
+                "line":"282"
+            }
+        },
+        {
+            "Covert Mobile Cynosural Beacon":{
+                "name":"Covert Mobile Cynosural Beacon",
+                "typeid":"59630",
+                "line":"283"
+            }
+        },
+        {
+            "CONCORD Rogue Analysis Beacon":{
+                "name":"CONCORD Rogue Analysis Beacon",
+                "typeid":"60244",
+                "line":"284"
+            }
+        },
+        {
+            "Fortizar":{
+                "name":"Fortizar",
+                "typeid":"35833",
+                "line":"285"
+            }
+        },
+        {
+            "'Marginis' Fortizar":{
+                "name":"'Marginis' Fortizar",
+                "typeid":"47515",
+                "line":"286"
+            }
+        },
+        {
+            "'Prometheus' Fortizar":{
+                "name":"'Prometheus' Fortizar",
+                "typeid":"47516",
+                "line":"287"
+            }
+        },
+        {
+            "'Moreau' Fortizar":{
+                "name":"'Moreau' Fortizar",
+                "typeid":"47512",
+                "line":"288"
+            }
+        },
+        {
+            "Pirate Detection Array 2":{
+                "name":"Pirate Detection Array 2",
+                "typeid":"2027",
+                "line":"289"
+            }
+        },
+        {
+            "Entrapment Array 3":{
+                "name":"Entrapment Array 3",
+                "typeid":"2035",
+                "line":"290"
+            }
+        },
+        {
+            "Quantum Flux Generator 4":{
+                "name":"Quantum Flux Generator 4",
+                "typeid":"2061",
+                "line":"291"
+            }
+        },
+        {
+            "White Noise Generation Battery":{
+                "name":"White Noise Generation Battery",
+                "typeid":"17177",
+                "line":"292"
+            }
+        }
+    ]
+}

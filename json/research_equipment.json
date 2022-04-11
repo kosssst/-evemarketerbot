@@ -1,0 +1,424 @@
+{
+    "Research Equipment":[
+        {
+            "R.Db - Viziam":{
+                "name":"R.Db - Viziam",
+                "typeid":"11457",
+                "line":"3"
+            }
+        },
+        {
+            "R.Db - Khanid Innovation":{
+                "name":"R.Db - Khanid Innovation",
+                "typeid":"11458",
+                "line":"4"
+            }
+        },
+        {
+            "R.Db - Thukker Mix":{
+                "name":"R.Db - Thukker Mix",
+                "typeid":"11460",
+                "line":"5"
+            }
+        },
+        {
+            "R.Db - Boundless Creations":{
+                "name":"R.Db - Boundless Creations",
+                "typeid":"11461",
+                "line":"6"
+            }
+        },
+        {
+            "R.Db - Core Complexion":{
+                "name":"R.Db - Core Complexion",
+                "typeid":"11462",
+                "line":"7"
+            }
+        },
+        {
+            "R.Db - Ishukone":{
+                "name":"R.Db - Ishukone",
+                "typeid":"11463",
+                "line":"8"
+            }
+        },
+        {
+            "R.Db - Kaalakiota":{
+                "name":"R.Db - Kaalakiota",
+                "typeid":"11464",
+                "line":"9"
+            }
+        },
+        {
+            "R.Db - Roden Shipyards":{
+                "name":"R.Db - Roden Shipyards",
+                "typeid":"11465",
+                "line":"10"
+            }
+        },
+        {
+            "R.Db - CreoDron":{
+                "name":"R.Db - CreoDron",
+                "typeid":"11466",
+                "line":"11"
+            }
+        },
+        {
+            "R.Db - Duvolle Labs":{
+                "name":"R.Db - Duvolle Labs",
+                "typeid":"11467",
+                "line":"12"
+            }
+        },
+        {
+            "Datacore - Defensive Subsystems Engineering":{
+                "name":"Datacore - Defensive Subsystems Engineering",
+                "typeid":"11496",
+                "line":"13"
+            }
+        },
+        {
+            "R.Db - Lai Dai":{
+                "name":"R.Db - Lai Dai",
+                "typeid":"11746",
+                "line":"14"
+            }
+        },
+        {
+            "Datacore - Propulsion Subsystems Engineering":{
+                "name":"Datacore - Propulsion Subsystems Engineering",
+                "typeid":"20114",
+                "line":"15"
+            }
+        },
+        {
+            "Datacore - Core Subsystems Engineering":{
+                "name":"Datacore - Core Subsystems Engineering",
+                "typeid":"20115",
+                "line":"16"
+            }
+        },
+        {
+            "Datacore - Hydromagnetic Physics":{
+                "name":"Datacore - Hydromagnetic Physics",
+                "typeid":"20171",
+                "line":"17"
+            }
+        },
+        {
+            "Datacore - Minmatar Starship Engineering":{
+                "name":"Datacore - Minmatar Starship Engineering",
+                "typeid":"20172",
+                "line":"18"
+            }
+        },
+        {
+            "Datacore - Gallentean Starship Engineering":{
+                "name":"Datacore - Gallentean Starship Engineering",
+                "typeid":"20410",
+                "line":"19"
+            }
+        },
+        {
+            "Datacore - High Energy Physics":{
+                "name":"Datacore - High Energy Physics",
+                "typeid":"20411",
+                "line":"20"
+            }
+        },
+        {
+            "Datacore - Plasma Physics":{
+                "name":"Datacore - Plasma Physics",
+                "typeid":"20412",
+                "line":"21"
+            }
+        },
+        {
+            "Datacore - Laser Physics":{
+                "name":"Datacore - Laser Physics",
+                "typeid":"20413",
+                "line":"22"
+            }
+        },
+        {
+            "Datacore - Quantum Physics":{
+                "name":"Datacore - Quantum Physics",
+                "typeid":"20414",
+                "line":"23"
+            }
+        },
+        {
+            "Datacore - Molecular Engineering":{
+                "name":"Datacore - Molecular Engineering",
+                "typeid":"20415",
+                "line":"24"
+            }
+        },
+        {
+            "Datacore - Nanite Engineering":{
+                "name":"Datacore - Nanite Engineering",
+                "typeid":"20416",
+                "line":"25"
+            }
+        },
+        {
+            "Datacore - Electromagnetic Physics":{
+                "name":"Datacore - Electromagnetic Physics",
+                "typeid":"20417",
+                "line":"26"
+            }
+        },
+        {
+            "Datacore - Electronic Engineering":{
+                "name":"Datacore - Electronic Engineering",
+                "typeid":"20418",
+                "line":"27"
+            }
+        },
+        {
+            "Datacore - Graviton Physics":{
+                "name":"Datacore - Graviton Physics",
+                "typeid":"20419",
+                "line":"28"
+            }
+        },
+        {
+            "Datacore - Rocket Science":{
+                "name":"Datacore - Rocket Science",
+                "typeid":"20420",
+                "line":"29"
+            }
+        },
+        {
+            "Datacore - Amarrian Starship Engineering":{
+                "name":"Datacore - Amarrian Starship Engineering",
+                "typeid":"20421",
+                "line":"30"
+            }
+        },
+        {
+            "Datacore - Nuclear Physics":{
+                "name":"Datacore - Nuclear Physics",
+                "typeid":"20423",
+                "line":"31"
+            }
+        },
+        {
+            "Datacore - Mechanical Engineering":{
+                "name":"Datacore - Mechanical Engineering",
+                "typeid":"20424",
+                "line":"32"
+            }
+        },
+        {
+            "Datacore - Offensive Subsystems Engineering":{
+                "name":"Datacore - Offensive Subsystems Engineering",
+                "typeid":"20425",
+                "line":"33"
+            }
+        },
+        {
+            "Datacore - Caldari Starship Engineering":{
+                "name":"Datacore - Caldari Starship Engineering",
+                "typeid":"25887",
+                "line":"34"
+            }
+        },
+        {
+            "Intact Thruster Sections":{
+                "name":"Intact Thruster Sections",
+                "typeid":"30187",
+                "line":"35"
+            }
+        },
+        {
+            "Malfunctioning Thruster Sections":{
+                "name":"Malfunctioning Thruster Sections",
+                "typeid":"30558",
+                "line":"36"
+            }
+        },
+        {
+            "Wrecked Thruster Sections":{
+                "name":"Wrecked Thruster Sections",
+                "typeid":"30562",
+                "line":"37"
+            }
+        },
+        {
+            "Intact Power Cores":{
+                "name":"Intact Power Cores",
+                "typeid":"30582",
+                "line":"38"
+            }
+        },
+        {
+            "Malfunctioning Power Cores":{
+                "name":"Malfunctioning Power Cores",
+                "typeid":"30586",
+                "line":"39"
+            }
+        },
+        {
+            "Wrecked Power Cores":{
+                "name":"Wrecked Power Cores",
+                "typeid":"30588",
+                "line":"40"
+            }
+        },
+        {
+            "Intact Armor Nanobot":{
+                "name":"Intact Armor Nanobot",
+                "typeid":"30614",
+                "line":"41"
+            }
+        },
+        {
+            "Malfunctioning Armor Nanobot":{
+                "name":"Malfunctioning Armor Nanobot",
+                "typeid":"30615",
+                "line":"42"
+            }
+        },
+        {
+            "Wrecked Armor Nanobot":{
+                "name":"Wrecked Armor Nanobot",
+                "typeid":"30618",
+                "line":"43"
+            }
+        },
+        {
+            "Intact Weapon Subroutines":{
+                "name":"Intact Weapon Subroutines",
+                "typeid":"30628",
+                "line":"44"
+            }
+        },
+        {
+            "Malfunctioning Weapon Subroutines":{
+                "name":"Malfunctioning Weapon Subroutines",
+                "typeid":"30632",
+                "line":"45"
+            }
+        },
+        {
+            "Wrecked Weapon Subroutines":{
+                "name":"Wrecked Weapon Subroutines",
+                "typeid":"30633",
+                "line":"46"
+            }
+        },
+        {
+            "Intact Hull Section":{
+                "name":"Intact Hull Section",
+                "typeid":"30752",
+                "line":"47"
+            }
+        },
+        {
+            "Malfunctioning Hull Section":{
+                "name":"Malfunctioning Hull Section",
+                "typeid":"30753",
+                "line":"48"
+            }
+        },
+        {
+            "Wrecked Hull Section":{
+                "name":"Wrecked Hull Section",
+                "typeid":"30754",
+                "line":"49"
+            }
+        },
+        {
+            "Accelerant Decryptor":{
+                "name":"Accelerant Decryptor",
+                "typeid":"34201",
+                "line":"50"
+            }
+        },
+        {
+            "Attainment Decryptor":{
+                "name":"Attainment Decryptor",
+                "typeid":"34202",
+                "line":"51"
+            }
+        },
+        {
+            "Augmentation Decryptor":{
+                "name":"Augmentation Decryptor",
+                "typeid":"34203",
+                "line":"52"
+            }
+        },
+        {
+            "Parity Decryptor":{
+                "name":"Parity Decryptor",
+                "typeid":"34204",
+                "line":"53"
+            }
+        },
+        {
+            "Process Decryptor":{
+                "name":"Process Decryptor",
+                "typeid":"34205",
+                "line":"54"
+            }
+        },
+        {
+            "Symmetry Decryptor":{
+                "name":"Symmetry Decryptor",
+                "typeid":"34206",
+                "line":"55"
+            }
+        },
+        {
+            "Optimized Attainment Decryptor":{
+                "name":"Optimized Attainment Decryptor",
+                "typeid":"34207",
+                "line":"56"
+            }
+        },
+        {
+            "Optimized Augmentation Decryptor":{
+                "name":"Optimized Augmentation Decryptor",
+                "typeid":"34208",
+                "line":"57"
+            }
+        },
+        {
+            "Small Intact Hull Section":{
+                "name":"Small Intact Hull Section",
+                "typeid":"34412",
+                "line":"58"
+            }
+        },
+        {
+            "Small Malfunctioning Hull Section":{
+                "name":"Small Malfunctioning Hull Section",
+                "typeid":"34414",
+                "line":"59"
+            }
+        },
+        {
+            "Small Wrecked Hull Section":{
+                "name":"Small Wrecked Hull Section",
+                "typeid":"34416",
+                "line":"60"
+            }
+        },
+        {
+            "Datacore - Triglavian Quantum Engineering":{
+                "name":"Datacore - Triglavian Quantum Engineering",
+                "typeid":"52309",
+                "line":"61"
+            }
+        },
+        {
+            "R.Db - Carthum Conglomerate":{
+                "name":"R.Db - Carthum Conglomerate",
+                "typeid":"11459",
+                "line":"62"
+            }
+        }
+    ]
+}

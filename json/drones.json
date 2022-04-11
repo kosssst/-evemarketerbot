@@ -1,0 +1,1446 @@
+{
+    "Drones":[
+        {
+            "Wasp I":{
+                "name":"Wasp I",
+                "typeid":"1201",
+                "line":"3"
+            }
+        },
+        {
+            "Civilian Mining Drone":{
+                "name":"Civilian Mining Drone",
+                "typeid":"1202",
+                "line":"4"
+            }
+        },
+        {
+            "Infiltrator I":{
+                "name":"Infiltrator I",
+                "typeid":"2173",
+                "line":"5"
+            }
+        },
+        {
+            "Infiltrator II":{
+                "name":"Infiltrator II",
+                "typeid":"2175",
+                "line":"6"
+            }
+        },
+        {
+            "Hammerhead I":{
+                "name":"Hammerhead I",
+                "typeid":"2183",
+                "line":"7"
+            }
+        },
+        {
+            "Hammerhead II":{
+                "name":"Hammerhead II",
+                "typeid":"2185",
+                "line":"8"
+            }
+        },
+        {
+            "Praetor I":{
+                "name":"Praetor I",
+                "typeid":"2193",
+                "line":"9"
+            }
+        },
+        {
+            "Praetor II":{
+                "name":"Praetor II",
+                "typeid":"2195",
+                "line":"10"
+            }
+        },
+        {
+            "Acolyte I":{
+                "name":"Acolyte I",
+                "typeid":"2203",
+                "line":"11"
+            }
+        },
+        {
+            "Acolyte II":{
+                "name":"Acolyte II",
+                "typeid":"2205",
+                "line":"12"
+            }
+        },
+        {
+            "Wasp II":{
+                "name":"Wasp II",
+                "typeid":"2436",
+                "line":"13"
+            }
+        },
+        {
+            "Ogre I":{
+                "name":"Ogre I",
+                "typeid":"2444",
+                "line":"14"
+            }
+        },
+        {
+            "Ogre II":{
+                "name":"Ogre II",
+                "typeid":"2446",
+                "line":"15"
+            }
+        },
+        {
+            "Hobgoblin I":{
+                "name":"Hobgoblin I",
+                "typeid":"2454",
+                "line":"16"
+            }
+        },
+        {
+            "Hornet I":{
+                "name":"Hornet I",
+                "typeid":"2464",
+                "line":"17"
+            }
+        },
+        {
+            "Hornet II":{
+                "name":"Hornet II",
+                "typeid":"2466",
+                "line":"18"
+            }
+        },
+        {
+            "Berserker I":{
+                "name":"Berserker I",
+                "typeid":"2476",
+                "line":"19"
+            }
+        },
+        {
+            "Berserker II":{
+                "name":"Berserker II",
+                "typeid":"2478",
+                "line":"20"
+            }
+        },
+        {
+            "Warrior I":{
+                "name":"Warrior I",
+                "typeid":"2486",
+                "line":"21"
+            }
+        },
+        {
+            "Warrior II":{
+                "name":"Warrior II",
+                "typeid":"2488",
+                "line":"22"
+            }
+        },
+        {
+            "Shadow":{
+                "name":"Shadow",
+                "typeid":"2948",
+                "line":"23"
+            }
+        },
+        {
+            "Harvester Mining Drone":{
+                "name":"Harvester Mining Drone",
+                "typeid":"3218",
+                "line":"24"
+            }
+        },
+        {
+            "Mining Drone I":{
+                "name":"Mining Drone I",
+                "typeid":"10246",
+                "line":"25"
+            }
+        },
+        {
+            "Mining Drone II":{
+                "name":"Mining Drone II",
+                "typeid":"10250",
+                "line":"26"
+            }
+        },
+        {
+            "Vespa I":{
+                "name":"Vespa I",
+                "typeid":"15508",
+                "line":"27"
+            }
+        },
+        {
+            "Valkyrie I":{
+                "name":"Valkyrie I",
+                "typeid":"15510",
+                "line":"28"
+            }
+        },
+        {
+            "Vespa II":{
+                "name":"Vespa II",
+                "typeid":"21638",
+                "line":"29"
+            }
+        },
+        {
+            "Valkyrie II":{
+                "name":"Valkyrie II",
+                "typeid":"21640",
+                "line":"30"
+            }
+        },
+        {
+            "Praetor EV-900":{
+                "name":"Praetor EV-900",
+                "typeid":"22572",
+                "line":"31"
+            }
+        },
+        {
+            "Heavy Shield Maintenance Bot I":{
+                "name":"Heavy Shield Maintenance Bot I",
+                "typeid":"22765",
+                "line":"32"
+            }
+        },
+        {
+            "Templar I":{
+                "name":"Templar I",
+                "typeid":"23055",
+                "line":"33"
+            }
+        },
+        {
+            "Dragonfly I":{
+                "name":"Dragonfly I",
+                "typeid":"23057",
+                "line":"34"
+            }
+        },
+        {
+            "Firbolg I":{
+                "name":"Firbolg I",
+                "typeid":"23059",
+                "line":"35"
+            }
+        },
+        {
+            "Einherji I":{
+                "name":"Einherji I",
+                "typeid":"23061",
+                "line":"36"
+            }
+        },
+        {
+            "Wasp EC-900":{
+                "name":"Wasp EC-900",
+                "typeid":"23473",
+                "line":"37"
+            }
+        },
+        {
+            "Ogre SD-900":{
+                "name":"Ogre SD-900",
+                "typeid":"23506",
+                "line":"38"
+            }
+        },
+        {
+            "Praetor TD-900":{
+                "name":"Praetor TD-900",
+                "typeid":"23510",
+                "line":"39"
+            }
+        },
+        {
+            "Berserker TP-900":{
+                "name":"Berserker TP-900",
+                "typeid":"23512",
+                "line":"40"
+            }
+        },
+        {
+            "Heavy Armor Maintenance Bot I":{
+                "name":"Heavy Armor Maintenance Bot I",
+                "typeid":"23523",
+                "line":"41"
+            }
+        },
+        {
+            "Curator I":{
+                "name":"Curator I",
+                "typeid":"23525",
+                "line":"42"
+            }
+        },
+        {
+            "Berserker SW-900":{
+                "name":"Berserker SW-900",
+                "typeid":"23536",
+                "line":"43"
+            }
+        },
+        {
+            "Warden I":{
+                "name":"Warden I",
+                "typeid":"23559",
+                "line":"44"
+            }
+        },
+        {
+            "Garde I":{
+                "name":"Garde I",
+                "typeid":"23561",
+                "line":"45"
+            }
+        },
+        {
+            "Bouncer I":{
+                "name":"Bouncer I",
+                "typeid":"23563",
+                "line":"46"
+            }
+        },
+        {
+            "Acolyte EV-300":{
+                "name":"Acolyte EV-300",
+                "typeid":"23659",
+                "line":"47"
+            }
+        },
+        {
+            "Infiltrator EV-600":{
+                "name":"Infiltrator EV-600",
+                "typeid":"23702",
+                "line":"48"
+            }
+        },
+        {
+            "Vespa EC-600":{
+                "name":"Vespa EC-600",
+                "typeid":"23705",
+                "line":"49"
+            }
+        },
+        {
+            "Hornet EC-300":{
+                "name":"Hornet EC-300",
+                "typeid":"23707",
+                "line":"50"
+            }
+        },
+        {
+            "Medium Armor Maintenance Bot I":{
+                "name":"Medium Armor Maintenance Bot I",
+                "typeid":"23709",
+                "line":"51"
+            }
+        },
+        {
+            "Light Armor Maintenance Bot I":{
+                "name":"Light Armor Maintenance Bot I",
+                "typeid":"23711",
+                "line":"52"
+            }
+        },
+        {
+            "Hammerhead SD-600":{
+                "name":"Hammerhead SD-600",
+                "typeid":"23713",
+                "line":"53"
+            }
+        },
+        {
+            "Hobgoblin SD-300":{
+                "name":"Hobgoblin SD-300",
+                "typeid":"23715",
+                "line":"54"
+            }
+        },
+        {
+            "Medium Shield Maintenance Bot I":{
+                "name":"Medium Shield Maintenance Bot I",
+                "typeid":"23717",
+                "line":"55"
+            }
+        },
+        {
+            "Light Shield Maintenance Bot I":{
+                "name":"Light Shield Maintenance Bot I",
+                "typeid":"23719",
+                "line":"56"
+            }
+        },
+        {
+            "Valkyrie TP-600":{
+                "name":"Valkyrie TP-600",
+                "typeid":"23721",
+                "line":"57"
+            }
+        },
+        {
+            "Warrior TP-300":{
+                "name":"Warrior TP-300",
+                "typeid":"23723",
+                "line":"58"
+            }
+        },
+        {
+            "Infiltrator TD-600":{
+                "name":"Infiltrator TD-600",
+                "typeid":"23725",
+                "line":"59"
+            }
+        },
+        {
+            "Acolyte TD-300":{
+                "name":"Acolyte TD-300",
+                "typeid":"23727",
+                "line":"60"
+            }
+        },
+        {
+            "Valkyrie SW-600":{
+                "name":"Valkyrie SW-600",
+                "typeid":"23729",
+                "line":"61"
+            }
+        },
+        {
+            "Warrior SW-300":{
+                "name":"Warrior SW-300",
+                "typeid":"23731",
+                "line":"62"
+            }
+        },
+        {
+            "Heavy Armor Maintenance Bot II":{
+                "name":"Heavy Armor Maintenance Bot II",
+                "typeid":"28197",
+                "line":"63"
+            }
+        },
+        {
+            "Heavy Shield Maintenance Bot II":{
+                "name":"Heavy Shield Maintenance Bot II",
+                "typeid":"28199",
+                "line":"64"
+            }
+        },
+        {
+            "Light Armor Maintenance Bot II":{
+                "name":"Light Armor Maintenance Bot II",
+                "typeid":"28201",
+                "line":"65"
+            }
+        },
+        {
+            "Light Shield Maintenance Bot II":{
+                "name":"Light Shield Maintenance Bot II",
+                "typeid":"28203",
+                "line":"66"
+            }
+        },
+        {
+            "Medium Armor Maintenance Bot II":{
+                "name":"Medium Armor Maintenance Bot II",
+                "typeid":"28205",
+                "line":"67"
+            }
+        },
+        {
+            "Medium Shield Maintenance Bot II":{
+                "name":"Medium Shield Maintenance Bot II",
+                "typeid":"28207",
+                "line":"68"
+            }
+        },
+        {
+            "Warden II":{
+                "name":"Warden II",
+                "typeid":"28209",
+                "line":"69"
+            }
+        },
+        {
+            "Garde II":{
+                "name":"Garde II",
+                "typeid":"28211",
+                "line":"70"
+            }
+        },
+        {
+            "Curator II":{
+                "name":"Curator II",
+                "typeid":"28213",
+                "line":"71"
+            }
+        },
+        {
+            "Bouncer II":{
+                "name":"Bouncer II",
+                "typeid":"28215",
+                "line":"72"
+            }
+        },
+        {
+            "'Integrated' Acolyte":{
+                "name":"'Integrated' Acolyte",
+                "typeid":"28262",
+                "line":"73"
+            }
+        },
+        {
+            "'Augmented' Acolyte":{
+                "name":"'Augmented' Acolyte",
+                "typeid":"28264",
+                "line":"74"
+            }
+        },
+        {
+            "'Integrated' Berserker":{
+                "name":"'Integrated' Berserker",
+                "typeid":"28266",
+                "line":"75"
+            }
+        },
+        {
+            "'Augmented' Berserker":{
+                "name":"'Augmented' Berserker",
+                "typeid":"28268",
+                "line":"76"
+            }
+        },
+        {
+            "'Integrated' Hammerhead":{
+                "name":"'Integrated' Hammerhead",
+                "typeid":"28270",
+                "line":"77"
+            }
+        },
+        {
+            "'Augmented' Hammerhead":{
+                "name":"'Augmented' Hammerhead",
+                "typeid":"28272",
+                "line":"78"
+            }
+        },
+        {
+            "'Integrated' Hobgoblin":{
+                "name":"'Integrated' Hobgoblin",
+                "typeid":"28274",
+                "line":"79"
+            }
+        },
+        {
+            "'Augmented' Hobgoblin":{
+                "name":"'Augmented' Hobgoblin",
+                "typeid":"28276",
+                "line":"80"
+            }
+        },
+        {
+            "'Integrated' Hornet":{
+                "name":"'Integrated' Hornet",
+                "typeid":"28278",
+                "line":"81"
+            }
+        },
+        {
+            "'Augmented' Hornet":{
+                "name":"'Augmented' Hornet",
+                "typeid":"28280",
+                "line":"82"
+            }
+        },
+        {
+            "'Integrated' Infiltrator":{
+                "name":"'Integrated' Infiltrator",
+                "typeid":"28282",
+                "line":"83"
+            }
+        },
+        {
+            "'Augmented' Infiltrator":{
+                "name":"'Augmented' Infiltrator",
+                "typeid":"28284",
+                "line":"84"
+            }
+        },
+        {
+            "'Integrated' Ogre":{
+                "name":"'Integrated' Ogre",
+                "typeid":"28286",
+                "line":"85"
+            }
+        },
+        {
+            "'Augmented' Ogre":{
+                "name":"'Augmented' Ogre",
+                "typeid":"28288",
+                "line":"86"
+            }
+        },
+        {
+            "'Integrated' Praetor":{
+                "name":"'Integrated' Praetor",
+                "typeid":"28290",
+                "line":"87"
+            }
+        },
+        {
+            "'Augmented' Praetor":{
+                "name":"'Augmented' Praetor",
+                "typeid":"28292",
+                "line":"88"
+            }
+        },
+        {
+            "'Integrated' Valkyrie":{
+                "name":"'Integrated' Valkyrie",
+                "typeid":"28294",
+                "line":"89"
+            }
+        },
+        {
+            "'Augmented' Valkyrie":{
+                "name":"'Augmented' Valkyrie",
+                "typeid":"28296",
+                "line":"90"
+            }
+        },
+        {
+            "'Integrated' Vespa":{
+                "name":"'Integrated' Vespa",
+                "typeid":"28298",
+                "line":"91"
+            }
+        },
+        {
+            "'Augmented' Vespa":{
+                "name":"'Augmented' Vespa",
+                "typeid":"28300",
+                "line":"92"
+            }
+        },
+        {
+            "'Integrated' Warrior":{
+                "name":"'Integrated' Warrior",
+                "typeid":"28302",
+                "line":"93"
+            }
+        },
+        {
+            "'Augmented' Warrior":{
+                "name":"'Augmented' Warrior",
+                "typeid":"28304",
+                "line":"94"
+            }
+        },
+        {
+            "'Integrated' Wasp":{
+                "name":"'Integrated' Wasp",
+                "typeid":"28306",
+                "line":"95"
+            }
+        },
+        {
+            "'Augmented' Wasp":{
+                "name":"'Augmented' Wasp",
+                "typeid":"28308",
+                "line":"96"
+            }
+        },
+        {
+            "Imperial Navy Acolyte":{
+                "name":"Imperial Navy Acolyte",
+                "typeid":"31864",
+                "line":"97"
+            }
+        },
+        {
+            "Imperial Navy Infiltrator":{
+                "name":"Imperial Navy Infiltrator",
+                "typeid":"31866",
+                "line":"98"
+            }
+        },
+        {
+            "Imperial Navy Curator":{
+                "name":"Imperial Navy Curator",
+                "typeid":"31868",
+                "line":"99"
+            }
+        },
+        {
+            "Imperial Navy Praetor":{
+                "name":"Imperial Navy Praetor",
+                "typeid":"31870",
+                "line":"100"
+            }
+        },
+        {
+            "Caldari Navy Hornet":{
+                "name":"Caldari Navy Hornet",
+                "typeid":"31872",
+                "line":"101"
+            }
+        },
+        {
+            "Caldari Navy Vespa":{
+                "name":"Caldari Navy Vespa",
+                "typeid":"31874",
+                "line":"102"
+            }
+        },
+        {
+            "Caldari Navy Wasp":{
+                "name":"Caldari Navy Wasp",
+                "typeid":"31876",
+                "line":"103"
+            }
+        },
+        {
+            "Caldari Navy Warden":{
+                "name":"Caldari Navy Warden",
+                "typeid":"31878",
+                "line":"104"
+            }
+        },
+        {
+            "Federation Navy Hobgoblin":{
+                "name":"Federation Navy Hobgoblin",
+                "typeid":"31880",
+                "line":"105"
+            }
+        },
+        {
+            "Federation Navy Hammerhead":{
+                "name":"Federation Navy Hammerhead",
+                "typeid":"31882",
+                "line":"106"
+            }
+        },
+        {
+            "Federation Navy Ogre":{
+                "name":"Federation Navy Ogre",
+                "typeid":"31884",
+                "line":"107"
+            }
+        },
+        {
+            "Federation Navy Garde":{
+                "name":"Federation Navy Garde",
+                "typeid":"31886",
+                "line":"108"
+            }
+        },
+        {
+            "Republic Fleet Warrior":{
+                "name":"Republic Fleet Warrior",
+                "typeid":"31888",
+                "line":"109"
+            }
+        },
+        {
+            "Republic Fleet Valkyrie":{
+                "name":"Republic Fleet Valkyrie",
+                "typeid":"31890",
+                "line":"110"
+            }
+        },
+        {
+            "Republic Fleet Berserker":{
+                "name":"Republic Fleet Berserker",
+                "typeid":"31892",
+                "line":"111"
+            }
+        },
+        {
+            "Republic Fleet Bouncer":{
+                "name":"Republic Fleet Bouncer",
+                "typeid":"31894",
+                "line":"112"
+            }
+        },
+        {
+            "Cyclops I":{
+                "name":"Cyclops I",
+                "typeid":"32325",
+                "line":"113"
+            }
+        },
+        {
+            "Malleus I":{
+                "name":"Malleus I",
+                "typeid":"32340",
+                "line":"114"
+            }
+        },
+        {
+            "Tyrfing I":{
+                "name":"Tyrfing I",
+                "typeid":"32342",
+                "line":"115"
+            }
+        },
+        {
+            "Mantis I":{
+                "name":"Mantis I",
+                "typeid":"32344",
+                "line":"116"
+            }
+        },
+        {
+            "Salvage Drone I":{
+                "name":"Salvage Drone I",
+                "typeid":"32787",
+                "line":"117"
+            }
+        },
+        {
+            "Heavy Hull Maintenance Bot I":{
+                "name":"Heavy Hull Maintenance Bot I",
+                "typeid":"33671",
+                "line":"118"
+            }
+        },
+        {
+            "Gecko":{
+                "name":"Gecko",
+                "typeid":"33681",
+                "line":"119"
+            }
+        },
+        {
+            "Medium Hull Maintenance Bot I":{
+                "name":"Medium Hull Maintenance Bot I",
+                "typeid":"33704",
+                "line":"120"
+            }
+        },
+        {
+            "Light Hull Maintenance Bot I":{
+                "name":"Light Hull Maintenance Bot I",
+                "typeid":"33706",
+                "line":"121"
+            }
+        },
+        {
+            "Heavy Hull Maintenance Bot II":{
+                "name":"Heavy Hull Maintenance Bot II",
+                "typeid":"33708",
+                "line":"122"
+            }
+        },
+        {
+            "Medium Hull Maintenance Bot II":{
+                "name":"Medium Hull Maintenance Bot II",
+                "typeid":"33710",
+                "line":"123"
+            }
+        },
+        {
+            "Light Hull Maintenance Bot II":{
+                "name":"Light Hull Maintenance Bot II",
+                "typeid":"33712",
+                "line":"124"
+            }
+        },
+        {
+            "Cenobite I":{
+                "name":"Cenobite I",
+                "typeid":"37599",
+                "line":"125"
+            }
+        },
+        {
+            "Scarab I":{
+                "name":"Scarab I",
+                "typeid":"40345",
+                "line":"126"
+            }
+        },
+        {
+            "Siren I":{
+                "name":"Siren I",
+                "typeid":"40346",
+                "line":"127"
+            }
+        },
+        {
+            "Dromi I":{
+                "name":"Dromi I",
+                "typeid":"40347",
+                "line":"128"
+            }
+        },
+        {
+            "Equite I":{
+                "name":"Equite I",
+                "typeid":"40358",
+                "line":"129"
+            }
+        },
+        {
+            "Locust I":{
+                "name":"Locust I",
+                "typeid":"40359",
+                "line":"130"
+            }
+        },
+        {
+            "Satyr I":{
+                "name":"Satyr I",
+                "typeid":"40360",
+                "line":"131"
+            }
+        },
+        {
+            "Gram I":{
+                "name":"Gram I",
+                "typeid":"40361",
+                "line":"132"
+            }
+        },
+        {
+            "Ametat I":{
+                "name":"Ametat I",
+                "typeid":"40362",
+                "line":"133"
+            }
+        },
+        {
+            "Termite I":{
+                "name":"Termite I",
+                "typeid":"40363",
+                "line":"134"
+            }
+        },
+        {
+            "Antaeus I":{
+                "name":"Antaeus I",
+                "typeid":"40364",
+                "line":"135"
+            }
+        },
+        {
+            "Gungnir I":{
+                "name":"Gungnir I",
+                "typeid":"40365",
+                "line":"136"
+            }
+        },
+        {
+            "Equite II":{
+                "name":"Equite II",
+                "typeid":"40552",
+                "line":"137"
+            }
+        },
+        {
+            "Gram II":{
+                "name":"Gram II",
+                "typeid":"40553",
+                "line":"138"
+            }
+        },
+        {
+            "Locust II":{
+                "name":"Locust II",
+                "typeid":"40554",
+                "line":"139"
+            }
+        },
+        {
+            "Satyr II":{
+                "name":"Satyr II",
+                "typeid":"40555",
+                "line":"140"
+            }
+        },
+        {
+            "Templar II":{
+                "name":"Templar II",
+                "typeid":"40556",
+                "line":"141"
+            }
+        },
+        {
+            "Dragonfly II":{
+                "name":"Dragonfly II",
+                "typeid":"40557",
+                "line":"142"
+            }
+        },
+        {
+            "Firbolg II":{
+                "name":"Firbolg II",
+                "typeid":"40558",
+                "line":"143"
+            }
+        },
+        {
+            "Einherji II":{
+                "name":"Einherji II",
+                "typeid":"40559",
+                "line":"144"
+            }
+        },
+        {
+            "Ametat II":{
+                "name":"Ametat II",
+                "typeid":"40560",
+                "line":"145"
+            }
+        },
+        {
+            "Malleus II":{
+                "name":"Malleus II",
+                "typeid":"40561",
+                "line":"146"
+            }
+        },
+        {
+            "Gungnir II":{
+                "name":"Gungnir II",
+                "typeid":"40564",
+                "line":"147"
+            }
+        },
+        {
+            "Tyrfing II":{
+                "name":"Tyrfing II",
+                "typeid":"40565",
+                "line":"148"
+            }
+        },
+        {
+            "Termite II":{
+                "name":"Termite II",
+                "typeid":"40566",
+                "line":"149"
+            }
+        },
+        {
+            "Mantis II":{
+                "name":"Mantis II",
+                "typeid":"40567",
+                "line":"150"
+            }
+        },
+        {
+            "Cenobite II":{
+                "name":"Cenobite II",
+                "typeid":"40568",
+                "line":"151"
+            }
+        },
+        {
+            "Scarab II":{
+                "name":"Scarab II",
+                "typeid":"40569",
+                "line":"152"
+            }
+        },
+        {
+            "Siren II":{
+                "name":"Siren II",
+                "typeid":"40570",
+                "line":"153"
+            }
+        },
+        {
+            "Dromi II":{
+                "name":"Dromi II",
+                "typeid":"40571",
+                "line":"154"
+            }
+        },
+        {
+            "'Excavator' Mining Drone":{
+                "name":"'Excavator' Mining Drone",
+                "typeid":"41030",
+                "line":"155"
+            }
+        },
+        {
+            "'Excavator' Ice Harvesting Drone":{
+                "name":"'Excavator' Ice Harvesting Drone",
+                "typeid":"43681",
+                "line":"156"
+            }
+        },
+        {
+            "'Augmented' Mining Drone":{
+                "name":"'Augmented' Mining Drone",
+                "typeid":"43694",
+                "line":"157"
+            }
+        },
+        {
+            "Ice Harvesting Drone II":{
+                "name":"Ice Harvesting Drone II",
+                "typeid":"43700",
+                "line":"158"
+            }
+        },
+        {
+            "Able_PLACEHOLDER":{
+                "name":"Able_PLACEHOLDER",
+                "typeid":"45651",
+                "line":"159"
+            }
+        },
+        {
+            "Baker_PLACEHOLDER":{
+                "name":"Baker_PLACEHOLDER",
+                "typeid":"45669",
+                "line":"160"
+            }
+        },
+        {
+            "Standup Siren I":{
+                "name":"Standup Siren I",
+                "typeid":"47037",
+                "line":"161"
+            }
+        },
+        {
+            "Standup Mantis I":{
+                "name":"Standup Mantis I",
+                "typeid":"47038",
+                "line":"162"
+            }
+        },
+        {
+            "Standup Tyrfing I":{
+                "name":"Standup Tyrfing I",
+                "typeid":"47118",
+                "line":"163"
+            }
+        },
+        {
+            "Standup Malleus II":{
+                "name":"Standup Malleus II",
+                "typeid":"47119",
+                "line":"164"
+            }
+        },
+        {
+            "Standup Mantis II":{
+                "name":"Standup Mantis II",
+                "typeid":"47120",
+                "line":"165"
+            }
+        },
+        {
+            "Standup Cyclops II":{
+                "name":"Standup Cyclops II",
+                "typeid":"47121",
+                "line":"166"
+            }
+        },
+        {
+            "Standup Tyrfing II":{
+                "name":"Standup Tyrfing II",
+                "typeid":"47122",
+                "line":"167"
+            }
+        },
+        {
+            "Standup Ametat I":{
+                "name":"Standup Ametat I",
+                "typeid":"47124",
+                "line":"168"
+            }
+        },
+        {
+            "Standup Termite I":{
+                "name":"Standup Termite I",
+                "typeid":"47125",
+                "line":"169"
+            }
+        },
+        {
+            "Standup Ametat II":{
+                "name":"Standup Ametat II",
+                "typeid":"47127",
+                "line":"170"
+            }
+        },
+        {
+            "Standup Termite II":{
+                "name":"Standup Termite II",
+                "typeid":"47128",
+                "line":"171"
+            }
+        },
+        {
+            "Standup Gungnir II":{
+                "name":"Standup Gungnir II",
+                "typeid":"47130",
+                "line":"172"
+            }
+        },
+        {
+            "Standup Cenobite I":{
+                "name":"Standup Cenobite I",
+                "typeid":"47131",
+                "line":"173"
+            }
+        },
+        {
+            "Standup Scarab II":{
+                "name":"Standup Scarab II",
+                "typeid":"47135",
+                "line":"174"
+            }
+        },
+        {
+            "Standup Dromi II":{
+                "name":"Standup Dromi II",
+                "typeid":"47137",
+                "line":"175"
+            }
+        },
+        {
+            "Standup Firbolg I":{
+                "name":"Standup Firbolg I",
+                "typeid":"47139",
+                "line":"176"
+            }
+        },
+        {
+            "Standup Templar II":{
+                "name":"Standup Templar II",
+                "typeid":"47141",
+                "line":"177"
+            }
+        },
+        {
+            "Standup Dragonfly II":{
+                "name":"Standup Dragonfly II",
+                "typeid":"47142",
+                "line":"178"
+            }
+        },
+        {
+            "Standup Firbolg II":{
+                "name":"Standup Firbolg II",
+                "typeid":"47143",
+                "line":"179"
+            }
+        },
+        {
+            "Standup Einherji II":{
+                "name":"Standup Einherji II",
+                "typeid":"47144",
+                "line":"180"
+            }
+        },
+        {
+            "Standup Satyr I":{
+                "name":"Standup Satyr I",
+                "typeid":"47147",
+                "line":"181"
+            }
+        },
+        {
+            "Standup Equite II":{
+                "name":"Standup Equite II",
+                "typeid":"47148",
+                "line":"182"
+            }
+        },
+        {
+            "Standup Locust II":{
+                "name":"Standup Locust II",
+                "typeid":"47149",
+                "line":"183"
+            }
+        },
+        {
+            "Standup Gram II":{
+                "name":"Standup Gram II",
+                "typeid":"47151",
+                "line":"184"
+            }
+        },
+        {
+            "Salvage Drone II":{
+                "name":"Salvage Drone II",
+                "typeid":"55760",
+                "line":"185"
+            }
+        },
+        {
+            "'Dunk' Salvage Drone":{
+                "name":"'Dunk' Salvage Drone",
+                "typeid":"55761",
+                "line":"186"
+            }
+        },
+        {
+            "Antaeus II":{
+                "name":"Antaeus II",
+                "typeid":"40562",
+                "line":"187"
+            }
+        },
+        {
+            "Cyclops II":{
+                "name":"Cyclops II",
+                "typeid":"40563",
+                "line":"188"
+            }
+        },
+        {
+            "Ice Harvesting Drone I":{
+                "name":"Ice Harvesting Drone I",
+                "typeid":"43699",
+                "line":"189"
+            }
+        },
+        {
+            "'Augmented' Ice Harvesting Drone":{
+                "name":"'Augmented' Ice Harvesting Drone",
+                "typeid":"43701",
+                "line":"190"
+            }
+        },
+        {
+            "Standup Templar I":{
+                "name":"Standup Templar I",
+                "typeid":"47035",
+                "line":"191"
+            }
+        },
+        {
+            "Standup Gram I":{
+                "name":"Standup Gram I",
+                "typeid":"47036",
+                "line":"192"
+            }
+        },
+        {
+            "Standup Gungnir I":{
+                "name":"Standup Gungnir I",
+                "typeid":"47039",
+                "line":"193"
+            }
+        },
+        {
+            "Standup Malleus I":{
+                "name":"Standup Malleus I",
+                "typeid":"47116",
+                "line":"194"
+            }
+        },
+        {
+            "Standup Cyclops I":{
+                "name":"Standup Cyclops I",
+                "typeid":"47117",
+                "line":"195"
+            }
+        },
+        {
+            "Standup Shadow":{
+                "name":"Standup Shadow",
+                "typeid":"47123",
+                "line":"196"
+            }
+        },
+        {
+            "Standup Antaeus I":{
+                "name":"Standup Antaeus I",
+                "typeid":"47126",
+                "line":"197"
+            }
+        },
+        {
+            "Standup Antaeus II":{
+                "name":"Standup Antaeus II",
+                "typeid":"47129",
+                "line":"198"
+            }
+        },
+        {
+            "Standup Scarab I":{
+                "name":"Standup Scarab I",
+                "typeid":"47132",
+                "line":"199"
+            }
+        },
+        {
+            "Standup Dromi I":{
+                "name":"Standup Dromi I",
+                "typeid":"47133",
+                "line":"200"
+            }
+        },
+        {
+            "Standup Cenobite II":{
+                "name":"Standup Cenobite II",
+                "typeid":"47134",
+                "line":"201"
+            }
+        },
+        {
+            "Standup Siren II":{
+                "name":"Standup Siren II",
+                "typeid":"47136",
+                "line":"202"
+            }
+        },
+        {
+            "Standup Dragonfly I":{
+                "name":"Standup Dragonfly I",
+                "typeid":"47138",
+                "line":"203"
+            }
+        },
+        {
+            "Standup Einherji I":{
+                "name":"Standup Einherji I",
+                "typeid":"47140",
+                "line":"204"
+            }
+        },
+        {
+            "Standup Equite I":{
+                "name":"Standup Equite I",
+                "typeid":"47145",
+                "line":"205"
+            }
+        },
+        {
+            "Standup Locust I":{
+                "name":"Standup Locust I",
+                "typeid":"47146",
+                "line":"206"
+            }
+        },
+        {
+            "Standup Satyr II":{
+                "name":"Standup Satyr II",
+                "typeid":"47150",
+                "line":"207"
+            }
+        },
+        {
+            "'Subverted' JVN-UC49":{
+                "name":"'Subverted' JVN-UC49",
+                "typeid":"48744",
+                "line":"208"
+            }
+        }
+    ]
+}

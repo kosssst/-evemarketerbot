@@ -1,0 +1,88 @@
+{
+    "Alloys and Compounds":[
+        {
+            "Glossy Compound":{
+                "name":"Glossy Compound",
+                "typeid":"11724",
+                "line":"3"
+            }
+        },
+        {
+            "Plush Compound":{
+                "name":"Plush Compound",
+                "typeid":"11725",
+                "line":"4"
+            }
+        },
+        {
+            "Sheen Compound":{
+                "name":"Sheen Compound",
+                "typeid":"11732",
+                "line":"5"
+            }
+        },
+        {
+            "Motley Compound":{
+                "name":"Motley Compound",
+                "typeid":"11733",
+                "line":"6"
+            }
+        },
+        {
+            "Opulent Compound":{
+                "name":"Opulent Compound",
+                "typeid":"11734",
+                "line":"7"
+            }
+        },
+        {
+            "Dark Compound":{
+                "name":"Dark Compound",
+                "typeid":"11735",
+                "line":"8"
+            }
+        },
+        {
+            "Lustering Alloy":{
+                "name":"Lustering Alloy",
+                "typeid":"11736",
+                "line":"9"
+            }
+        },
+        {
+            "Precious Alloy":{
+                "name":"Precious Alloy",
+                "typeid":"11737",
+                "line":"10"
+            }
+        },
+        {
+            "Lucent Compound":{
+                "name":"Lucent Compound",
+                "typeid":"11738",
+                "line":"11"
+            }
+        },
+        {
+            "Condensed Alloy":{
+                "name":"Condensed Alloy",
+                "typeid":"11739",
+                "line":"12"
+            }
+        },
+        {
+            "Gleaming Alloy":{
+                "name":"Gleaming Alloy",
+                "typeid":"11740",
+                "line":"13"
+            }
+        },
+        {
+            "Crystal Compound":{
+                "name":"Crystal Compound",
+                "typeid":"11741",
+                "line":"14"
+            }
+        }
+    ]
+}

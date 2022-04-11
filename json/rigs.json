@@ -1,0 +1,4386 @@
+{
+    "Rigs":[
+        {
+            "Medium Processor Overclocking Unit I":{
+                "name":"Medium Processor Overclocking Unit I",
+                "typeid":"4395",
+                "line":"3"
+            }
+        },
+        {
+            "Large Processor Overclocking Unit I":{
+                "name":"Large Processor Overclocking Unit I",
+                "typeid":"4397",
+                "line":"4"
+            }
+        },
+        {
+            "Medium Processor Overclocking Unit II":{
+                "name":"Medium Processor Overclocking Unit II",
+                "typeid":"4399",
+                "line":"5"
+            }
+        },
+        {
+            "Large Processor Overclocking Unit II":{
+                "name":"Large Processor Overclocking Unit II",
+                "typeid":"4401",
+                "line":"6"
+            }
+        },
+        {
+            "Large EM Armor Reinforcer I":{
+                "name":"Large EM Armor Reinforcer I",
+                "typeid":"25736",
+                "line":"7"
+            }
+        },
+        {
+            "Large Explosive Armor Reinforcer I":{
+                "name":"Large Explosive Armor Reinforcer I",
+                "typeid":"25888",
+                "line":"8"
+            }
+        },
+        {
+            "Large Kinetic Armor Reinforcer I":{
+                "name":"Large Kinetic Armor Reinforcer I",
+                "typeid":"25890",
+                "line":"9"
+            }
+        },
+        {
+            "Large Thermal Armor Reinforcer I":{
+                "name":"Large Thermal Armor Reinforcer I",
+                "typeid":"25892",
+                "line":"10"
+            }
+        },
+        {
+            "Large Trimark Armor Pump I":{
+                "name":"Large Trimark Armor Pump I",
+                "typeid":"25894",
+                "line":"11"
+            }
+        },
+        {
+            "Large Auxiliary Nano Pump I":{
+                "name":"Large Auxiliary Nano Pump I",
+                "typeid":"25896",
+                "line":"12"
+            }
+        },
+        {
+            "Large Nanobot Accelerator I":{
+                "name":"Large Nanobot Accelerator I",
+                "typeid":"25898",
+                "line":"13"
+            }
+        },
+        {
+            "Large Remote Repair Augmentor I":{
+                "name":"Large Remote Repair Augmentor I",
+                "typeid":"25900",
+                "line":"14"
+            }
+        },
+        {
+            "Large Salvage Tackle I":{
+                "name":"Large Salvage Tackle I",
+                "typeid":"25902",
+                "line":"15"
+            }
+        },
+        {
+            "Large Core Defense Capacitor Safeguard I":{
+                "name":"Large Core Defense Capacitor Safeguard I",
+                "typeid":"25906",
+                "line":"16"
+            }
+        },
+        {
+            "Large Drone Control Range Augmentor I":{
+                "name":"Large Drone Control Range Augmentor I",
+                "typeid":"25908",
+                "line":"17"
+            }
+        },
+        {
+            "Large Drone Repair Augmentor I":{
+                "name":"Large Drone Repair Augmentor I",
+                "typeid":"25910",
+                "line":"18"
+            }
+        },
+        {
+            "Large Drone Scope Chip I":{
+                "name":"Large Drone Scope Chip I",
+                "typeid":"25912",
+                "line":"19"
+            }
+        },
+        {
+            "Large Drone Speed Augmentor I":{
+                "name":"Large Drone Speed Augmentor I",
+                "typeid":"25914",
+                "line":"20"
+            }
+        },
+        {
+            "Large Drone Durability Enhancer I":{
+                "name":"Large Drone Durability Enhancer I",
+                "typeid":"25916",
+                "line":"21"
+            }
+        },
+        {
+            "Large Drone Mining Augmentor I":{
+                "name":"Large Drone Mining Augmentor I",
+                "typeid":"25918",
+                "line":"22"
+            }
+        },
+        {
+            "Large Sentry Damage Augmentor I":{
+                "name":"Large Sentry Damage Augmentor I",
+                "typeid":"25920",
+                "line":"23"
+            }
+        },
+        {
+            "Large Stasis Drone Augmentor I":{
+                "name":"Large Stasis Drone Augmentor I",
+                "typeid":"25924",
+                "line":"24"
+            }
+        },
+        {
+            "Large Signal Disruption Amplifier I":{
+                "name":"Large Signal Disruption Amplifier I",
+                "typeid":"25928",
+                "line":"25"
+            }
+        },
+        {
+            "Large Emission Scope Sharpener I":{
+                "name":"Large Emission Scope Sharpener I",
+                "typeid":"25930",
+                "line":"26"
+            }
+        },
+        {
+            "Large Memetic Algorithm Bank I":{
+                "name":"Large Memetic Algorithm Bank I",
+                "typeid":"25932",
+                "line":"27"
+            }
+        },
+        {
+            "Large Liquid Cooled Electronics I":{
+                "name":"Large Liquid Cooled Electronics I",
+                "typeid":"25934",
+                "line":"28"
+            }
+        },
+        {
+            "Large Gravity Capacitor Upgrade I":{
+                "name":"Large Gravity Capacitor Upgrade I",
+                "typeid":"25936",
+                "line":"29"
+            }
+        },
+        {
+            "Large Capacitor Control Circuit I":{
+                "name":"Large Capacitor Control Circuit I",
+                "typeid":"25948",
+                "line":"30"
+            }
+        },
+        {
+            "Large Egress Port Maximizer I":{
+                "name":"Large Egress Port Maximizer I",
+                "typeid":"25950",
+                "line":"31"
+            }
+        },
+        {
+            "Large Powergrid Subroutine Maximizer I":{
+                "name":"Large Powergrid Subroutine Maximizer I",
+                "typeid":"25952",
+                "line":"32"
+            }
+        },
+        {
+            "Large Semiconductor Memory Cell I":{
+                "name":"Large Semiconductor Memory Cell I",
+                "typeid":"25954",
+                "line":"33"
+            }
+        },
+        {
+            "Large Ancillary Current Router I":{
+                "name":"Large Ancillary Current Router I",
+                "typeid":"25956",
+                "line":"34"
+            }
+        },
+        {
+            "Large Energy Discharge Elutriation I":{
+                "name":"Large Energy Discharge Elutriation I",
+                "typeid":"25968",
+                "line":"35"
+            }
+        },
+        {
+            "Large Energy Ambit Extension I":{
+                "name":"Large Energy Ambit Extension I",
+                "typeid":"25970",
+                "line":"36"
+            }
+        },
+        {
+            "Large Energy Locus Coordinator I":{
+                "name":"Large Energy Locus Coordinator I",
+                "typeid":"25972",
+                "line":"37"
+            }
+        },
+        {
+            "Large Energy Metastasis Adjuster I":{
+                "name":"Large Energy Metastasis Adjuster I",
+                "typeid":"25974",
+                "line":"38"
+            }
+        },
+        {
+            "Large Algid Energy Administrations Unit I":{
+                "name":"Large Algid Energy Administrations Unit I",
+                "typeid":"25976",
+                "line":"39"
+            }
+        },
+        {
+            "Large Energy Burst Aerator I":{
+                "name":"Large Energy Burst Aerator I",
+                "typeid":"25978",
+                "line":"40"
+            }
+        },
+        {
+            "Large Energy Collision Accelerator I":{
+                "name":"Large Energy Collision Accelerator I",
+                "typeid":"25980",
+                "line":"41"
+            }
+        },
+        {
+            "Large Hybrid Discharge Elutriation I":{
+                "name":"Large Hybrid Discharge Elutriation I",
+                "typeid":"25996",
+                "line":"42"
+            }
+        },
+        {
+            "Large Hybrid Ambit Extension I":{
+                "name":"Large Hybrid Ambit Extension I",
+                "typeid":"25998",
+                "line":"43"
+            }
+        },
+        {
+            "Large Hybrid Locus Coordinator I":{
+                "name":"Large Hybrid Locus Coordinator I",
+                "typeid":"26000",
+                "line":"44"
+            }
+        },
+        {
+            "Large Hybrid Metastasis Adjuster I":{
+                "name":"Large Hybrid Metastasis Adjuster I",
+                "typeid":"26002",
+                "line":"45"
+            }
+        },
+        {
+            "Large Algid Hybrid Administrations Unit I":{
+                "name":"Large Algid Hybrid Administrations Unit I",
+                "typeid":"26004",
+                "line":"46"
+            }
+        },
+        {
+            "Large Hybrid Burst Aerator I":{
+                "name":"Large Hybrid Burst Aerator I",
+                "typeid":"26006",
+                "line":"47"
+            }
+        },
+        {
+            "Large Hybrid Collision Accelerator I":{
+                "name":"Large Hybrid Collision Accelerator I",
+                "typeid":"26008",
+                "line":"48"
+            }
+        },
+        {
+            "Large Hydraulic Bay Thrusters I":{
+                "name":"Large Hydraulic Bay Thrusters I",
+                "typeid":"26016",
+                "line":"49"
+            }
+        },
+        {
+            "Large Warhead Rigor Catalyst I":{
+                "name":"Large Warhead Rigor Catalyst I",
+                "typeid":"26020",
+                "line":"50"
+            }
+        },
+        {
+            "Large Rocket Fuel Cache Partition I":{
+                "name":"Large Rocket Fuel Cache Partition I",
+                "typeid":"26022",
+                "line":"51"
+            }
+        },
+        {
+            "Large Bay Loading Accelerator I":{
+                "name":"Large Bay Loading Accelerator I",
+                "typeid":"26026",
+                "line":"52"
+            }
+        },
+        {
+            "Large Warhead Flare Catalyst I":{
+                "name":"Large Warhead Flare Catalyst I",
+                "typeid":"26028",
+                "line":"53"
+            }
+        },
+        {
+            "Large Warhead Calefaction Catalyst I":{
+                "name":"Large Warhead Calefaction Catalyst I",
+                "typeid":"26030",
+                "line":"54"
+            }
+        },
+        {
+            "Large Projectile Ambit Extension I":{
+                "name":"Large Projectile Ambit Extension I",
+                "typeid":"26038",
+                "line":"55"
+            }
+        },
+        {
+            "Large Projectile Locus Coordinator I":{
+                "name":"Large Projectile Locus Coordinator I",
+                "typeid":"26040",
+                "line":"56"
+            }
+        },
+        {
+            "Large Projectile Metastasis Adjuster I":{
+                "name":"Large Projectile Metastasis Adjuster I",
+                "typeid":"26042",
+                "line":"57"
+            }
+        },
+        {
+            "Large Projectile Burst Aerator I":{
+                "name":"Large Projectile Burst Aerator I",
+                "typeid":"26046",
+                "line":"58"
+            }
+        },
+        {
+            "Large Projectile Collision Accelerator I":{
+                "name":"Large Projectile Collision Accelerator I",
+                "typeid":"26048",
+                "line":"59"
+            }
+        },
+        {
+            "Large Dynamic Fuel Valve I":{
+                "name":"Large Dynamic Fuel Valve I",
+                "typeid":"26056",
+                "line":"60"
+            }
+        },
+        {
+            "Large Low Friction Nozzle Joints I":{
+                "name":"Large Low Friction Nozzle Joints I",
+                "typeid":"26058",
+                "line":"61"
+            }
+        },
+        {
+            "Large Auxiliary Thrusters I":{
+                "name":"Large Auxiliary Thrusters I",
+                "typeid":"26060",
+                "line":"62"
+            }
+        },
+        {
+            "Large Engine Thermal Shielding I":{
+                "name":"Large Engine Thermal Shielding I",
+                "typeid":"26062",
+                "line":"63"
+            }
+        },
+        {
+            "Large Warp Core Optimizer I":{
+                "name":"Large Warp Core Optimizer I",
+                "typeid":"26066",
+                "line":"64"
+            }
+        },
+        {
+            "Large Hyperspatial Velocity Optimizer I":{
+                "name":"Large Hyperspatial Velocity Optimizer I",
+                "typeid":"26068",
+                "line":"65"
+            }
+        },
+        {
+            "Large Polycarbon Engine Housing I":{
+                "name":"Large Polycarbon Engine Housing I",
+                "typeid":"26070",
+                "line":"66"
+            }
+        },
+        {
+            "Large Cargohold Optimization I":{
+                "name":"Large Cargohold Optimization I",
+                "typeid":"26072",
+                "line":"67"
+            }
+        },
+        {
+            "Large EM Shield Reinforcer I":{
+                "name":"Large EM Shield Reinforcer I",
+                "typeid":"26076",
+                "line":"68"
+            }
+        },
+        {
+            "Large Explosive Shield Reinforcer I":{
+                "name":"Large Explosive Shield Reinforcer I",
+                "typeid":"26078",
+                "line":"69"
+            }
+        },
+        {
+            "Large Kinetic Shield Reinforcer I":{
+                "name":"Large Kinetic Shield Reinforcer I",
+                "typeid":"26080",
+                "line":"70"
+            }
+        },
+        {
+            "Large Thermal Shield Reinforcer I":{
+                "name":"Large Thermal Shield Reinforcer I",
+                "typeid":"26082",
+                "line":"71"
+            }
+        },
+        {
+            "Large Core Defense Field Purger I":{
+                "name":"Large Core Defense Field Purger I",
+                "typeid":"26084",
+                "line":"72"
+            }
+        },
+        {
+            "Large Core Defense Operational Solidifier I":{
+                "name":"Large Core Defense Operational Solidifier I",
+                "typeid":"26086",
+                "line":"73"
+            }
+        },
+        {
+            "Large Core Defense Field Extender I":{
+                "name":"Large Core Defense Field Extender I",
+                "typeid":"26088",
+                "line":"74"
+            }
+        },
+        {
+            "Large Core Defense Charge Economizer I":{
+                "name":"Large Core Defense Charge Economizer I",
+                "typeid":"26090",
+                "line":"75"
+            }
+        },
+        {
+            "Large Targeting Systems Stabilizer I":{
+                "name":"Large Targeting Systems Stabilizer I",
+                "typeid":"26096",
+                "line":"76"
+            }
+        },
+        {
+            "Large Targeting System Subcontroller I":{
+                "name":"Large Targeting System Subcontroller I",
+                "typeid":"26100",
+                "line":"77"
+            }
+        },
+        {
+            "Large Ionic Field Projector I":{
+                "name":"Large Ionic Field Projector I",
+                "typeid":"26102",
+                "line":"78"
+            }
+        },
+        {
+            "Large Signal Focusing Kit I":{
+                "name":"Large Signal Focusing Kit I",
+                "typeid":"26104",
+                "line":"79"
+            }
+        },
+        {
+            "Large Particle Dispersion Augmentor I":{
+                "name":"Large Particle Dispersion Augmentor I",
+                "typeid":"26106",
+                "line":"80"
+            }
+        },
+        {
+            "Large Particle Dispersion Projector I":{
+                "name":"Large Particle Dispersion Projector I",
+                "typeid":"26108",
+                "line":"81"
+            }
+        },
+        {
+            "Large Inverted Signal Field Projector I":{
+                "name":"Large Inverted Signal Field Projector I",
+                "typeid":"26110",
+                "line":"82"
+            }
+        },
+        {
+            "Large Tracking Diagnostic Subroutines I":{
+                "name":"Large Tracking Diagnostic Subroutines I",
+                "typeid":"26112",
+                "line":"83"
+            }
+        },
+        {
+            "Large EM Armor Reinforcer II":{
+                "name":"Large EM Armor Reinforcer II",
+                "typeid":"26286",
+                "line":"84"
+            }
+        },
+        {
+            "Large Explosive Armor Reinforcer II":{
+                "name":"Large Explosive Armor Reinforcer II",
+                "typeid":"26288",
+                "line":"85"
+            }
+        },
+        {
+            "Large Kinetic Armor Reinforcer II":{
+                "name":"Large Kinetic Armor Reinforcer II",
+                "typeid":"26290",
+                "line":"86"
+            }
+        },
+        {
+            "Large Thermal Armor Reinforcer II":{
+                "name":"Large Thermal Armor Reinforcer II",
+                "typeid":"26292",
+                "line":"87"
+            }
+        },
+        {
+            "Large Auxiliary Nano Pump II":{
+                "name":"Large Auxiliary Nano Pump II",
+                "typeid":"26294",
+                "line":"88"
+            }
+        },
+        {
+            "Large Nanobot Accelerator II":{
+                "name":"Large Nanobot Accelerator II",
+                "typeid":"26296",
+                "line":"89"
+            }
+        },
+        {
+            "Large Remote Repair Augmentor II":{
+                "name":"Large Remote Repair Augmentor II",
+                "typeid":"26298",
+                "line":"90"
+            }
+        },
+        {
+            "Large Salvage Tackle II":{
+                "name":"Large Salvage Tackle II",
+                "typeid":"26300",
+                "line":"91"
+            }
+        },
+        {
+            "Large Trimark Armor Pump II":{
+                "name":"Large Trimark Armor Pump II",
+                "typeid":"26302",
+                "line":"92"
+            }
+        },
+        {
+            "Large Cargohold Optimization II":{
+                "name":"Large Cargohold Optimization II",
+                "typeid":"26304",
+                "line":"93"
+            }
+        },
+        {
+            "Large Dynamic Fuel Valve II":{
+                "name":"Large Dynamic Fuel Valve II",
+                "typeid":"26306",
+                "line":"94"
+            }
+        },
+        {
+            "Large Engine Thermal Shielding II":{
+                "name":"Large Engine Thermal Shielding II",
+                "typeid":"26308",
+                "line":"95"
+            }
+        },
+        {
+            "Large Low Friction Nozzle Joints II":{
+                "name":"Large Low Friction Nozzle Joints II",
+                "typeid":"26310",
+                "line":"96"
+            }
+        },
+        {
+            "Large Polycarbon Engine Housing II":{
+                "name":"Large Polycarbon Engine Housing II",
+                "typeid":"26312",
+                "line":"97"
+            }
+        },
+        {
+            "Large Auxiliary Thrusters II":{
+                "name":"Large Auxiliary Thrusters II",
+                "typeid":"26318",
+                "line":"98"
+            }
+        },
+        {
+            "Large Warp Core Optimizer II":{
+                "name":"Large Warp Core Optimizer II",
+                "typeid":"26320",
+                "line":"99"
+            }
+        },
+        {
+            "Large Hyperspatial Velocity Optimizer II":{
+                "name":"Large Hyperspatial Velocity Optimizer II",
+                "typeid":"26322",
+                "line":"100"
+            }
+        },
+        {
+            "Large Drone Control Range Augmentor II":{
+                "name":"Large Drone Control Range Augmentor II",
+                "typeid":"26324",
+                "line":"101"
+            }
+        },
+        {
+            "Large Drone Durability Enhancer II":{
+                "name":"Large Drone Durability Enhancer II",
+                "typeid":"26326",
+                "line":"102"
+            }
+        },
+        {
+            "Large Drone Mining Augmentor II":{
+                "name":"Large Drone Mining Augmentor II",
+                "typeid":"26328",
+                "line":"103"
+            }
+        },
+        {
+            "Large Drone Repair Augmentor II":{
+                "name":"Large Drone Repair Augmentor II",
+                "typeid":"26330",
+                "line":"104"
+            }
+        },
+        {
+            "Large Drone Scope Chip II":{
+                "name":"Large Drone Scope Chip II",
+                "typeid":"26332",
+                "line":"105"
+            }
+        },
+        {
+            "Large Drone Speed Augmentor II":{
+                "name":"Large Drone Speed Augmentor II",
+                "typeid":"26334",
+                "line":"106"
+            }
+        },
+        {
+            "Large Sentry Damage Augmentor II":{
+                "name":"Large Sentry Damage Augmentor II",
+                "typeid":"26338",
+                "line":"107"
+            }
+        },
+        {
+            "Large Stasis Drone Augmentor II":{
+                "name":"Large Stasis Drone Augmentor II",
+                "typeid":"26340",
+                "line":"108"
+            }
+        },
+        {
+            "Large Emission Scope Sharpener II":{
+                "name":"Large Emission Scope Sharpener II",
+                "typeid":"26342",
+                "line":"109"
+            }
+        },
+        {
+            "Large Signal Disruption Amplifier II":{
+                "name":"Large Signal Disruption Amplifier II",
+                "typeid":"26344",
+                "line":"110"
+            }
+        },
+        {
+            "Large Memetic Algorithm Bank II":{
+                "name":"Large Memetic Algorithm Bank II",
+                "typeid":"26346",
+                "line":"111"
+            }
+        },
+        {
+            "Large Liquid Cooled Electronics II":{
+                "name":"Large Liquid Cooled Electronics II",
+                "typeid":"26348",
+                "line":"112"
+            }
+        },
+        {
+            "Large Gravity Capacitor Upgrade II":{
+                "name":"Large Gravity Capacitor Upgrade II",
+                "typeid":"26350",
+                "line":"113"
+            }
+        },
+        {
+            "Large Particle Dispersion Augmentor II":{
+                "name":"Large Particle Dispersion Augmentor II",
+                "typeid":"26352",
+                "line":"114"
+            }
+        },
+        {
+            "Large Inverted Signal Field Projector II":{
+                "name":"Large Inverted Signal Field Projector II",
+                "typeid":"26354",
+                "line":"115"
+            }
+        },
+        {
+            "Large Tracking Diagnostic Subroutines II":{
+                "name":"Large Tracking Diagnostic Subroutines II",
+                "typeid":"26356",
+                "line":"116"
+            }
+        },
+        {
+            "Large Ionic Field Projector II":{
+                "name":"Large Ionic Field Projector II",
+                "typeid":"26358",
+                "line":"117"
+            }
+        },
+        {
+            "Large Particle Dispersion Projector II":{
+                "name":"Large Particle Dispersion Projector II",
+                "typeid":"26360",
+                "line":"118"
+            }
+        },
+        {
+            "Large Signal Focusing Kit II":{
+                "name":"Large Signal Focusing Kit II",
+                "typeid":"26362",
+                "line":"119"
+            }
+        },
+        {
+            "Large Targeting System Subcontroller II":{
+                "name":"Large Targeting System Subcontroller II",
+                "typeid":"26364",
+                "line":"120"
+            }
+        },
+        {
+            "Large Targeting Systems Stabilizer II":{
+                "name":"Large Targeting Systems Stabilizer II",
+                "typeid":"26366",
+                "line":"121"
+            }
+        },
+        {
+            "Large Egress Port Maximizer II":{
+                "name":"Large Egress Port Maximizer II",
+                "typeid":"26368",
+                "line":"122"
+            }
+        },
+        {
+            "Large Ancillary Current Router II":{
+                "name":"Large Ancillary Current Router II",
+                "typeid":"26370",
+                "line":"123"
+            }
+        },
+        {
+            "Large Powergrid Subroutine Maximizer II":{
+                "name":"Large Powergrid Subroutine Maximizer II",
+                "typeid":"26372",
+                "line":"124"
+            }
+        },
+        {
+            "Large Capacitor Control Circuit II":{
+                "name":"Large Capacitor Control Circuit II",
+                "typeid":"26374",
+                "line":"125"
+            }
+        },
+        {
+            "Large Semiconductor Memory Cell II":{
+                "name":"Large Semiconductor Memory Cell II",
+                "typeid":"26376",
+                "line":"126"
+            }
+        },
+        {
+            "Large Energy Discharge Elutriation II":{
+                "name":"Large Energy Discharge Elutriation II",
+                "typeid":"26378",
+                "line":"127"
+            }
+        },
+        {
+            "Large Energy Burst Aerator II":{
+                "name":"Large Energy Burst Aerator II",
+                "typeid":"26380",
+                "line":"128"
+            }
+        },
+        {
+            "Large Energy Collision Accelerator II":{
+                "name":"Large Energy Collision Accelerator II",
+                "typeid":"26382",
+                "line":"129"
+            }
+        },
+        {
+            "Large Algid Energy Administrations Unit II":{
+                "name":"Large Algid Energy Administrations Unit II",
+                "typeid":"26384",
+                "line":"130"
+            }
+        },
+        {
+            "Large Energy Ambit Extension II":{
+                "name":"Large Energy Ambit Extension II",
+                "typeid":"26386",
+                "line":"131"
+            }
+        },
+        {
+            "Large Energy Locus Coordinator II":{
+                "name":"Large Energy Locus Coordinator II",
+                "typeid":"26388",
+                "line":"132"
+            }
+        },
+        {
+            "Large Energy Metastasis Adjuster II":{
+                "name":"Large Energy Metastasis Adjuster II",
+                "typeid":"26390",
+                "line":"133"
+            }
+        },
+        {
+            "Large Hybrid Discharge Elutriation II":{
+                "name":"Large Hybrid Discharge Elutriation II",
+                "typeid":"26392",
+                "line":"134"
+            }
+        },
+        {
+            "Large Hybrid Burst Aerator II":{
+                "name":"Large Hybrid Burst Aerator II",
+                "typeid":"26394",
+                "line":"135"
+            }
+        },
+        {
+            "Large Hybrid Collision Accelerator II":{
+                "name":"Large Hybrid Collision Accelerator II",
+                "typeid":"26396",
+                "line":"136"
+            }
+        },
+        {
+            "Large Algid Hybrid Administrations Unit II":{
+                "name":"Large Algid Hybrid Administrations Unit II",
+                "typeid":"26398",
+                "line":"137"
+            }
+        },
+        {
+            "Large Hybrid Ambit Extension II":{
+                "name":"Large Hybrid Ambit Extension II",
+                "typeid":"26400",
+                "line":"138"
+            }
+        },
+        {
+            "Large Hybrid Locus Coordinator II":{
+                "name":"Large Hybrid Locus Coordinator II",
+                "typeid":"26402",
+                "line":"139"
+            }
+        },
+        {
+            "Large Hybrid Metastasis Adjuster II":{
+                "name":"Large Hybrid Metastasis Adjuster II",
+                "typeid":"26404",
+                "line":"140"
+            }
+        },
+        {
+            "Large Bay Loading Accelerator II":{
+                "name":"Large Bay Loading Accelerator II",
+                "typeid":"26406",
+                "line":"141"
+            }
+        },
+        {
+            "Large Warhead Flare Catalyst II":{
+                "name":"Large Warhead Flare Catalyst II",
+                "typeid":"26412",
+                "line":"142"
+            }
+        },
+        {
+            "Large Warhead Rigor Catalyst II":{
+                "name":"Large Warhead Rigor Catalyst II",
+                "typeid":"26414",
+                "line":"143"
+            }
+        },
+        {
+            "Large Hydraulic Bay Thrusters II":{
+                "name":"Large Hydraulic Bay Thrusters II",
+                "typeid":"26416",
+                "line":"144"
+            }
+        },
+        {
+            "Large Rocket Fuel Cache Partition II":{
+                "name":"Large Rocket Fuel Cache Partition II",
+                "typeid":"26418",
+                "line":"145"
+            }
+        },
+        {
+            "Large Warhead Calefaction Catalyst II":{
+                "name":"Large Warhead Calefaction Catalyst II",
+                "typeid":"26420",
+                "line":"146"
+            }
+        },
+        {
+            "Large Projectile Collision Accelerator II":{
+                "name":"Large Projectile Collision Accelerator II",
+                "typeid":"26424",
+                "line":"147"
+            }
+        },
+        {
+            "Large Projectile Ambit Extension II":{
+                "name":"Large Projectile Ambit Extension II",
+                "typeid":"26428",
+                "line":"148"
+            }
+        },
+        {
+            "Large Projectile Burst Aerator II":{
+                "name":"Large Projectile Burst Aerator II",
+                "typeid":"26430",
+                "line":"149"
+            }
+        },
+        {
+            "Large Projectile Locus Coordinator II":{
+                "name":"Large Projectile Locus Coordinator II",
+                "typeid":"26432",
+                "line":"150"
+            }
+        },
+        {
+            "Large Projectile Metastasis Adjuster II":{
+                "name":"Large Projectile Metastasis Adjuster II",
+                "typeid":"26434",
+                "line":"151"
+            }
+        },
+        {
+            "Large EM Shield Reinforcer II":{
+                "name":"Large EM Shield Reinforcer II",
+                "typeid":"26436",
+                "line":"152"
+            }
+        },
+        {
+            "Large Explosive Shield Reinforcer II":{
+                "name":"Large Explosive Shield Reinforcer II",
+                "typeid":"26438",
+                "line":"153"
+            }
+        },
+        {
+            "Large Kinetic Shield Reinforcer II":{
+                "name":"Large Kinetic Shield Reinforcer II",
+                "typeid":"26440",
+                "line":"154"
+            }
+        },
+        {
+            "Large Thermal Shield Reinforcer II":{
+                "name":"Large Thermal Shield Reinforcer II",
+                "typeid":"26442",
+                "line":"155"
+            }
+        },
+        {
+            "Large Core Defense Capacitor Safeguard II":{
+                "name":"Large Core Defense Capacitor Safeguard II",
+                "typeid":"26444",
+                "line":"156"
+            }
+        },
+        {
+            "Large Core Defense Charge Economizer II":{
+                "name":"Large Core Defense Charge Economizer II",
+                "typeid":"26446",
+                "line":"157"
+            }
+        },
+        {
+            "Large Core Defense Field Extender II":{
+                "name":"Large Core Defense Field Extender II",
+                "typeid":"26448",
+                "line":"158"
+            }
+        },
+        {
+            "Large Core Defense Field Purger II":{
+                "name":"Large Core Defense Field Purger II",
+                "typeid":"26450",
+                "line":"159"
+            }
+        },
+        {
+            "Large Core Defense Operational Solidifier II":{
+                "name":"Large Core Defense Operational Solidifier II",
+                "typeid":"26452",
+                "line":"160"
+            }
+        },
+        {
+            "Small Processor Overclocking Unit I":{
+                "name":"Small Processor Overclocking Unit I",
+                "typeid":"26929",
+                "line":"161"
+            }
+        },
+        {
+            "Small Processor Overclocking Unit II":{
+                "name":"Small Processor Overclocking Unit II",
+                "typeid":"26931",
+                "line":"162"
+            }
+        },
+        {
+            "Capital Auxiliary Nano Pump I":{
+                "name":"Capital Auxiliary Nano Pump I",
+                "typeid":"27064",
+                "line":"163"
+            }
+        },
+        {
+            "Capital Nanobot Accelerator II":{
+                "name":"Capital Nanobot Accelerator II",
+                "typeid":"27066",
+                "line":"164"
+            }
+        },
+        {
+            "Small Remote Repair Augmentor I":{
+                "name":"Small Remote Repair Augmentor I",
+                "typeid":"27068",
+                "line":"165"
+            }
+        },
+        {
+            "Small Trimark Armor Pump I":{
+                "name":"Small Trimark Armor Pump I",
+                "typeid":"30987",
+                "line":"166"
+            }
+        },
+        {
+            "Capital Trimark Armor Pump I":{
+                "name":"Capital Trimark Armor Pump I",
+                "typeid":"30993",
+                "line":"167"
+            }
+        },
+        {
+            "Small EM Armor Reinforcer I":{
+                "name":"Small EM Armor Reinforcer I",
+                "typeid":"30997",
+                "line":"168"
+            }
+        },
+        {
+            "Medium EM Armor Reinforcer I":{
+                "name":"Medium EM Armor Reinforcer I",
+                "typeid":"30999",
+                "line":"169"
+            }
+        },
+        {
+            "Capital EM Armor Reinforcer I":{
+                "name":"Capital EM Armor Reinforcer I",
+                "typeid":"31001",
+                "line":"170"
+            }
+        },
+        {
+            "Small EM Armor Reinforcer II":{
+                "name":"Small EM Armor Reinforcer II",
+                "typeid":"31003",
+                "line":"171"
+            }
+        },
+        {
+            "Medium EM Armor Reinforcer II":{
+                "name":"Medium EM Armor Reinforcer II",
+                "typeid":"31005",
+                "line":"172"
+            }
+        },
+        {
+            "Capital EM Armor Reinforcer II":{
+                "name":"Capital EM Armor Reinforcer II",
+                "typeid":"31007",
+                "line":"173"
+            }
+        },
+        {
+            "Small Explosive Armor Reinforcer I":{
+                "name":"Small Explosive Armor Reinforcer I",
+                "typeid":"31009",
+                "line":"174"
+            }
+        },
+        {
+            "Medium Explosive Armor Reinforcer I":{
+                "name":"Medium Explosive Armor Reinforcer I",
+                "typeid":"31011",
+                "line":"175"
+            }
+        },
+        {
+            "Capital Explosive Armor Reinforcer I":{
+                "name":"Capital Explosive Armor Reinforcer I",
+                "typeid":"31013",
+                "line":"176"
+            }
+        },
+        {
+            "Small Explosive Armor Reinforcer II":{
+                "name":"Small Explosive Armor Reinforcer II",
+                "typeid":"31015",
+                "line":"177"
+            }
+        },
+        {
+            "Medium Explosive Armor Reinforcer II":{
+                "name":"Medium Explosive Armor Reinforcer II",
+                "typeid":"31017",
+                "line":"178"
+            }
+        },
+        {
+            "Capital Explosive Armor Reinforcer II":{
+                "name":"Capital Explosive Armor Reinforcer II",
+                "typeid":"31019",
+                "line":"179"
+            }
+        },
+        {
+            "Small Kinetic Armor Reinforcer I":{
+                "name":"Small Kinetic Armor Reinforcer I",
+                "typeid":"31021",
+                "line":"180"
+            }
+        },
+        {
+            "Medium Kinetic Armor Reinforcer I":{
+                "name":"Medium Kinetic Armor Reinforcer I",
+                "typeid":"31023",
+                "line":"181"
+            }
+        },
+        {
+            "Capital Kinetic Armor Reinforcer I":{
+                "name":"Capital Kinetic Armor Reinforcer I",
+                "typeid":"31025",
+                "line":"182"
+            }
+        },
+        {
+            "Small Kinetic Armor Reinforcer II":{
+                "name":"Small Kinetic Armor Reinforcer II",
+                "typeid":"31027",
+                "line":"183"
+            }
+        },
+        {
+            "Medium Kinetic Armor Reinforcer II":{
+                "name":"Medium Kinetic Armor Reinforcer II",
+                "typeid":"31029",
+                "line":"184"
+            }
+        },
+        {
+            "Capital Kinetic Armor Reinforcer II":{
+                "name":"Capital Kinetic Armor Reinforcer II",
+                "typeid":"31031",
+                "line":"185"
+            }
+        },
+        {
+            "Small Thermal Armor Reinforcer I":{
+                "name":"Small Thermal Armor Reinforcer I",
+                "typeid":"31033",
+                "line":"186"
+            }
+        },
+        {
+            "Medium Thermal Armor Reinforcer I":{
+                "name":"Medium Thermal Armor Reinforcer I",
+                "typeid":"31035",
+                "line":"187"
+            }
+        },
+        {
+            "Capital Thermal Armor Reinforcer I":{
+                "name":"Capital Thermal Armor Reinforcer I",
+                "typeid":"31037",
+                "line":"188"
+            }
+        },
+        {
+            "Small Thermal Armor Reinforcer II":{
+                "name":"Small Thermal Armor Reinforcer II",
+                "typeid":"31039",
+                "line":"189"
+            }
+        },
+        {
+            "Medium Thermal Armor Reinforcer II":{
+                "name":"Medium Thermal Armor Reinforcer II",
+                "typeid":"31041",
+                "line":"190"
+            }
+        },
+        {
+            "Capital Thermal Armor Reinforcer II":{
+                "name":"Capital Thermal Armor Reinforcer II",
+                "typeid":"31043",
+                "line":"191"
+            }
+        },
+        {
+            "Small Auxiliary Nano Pump I":{
+                "name":"Small Auxiliary Nano Pump I",
+                "typeid":"31045",
+                "line":"192"
+            }
+        },
+        {
+            "Medium Auxiliary Nano Pump I":{
+                "name":"Medium Auxiliary Nano Pump I",
+                "typeid":"31047",
+                "line":"193"
+            }
+        },
+        {
+            "Capital Auxiliary Nano Pump II":{
+                "name":"Capital Auxiliary Nano Pump II",
+                "typeid":"31049",
+                "line":"194"
+            }
+        },
+        {
+            "Small Auxiliary Nano Pump II":{
+                "name":"Small Auxiliary Nano Pump II",
+                "typeid":"31051",
+                "line":"195"
+            }
+        },
+        {
+            "Medium Auxiliary Nano Pump II":{
+                "name":"Medium Auxiliary Nano Pump II",
+                "typeid":"31053",
+                "line":"196"
+            }
+        },
+        {
+            "Medium Trimark Armor Pump I":{
+                "name":"Medium Trimark Armor Pump I",
+                "typeid":"31055",
+                "line":"197"
+            }
+        },
+        {
+            "Small Trimark Armor Pump II":{
+                "name":"Small Trimark Armor Pump II",
+                "typeid":"31057",
+                "line":"198"
+            }
+        },
+        {
+            "Medium Trimark Armor Pump II":{
+                "name":"Medium Trimark Armor Pump II",
+                "typeid":"31059",
+                "line":"199"
+            }
+        },
+        {
+            "Capital Trimark Armor Pump II":{
+                "name":"Capital Trimark Armor Pump II",
+                "typeid":"31061",
+                "line":"200"
+            }
+        },
+        {
+            "Small Nanobot Accelerator I":{
+                "name":"Small Nanobot Accelerator I",
+                "typeid":"31063",
+                "line":"201"
+            }
+        },
+        {
+            "Medium Nanobot Accelerator I":{
+                "name":"Medium Nanobot Accelerator I",
+                "typeid":"31065",
+                "line":"202"
+            }
+        },
+        {
+            "Capital Nanobot Accelerator I":{
+                "name":"Capital Nanobot Accelerator I",
+                "typeid":"31067",
+                "line":"203"
+            }
+        },
+        {
+            "Small Nanobot Accelerator II":{
+                "name":"Small Nanobot Accelerator II",
+                "typeid":"31069",
+                "line":"204"
+            }
+        },
+        {
+            "Medium Nanobot Accelerator II":{
+                "name":"Medium Nanobot Accelerator II",
+                "typeid":"31071",
+                "line":"205"
+            }
+        },
+        {
+            "Medium Remote Repair Augmentor I":{
+                "name":"Medium Remote Repair Augmentor I",
+                "typeid":"31073",
+                "line":"206"
+            }
+        },
+        {
+            "Capital Remote Repair Augmentor I":{
+                "name":"Capital Remote Repair Augmentor I",
+                "typeid":"31075",
+                "line":"207"
+            }
+        },
+        {
+            "Small Remote Repair Augmentor II":{
+                "name":"Small Remote Repair Augmentor II",
+                "typeid":"31077",
+                "line":"208"
+            }
+        },
+        {
+            "Medium Remote Repair Augmentor II":{
+                "name":"Medium Remote Repair Augmentor II",
+                "typeid":"31079",
+                "line":"209"
+            }
+        },
+        {
+            "Capital Remote Repair Augmentor II":{
+                "name":"Capital Remote Repair Augmentor II",
+                "typeid":"31081",
+                "line":"210"
+            }
+        },
+        {
+            "Small Salvage Tackle I":{
+                "name":"Small Salvage Tackle I",
+                "typeid":"31083",
+                "line":"211"
+            }
+        },
+        {
+            "Medium Salvage Tackle I":{
+                "name":"Medium Salvage Tackle I",
+                "typeid":"31085",
+                "line":"212"
+            }
+        },
+        {
+            "Capital Salvage Tackle I":{
+                "name":"Capital Salvage Tackle I",
+                "typeid":"31087",
+                "line":"213"
+            }
+        },
+        {
+            "Small Salvage Tackle II":{
+                "name":"Small Salvage Tackle II",
+                "typeid":"31089",
+                "line":"214"
+            }
+        },
+        {
+            "Medium Salvage Tackle II":{
+                "name":"Medium Salvage Tackle II",
+                "typeid":"31091",
+                "line":"215"
+            }
+        },
+        {
+            "Capital Salvage Tackle II":{
+                "name":"Capital Salvage Tackle II",
+                "typeid":"31093",
+                "line":"216"
+            }
+        },
+        {
+            "Small Auxiliary Thrusters I":{
+                "name":"Small Auxiliary Thrusters I",
+                "typeid":"31105",
+                "line":"217"
+            }
+        },
+        {
+            "Capital Auxiliary Thrusters I":{
+                "name":"Capital Auxiliary Thrusters I",
+                "typeid":"31109",
+                "line":"218"
+            }
+        },
+        {
+            "Small Auxiliary Thrusters II":{
+                "name":"Small Auxiliary Thrusters II",
+                "typeid":"31111",
+                "line":"219"
+            }
+        },
+        {
+            "Capital Auxiliary Thrusters II":{
+                "name":"Capital Auxiliary Thrusters II",
+                "typeid":"31115",
+                "line":"220"
+            }
+        },
+        {
+            "Small Cargohold Optimization I":{
+                "name":"Small Cargohold Optimization I",
+                "typeid":"31117",
+                "line":"221"
+            }
+        },
+        {
+            "Capital Cargohold Optimization I":{
+                "name":"Capital Cargohold Optimization I",
+                "typeid":"31121",
+                "line":"222"
+            }
+        },
+        {
+            "Small Cargohold Optimization II":{
+                "name":"Small Cargohold Optimization II",
+                "typeid":"31123",
+                "line":"223"
+            }
+        },
+        {
+            "Capital Cargohold Optimization II":{
+                "name":"Capital Cargohold Optimization II",
+                "typeid":"31127",
+                "line":"224"
+            }
+        },
+        {
+            "Small Dynamic Fuel Valve I":{
+                "name":"Small Dynamic Fuel Valve I",
+                "typeid":"31129",
+                "line":"225"
+            }
+        },
+        {
+            "Capital Dynamic Fuel Valve I":{
+                "name":"Capital Dynamic Fuel Valve I",
+                "typeid":"31133",
+                "line":"226"
+            }
+        },
+        {
+            "Small Dynamic Fuel Valve II":{
+                "name":"Small Dynamic Fuel Valve II",
+                "typeid":"31135",
+                "line":"227"
+            }
+        },
+        {
+            "Capital Dynamic Fuel Valve II":{
+                "name":"Capital Dynamic Fuel Valve II",
+                "typeid":"31139",
+                "line":"228"
+            }
+        },
+        {
+            "Small Engine Thermal Shielding I":{
+                "name":"Small Engine Thermal Shielding I",
+                "typeid":"31141",
+                "line":"229"
+            }
+        },
+        {
+            "Capital Engine Thermal Shielding I":{
+                "name":"Capital Engine Thermal Shielding I",
+                "typeid":"31145",
+                "line":"230"
+            }
+        },
+        {
+            "Small Engine Thermal Shielding II":{
+                "name":"Small Engine Thermal Shielding II",
+                "typeid":"31147",
+                "line":"231"
+            }
+        },
+        {
+            "Capital Engine Thermal Shielding II":{
+                "name":"Capital Engine Thermal Shielding II",
+                "typeid":"31151",
+                "line":"232"
+            }
+        },
+        {
+            "Small Low Friction Nozzle Joints I":{
+                "name":"Small Low Friction Nozzle Joints I",
+                "typeid":"31153",
+                "line":"233"
+            }
+        },
+        {
+            "Capital Low Friction Nozzle Joints I":{
+                "name":"Capital Low Friction Nozzle Joints I",
+                "typeid":"31157",
+                "line":"234"
+            }
+        },
+        {
+            "Small Hyperspatial Velocity Optimizer I":{
+                "name":"Small Hyperspatial Velocity Optimizer I",
+                "typeid":"31159",
+                "line":"235"
+            }
+        },
+        {
+            "Capital Hyperspatial Velocity Optimizer I":{
+                "name":"Capital Hyperspatial Velocity Optimizer I",
+                "typeid":"31163",
+                "line":"236"
+            }
+        },
+        {
+            "Small Hyperspatial Velocity Optimizer II":{
+                "name":"Small Hyperspatial Velocity Optimizer II",
+                "typeid":"31165",
+                "line":"237"
+            }
+        },
+        {
+            "Capital Hyperspatial Velocity Optimizer II":{
+                "name":"Capital Hyperspatial Velocity Optimizer II",
+                "typeid":"31169",
+                "line":"238"
+            }
+        },
+        {
+            "Small Low Friction Nozzle Joints II":{
+                "name":"Small Low Friction Nozzle Joints II",
+                "typeid":"31171",
+                "line":"239"
+            }
+        },
+        {
+            "Capital Low Friction Nozzle Joints II":{
+                "name":"Capital Low Friction Nozzle Joints II",
+                "typeid":"31175",
+                "line":"240"
+            }
+        },
+        {
+            "Small Polycarbon Engine Housing I":{
+                "name":"Small Polycarbon Engine Housing I",
+                "typeid":"31177",
+                "line":"241"
+            }
+        },
+        {
+            "Capital Polycarbon Engine Housing I":{
+                "name":"Capital Polycarbon Engine Housing I",
+                "typeid":"31181",
+                "line":"242"
+            }
+        },
+        {
+            "Small Polycarbon Engine Housing II":{
+                "name":"Small Polycarbon Engine Housing II",
+                "typeid":"31183",
+                "line":"243"
+            }
+        },
+        {
+            "Capital Polycarbon Engine Housing II":{
+                "name":"Capital Polycarbon Engine Housing II",
+                "typeid":"31187",
+                "line":"244"
+            }
+        },
+        {
+            "Small Warp Core Optimizer I":{
+                "name":"Small Warp Core Optimizer I",
+                "typeid":"31189",
+                "line":"245"
+            }
+        },
+        {
+            "Capital Warp Core Optimizer I":{
+                "name":"Capital Warp Core Optimizer I",
+                "typeid":"31193",
+                "line":"246"
+            }
+        },
+        {
+            "Small Warp Core Optimizer II":{
+                "name":"Small Warp Core Optimizer II",
+                "typeid":"31195",
+                "line":"247"
+            }
+        },
+        {
+            "Capital Warp Core Optimizer II":{
+                "name":"Capital Warp Core Optimizer II",
+                "typeid":"31199",
+                "line":"248"
+            }
+        },
+        {
+            "Small Emission Scope Sharpener I":{
+                "name":"Small Emission Scope Sharpener I",
+                "typeid":"31201",
+                "line":"249"
+            }
+        },
+        {
+            "Medium Emission Scope Sharpener I":{
+                "name":"Medium Emission Scope Sharpener I",
+                "typeid":"31203",
+                "line":"250"
+            }
+        },
+        {
+            "Capital Emission Scope Sharpener I":{
+                "name":"Capital Emission Scope Sharpener I",
+                "typeid":"31205",
+                "line":"251"
+            }
+        },
+        {
+            "Small Emission Scope Sharpener II":{
+                "name":"Small Emission Scope Sharpener II",
+                "typeid":"31207",
+                "line":"252"
+            }
+        },
+        {
+            "Medium Emission Scope Sharpener II":{
+                "name":"Medium Emission Scope Sharpener II",
+                "typeid":"31209",
+                "line":"253"
+            }
+        },
+        {
+            "Capital Emission Scope Sharpener II":{
+                "name":"Capital Emission Scope Sharpener II",
+                "typeid":"31211",
+                "line":"254"
+            }
+        },
+        {
+            "Small Gravity Capacitor Upgrade I":{
+                "name":"Small Gravity Capacitor Upgrade I",
+                "typeid":"31213",
+                "line":"255"
+            }
+        },
+        {
+            "Medium Gravity Capacitor Upgrade I":{
+                "name":"Medium Gravity Capacitor Upgrade I",
+                "typeid":"31215",
+                "line":"256"
+            }
+        },
+        {
+            "Capital Gravity Capacitor Upgrade I":{
+                "name":"Capital Gravity Capacitor Upgrade I",
+                "typeid":"31217",
+                "line":"257"
+            }
+        },
+        {
+            "Small Gravity Capacitor Upgrade II":{
+                "name":"Small Gravity Capacitor Upgrade II",
+                "typeid":"31220",
+                "line":"258"
+            }
+        },
+        {
+            "Medium Gravity Capacitor Upgrade II":{
+                "name":"Medium Gravity Capacitor Upgrade II",
+                "typeid":"31222",
+                "line":"259"
+            }
+        },
+        {
+            "Capital Gravity Capacitor Upgrade II":{
+                "name":"Capital Gravity Capacitor Upgrade II",
+                "typeid":"31224",
+                "line":"260"
+            }
+        },
+        {
+            "Small Liquid Cooled Electronics I":{
+                "name":"Small Liquid Cooled Electronics I",
+                "typeid":"31226",
+                "line":"261"
+            }
+        },
+        {
+            "Medium Liquid Cooled Electronics I":{
+                "name":"Medium Liquid Cooled Electronics I",
+                "typeid":"31228",
+                "line":"262"
+            }
+        },
+        {
+            "Capital Liquid Cooled Electronics I":{
+                "name":"Capital Liquid Cooled Electronics I",
+                "typeid":"31230",
+                "line":"263"
+            }
+        },
+        {
+            "Small Liquid Cooled Electronics II":{
+                "name":"Small Liquid Cooled Electronics II",
+                "typeid":"31232",
+                "line":"264"
+            }
+        },
+        {
+            "Medium Liquid Cooled Electronics II":{
+                "name":"Medium Liquid Cooled Electronics II",
+                "typeid":"31234",
+                "line":"265"
+            }
+        },
+        {
+            "Capital Liquid Cooled Electronics II":{
+                "name":"Capital Liquid Cooled Electronics II",
+                "typeid":"31236",
+                "line":"266"
+            }
+        },
+        {
+            "Small Memetic Algorithm Bank I":{
+                "name":"Small Memetic Algorithm Bank I",
+                "typeid":"31238",
+                "line":"267"
+            }
+        },
+        {
+            "Medium Memetic Algorithm Bank I":{
+                "name":"Medium Memetic Algorithm Bank I",
+                "typeid":"31240",
+                "line":"268"
+            }
+        },
+        {
+            "Capital Memetic Algorithm Bank I":{
+                "name":"Capital Memetic Algorithm Bank I",
+                "typeid":"31242",
+                "line":"269"
+            }
+        },
+        {
+            "Small Memetic Algorithm Bank II":{
+                "name":"Small Memetic Algorithm Bank II",
+                "typeid":"31244",
+                "line":"270"
+            }
+        },
+        {
+            "Medium Memetic Algorithm Bank II":{
+                "name":"Medium Memetic Algorithm Bank II",
+                "typeid":"31246",
+                "line":"271"
+            }
+        },
+        {
+            "Capital Memetic Algorithm Bank II":{
+                "name":"Capital Memetic Algorithm Bank II",
+                "typeid":"31248",
+                "line":"272"
+            }
+        },
+        {
+            "Small Signal Disruption Amplifier I":{
+                "name":"Small Signal Disruption Amplifier I",
+                "typeid":"31250",
+                "line":"273"
+            }
+        },
+        {
+            "Medium Signal Disruption Amplifier I":{
+                "name":"Medium Signal Disruption Amplifier I",
+                "typeid":"31252",
+                "line":"274"
+            }
+        },
+        {
+            "Capital Signal Disruption Amplifier I":{
+                "name":"Capital Signal Disruption Amplifier I",
+                "typeid":"31254",
+                "line":"275"
+            }
+        },
+        {
+            "Small Signal Disruption Amplifier II":{
+                "name":"Small Signal Disruption Amplifier II",
+                "typeid":"31256",
+                "line":"276"
+            }
+        },
+        {
+            "Medium Signal Disruption Amplifier II":{
+                "name":"Medium Signal Disruption Amplifier II",
+                "typeid":"31258",
+                "line":"277"
+            }
+        },
+        {
+            "Capital Signal Disruption Amplifier II":{
+                "name":"Capital Signal Disruption Amplifier II",
+                "typeid":"31260",
+                "line":"278"
+            }
+        },
+        {
+            "Small Inverted Signal Field Projector I":{
+                "name":"Small Inverted Signal Field Projector I",
+                "typeid":"31262",
+                "line":"279"
+            }
+        },
+        {
+            "Medium Inverted Signal Field Projector I":{
+                "name":"Medium Inverted Signal Field Projector I",
+                "typeid":"31264",
+                "line":"280"
+            }
+        },
+        {
+            "Capital Inverted Signal Field Projector I":{
+                "name":"Capital Inverted Signal Field Projector I",
+                "typeid":"31266",
+                "line":"281"
+            }
+        },
+        {
+            "Small Inverted Signal Field Projector II":{
+                "name":"Small Inverted Signal Field Projector II",
+                "typeid":"31268",
+                "line":"282"
+            }
+        },
+        {
+            "Medium Inverted Signal Field Projector II":{
+                "name":"Medium Inverted Signal Field Projector II",
+                "typeid":"31270",
+                "line":"283"
+            }
+        },
+        {
+            "Capital Inverted Signal Field Projector II":{
+                "name":"Capital Inverted Signal Field Projector II",
+                "typeid":"31272",
+                "line":"284"
+            }
+        },
+        {
+            "Small Ionic Field Projector I":{
+                "name":"Small Ionic Field Projector I",
+                "typeid":"31274",
+                "line":"285"
+            }
+        },
+        {
+            "Medium Ionic Field Projector I":{
+                "name":"Medium Ionic Field Projector I",
+                "typeid":"31276",
+                "line":"286"
+            }
+        },
+        {
+            "Capital Ionic Field Projector I":{
+                "name":"Capital Ionic Field Projector I",
+                "typeid":"31278",
+                "line":"287"
+            }
+        },
+        {
+            "Small Ionic Field Projector II":{
+                "name":"Small Ionic Field Projector II",
+                "typeid":"31280",
+                "line":"288"
+            }
+        },
+        {
+            "Medium Ionic Field Projector II":{
+                "name":"Medium Ionic Field Projector II",
+                "typeid":"31282",
+                "line":"289"
+            }
+        },
+        {
+            "Capital Ionic Field Projector II":{
+                "name":"Capital Ionic Field Projector II",
+                "typeid":"31284",
+                "line":"290"
+            }
+        },
+        {
+            "Small Particle Dispersion Augmentor I":{
+                "name":"Small Particle Dispersion Augmentor I",
+                "typeid":"31286",
+                "line":"291"
+            }
+        },
+        {
+            "Medium Particle Dispersion Augmentor I":{
+                "name":"Medium Particle Dispersion Augmentor I",
+                "typeid":"31288",
+                "line":"292"
+            }
+        },
+        {
+            "Capital Particle Dispersion Augmentor I":{
+                "name":"Capital Particle Dispersion Augmentor I",
+                "typeid":"31290",
+                "line":"293"
+            }
+        },
+        {
+            "Small Particle Dispersion Augmentor II":{
+                "name":"Small Particle Dispersion Augmentor II",
+                "typeid":"31292",
+                "line":"294"
+            }
+        },
+        {
+            "Medium Particle Dispersion Augmentor II":{
+                "name":"Medium Particle Dispersion Augmentor II",
+                "typeid":"31294",
+                "line":"295"
+            }
+        },
+        {
+            "Capital Particle Dispersion Augmentor II":{
+                "name":"Capital Particle Dispersion Augmentor II",
+                "typeid":"31296",
+                "line":"296"
+            }
+        },
+        {
+            "Small Particle Dispersion Projector I":{
+                "name":"Small Particle Dispersion Projector I",
+                "typeid":"31298",
+                "line":"297"
+            }
+        },
+        {
+            "Medium Particle Dispersion Projector I":{
+                "name":"Medium Particle Dispersion Projector I",
+                "typeid":"31300",
+                "line":"298"
+            }
+        },
+        {
+            "Capital Particle Dispersion Projector I":{
+                "name":"Capital Particle Dispersion Projector I",
+                "typeid":"31302",
+                "line":"299"
+            }
+        },
+        {
+            "Small Particle Dispersion Projector II":{
+                "name":"Small Particle Dispersion Projector II",
+                "typeid":"31304",
+                "line":"300"
+            }
+        },
+        {
+            "Medium Particle Dispersion Projector II":{
+                "name":"Medium Particle Dispersion Projector II",
+                "typeid":"31306",
+                "line":"301"
+            }
+        },
+        {
+            "Capital Particle Dispersion Projector II":{
+                "name":"Capital Particle Dispersion Projector II",
+                "typeid":"31308",
+                "line":"302"
+            }
+        },
+        {
+            "Small Signal Focusing Kit I":{
+                "name":"Small Signal Focusing Kit I",
+                "typeid":"31310",
+                "line":"303"
+            }
+        },
+        {
+            "Medium Signal Focusing Kit I":{
+                "name":"Medium Signal Focusing Kit I",
+                "typeid":"31312",
+                "line":"304"
+            }
+        },
+        {
+            "Capital Signal Focusing Kit I":{
+                "name":"Capital Signal Focusing Kit I",
+                "typeid":"31314",
+                "line":"305"
+            }
+        },
+        {
+            "Small Signal Focusing Kit II":{
+                "name":"Small Signal Focusing Kit II",
+                "typeid":"31316",
+                "line":"306"
+            }
+        },
+        {
+            "Medium Signal Focusing Kit II":{
+                "name":"Medium Signal Focusing Kit II",
+                "typeid":"31318",
+                "line":"307"
+            }
+        },
+        {
+            "Capital Signal Focusing Kit II":{
+                "name":"Capital Signal Focusing Kit II",
+                "typeid":"31320",
+                "line":"308"
+            }
+        },
+        {
+            "Small Targeting System Subcontroller I":{
+                "name":"Small Targeting System Subcontroller I",
+                "typeid":"31322",
+                "line":"309"
+            }
+        },
+        {
+            "Medium Targeting System Subcontroller I":{
+                "name":"Medium Targeting System Subcontroller I",
+                "typeid":"31324",
+                "line":"310"
+            }
+        },
+        {
+            "Capital Targeting System Subcontroller I":{
+                "name":"Capital Targeting System Subcontroller I",
+                "typeid":"31326",
+                "line":"311"
+            }
+        },
+        {
+            "Small Targeting System Subcontroller II":{
+                "name":"Small Targeting System Subcontroller II",
+                "typeid":"31328",
+                "line":"312"
+            }
+        },
+        {
+            "Medium Targeting System Subcontroller II":{
+                "name":"Medium Targeting System Subcontroller II",
+                "typeid":"31330",
+                "line":"313"
+            }
+        },
+        {
+            "Capital Targeting System Subcontroller II":{
+                "name":"Capital Targeting System Subcontroller II",
+                "typeid":"31332",
+                "line":"314"
+            }
+        },
+        {
+            "Small Targeting Systems Stabilizer I":{
+                "name":"Small Targeting Systems Stabilizer I",
+                "typeid":"31334",
+                "line":"315"
+            }
+        },
+        {
+            "Medium Targeting Systems Stabilizer I":{
+                "name":"Medium Targeting Systems Stabilizer I",
+                "typeid":"31336",
+                "line":"316"
+            }
+        },
+        {
+            "Capital Targeting Systems Stabilizer I":{
+                "name":"Capital Targeting Systems Stabilizer I",
+                "typeid":"31338",
+                "line":"317"
+            }
+        },
+        {
+            "Small Targeting Systems Stabilizer II":{
+                "name":"Small Targeting Systems Stabilizer II",
+                "typeid":"31340",
+                "line":"318"
+            }
+        },
+        {
+            "Medium Targeting Systems Stabilizer II":{
+                "name":"Medium Targeting Systems Stabilizer II",
+                "typeid":"31342",
+                "line":"319"
+            }
+        },
+        {
+            "Capital Targeting Systems Stabilizer II":{
+                "name":"Capital Targeting Systems Stabilizer II",
+                "typeid":"31344",
+                "line":"320"
+            }
+        },
+        {
+            "Small Tracking Diagnostic Subroutines I":{
+                "name":"Small Tracking Diagnostic Subroutines I",
+                "typeid":"31346",
+                "line":"321"
+            }
+        },
+        {
+            "Medium Tracking Diagnostic Subroutines I":{
+                "name":"Medium Tracking Diagnostic Subroutines I",
+                "typeid":"31348",
+                "line":"322"
+            }
+        },
+        {
+            "Capital Tracking Diagnostic Subroutines I":{
+                "name":"Capital Tracking Diagnostic Subroutines I",
+                "typeid":"31350",
+                "line":"323"
+            }
+        },
+        {
+            "Small Tracking Diagnostic Subroutines II":{
+                "name":"Small Tracking Diagnostic Subroutines II",
+                "typeid":"31352",
+                "line":"324"
+            }
+        },
+        {
+            "Medium Tracking Diagnostic Subroutines II":{
+                "name":"Medium Tracking Diagnostic Subroutines II",
+                "typeid":"31354",
+                "line":"325"
+            }
+        },
+        {
+            "Capital Tracking Diagnostic Subroutines II":{
+                "name":"Capital Tracking Diagnostic Subroutines II",
+                "typeid":"31356",
+                "line":"326"
+            }
+        },
+        {
+            "Small Ancillary Current Router I":{
+                "name":"Small Ancillary Current Router I",
+                "typeid":"31358",
+                "line":"327"
+            }
+        },
+        {
+            "Medium Ancillary Current Router I":{
+                "name":"Medium Ancillary Current Router I",
+                "typeid":"31360",
+                "line":"328"
+            }
+        },
+        {
+            "Capital Ancillary Current Router I":{
+                "name":"Capital Ancillary Current Router I",
+                "typeid":"31362",
+                "line":"329"
+            }
+        },
+        {
+            "Small Ancillary Current Router II":{
+                "name":"Small Ancillary Current Router II",
+                "typeid":"31364",
+                "line":"330"
+            }
+        },
+        {
+            "Medium Ancillary Current Router II":{
+                "name":"Medium Ancillary Current Router II",
+                "typeid":"31366",
+                "line":"331"
+            }
+        },
+        {
+            "Capital Ancillary Current Router II":{
+                "name":"Capital Ancillary Current Router II",
+                "typeid":"31368",
+                "line":"332"
+            }
+        },
+        {
+            "Small Capacitor Control Circuit I":{
+                "name":"Small Capacitor Control Circuit I",
+                "typeid":"31370",
+                "line":"333"
+            }
+        },
+        {
+            "Medium Capacitor Control Circuit I":{
+                "name":"Medium Capacitor Control Circuit I",
+                "typeid":"31372",
+                "line":"334"
+            }
+        },
+        {
+            "Capital Capacitor Control Circuit I":{
+                "name":"Capital Capacitor Control Circuit I",
+                "typeid":"31374",
+                "line":"335"
+            }
+        },
+        {
+            "Small Capacitor Control Circuit II":{
+                "name":"Small Capacitor Control Circuit II",
+                "typeid":"31376",
+                "line":"336"
+            }
+        },
+        {
+            "Medium Capacitor Control Circuit II":{
+                "name":"Medium Capacitor Control Circuit II",
+                "typeid":"31378",
+                "line":"337"
+            }
+        },
+        {
+            "Capital Capacitor Control Circuit II":{
+                "name":"Capital Capacitor Control Circuit II",
+                "typeid":"31380",
+                "line":"338"
+            }
+        },
+        {
+            "Small Egress Port Maximizer I":{
+                "name":"Small Egress Port Maximizer I",
+                "typeid":"31382",
+                "line":"339"
+            }
+        },
+        {
+            "Medium Egress Port Maximizer I":{
+                "name":"Medium Egress Port Maximizer I",
+                "typeid":"31384",
+                "line":"340"
+            }
+        },
+        {
+            "Capital Egress Port Maximizer I":{
+                "name":"Capital Egress Port Maximizer I",
+                "typeid":"31386",
+                "line":"341"
+            }
+        },
+        {
+            "Small Egress Port Maximizer II":{
+                "name":"Small Egress Port Maximizer II",
+                "typeid":"31388",
+                "line":"342"
+            }
+        },
+        {
+            "Medium Egress Port Maximizer II":{
+                "name":"Medium Egress Port Maximizer II",
+                "typeid":"31390",
+                "line":"343"
+            }
+        },
+        {
+            "Capital Egress Port Maximizer II":{
+                "name":"Capital Egress Port Maximizer II",
+                "typeid":"31392",
+                "line":"344"
+            }
+        },
+        {
+            "Small Powergrid Subroutine Maximizer I":{
+                "name":"Small Powergrid Subroutine Maximizer I",
+                "typeid":"31394",
+                "line":"345"
+            }
+        },
+        {
+            "Medium Powergrid Subroutine Maximizer I":{
+                "name":"Medium Powergrid Subroutine Maximizer I",
+                "typeid":"31396",
+                "line":"346"
+            }
+        },
+        {
+            "Capital Powergrid Subroutine Maximizer I":{
+                "name":"Capital Powergrid Subroutine Maximizer I",
+                "typeid":"31398",
+                "line":"347"
+            }
+        },
+        {
+            "Small Powergrid Subroutine Maximizer II":{
+                "name":"Small Powergrid Subroutine Maximizer II",
+                "typeid":"31400",
+                "line":"348"
+            }
+        },
+        {
+            "Medium Powergrid Subroutine Maximizer II":{
+                "name":"Medium Powergrid Subroutine Maximizer II",
+                "typeid":"31402",
+                "line":"349"
+            }
+        },
+        {
+            "Capital Powergrid Subroutine Maximizer II":{
+                "name":"Capital Powergrid Subroutine Maximizer II",
+                "typeid":"31404",
+                "line":"350"
+            }
+        },
+        {
+            "Small Semiconductor Memory Cell I":{
+                "name":"Small Semiconductor Memory Cell I",
+                "typeid":"31406",
+                "line":"351"
+            }
+        },
+        {
+            "Medium Semiconductor Memory Cell I":{
+                "name":"Medium Semiconductor Memory Cell I",
+                "typeid":"31408",
+                "line":"352"
+            }
+        },
+        {
+            "Capital Semiconductor Memory Cell I":{
+                "name":"Capital Semiconductor Memory Cell I",
+                "typeid":"31410",
+                "line":"353"
+            }
+        },
+        {
+            "Small Semiconductor Memory Cell II":{
+                "name":"Small Semiconductor Memory Cell II",
+                "typeid":"31412",
+                "line":"354"
+            }
+        },
+        {
+            "Medium Semiconductor Memory Cell II":{
+                "name":"Medium Semiconductor Memory Cell II",
+                "typeid":"31414",
+                "line":"355"
+            }
+        },
+        {
+            "Capital Semiconductor Memory Cell II":{
+                "name":"Capital Semiconductor Memory Cell II",
+                "typeid":"31416",
+                "line":"356"
+            }
+        },
+        {
+            "Small Algid Energy Administrations Unit I":{
+                "name":"Small Algid Energy Administrations Unit I",
+                "typeid":"31418",
+                "line":"357"
+            }
+        },
+        {
+            "Medium Algid Energy Administrations Unit I":{
+                "name":"Medium Algid Energy Administrations Unit I",
+                "typeid":"31420",
+                "line":"358"
+            }
+        },
+        {
+            "Capital Algid Energy Administrations Unit I":{
+                "name":"Capital Algid Energy Administrations Unit I",
+                "typeid":"31422",
+                "line":"359"
+            }
+        },
+        {
+            "Small Algid Energy Administrations Unit II":{
+                "name":"Small Algid Energy Administrations Unit II",
+                "typeid":"31424",
+                "line":"360"
+            }
+        },
+        {
+            "Medium Algid Energy Administrations Unit II":{
+                "name":"Medium Algid Energy Administrations Unit II",
+                "typeid":"31426",
+                "line":"361"
+            }
+        },
+        {
+            "Capital Algid Energy Administrations Unit II":{
+                "name":"Capital Algid Energy Administrations Unit II",
+                "typeid":"31428",
+                "line":"362"
+            }
+        },
+        {
+            "Small Energy Ambit Extension I":{
+                "name":"Small Energy Ambit Extension I",
+                "typeid":"31430",
+                "line":"363"
+            }
+        },
+        {
+            "Medium Energy Ambit Extension I":{
+                "name":"Medium Energy Ambit Extension I",
+                "typeid":"31432",
+                "line":"364"
+            }
+        },
+        {
+            "Capital Energy Ambit Extension I":{
+                "name":"Capital Energy Ambit Extension I",
+                "typeid":"31434",
+                "line":"365"
+            }
+        },
+        {
+            "Small Energy Ambit Extension II":{
+                "name":"Small Energy Ambit Extension II",
+                "typeid":"31436",
+                "line":"366"
+            }
+        },
+        {
+            "Medium Energy Ambit Extension II":{
+                "name":"Medium Energy Ambit Extension II",
+                "typeid":"31438",
+                "line":"367"
+            }
+        },
+        {
+            "Capital Energy Ambit Extension II":{
+                "name":"Capital Energy Ambit Extension II",
+                "typeid":"31440",
+                "line":"368"
+            }
+        },
+        {
+            "Small Energy Burst Aerator I":{
+                "name":"Small Energy Burst Aerator I",
+                "typeid":"31442",
+                "line":"369"
+            }
+        },
+        {
+            "Medium Energy Burst Aerator I":{
+                "name":"Medium Energy Burst Aerator I",
+                "typeid":"31444",
+                "line":"370"
+            }
+        },
+        {
+            "Capital Energy Burst Aerator I":{
+                "name":"Capital Energy Burst Aerator I",
+                "typeid":"31446",
+                "line":"371"
+            }
+        },
+        {
+            "Small Energy Burst Aerator II":{
+                "name":"Small Energy Burst Aerator II",
+                "typeid":"31448",
+                "line":"372"
+            }
+        },
+        {
+            "Medium Energy Burst Aerator II":{
+                "name":"Medium Energy Burst Aerator II",
+                "typeid":"31450",
+                "line":"373"
+            }
+        },
+        {
+            "Capital Energy Burst Aerator II":{
+                "name":"Capital Energy Burst Aerator II",
+                "typeid":"31452",
+                "line":"374"
+            }
+        },
+        {
+            "Small Energy Collision Accelerator I":{
+                "name":"Small Energy Collision Accelerator I",
+                "typeid":"31454",
+                "line":"375"
+            }
+        },
+        {
+            "Medium Energy Collision Accelerator I":{
+                "name":"Medium Energy Collision Accelerator I",
+                "typeid":"31456",
+                "line":"376"
+            }
+        },
+        {
+            "Capital Energy Collision Accelerator I":{
+                "name":"Capital Energy Collision Accelerator I",
+                "typeid":"31458",
+                "line":"377"
+            }
+        },
+        {
+            "Small Energy Collision Accelerator II":{
+                "name":"Small Energy Collision Accelerator II",
+                "typeid":"31460",
+                "line":"378"
+            }
+        },
+        {
+            "Medium Energy Collision Accelerator II":{
+                "name":"Medium Energy Collision Accelerator II",
+                "typeid":"31462",
+                "line":"379"
+            }
+        },
+        {
+            "Capital Energy Collision Accelerator II":{
+                "name":"Capital Energy Collision Accelerator II",
+                "typeid":"31464",
+                "line":"380"
+            }
+        },
+        {
+            "Small Energy Discharge Elutriation I":{
+                "name":"Small Energy Discharge Elutriation I",
+                "typeid":"31466",
+                "line":"381"
+            }
+        },
+        {
+            "Medium Energy Discharge Elutriation I":{
+                "name":"Medium Energy Discharge Elutriation I",
+                "typeid":"31468",
+                "line":"382"
+            }
+        },
+        {
+            "Capital Energy Discharge Elutriation I":{
+                "name":"Capital Energy Discharge Elutriation I",
+                "typeid":"31470",
+                "line":"383"
+            }
+        },
+        {
+            "Small Energy Discharge Elutriation II":{
+                "name":"Small Energy Discharge Elutriation II",
+                "typeid":"31472",
+                "line":"384"
+            }
+        },
+        {
+            "Medium Energy Discharge Elutriation II":{
+                "name":"Medium Energy Discharge Elutriation II",
+                "typeid":"31474",
+                "line":"385"
+            }
+        },
+        {
+            "Capital Energy Discharge Elutriation II":{
+                "name":"Capital Energy Discharge Elutriation II",
+                "typeid":"31476",
+                "line":"386"
+            }
+        },
+        {
+            "Small Energy Locus Coordinator I":{
+                "name":"Small Energy Locus Coordinator I",
+                "typeid":"31478",
+                "line":"387"
+            }
+        },
+        {
+            "Medium Energy Locus Coordinator I":{
+                "name":"Medium Energy Locus Coordinator I",
+                "typeid":"31480",
+                "line":"388"
+            }
+        },
+        {
+            "Capital Energy Locus Coordinator I":{
+                "name":"Capital Energy Locus Coordinator I",
+                "typeid":"31482",
+                "line":"389"
+            }
+        },
+        {
+            "Small Energy Locus Coordinator II":{
+                "name":"Small Energy Locus Coordinator II",
+                "typeid":"31484",
+                "line":"390"
+            }
+        },
+        {
+            "Medium Energy Locus Coordinator II":{
+                "name":"Medium Energy Locus Coordinator II",
+                "typeid":"31486",
+                "line":"391"
+            }
+        },
+        {
+            "Capital Energy Locus Coordinator II":{
+                "name":"Capital Energy Locus Coordinator II",
+                "typeid":"31488",
+                "line":"392"
+            }
+        },
+        {
+            "Small Energy Metastasis Adjuster I":{
+                "name":"Small Energy Metastasis Adjuster I",
+                "typeid":"31490",
+                "line":"393"
+            }
+        },
+        {
+            "Medium Energy Metastasis Adjuster I":{
+                "name":"Medium Energy Metastasis Adjuster I",
+                "typeid":"31492",
+                "line":"394"
+            }
+        },
+        {
+            "Capital Energy Metastasis Adjuster I":{
+                "name":"Capital Energy Metastasis Adjuster I",
+                "typeid":"31494",
+                "line":"395"
+            }
+        },
+        {
+            "Small Energy Metastasis Adjuster II":{
+                "name":"Small Energy Metastasis Adjuster II",
+                "typeid":"31496",
+                "line":"396"
+            }
+        },
+        {
+            "Medium Energy Metastasis Adjuster II":{
+                "name":"Medium Energy Metastasis Adjuster II",
+                "typeid":"31498",
+                "line":"397"
+            }
+        },
+        {
+            "Capital Energy Metastasis Adjuster II":{
+                "name":"Capital Energy Metastasis Adjuster II",
+                "typeid":"31500",
+                "line":"398"
+            }
+        },
+        {
+            "Small Algid Hybrid Administrations Unit I":{
+                "name":"Small Algid Hybrid Administrations Unit I",
+                "typeid":"31502",
+                "line":"399"
+            }
+        },
+        {
+            "Medium Algid Hybrid Administrations Unit I":{
+                "name":"Medium Algid Hybrid Administrations Unit I",
+                "typeid":"31504",
+                "line":"400"
+            }
+        },
+        {
+            "Capital Algid Hybrid Administrations Unit I":{
+                "name":"Capital Algid Hybrid Administrations Unit I",
+                "typeid":"31506",
+                "line":"401"
+            }
+        },
+        {
+            "Small Algid Hybrid Administrations Unit II":{
+                "name":"Small Algid Hybrid Administrations Unit II",
+                "typeid":"31508",
+                "line":"402"
+            }
+        },
+        {
+            "Medium Algid Hybrid Administrations Unit II":{
+                "name":"Medium Algid Hybrid Administrations Unit II",
+                "typeid":"31510",
+                "line":"403"
+            }
+        },
+        {
+            "Capital Algid Hybrid Administrations Unit II":{
+                "name":"Capital Algid Hybrid Administrations Unit II",
+                "typeid":"31512",
+                "line":"404"
+            }
+        },
+        {
+            "Small Hybrid Ambit Extension I":{
+                "name":"Small Hybrid Ambit Extension I",
+                "typeid":"31514",
+                "line":"405"
+            }
+        },
+        {
+            "Medium Hybrid Ambit Extension I":{
+                "name":"Medium Hybrid Ambit Extension I",
+                "typeid":"31516",
+                "line":"406"
+            }
+        },
+        {
+            "Capital Hybrid Ambit Extension I":{
+                "name":"Capital Hybrid Ambit Extension I",
+                "typeid":"31518",
+                "line":"407"
+            }
+        },
+        {
+            "Small Hybrid Ambit Extension II":{
+                "name":"Small Hybrid Ambit Extension II",
+                "typeid":"31520",
+                "line":"408"
+            }
+        },
+        {
+            "Medium Hybrid Ambit Extension II":{
+                "name":"Medium Hybrid Ambit Extension II",
+                "typeid":"31522",
+                "line":"409"
+            }
+        },
+        {
+            "Capital Hybrid Ambit Extension II":{
+                "name":"Capital Hybrid Ambit Extension II",
+                "typeid":"31524",
+                "line":"410"
+            }
+        },
+        {
+            "Small Hybrid Burst Aerator I":{
+                "name":"Small Hybrid Burst Aerator I",
+                "typeid":"31526",
+                "line":"411"
+            }
+        },
+        {
+            "Medium Hybrid Burst Aerator I":{
+                "name":"Medium Hybrid Burst Aerator I",
+                "typeid":"31528",
+                "line":"412"
+            }
+        },
+        {
+            "Capital Hybrid Burst Aerator I":{
+                "name":"Capital Hybrid Burst Aerator I",
+                "typeid":"31530",
+                "line":"413"
+            }
+        },
+        {
+            "Small Hybrid Burst Aerator II":{
+                "name":"Small Hybrid Burst Aerator II",
+                "typeid":"31532",
+                "line":"414"
+            }
+        },
+        {
+            "Medium Hybrid Burst Aerator II":{
+                "name":"Medium Hybrid Burst Aerator II",
+                "typeid":"31534",
+                "line":"415"
+            }
+        },
+        {
+            "Capital Hybrid Burst Aerator II":{
+                "name":"Capital Hybrid Burst Aerator II",
+                "typeid":"31536",
+                "line":"416"
+            }
+        },
+        {
+            "Small Hybrid Collision Accelerator I":{
+                "name":"Small Hybrid Collision Accelerator I",
+                "typeid":"31538",
+                "line":"417"
+            }
+        },
+        {
+            "Medium Hybrid Collision Accelerator I":{
+                "name":"Medium Hybrid Collision Accelerator I",
+                "typeid":"31540",
+                "line":"418"
+            }
+        },
+        {
+            "Capital Hybrid Collision Accelerator I":{
+                "name":"Capital Hybrid Collision Accelerator I",
+                "typeid":"31542",
+                "line":"419"
+            }
+        },
+        {
+            "Small Hybrid Collision Accelerator II":{
+                "name":"Small Hybrid Collision Accelerator II",
+                "typeid":"31544",
+                "line":"420"
+            }
+        },
+        {
+            "Medium Hybrid Collision Accelerator II":{
+                "name":"Medium Hybrid Collision Accelerator II",
+                "typeid":"31546",
+                "line":"421"
+            }
+        },
+        {
+            "Capital Hybrid Collision Accelerator II":{
+                "name":"Capital Hybrid Collision Accelerator II",
+                "typeid":"31548",
+                "line":"422"
+            }
+        },
+        {
+            "Small Hybrid Discharge Elutriation I":{
+                "name":"Small Hybrid Discharge Elutriation I",
+                "typeid":"31550",
+                "line":"423"
+            }
+        },
+        {
+            "Medium Hybrid Discharge Elutriation I":{
+                "name":"Medium Hybrid Discharge Elutriation I",
+                "typeid":"31552",
+                "line":"424"
+            }
+        },
+        {
+            "Capital Hybrid Discharge Elutriation I":{
+                "name":"Capital Hybrid Discharge Elutriation I",
+                "typeid":"31554",
+                "line":"425"
+            }
+        },
+        {
+            "Small Hybrid Discharge Elutriation II":{
+                "name":"Small Hybrid Discharge Elutriation II",
+                "typeid":"31556",
+                "line":"426"
+            }
+        },
+        {
+            "Medium Hybrid Discharge Elutriation II":{
+                "name":"Medium Hybrid Discharge Elutriation II",
+                "typeid":"31558",
+                "line":"427"
+            }
+        },
+        {
+            "Capital Hybrid Discharge Elutriation II":{
+                "name":"Capital Hybrid Discharge Elutriation II",
+                "typeid":"31560",
+                "line":"428"
+            }
+        },
+        {
+            "Small Hybrid Locus Coordinator I":{
+                "name":"Small Hybrid Locus Coordinator I",
+                "typeid":"31562",
+                "line":"429"
+            }
+        },
+        {
+            "Medium Hybrid Locus Coordinator I":{
+                "name":"Medium Hybrid Locus Coordinator I",
+                "typeid":"31564",
+                "line":"430"
+            }
+        },
+        {
+            "Capital Hybrid Locus Coordinator I":{
+                "name":"Capital Hybrid Locus Coordinator I",
+                "typeid":"31566",
+                "line":"431"
+            }
+        },
+        {
+            "Small Hybrid Locus Coordinator II":{
+                "name":"Small Hybrid Locus Coordinator II",
+                "typeid":"31568",
+                "line":"432"
+            }
+        },
+        {
+            "Medium Hybrid Locus Coordinator II":{
+                "name":"Medium Hybrid Locus Coordinator II",
+                "typeid":"31570",
+                "line":"433"
+            }
+        },
+        {
+            "Capital Hybrid Locus Coordinator II":{
+                "name":"Capital Hybrid Locus Coordinator II",
+                "typeid":"31572",
+                "line":"434"
+            }
+        },
+        {
+            "Small Hybrid Metastasis Adjuster I":{
+                "name":"Small Hybrid Metastasis Adjuster I",
+                "typeid":"31574",
+                "line":"435"
+            }
+        },
+        {
+            "Medium Hybrid Metastasis Adjuster I":{
+                "name":"Medium Hybrid Metastasis Adjuster I",
+                "typeid":"31576",
+                "line":"436"
+            }
+        },
+        {
+            "Capital Hybrid Metastasis Adjuster I":{
+                "name":"Capital Hybrid Metastasis Adjuster I",
+                "typeid":"31578",
+                "line":"437"
+            }
+        },
+        {
+            "Small Hybrid Metastasis Adjuster II":{
+                "name":"Small Hybrid Metastasis Adjuster II",
+                "typeid":"31580",
+                "line":"438"
+            }
+        },
+        {
+            "Medium Hybrid Metastasis Adjuster II":{
+                "name":"Medium Hybrid Metastasis Adjuster II",
+                "typeid":"31582",
+                "line":"439"
+            }
+        },
+        {
+            "Capital Hybrid Metastasis Adjuster II":{
+                "name":"Capital Hybrid Metastasis Adjuster II",
+                "typeid":"31584",
+                "line":"440"
+            }
+        },
+        {
+            "Small Bay Loading Accelerator I":{
+                "name":"Small Bay Loading Accelerator I",
+                "typeid":"31586",
+                "line":"441"
+            }
+        },
+        {
+            "Medium Bay Loading Accelerator I":{
+                "name":"Medium Bay Loading Accelerator I",
+                "typeid":"31588",
+                "line":"442"
+            }
+        },
+        {
+            "Capital Bay Loading Accelerator I":{
+                "name":"Capital Bay Loading Accelerator I",
+                "typeid":"31590",
+                "line":"443"
+            }
+        },
+        {
+            "Small Bay Loading Accelerator II":{
+                "name":"Small Bay Loading Accelerator II",
+                "typeid":"31592",
+                "line":"444"
+            }
+        },
+        {
+            "Medium Bay Loading Accelerator II":{
+                "name":"Medium Bay Loading Accelerator II",
+                "typeid":"31594",
+                "line":"445"
+            }
+        },
+        {
+            "Capital Bay Loading Accelerator II":{
+                "name":"Capital Bay Loading Accelerator II",
+                "typeid":"31596",
+                "line":"446"
+            }
+        },
+        {
+            "Small Hydraulic Bay Thrusters I":{
+                "name":"Small Hydraulic Bay Thrusters I",
+                "typeid":"31598",
+                "line":"447"
+            }
+        },
+        {
+            "Medium Hydraulic Bay Thrusters I":{
+                "name":"Medium Hydraulic Bay Thrusters I",
+                "typeid":"31600",
+                "line":"448"
+            }
+        },
+        {
+            "Capital Hydraulic Bay Thrusters I":{
+                "name":"Capital Hydraulic Bay Thrusters I",
+                "typeid":"31602",
+                "line":"449"
+            }
+        },
+        {
+            "Small Hydraulic Bay Thrusters II":{
+                "name":"Small Hydraulic Bay Thrusters II",
+                "typeid":"31604",
+                "line":"450"
+            }
+        },
+        {
+            "Medium Hydraulic Bay Thrusters II":{
+                "name":"Medium Hydraulic Bay Thrusters II",
+                "typeid":"31606",
+                "line":"451"
+            }
+        },
+        {
+            "Small Rocket Fuel Cache Partition I":{
+                "name":"Small Rocket Fuel Cache Partition I",
+                "typeid":"31608",
+                "line":"452"
+            }
+        },
+        {
+            "Medium Rocket Fuel Cache Partition I":{
+                "name":"Medium Rocket Fuel Cache Partition I",
+                "typeid":"31610",
+                "line":"453"
+            }
+        },
+        {
+            "Capital Rocket Fuel Cache Partition I":{
+                "name":"Capital Rocket Fuel Cache Partition I",
+                "typeid":"31612",
+                "line":"454"
+            }
+        },
+        {
+            "Small Rocket Fuel Cache Partition II":{
+                "name":"Small Rocket Fuel Cache Partition II",
+                "typeid":"31614",
+                "line":"455"
+            }
+        },
+        {
+            "Medium Rocket Fuel Cache Partition II":{
+                "name":"Medium Rocket Fuel Cache Partition II",
+                "typeid":"31616",
+                "line":"456"
+            }
+        },
+        {
+            "Capital Rocket Fuel Cache Partition II":{
+                "name":"Capital Rocket Fuel Cache Partition II",
+                "typeid":"31618",
+                "line":"457"
+            }
+        },
+        {
+            "Small Warhead Calefaction Catalyst I":{
+                "name":"Small Warhead Calefaction Catalyst I",
+                "typeid":"31620",
+                "line":"458"
+            }
+        },
+        {
+            "Medium Warhead Calefaction Catalyst I":{
+                "name":"Medium Warhead Calefaction Catalyst I",
+                "typeid":"31622",
+                "line":"459"
+            }
+        },
+        {
+            "Capital Warhead Calefaction Catalyst I":{
+                "name":"Capital Warhead Calefaction Catalyst I",
+                "typeid":"31624",
+                "line":"460"
+            }
+        },
+        {
+            "Small Warhead Calefaction Catalyst II":{
+                "name":"Small Warhead Calefaction Catalyst II",
+                "typeid":"31626",
+                "line":"461"
+            }
+        },
+        {
+            "Medium Warhead Calefaction Catalyst II":{
+                "name":"Medium Warhead Calefaction Catalyst II",
+                "typeid":"31628",
+                "line":"462"
+            }
+        },
+        {
+            "Capital Warhead Calefaction Catalyst II":{
+                "name":"Capital Warhead Calefaction Catalyst II",
+                "typeid":"31630",
+                "line":"463"
+            }
+        },
+        {
+            "Small Warhead Flare Catalyst I":{
+                "name":"Small Warhead Flare Catalyst I",
+                "typeid":"31632",
+                "line":"464"
+            }
+        },
+        {
+            "Medium Warhead Flare Catalyst I":{
+                "name":"Medium Warhead Flare Catalyst I",
+                "typeid":"31634",
+                "line":"465"
+            }
+        },
+        {
+            "Capital Warhead Flare Catalyst I":{
+                "name":"Capital Warhead Flare Catalyst I",
+                "typeid":"31636",
+                "line":"466"
+            }
+        },
+        {
+            "Small Warhead Flare Catalyst II":{
+                "name":"Small Warhead Flare Catalyst II",
+                "typeid":"31638",
+                "line":"467"
+            }
+        },
+        {
+            "Medium Warhead Flare Catalyst II":{
+                "name":"Medium Warhead Flare Catalyst II",
+                "typeid":"31640",
+                "line":"468"
+            }
+        },
+        {
+            "Capital Warhead Flare Catalyst II":{
+                "name":"Capital Warhead Flare Catalyst II",
+                "typeid":"31642",
+                "line":"469"
+            }
+        },
+        {
+            "Small Warhead Rigor Catalyst I":{
+                "name":"Small Warhead Rigor Catalyst I",
+                "typeid":"31644",
+                "line":"470"
+            }
+        },
+        {
+            "Medium Warhead Rigor Catalyst I":{
+                "name":"Medium Warhead Rigor Catalyst I",
+                "typeid":"31646",
+                "line":"471"
+            }
+        },
+        {
+            "Capital Warhead Rigor Catalyst I":{
+                "name":"Capital Warhead Rigor Catalyst I",
+                "typeid":"31648",
+                "line":"472"
+            }
+        },
+        {
+            "Small Warhead Rigor Catalyst II":{
+                "name":"Small Warhead Rigor Catalyst II",
+                "typeid":"31650",
+                "line":"473"
+            }
+        },
+        {
+            "Medium Warhead Rigor Catalyst II":{
+                "name":"Medium Warhead Rigor Catalyst II",
+                "typeid":"31652",
+                "line":"474"
+            }
+        },
+        {
+            "Capital Warhead Rigor Catalyst II":{
+                "name":"Capital Warhead Rigor Catalyst II",
+                "typeid":"31654",
+                "line":"475"
+            }
+        },
+        {
+            "Small Projectile Ambit Extension I":{
+                "name":"Small Projectile Ambit Extension I",
+                "typeid":"31656",
+                "line":"476"
+            }
+        },
+        {
+            "Medium Projectile Ambit Extension I":{
+                "name":"Medium Projectile Ambit Extension I",
+                "typeid":"31658",
+                "line":"477"
+            }
+        },
+        {
+            "Capital Projectile Ambit Extension I":{
+                "name":"Capital Projectile Ambit Extension I",
+                "typeid":"31660",
+                "line":"478"
+            }
+        },
+        {
+            "Small Projectile Ambit Extension II":{
+                "name":"Small Projectile Ambit Extension II",
+                "typeid":"31662",
+                "line":"479"
+            }
+        },
+        {
+            "Medium Projectile Ambit Extension II":{
+                "name":"Medium Projectile Ambit Extension II",
+                "typeid":"31664",
+                "line":"480"
+            }
+        },
+        {
+            "Capital Projectile Ambit Extension II":{
+                "name":"Capital Projectile Ambit Extension II",
+                "typeid":"31666",
+                "line":"481"
+            }
+        },
+        {
+            "Small Projectile Burst Aerator I":{
+                "name":"Small Projectile Burst Aerator I",
+                "typeid":"31668",
+                "line":"482"
+            }
+        },
+        {
+            "Medium Projectile Burst Aerator I":{
+                "name":"Medium Projectile Burst Aerator I",
+                "typeid":"31670",
+                "line":"483"
+            }
+        },
+        {
+            "Capital Projectile Burst Aerator I":{
+                "name":"Capital Projectile Burst Aerator I",
+                "typeid":"31672",
+                "line":"484"
+            }
+        },
+        {
+            "Small Projectile Burst Aerator II":{
+                "name":"Small Projectile Burst Aerator II",
+                "typeid":"31674",
+                "line":"485"
+            }
+        },
+        {
+            "Medium Projectile Burst Aerator II":{
+                "name":"Medium Projectile Burst Aerator II",
+                "typeid":"31676",
+                "line":"486"
+            }
+        },
+        {
+            "Capital Projectile Burst Aerator II":{
+                "name":"Capital Projectile Burst Aerator II",
+                "typeid":"31678",
+                "line":"487"
+            }
+        },
+        {
+            "Small Projectile Collision Accelerator I":{
+                "name":"Small Projectile Collision Accelerator I",
+                "typeid":"31680",
+                "line":"488"
+            }
+        },
+        {
+            "Medium Projectile Collision Accelerator I":{
+                "name":"Medium Projectile Collision Accelerator I",
+                "typeid":"31682",
+                "line":"489"
+            }
+        },
+        {
+            "Capital Projectile Collision Accelerator I":{
+                "name":"Capital Projectile Collision Accelerator I",
+                "typeid":"31684",
+                "line":"490"
+            }
+        },
+        {
+            "Small Projectile Collision Accelerator II":{
+                "name":"Small Projectile Collision Accelerator II",
+                "typeid":"31686",
+                "line":"491"
+            }
+        },
+        {
+            "Medium Projectile Collision Accelerator II":{
+                "name":"Medium Projectile Collision Accelerator II",
+                "typeid":"31688",
+                "line":"492"
+            }
+        },
+        {
+            "Capital Projectile Collision Accelerator II":{
+                "name":"Capital Projectile Collision Accelerator II",
+                "typeid":"31690",
+                "line":"493"
+            }
+        },
+        {
+            "Small Projectile Locus Coordinator I":{
+                "name":"Small Projectile Locus Coordinator I",
+                "typeid":"31692",
+                "line":"494"
+            }
+        },
+        {
+            "Medium Projectile Locus Coordinator I":{
+                "name":"Medium Projectile Locus Coordinator I",
+                "typeid":"31694",
+                "line":"495"
+            }
+        },
+        {
+            "Capital Projectile Locus Coordinator I":{
+                "name":"Capital Projectile Locus Coordinator I",
+                "typeid":"31696",
+                "line":"496"
+            }
+        },
+        {
+            "Small Projectile Locus Coordinator II":{
+                "name":"Small Projectile Locus Coordinator II",
+                "typeid":"31698",
+                "line":"497"
+            }
+        },
+        {
+            "Medium Projectile Locus Coordinator II":{
+                "name":"Medium Projectile Locus Coordinator II",
+                "typeid":"31700",
+                "line":"498"
+            }
+        },
+        {
+            "Capital Projectile Locus Coordinator II":{
+                "name":"Capital Projectile Locus Coordinator II",
+                "typeid":"31702",
+                "line":"499"
+            }
+        },
+        {
+            "Small Projectile Metastasis Adjuster I":{
+                "name":"Small Projectile Metastasis Adjuster I",
+                "typeid":"31704",
+                "line":"500"
+            }
+        },
+        {
+            "Medium Projectile Metastasis Adjuster I":{
+                "name":"Medium Projectile Metastasis Adjuster I",
+                "typeid":"31706",
+                "line":"501"
+            }
+        },
+        {
+            "Capital Projectile Metastasis Adjuster I":{
+                "name":"Capital Projectile Metastasis Adjuster I",
+                "typeid":"31708",
+                "line":"502"
+            }
+        },
+        {
+            "Small Projectile Metastasis Adjuster II":{
+                "name":"Small Projectile Metastasis Adjuster II",
+                "typeid":"31710",
+                "line":"503"
+            }
+        },
+        {
+            "Medium Projectile Metastasis Adjuster II":{
+                "name":"Medium Projectile Metastasis Adjuster II",
+                "typeid":"31712",
+                "line":"504"
+            }
+        },
+        {
+            "Capital Projectile Metastasis Adjuster II":{
+                "name":"Capital Projectile Metastasis Adjuster II",
+                "typeid":"31714",
+                "line":"505"
+            }
+        },
+        {
+            "Small EM Shield Reinforcer I":{
+                "name":"Small EM Shield Reinforcer I",
+                "typeid":"31716",
+                "line":"506"
+            }
+        },
+        {
+            "Medium EM Shield Reinforcer I":{
+                "name":"Medium EM Shield Reinforcer I",
+                "typeid":"31718",
+                "line":"507"
+            }
+        },
+        {
+            "Capital EM Shield Reinforcer I":{
+                "name":"Capital EM Shield Reinforcer I",
+                "typeid":"31720",
+                "line":"508"
+            }
+        },
+        {
+            "Small EM Shield Reinforcer II":{
+                "name":"Small EM Shield Reinforcer II",
+                "typeid":"31722",
+                "line":"509"
+            }
+        },
+        {
+            "Medium EM Shield Reinforcer II":{
+                "name":"Medium EM Shield Reinforcer II",
+                "typeid":"31724",
+                "line":"510"
+            }
+        },
+        {
+            "Capital EM Shield Reinforcer II":{
+                "name":"Capital EM Shield Reinforcer II",
+                "typeid":"31726",
+                "line":"511"
+            }
+        },
+        {
+            "Small Explosive Shield Reinforcer I":{
+                "name":"Small Explosive Shield Reinforcer I",
+                "typeid":"31728",
+                "line":"512"
+            }
+        },
+        {
+            "Medium Explosive Shield Reinforcer I":{
+                "name":"Medium Explosive Shield Reinforcer I",
+                "typeid":"31730",
+                "line":"513"
+            }
+        },
+        {
+            "Capital Explosive Shield Reinforcer I":{
+                "name":"Capital Explosive Shield Reinforcer I",
+                "typeid":"31732",
+                "line":"514"
+            }
+        },
+        {
+            "Small Explosive Shield Reinforcer II":{
+                "name":"Small Explosive Shield Reinforcer II",
+                "typeid":"31734",
+                "line":"515"
+            }
+        },
+        {
+            "Medium Explosive Shield Reinforcer II":{
+                "name":"Medium Explosive Shield Reinforcer II",
+                "typeid":"31736",
+                "line":"516"
+            }
+        },
+        {
+            "Capital Explosive Shield Reinforcer II":{
+                "name":"Capital Explosive Shield Reinforcer II",
+                "typeid":"31738",
+                "line":"517"
+            }
+        },
+        {
+            "Small Kinetic Shield Reinforcer I":{
+                "name":"Small Kinetic Shield Reinforcer I",
+                "typeid":"31740",
+                "line":"518"
+            }
+        },
+        {
+            "Medium Kinetic Shield Reinforcer I":{
+                "name":"Medium Kinetic Shield Reinforcer I",
+                "typeid":"31742",
+                "line":"519"
+            }
+        },
+        {
+            "Capital Kinetic Shield Reinforcer I":{
+                "name":"Capital Kinetic Shield Reinforcer I",
+                "typeid":"31744",
+                "line":"520"
+            }
+        },
+        {
+            "Small Kinetic Shield Reinforcer II":{
+                "name":"Small Kinetic Shield Reinforcer II",
+                "typeid":"31746",
+                "line":"521"
+            }
+        },
+        {
+            "Medium Kinetic Shield Reinforcer II":{
+                "name":"Medium Kinetic Shield Reinforcer II",
+                "typeid":"31748",
+                "line":"522"
+            }
+        },
+        {
+            "Capital Kinetic Shield Reinforcer II":{
+                "name":"Capital Kinetic Shield Reinforcer II",
+                "typeid":"31750",
+                "line":"523"
+            }
+        },
+        {
+            "Small Thermal Shield Reinforcer I":{
+                "name":"Small Thermal Shield Reinforcer I",
+                "typeid":"31752",
+                "line":"524"
+            }
+        },
+        {
+            "Medium Thermal Shield Reinforcer I":{
+                "name":"Medium Thermal Shield Reinforcer I",
+                "typeid":"31754",
+                "line":"525"
+            }
+        },
+        {
+            "Capital Thermal Shield Reinforcer I":{
+                "name":"Capital Thermal Shield Reinforcer I",
+                "typeid":"31756",
+                "line":"526"
+            }
+        },
+        {
+            "Small Thermal Shield Reinforcer II":{
+                "name":"Small Thermal Shield Reinforcer II",
+                "typeid":"31758",
+                "line":"527"
+            }
+        },
+        {
+            "Medium Thermal Shield Reinforcer II":{
+                "name":"Medium Thermal Shield Reinforcer II",
+                "typeid":"31760",
+                "line":"528"
+            }
+        },
+        {
+            "Capital Thermal Shield Reinforcer II":{
+                "name":"Capital Thermal Shield Reinforcer II",
+                "typeid":"31762",
+                "line":"529"
+            }
+        },
+        {
+            "Small Core Defense Capacitor Safeguard I":{
+                "name":"Small Core Defense Capacitor Safeguard I",
+                "typeid":"31764",
+                "line":"530"
+            }
+        },
+        {
+            "Medium Core Defense Capacitor Safeguard I":{
+                "name":"Medium Core Defense Capacitor Safeguard I",
+                "typeid":"31766",
+                "line":"531"
+            }
+        },
+        {
+            "Capital Core Defense Capacitor Safeguard I":{
+                "name":"Capital Core Defense Capacitor Safeguard I",
+                "typeid":"31768",
+                "line":"532"
+            }
+        },
+        {
+            "Small Core Defense Capacitor Safeguard II":{
+                "name":"Small Core Defense Capacitor Safeguard II",
+                "typeid":"31770",
+                "line":"533"
+            }
+        },
+        {
+            "Medium Core Defense Capacitor Safeguard II":{
+                "name":"Medium Core Defense Capacitor Safeguard II",
+                "typeid":"31772",
+                "line":"534"
+            }
+        },
+        {
+            "Capital Core Defense Capacitor Safeguard II":{
+                "name":"Capital Core Defense Capacitor Safeguard II",
+                "typeid":"31774",
+                "line":"535"
+            }
+        },
+        {
+            "Small Core Defense Charge Economizer I":{
+                "name":"Small Core Defense Charge Economizer I",
+                "typeid":"31776",
+                "line":"536"
+            }
+        },
+        {
+            "Medium Core Defense Charge Economizer I":{
+                "name":"Medium Core Defense Charge Economizer I",
+                "typeid":"31778",
+                "line":"537"
+            }
+        },
+        {
+            "Capital Core Defense Charge Economizer I":{
+                "name":"Capital Core Defense Charge Economizer I",
+                "typeid":"31780",
+                "line":"538"
+            }
+        },
+        {
+            "Small Core Defense Charge Economizer II":{
+                "name":"Small Core Defense Charge Economizer II",
+                "typeid":"31782",
+                "line":"539"
+            }
+        },
+        {
+            "Medium Core Defense Charge Economizer II":{
+                "name":"Medium Core Defense Charge Economizer II",
+                "typeid":"31784",
+                "line":"540"
+            }
+        },
+        {
+            "Capital Core Defense Charge Economizer II":{
+                "name":"Capital Core Defense Charge Economizer II",
+                "typeid":"31786",
+                "line":"541"
+            }
+        },
+        {
+            "Small Core Defense Field Extender I":{
+                "name":"Small Core Defense Field Extender I",
+                "typeid":"31788",
+                "line":"542"
+            }
+        },
+        {
+            "Medium Core Defense Field Extender I":{
+                "name":"Medium Core Defense Field Extender I",
+                "typeid":"31790",
+                "line":"543"
+            }
+        },
+        {
+            "Capital Core Defense Field Extender I":{
+                "name":"Capital Core Defense Field Extender I",
+                "typeid":"31792",
+                "line":"544"
+            }
+        },
+        {
+            "Small Core Defense Field Extender II":{
+                "name":"Small Core Defense Field Extender II",
+                "typeid":"31794",
+                "line":"545"
+            }
+        },
+        {
+            "Medium Core Defense Field Extender II":{
+                "name":"Medium Core Defense Field Extender II",
+                "typeid":"31796",
+                "line":"546"
+            }
+        },
+        {
+            "Capital Core Defense Field Extender II":{
+                "name":"Capital Core Defense Field Extender II",
+                "typeid":"31798",
+                "line":"547"
+            }
+        },
+        {
+            "Small Core Defense Field Purger I":{
+                "name":"Small Core Defense Field Purger I",
+                "typeid":"31800",
+                "line":"548"
+            }
+        },
+        {
+            "Medium Core Defense Field Purger I":{
+                "name":"Medium Core Defense Field Purger I",
+                "typeid":"31802",
+                "line":"549"
+            }
+        },
+        {
+            "Capital Core Defense Field Purger I":{
+                "name":"Capital Core Defense Field Purger I",
+                "typeid":"31804",
+                "line":"550"
+            }
+        },
+        {
+            "Small Core Defense Field Purger II":{
+                "name":"Small Core Defense Field Purger II",
+                "typeid":"31810",
+                "line":"551"
+            }
+        },
+        {
+            "Medium Core Defense Field Purger II":{
+                "name":"Medium Core Defense Field Purger II",
+                "typeid":"31812",
+                "line":"552"
+            }
+        },
+        {
+            "Capital Core Defense Field Purger II":{
+                "name":"Capital Core Defense Field Purger II",
+                "typeid":"31814",
+                "line":"553"
+            }
+        },
+        {
+            "Small Core Defense Operational Solidifier I":{
+                "name":"Small Core Defense Operational Solidifier I",
+                "typeid":"31816",
+                "line":"554"
+            }
+        },
+        {
+            "Medium Core Defense Operational Solidifier I":{
+                "name":"Medium Core Defense Operational Solidifier I",
+                "typeid":"31818",
+                "line":"555"
+            }
+        },
+        {
+            "Capital Core Defense Operational Solidifier I":{
+                "name":"Capital Core Defense Operational Solidifier I",
+                "typeid":"31820",
+                "line":"556"
+            }
+        },
+        {
+            "Small Core Defense Operational Solidifier II":{
+                "name":"Small Core Defense Operational Solidifier II",
+                "typeid":"31822",
+                "line":"557"
+            }
+        },
+        {
+            "Medium Core Defense Operational Solidifier II":{
+                "name":"Medium Core Defense Operational Solidifier II",
+                "typeid":"31824",
+                "line":"558"
+            }
+        },
+        {
+            "Capital Core Defense Operational Solidifier II":{
+                "name":"Capital Core Defense Operational Solidifier II",
+                "typeid":"31826",
+                "line":"559"
+            }
+        },
+        {
+            "Small Drone Control Range Augmentor I":{
+                "name":"Small Drone Control Range Augmentor I",
+                "typeid":"32025",
+                "line":"560"
+            }
+        },
+        {
+            "Medium Drone Control Range Augmentor I":{
+                "name":"Medium Drone Control Range Augmentor I",
+                "typeid":"32027",
+                "line":"561"
+            }
+        },
+        {
+            "Small Drone Control Range Augmentor II":{
+                "name":"Small Drone Control Range Augmentor II",
+                "typeid":"32029",
+                "line":"562"
+            }
+        },
+        {
+            "Medium Drone Control Range Augmentor II":{
+                "name":"Medium Drone Control Range Augmentor II",
+                "typeid":"32031",
+                "line":"563"
+            }
+        },
+        {
+            "Small Drone Durability Enhancer I":{
+                "name":"Small Drone Durability Enhancer I",
+                "typeid":"32033",
+                "line":"564"
+            }
+        },
+        {
+            "Medium Drone Durability Enhancer I":{
+                "name":"Medium Drone Durability Enhancer I",
+                "typeid":"32035",
+                "line":"565"
+            }
+        },
+        {
+            "Small Drone Durability Enhancer II":{
+                "name":"Small Drone Durability Enhancer II",
+                "typeid":"32037",
+                "line":"566"
+            }
+        },
+        {
+            "Medium Drone Durability Enhancer II":{
+                "name":"Medium Drone Durability Enhancer II",
+                "typeid":"32039",
+                "line":"567"
+            }
+        },
+        {
+            "Small Drone Mining Augmentor I":{
+                "name":"Small Drone Mining Augmentor I",
+                "typeid":"32041",
+                "line":"568"
+            }
+        },
+        {
+            "Medium Drone Mining Augmentor I":{
+                "name":"Medium Drone Mining Augmentor I",
+                "typeid":"32043",
+                "line":"569"
+            }
+        },
+        {
+            "Small Drone Mining Augmentor II":{
+                "name":"Small Drone Mining Augmentor II",
+                "typeid":"32045",
+                "line":"570"
+            }
+        },
+        {
+            "Medium Drone Mining Augmentor II":{
+                "name":"Medium Drone Mining Augmentor II",
+                "typeid":"32047",
+                "line":"571"
+            }
+        },
+        {
+            "Small Drone Repair Augmentor I":{
+                "name":"Small Drone Repair Augmentor I",
+                "typeid":"32049",
+                "line":"572"
+            }
+        },
+        {
+            "Medium Drone Repair Augmentor I":{
+                "name":"Medium Drone Repair Augmentor I",
+                "typeid":"32051",
+                "line":"573"
+            }
+        },
+        {
+            "Small Drone Repair Augmentor II":{
+                "name":"Small Drone Repair Augmentor II",
+                "typeid":"32053",
+                "line":"574"
+            }
+        },
+        {
+            "Medium Drone Repair Augmentor II":{
+                "name":"Medium Drone Repair Augmentor II",
+                "typeid":"32055",
+                "line":"575"
+            }
+        },
+        {
+            "Small Drone Speed Augmentor I":{
+                "name":"Small Drone Speed Augmentor I",
+                "typeid":"32057",
+                "line":"576"
+            }
+        },
+        {
+            "Medium Drone Speed Augmentor I":{
+                "name":"Medium Drone Speed Augmentor I",
+                "typeid":"32059",
+                "line":"577"
+            }
+        },
+        {
+            "Small Drone Speed Augmentor II":{
+                "name":"Small Drone Speed Augmentor II",
+                "typeid":"32061",
+                "line":"578"
+            }
+        },
+        {
+            "Medium Drone Speed Augmentor II":{
+                "name":"Medium Drone Speed Augmentor II",
+                "typeid":"32063",
+                "line":"579"
+            }
+        },
+        {
+            "Small Drone Scope Chip I":{
+                "name":"Small Drone Scope Chip I",
+                "typeid":"32069",
+                "line":"580"
+            }
+        },
+        {
+            "Medium Drone Scope Chip I":{
+                "name":"Medium Drone Scope Chip I",
+                "typeid":"32071",
+                "line":"581"
+            }
+        },
+        {
+            "Small Drone Scope Chip II":{
+                "name":"Small Drone Scope Chip II",
+                "typeid":"32073",
+                "line":"582"
+            }
+        },
+        {
+            "Medium Drone Scope Chip II":{
+                "name":"Medium Drone Scope Chip II",
+                "typeid":"32075",
+                "line":"583"
+            }
+        },
+        {
+            "Small Sentry Damage Augmentor I":{
+                "name":"Small Sentry Damage Augmentor I",
+                "typeid":"32081",
+                "line":"584"
+            }
+        },
+        {
+            "Medium Sentry Damage Augmentor I":{
+                "name":"Medium Sentry Damage Augmentor I",
+                "typeid":"32083",
+                "line":"585"
+            }
+        },
+        {
+            "Small Sentry Damage Augmentor II":{
+                "name":"Small Sentry Damage Augmentor II",
+                "typeid":"32085",
+                "line":"586"
+            }
+        },
+        {
+            "Medium Sentry Damage Augmentor II":{
+                "name":"Medium Sentry Damage Augmentor II",
+                "typeid":"32087",
+                "line":"587"
+            }
+        },
+        {
+            "Small Stasis Drone Augmentor I":{
+                "name":"Small Stasis Drone Augmentor I",
+                "typeid":"32089",
+                "line":"588"
+            }
+        },
+        {
+            "Medium Stasis Drone Augmentor I":{
+                "name":"Medium Stasis Drone Augmentor I",
+                "typeid":"32091",
+                "line":"589"
+            }
+        },
+        {
+            "Small Stasis Drone Augmentor II":{
+                "name":"Small Stasis Drone Augmentor II",
+                "typeid":"32093",
+                "line":"590"
+            }
+        },
+        {
+            "Medium Stasis Drone Augmentor II":{
+                "name":"Medium Stasis Drone Augmentor II",
+                "typeid":"32095",
+                "line":"591"
+            }
+        },
+        {
+            "Medium Mercoxit Mining Crystal Optimization I":{
+                "name":"Medium Mercoxit Mining Crystal Optimization I",
+                "typeid":"32817",
+                "line":"592"
+            }
+        },
+        {
+            "Medium Ice Harvester Accelerator I":{
+                "name":"Medium Ice Harvester Accelerator I",
+                "typeid":"32819",
+                "line":"593"
+            }
+        },
+        {
+            "Capital Drone Control Range Augmentor I":{
+                "name":"Capital Drone Control Range Augmentor I",
+                "typeid":"33277",
+                "line":"594"
+            }
+        },
+        {
+            "Capital Drone Control Range Augmentor II":{
+                "name":"Capital Drone Control Range Augmentor II",
+                "typeid":"33279",
+                "line":"595"
+            }
+        },
+        {
+            "Capital Drone Durability Enhancer I":{
+                "name":"Capital Drone Durability Enhancer I",
+                "typeid":"33281",
+                "line":"596"
+            }
+        },
+        {
+            "Capital Drone Durability Enhancer II":{
+                "name":"Capital Drone Durability Enhancer II",
+                "typeid":"33283",
+                "line":"597"
+            }
+        },
+        {
+            "Capital Drone Mining Augmentor I":{
+                "name":"Capital Drone Mining Augmentor I",
+                "typeid":"33285",
+                "line":"598"
+            }
+        },
+        {
+            "Capital Drone Mining Augmentor II":{
+                "name":"Capital Drone Mining Augmentor II",
+                "typeid":"33287",
+                "line":"599"
+            }
+        },
+        {
+            "Capital Drone Repair Augmentor I":{
+                "name":"Capital Drone Repair Augmentor I",
+                "typeid":"33289",
+                "line":"600"
+            }
+        },
+        {
+            "Capital Drone Repair Augmentor II":{
+                "name":"Capital Drone Repair Augmentor II",
+                "typeid":"33291",
+                "line":"601"
+            }
+        },
+        {
+            "Capital Drone Scope Chip I":{
+                "name":"Capital Drone Scope Chip I",
+                "typeid":"33293",
+                "line":"602"
+            }
+        },
+        {
+            "Capital Drone Scope Chip II":{
+                "name":"Capital Drone Scope Chip II",
+                "typeid":"33295",
+                "line":"603"
+            }
+        },
+        {
+            "Capital Drone Speed Augmentor I":{
+                "name":"Capital Drone Speed Augmentor I",
+                "typeid":"33297",
+                "line":"604"
+            }
+        },
+        {
+            "Capital Drone Speed Augmentor II":{
+                "name":"Capital Drone Speed Augmentor II",
+                "typeid":"33298",
+                "line":"605"
+            }
+        },
+        {
+            "Capital Hydraulic Bay Thrusters II":{
+                "name":"Capital Hydraulic Bay Thrusters II",
+                "typeid":"33301",
+                "line":"606"
+            }
+        },
+        {
+            "Capital Processor Overclocking Unit I":{
+                "name":"Capital Processor Overclocking Unit I",
+                "typeid":"33303",
+                "line":"607"
+            }
+        },
+        {
+            "Capital Processor Overclocking Unit II":{
+                "name":"Capital Processor Overclocking Unit II",
+                "typeid":"33305",
+                "line":"608"
+            }
+        },
+        {
+            "Capital Sentry Damage Augmentor I":{
+                "name":"Capital Sentry Damage Augmentor I",
+                "typeid":"33307",
+                "line":"609"
+            }
+        },
+        {
+            "Capital Sentry Damage Augmentor II":{
+                "name":"Capital Sentry Damage Augmentor II",
+                "typeid":"33309",
+                "line":"610"
+            }
+        },
+        {
+            "Capital Stasis Drone Augmentor I":{
+                "name":"Capital Stasis Drone Augmentor I",
+                "typeid":"33311",
+                "line":"611"
+            }
+        },
+        {
+            "Capital Stasis Drone Augmentor II":{
+                "name":"Capital Stasis Drone Augmentor II",
+                "typeid":"33313",
+                "line":"612"
+            }
+        },
+        {
+            "Small Transverse Bulkhead I":{
+                "name":"Small Transverse Bulkhead I",
+                "typeid":"33890",
+                "line":"613"
+            }
+        },
+        {
+            "Small Transverse Bulkhead II":{
+                "name":"Small Transverse Bulkhead II",
+                "typeid":"33892",
+                "line":"614"
+            }
+        },
+        {
+            "Medium Transverse Bulkhead I":{
+                "name":"Medium Transverse Bulkhead I",
+                "typeid":"33894",
+                "line":"615"
+            }
+        },
+        {
+            "Medium Transverse Bulkhead II":{
+                "name":"Medium Transverse Bulkhead II",
+                "typeid":"33896",
+                "line":"616"
+            }
+        },
+        {
+            "Large Transverse Bulkhead I":{
+                "name":"Large Transverse Bulkhead I",
+                "typeid":"33898",
+                "line":"617"
+            }
+        },
+        {
+            "Large Transverse Bulkhead II":{
+                "name":"Large Transverse Bulkhead II",
+                "typeid":"33900",
+                "line":"618"
+            }
+        },
+        {
+            "Capital Transverse Bulkhead I":{
+                "name":"Capital Transverse Bulkhead I",
+                "typeid":"33902",
+                "line":"619"
+            }
+        },
+        {
+            "Capital Transverse Bulkhead II":{
+                "name":"Capital Transverse Bulkhead II",
+                "typeid":"33904",
+                "line":"620"
+            }
+        },
+        {
+            "Small Higgs Anchor I":{
+                "name":"Small Higgs Anchor I",
+                "typeid":"34266",
+                "line":"621"
+            }
+        },
+        {
+            "Medium Higgs Anchor I":{
+                "name":"Medium Higgs Anchor I",
+                "typeid":"34268",
+                "line":"622"
+            }
+        },
+        {
+            "Large Higgs Anchor I":{
+                "name":"Large Higgs Anchor I",
+                "typeid":"34306",
+                "line":"623"
+            }
+        },
+        {
+            "Capital Higgs Anchor I":{
+                "name":"Capital Higgs Anchor I",
+                "typeid":"34308",
+                "line":"624"
+            }
+        },
+        {
+            "Small Command Processor I":{
+                "name":"Small Command Processor I",
+                "typeid":"43894",
+                "line":"625"
+            }
+        },
+        {
+            "Medium Command Processor I":{
+                "name":"Medium Command Processor I",
+                "typeid":"43896",
+                "line":"626"
+            }
+        },
+        {
+            "Large Command Processor I":{
+                "name":"Large Command Processor I",
+                "typeid":"43898",
+                "line":"627"
+            }
+        },
+        {
+            "Capital Command Processor I":{
+                "name":"Capital Command Processor I",
+                "typeid":"43900",
+                "line":"628"
+            }
+        }
+    ]
+}

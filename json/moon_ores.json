@@ -1,0 +1,424 @@
+{
+    "Moon ores":[
+        {
+            "Zeolites":{
+                "name":"Zeolites",
+                "typeid":"45490",
+                "line":"3"
+            }
+        },
+        {
+            "Sylvite":{
+                "name":"Sylvite",
+                "typeid":"45491",
+                "line":"4"
+            }
+        },
+        {
+            "Bitumens":{
+                "name":"Bitumens",
+                "typeid":"45492",
+                "line":"5"
+            }
+        },
+        {
+            "Coesite":{
+                "name":"Coesite",
+                "typeid":"45493",
+                "line":"6"
+            }
+        },
+        {
+            "Cobaltite":{
+                "name":"Cobaltite",
+                "typeid":"45494",
+                "line":"7"
+            }
+        },
+        {
+            "Titanite":{
+                "name":"Titanite",
+                "typeid":"45496",
+                "line":"8"
+            }
+        },
+        {
+            "Scheelite":{
+                "name":"Scheelite",
+                "typeid":"45497",
+                "line":"9"
+            }
+        },
+        {
+            "Sperrylite":{
+                "name":"Sperrylite",
+                "typeid":"45499",
+                "line":"10"
+            }
+        },
+        {
+            "Carnotite":{
+                "name":"Carnotite",
+                "typeid":"45502",
+                "line":"11"
+            }
+        },
+        {
+            "Zircon":{
+                "name":"Zircon",
+                "typeid":"45503",
+                "line":"12"
+            }
+        },
+        {
+            "Cinnabar":{
+                "name":"Cinnabar",
+                "typeid":"45506",
+                "line":"13"
+            }
+        },
+        {
+            "Monazite":{
+                "name":"Monazite",
+                "typeid":"45511",
+                "line":"14"
+            }
+        },
+        {
+            "Loparite":{
+                "name":"Loparite",
+                "typeid":"45512",
+                "line":"15"
+            }
+        },
+        {
+            "Glistening Zeolites":{
+                "name":"Glistening Zeolites",
+                "typeid":"46281",
+                "line":"16"
+            }
+        },
+        {
+            "Glistening Bitumens":{
+                "name":"Glistening Bitumens",
+                "typeid":"46285",
+                "line":"17"
+            }
+        },
+        {
+            "Brimful Coesite":{
+                "name":"Brimful Coesite",
+                "typeid":"46286",
+                "line":"18"
+            }
+        },
+        {
+            "Twinkling Euxenite":{
+                "name":"Twinkling Euxenite",
+                "typeid":"46291",
+                "line":"19"
+            }
+        },
+        {
+            "Twinkling Titanite":{
+                "name":"Twinkling Titanite",
+                "typeid":"46293",
+                "line":"20"
+            }
+        },
+        {
+            "Copious Scheelite":{
+                "name":"Copious Scheelite",
+                "typeid":"46294",
+                "line":"21"
+            }
+        },
+        {
+            "Lavish Otavite":{
+                "name":"Lavish Otavite",
+                "typeid":"46296",
+                "line":"22"
+            }
+        },
+        {
+            "Shimmering Otavite":{
+                "name":"Shimmering Otavite",
+                "typeid":"46297",
+                "line":"23"
+            }
+        },
+        {
+            "Shimmering Vanadinite":{
+                "name":"Shimmering Vanadinite",
+                "typeid":"46301",
+                "line":"24"
+            }
+        },
+        {
+            "Lavish Chromite":{
+                "name":"Lavish Chromite",
+                "typeid":"46302",
+                "line":"25"
+            }
+        },
+        {
+            "Shimmering Chromite":{
+                "name":"Shimmering Chromite",
+                "typeid":"46303",
+                "line":"26"
+            }
+        },
+        {
+            "Replete Carnotite":{
+                "name":"Replete Carnotite",
+                "typeid":"46304",
+                "line":"27"
+            }
+        },
+        {
+            "Glowing Carnotite":{
+                "name":"Glowing Carnotite",
+                "typeid":"46305",
+                "line":"28"
+            }
+        },
+        {
+            "Replete Zircon":{
+                "name":"Replete Zircon",
+                "typeid":"46306",
+                "line":"29"
+            }
+        },
+        {
+            "Replete Pollucite":{
+                "name":"Replete Pollucite",
+                "typeid":"46308",
+                "line":"30"
+            }
+        },
+        {
+            "Replete Cinnabar":{
+                "name":"Replete Cinnabar",
+                "typeid":"46310",
+                "line":"31"
+            }
+        },
+        {
+            "Glowing Cinnabar":{
+                "name":"Glowing Cinnabar",
+                "typeid":"46311",
+                "line":"32"
+            }
+        },
+        {
+            "Bountiful Xenotime":{
+                "name":"Bountiful Xenotime",
+                "typeid":"46312",
+                "line":"33"
+            }
+        },
+        {
+            "Shining Xenotime":{
+                "name":"Shining Xenotime",
+                "typeid":"46313",
+                "line":"34"
+            }
+        },
+        {
+            "Shining Monazite":{
+                "name":"Shining Monazite",
+                "typeid":"46315",
+                "line":"35"
+            }
+        },
+        {
+            "Bountiful Loparite":{
+                "name":"Bountiful Loparite",
+                "typeid":"46316",
+                "line":"36"
+            }
+        },
+        {
+            "Shining Loparite":{
+                "name":"Shining Loparite",
+                "typeid":"46317",
+                "line":"37"
+            }
+        },
+        {
+            "Bountiful Ytterbite":{
+                "name":"Bountiful Ytterbite",
+                "typeid":"46318",
+                "line":"38"
+            }
+        },
+        {
+            "Euxenite":{
+                "name":"Euxenite",
+                "typeid":"45495",
+                "line":"39"
+            }
+        },
+        {
+            "Otavite":{
+                "name":"Otavite",
+                "typeid":"45498",
+                "line":"40"
+            }
+        },
+        {
+            "Vanadinite":{
+                "name":"Vanadinite",
+                "typeid":"45500",
+                "line":"41"
+            }
+        },
+        {
+            "Chromite":{
+                "name":"Chromite",
+                "typeid":"45501",
+                "line":"42"
+            }
+        },
+        {
+            "Pollucite":{
+                "name":"Pollucite",
+                "typeid":"45504",
+                "line":"43"
+            }
+        },
+        {
+            "Xenotime":{
+                "name":"Xenotime",
+                "typeid":"45510",
+                "line":"44"
+            }
+        },
+        {
+            "Brimful Zeolites":{
+                "name":"Brimful Zeolites",
+                "typeid":"46280",
+                "line":"45"
+            }
+        },
+        {
+            "Brimful Sylvite":{
+                "name":"Brimful Sylvite",
+                "typeid":"46282",
+                "line":"46"
+            }
+        },
+        {
+            "Glistening Sylvite":{
+                "name":"Glistening Sylvite",
+                "typeid":"46283",
+                "line":"47"
+            }
+        },
+        {
+            "Brimful Bitumens":{
+                "name":"Brimful Bitumens",
+                "typeid":"46284",
+                "line":"48"
+            }
+        },
+        {
+            "Glistening Coesite":{
+                "name":"Glistening Coesite",
+                "typeid":"46287",
+                "line":"49"
+            }
+        },
+        {
+            "Copious Cobaltite":{
+                "name":"Copious Cobaltite",
+                "typeid":"46288",
+                "line":"50"
+            }
+        },
+        {
+            "Twinkling Cobaltite":{
+                "name":"Twinkling Cobaltite",
+                "typeid":"46289",
+                "line":"51"
+            }
+        },
+        {
+            "Copious Euxenite":{
+                "name":"Copious Euxenite",
+                "typeid":"46290",
+                "line":"52"
+            }
+        },
+        {
+            "Copious Titanite":{
+                "name":"Copious Titanite",
+                "typeid":"46292",
+                "line":"53"
+            }
+        },
+        {
+            "Twinkling Scheelite":{
+                "name":"Twinkling Scheelite",
+                "typeid":"46295",
+                "line":"54"
+            }
+        },
+        {
+            "Lavish Sperrylite":{
+                "name":"Lavish Sperrylite",
+                "typeid":"46298",
+                "line":"55"
+            }
+        },
+        {
+            "Shimmering Sperrylite":{
+                "name":"Shimmering Sperrylite",
+                "typeid":"46299",
+                "line":"56"
+            }
+        },
+        {
+            "Lavish Vanadinite":{
+                "name":"Lavish Vanadinite",
+                "typeid":"46300",
+                "line":"57"
+            }
+        },
+        {
+            "Glowing Zircon":{
+                "name":"Glowing Zircon",
+                "typeid":"46307",
+                "line":"58"
+            }
+        },
+        {
+            "Glowing Pollucite":{
+                "name":"Glowing Pollucite",
+                "typeid":"46309",
+                "line":"59"
+            }
+        },
+        {
+            "Bountiful Monazite":{
+                "name":"Bountiful Monazite",
+                "typeid":"46314",
+                "line":"60"
+            }
+        },
+        {
+            "Shining Ytterbite":{
+                "name":"Shining Ytterbite",
+                "typeid":"46319",
+                "line":"61"
+            }
+        },
+        {
+            "Ytterbite":{
+                "name":"Ytterbite",
+                "typeid":"45513",
+                "line":"62"
+            }
+        }
+    ]
+}

@@ -1,0 +1,921 @@
+{
+    "Reaction materials":[
+        {
+            "Hydrocarbons":{
+                "name":"Hydrocarbons",
+                "typeid":"16633",
+                "line":"3"
+            }
+        },
+        {
+            "Atmospheric Gases":{
+                "name":"Atmospheric Gases",
+                "typeid":"16634",
+                "line":"4"
+            }
+        },
+        {
+            "Evaporite Deposits":{
+                "name":"Evaporite Deposits",
+                "typeid":"16635",
+                "line":"5"
+            }
+        },
+        {
+            "Silicates":{
+                "name":"Silicates",
+                "typeid":"16636",
+                "line":"6"
+            }
+        },
+        {
+            "Tungsten":{
+                "name":"Tungsten",
+                "typeid":"16637",
+                "line":"7"
+            }
+        },
+        {
+            "Titanium":{
+                "name":"Titanium",
+                "typeid":"16638",
+                "line":"8"
+            }
+        },
+        {
+            "Scandium":{
+                "name":"Scandium",
+                "typeid":"16639",
+                "line":"9"
+            }
+        },
+        {
+            "Cobalt":{
+                "name":"Cobalt",
+                "typeid":"16640",
+                "line":"10"
+            }
+        },
+        {
+            "Chromium":{
+                "name":"Chromium",
+                "typeid":"16641",
+                "line":"11"
+            }
+        },
+        {
+            "Vanadium":{
+                "name":"Vanadium",
+                "typeid":"16642",
+                "line":"12"
+            }
+        },
+        {
+            "Cadmium":{
+                "name":"Cadmium",
+                "typeid":"16643",
+                "line":"13"
+            }
+        },
+        {
+            "Platinum":{
+                "name":"Platinum",
+                "typeid":"16644",
+                "line":"14"
+            }
+        },
+        {
+            "Mercury":{
+                "name":"Mercury",
+                "typeid":"16646",
+                "line":"15"
+            }
+        },
+        {
+            "Caesium":{
+                "name":"Caesium",
+                "typeid":"16647",
+                "line":"16"
+            }
+        },
+        {
+            "Hafnium":{
+                "name":"Hafnium",
+                "typeid":"16648",
+                "line":"17"
+            }
+        },
+        {
+            "Technetium":{
+                "name":"Technetium",
+                "typeid":"16649",
+                "line":"18"
+            }
+        },
+        {
+            "Dysprosium":{
+                "name":"Dysprosium",
+                "typeid":"16650",
+                "line":"19"
+            }
+        },
+        {
+            "Neodymium":{
+                "name":"Neodymium",
+                "typeid":"16651",
+                "line":"20"
+            }
+        },
+        {
+            "Promethium":{
+                "name":"Promethium",
+                "typeid":"16652",
+                "line":"21"
+            }
+        },
+        {
+            "Thulium":{
+                "name":"Thulium",
+                "typeid":"16653",
+                "line":"22"
+            }
+        },
+        {
+            "Titanium Chromide":{
+                "name":"Titanium Chromide",
+                "typeid":"16654",
+                "line":"23"
+            }
+        },
+        {
+            "Crystallite Alloy":{
+                "name":"Crystallite Alloy",
+                "typeid":"16655",
+                "line":"24"
+            }
+        },
+        {
+            "Fernite Alloy":{
+                "name":"Fernite Alloy",
+                "typeid":"16656",
+                "line":"25"
+            }
+        },
+        {
+            "Rolled Tungsten Alloy":{
+                "name":"Rolled Tungsten Alloy",
+                "typeid":"16657",
+                "line":"26"
+            }
+        },
+        {
+            "Silicon Diborite":{
+                "name":"Silicon Diborite",
+                "typeid":"16658",
+                "line":"27"
+            }
+        },
+        {
+            "Carbon Polymers":{
+                "name":"Carbon Polymers",
+                "typeid":"16659",
+                "line":"28"
+            }
+        },
+        {
+            "Ceramic Powder":{
+                "name":"Ceramic Powder",
+                "typeid":"16660",
+                "line":"29"
+            }
+        },
+        {
+            "Sulfuric Acid":{
+                "name":"Sulfuric Acid",
+                "typeid":"16661",
+                "line":"30"
+            }
+        },
+        {
+            "Platinum Technite":{
+                "name":"Platinum Technite",
+                "typeid":"16662",
+                "line":"31"
+            }
+        },
+        {
+            "Caesarium Cadmide":{
+                "name":"Caesarium Cadmide",
+                "typeid":"16663",
+                "line":"32"
+            }
+        },
+        {
+            "Solerium":{
+                "name":"Solerium",
+                "typeid":"16664",
+                "line":"33"
+            }
+        },
+        {
+            "Hexite":{
+                "name":"Hexite",
+                "typeid":"16665",
+                "line":"34"
+            }
+        },
+        {
+            "Hyperflurite":{
+                "name":"Hyperflurite",
+                "typeid":"16666",
+                "line":"35"
+            }
+        },
+        {
+            "Neo Mercurite":{
+                "name":"Neo Mercurite",
+                "typeid":"16667",
+                "line":"36"
+            }
+        },
+        {
+            "Dysporite":{
+                "name":"Dysporite",
+                "typeid":"16668",
+                "line":"37"
+            }
+        },
+        {
+            "Ferrofluid":{
+                "name":"Ferrofluid",
+                "typeid":"16669",
+                "line":"38"
+            }
+        },
+        {
+            "Crystalline Carbonide":{
+                "name":"Crystalline Carbonide",
+                "typeid":"16670",
+                "line":"39"
+            }
+        },
+        {
+            "Titanium Carbide":{
+                "name":"Titanium Carbide",
+                "typeid":"16671",
+                "line":"40"
+            }
+        },
+        {
+            "Tungsten Carbide":{
+                "name":"Tungsten Carbide",
+                "typeid":"16672",
+                "line":"41"
+            }
+        },
+        {
+            "Fernite Carbide":{
+                "name":"Fernite Carbide",
+                "typeid":"16673",
+                "line":"42"
+            }
+        },
+        {
+            "Sylramic Fibers":{
+                "name":"Sylramic Fibers",
+                "typeid":"16678",
+                "line":"43"
+            }
+        },
+        {
+            "Fullerides":{
+                "name":"Fullerides",
+                "typeid":"16679",
+                "line":"44"
+            }
+        },
+        {
+            "Phenolic Composites":{
+                "name":"Phenolic Composites",
+                "typeid":"16680",
+                "line":"45"
+            }
+        },
+        {
+            "Nanotransistors":{
+                "name":"Nanotransistors",
+                "typeid":"16681",
+                "line":"46"
+            }
+        },
+        {
+            "Hypersynaptic Fibers":{
+                "name":"Hypersynaptic Fibers",
+                "typeid":"16682",
+                "line":"47"
+            }
+        },
+        {
+            "Ferrogel":{
+                "name":"Ferrogel",
+                "typeid":"16683",
+                "line":"48"
+            }
+        },
+        {
+            "Fermionic Condensates":{
+                "name":"Fermionic Condensates",
+                "typeid":"17317",
+                "line":"49"
+            }
+        },
+        {
+            "Fluxed Condensates":{
+                "name":"Fluxed Condensates",
+                "typeid":"17769",
+                "line":"50"
+            }
+        },
+        {
+            "Vanadium Hafnite":{
+                "name":"Vanadium Hafnite",
+                "typeid":"17959",
+                "line":"51"
+            }
+        },
+        {
+            "Prometium":{
+                "name":"Prometium",
+                "typeid":"17960",
+                "line":"52"
+            }
+        },
+        {
+            "Pure Standard Blue Pill Booster":{
+                "name":"Pure Standard Blue Pill Booster",
+                "typeid":"25237",
+                "line":"53"
+            }
+        },
+        {
+            "Pure Improved Blue Pill Booster":{
+                "name":"Pure Improved Blue Pill Booster",
+                "typeid":"25241",
+                "line":"54"
+            }
+        },
+        {
+            "Pure Standard Crash Booster":{
+                "name":"Pure Standard Crash Booster",
+                "typeid":"25242",
+                "line":"55"
+            }
+        },
+        {
+            "Pure Standard Frentix Booster":{
+                "name":"Pure Standard Frentix Booster",
+                "typeid":"25252",
+                "line":"56"
+            }
+        },
+        {
+            "Pure Strong Blue Pill Booster":{
+                "name":"Pure Strong Blue Pill Booster",
+                "typeid":"25283",
+                "line":"57"
+            }
+        },
+        {
+            "Pure Standard Drop Booster":{
+                "name":"Pure Standard Drop Booster",
+                "typeid":"25330",
+                "line":"58"
+            }
+        },
+        {
+            "Pure Standard Exile Booster":{
+                "name":"Pure Standard Exile Booster",
+                "typeid":"25331",
+                "line":"59"
+            }
+        },
+        {
+            "Pure Standard Mindflood Booster":{
+                "name":"Pure Standard Mindflood Booster",
+                "typeid":"25332",
+                "line":"60"
+            }
+        },
+        {
+            "Pure Standard X-Instinct Booster":{
+                "name":"Pure Standard X-Instinct Booster",
+                "typeid":"25333",
+                "line":"61"
+            }
+        },
+        {
+            "Pure Standard Sooth Sayer Booster":{
+                "name":"Pure Standard Sooth Sayer Booster",
+                "typeid":"25334",
+                "line":"62"
+            }
+        },
+        {
+            "Pure Improved Crash Booster":{
+                "name":"Pure Improved Crash Booster",
+                "typeid":"25335",
+                "line":"63"
+            }
+        },
+        {
+            "Pure Improved Drop Booster":{
+                "name":"Pure Improved Drop Booster",
+                "typeid":"25336",
+                "line":"64"
+            }
+        },
+        {
+            "Pure Improved Exile Booster":{
+                "name":"Pure Improved Exile Booster",
+                "typeid":"25337",
+                "line":"65"
+            }
+        },
+        {
+            "Pure Improved Mindflood Booster":{
+                "name":"Pure Improved Mindflood Booster",
+                "typeid":"25338",
+                "line":"66"
+            }
+        },
+        {
+            "Pure Improved Frentix Booster":{
+                "name":"Pure Improved Frentix Booster",
+                "typeid":"25339",
+                "line":"67"
+            }
+        },
+        {
+            "Pure Improved X-Instinct Booster":{
+                "name":"Pure Improved X-Instinct Booster",
+                "typeid":"25340",
+                "line":"68"
+            }
+        },
+        {
+            "Pure Improved Sooth Sayer Booster":{
+                "name":"Pure Improved Sooth Sayer Booster",
+                "typeid":"25341",
+                "line":"69"
+            }
+        },
+        {
+            "Pure Strong Crash Booster":{
+                "name":"Pure Strong Crash Booster",
+                "typeid":"25342",
+                "line":"70"
+            }
+        },
+        {
+            "Pure Strong Drop Booster":{
+                "name":"Pure Strong Drop Booster",
+                "typeid":"25343",
+                "line":"71"
+            }
+        },
+        {
+            "Pure Strong Exile Booster":{
+                "name":"Pure Strong Exile Booster",
+                "typeid":"25344",
+                "line":"72"
+            }
+        },
+        {
+            "Pure Strong Mindflood Booster":{
+                "name":"Pure Strong Mindflood Booster",
+                "typeid":"25345",
+                "line":"73"
+            }
+        },
+        {
+            "Pure Strong Frentix Booster":{
+                "name":"Pure Strong Frentix Booster",
+                "typeid":"25346",
+                "line":"74"
+            }
+        },
+        {
+            "Pure Strong X-Instinct Booster":{
+                "name":"Pure Strong X-Instinct Booster",
+                "typeid":"25347",
+                "line":"75"
+            }
+        },
+        {
+            "Pure Strong Sooth Sayer Booster":{
+                "name":"Pure Strong Sooth Sayer Booster",
+                "typeid":"25348",
+                "line":"76"
+            }
+        },
+        {
+            "Pure Synth Blue Pill Booster":{
+                "name":"Pure Synth Blue Pill Booster",
+                "typeid":"28686",
+                "line":"77"
+            }
+        },
+        {
+            "Pure Synth Crash Booster":{
+                "name":"Pure Synth Crash Booster",
+                "typeid":"28687",
+                "line":"78"
+            }
+        },
+        {
+            "Pure Synth Drop Booster":{
+                "name":"Pure Synth Drop Booster",
+                "typeid":"28688",
+                "line":"79"
+            }
+        },
+        {
+            "Pure Synth Exile Booster":{
+                "name":"Pure Synth Exile Booster",
+                "typeid":"28689",
+                "line":"80"
+            }
+        },
+        {
+            "Pure Synth Frentix Booster":{
+                "name":"Pure Synth Frentix Booster",
+                "typeid":"28690",
+                "line":"81"
+            }
+        },
+        {
+            "Pure Synth Mindflood Booster":{
+                "name":"Pure Synth Mindflood Booster",
+                "typeid":"28691",
+                "line":"82"
+            }
+        },
+        {
+            "Pure Synth Sooth Sayer Booster":{
+                "name":"Pure Synth Sooth Sayer Booster",
+                "typeid":"28692",
+                "line":"83"
+            }
+        },
+        {
+            "Pure Synth X-Instinct Booster":{
+                "name":"Pure Synth X-Instinct Booster",
+                "typeid":"28693",
+                "line":"84"
+            }
+        },
+        {
+            "Unrefined Fluxed Condensates":{
+                "name":"Unrefined Fluxed Condensates",
+                "typeid":"29659",
+                "line":"85"
+            }
+        },
+        {
+            "Unrefined Dysporite":{
+                "name":"Unrefined Dysporite",
+                "typeid":"29660",
+                "line":"86"
+            }
+        },
+        {
+            "Unrefined Neo Mercurite":{
+                "name":"Unrefined Neo Mercurite",
+                "typeid":"29661",
+                "line":"87"
+            }
+        },
+        {
+            "Unrefined Prometium":{
+                "name":"Unrefined Prometium",
+                "typeid":"29662",
+                "line":"88"
+            }
+        },
+        {
+            "Unrefined Ferrofluid":{
+                "name":"Unrefined Ferrofluid",
+                "typeid":"29663",
+                "line":"89"
+            }
+        },
+        {
+            "Unrefined Hyperflurite":{
+                "name":"Unrefined Hyperflurite",
+                "typeid":"29664",
+                "line":"90"
+            }
+        },
+        {
+            "Fulleroferrocene":{
+                "name":"Fulleroferrocene",
+                "typeid":"30303",
+                "line":"91"
+            }
+        },
+        {
+            "PPD Fullerene Fibers":{
+                "name":"PPD Fullerene Fibers",
+                "typeid":"30304",
+                "line":"92"
+            }
+        },
+        {
+            "Fullerene Intercalated Graphite":{
+                "name":"Fullerene Intercalated Graphite",
+                "typeid":"30305",
+                "line":"93"
+            }
+        },
+        {
+            "Methanofullerene":{
+                "name":"Methanofullerene",
+                "typeid":"30306",
+                "line":"94"
+            }
+        },
+        {
+            "Lanthanum Metallofullerene":{
+                "name":"Lanthanum Metallofullerene",
+                "typeid":"30307",
+                "line":"95"
+            }
+        },
+        {
+            "Scandium Metallofullerene":{
+                "name":"Scandium Metallofullerene",
+                "typeid":"30308",
+                "line":"96"
+            }
+        },
+        {
+            "Graphene Nanoribbons":{
+                "name":"Graphene Nanoribbons",
+                "typeid":"30309",
+                "line":"97"
+            }
+        },
+        {
+            "Carbon-86 Epoxy Resin":{
+                "name":"Carbon-86 Epoxy Resin",
+                "typeid":"30310",
+                "line":"98"
+            }
+        },
+        {
+            "C3-FTM Acid":{
+                "name":"C3-FTM Acid",
+                "typeid":"30311",
+                "line":"99"
+            }
+        },
+        {
+            "Unrefined Vanadium Hafnite":{
+                "name":"Unrefined Vanadium Hafnite",
+                "typeid":"32821",
+                "line":"100"
+            }
+        },
+        {
+            "Unrefined Platinum Technite":{
+                "name":"Unrefined Platinum Technite",
+                "typeid":"32822",
+                "line":"101"
+            }
+        },
+        {
+            "Unrefined Solerium":{
+                "name":"Unrefined Solerium",
+                "typeid":"32823",
+                "line":"102"
+            }
+        },
+        {
+            "Unrefined Caesarium Cadmide":{
+                "name":"Unrefined Caesarium Cadmide",
+                "typeid":"32824",
+                "line":"103"
+            }
+        },
+        {
+            "Unrefined Hexite":{
+                "name":"Unrefined Hexite",
+                "typeid":"32825",
+                "line":"104"
+            }
+        },
+        {
+            "Unrefined Rolled Tungsten Alloy":{
+                "name":"Unrefined Rolled Tungsten Alloy",
+                "typeid":"32826",
+                "line":"105"
+            }
+        },
+        {
+            "Unrefined Titanium Chromide":{
+                "name":"Unrefined Titanium Chromide",
+                "typeid":"32827",
+                "line":"106"
+            }
+        },
+        {
+            "Unrefined Fernite Alloy":{
+                "name":"Unrefined Fernite Alloy",
+                "typeid":"32828",
+                "line":"107"
+            }
+        },
+        {
+            "Unrefined Crystallite Alloy":{
+                "name":"Unrefined Crystallite Alloy",
+                "typeid":"32829",
+                "line":"108"
+            }
+        },
+        {
+            "Thulium Hafnite":{
+                "name":"Thulium Hafnite",
+                "typeid":"33336",
+                "line":"109"
+            }
+        },
+        {
+            "Promethium Mercurite":{
+                "name":"Promethium Mercurite",
+                "typeid":"33337",
+                "line":"110"
+            }
+        },
+        {
+            "Unrefined Promethium Mercurite":{
+                "name":"Unrefined Promethium Mercurite",
+                "typeid":"33338",
+                "line":"111"
+            }
+        },
+        {
+            "Unrefined Thulium Hafnite":{
+                "name":"Unrefined Thulium Hafnite",
+                "typeid":"33339",
+                "line":"112"
+            }
+        },
+        {
+            "Photonic Metamaterials":{
+                "name":"Photonic Metamaterials",
+                "typeid":"33359",
+                "line":"113"
+            }
+        },
+        {
+            "Terahertz Metamaterials":{
+                "name":"Terahertz Metamaterials",
+                "typeid":"33360",
+                "line":"114"
+            }
+        },
+        {
+            "Plasmonic Metamaterials":{
+                "name":"Plasmonic Metamaterials",
+                "typeid":"33361",
+                "line":"115"
+            }
+        },
+        {
+            "Nonlinear Metamaterials":{
+                "name":"Nonlinear Metamaterials",
+                "typeid":"33362",
+                "line":"116"
+            }
+        },
+        {
+            "Carbon Fiber":{
+                "name":"Carbon Fiber",
+                "typeid":"57453",
+                "line":"117"
+            }
+        },
+        {
+            "Oxy-Organic Solvents":{
+                "name":"Oxy-Organic Solvents",
+                "typeid":"57454",
+                "line":"118"
+            }
+        },
+        {
+            "Thermosetting Polymer":{
+                "name":"Thermosetting Polymer",
+                "typeid":"57455",
+                "line":"119"
+            }
+        },
+        {
+            "Pressurized Oxidizers":{
+                "name":"Pressurized Oxidizers",
+                "typeid":"57456",
+                "line":"120"
+            }
+        },
+        {
+            "Reinforced Carbon Fiber":{
+                "name":"Reinforced Carbon Fiber",
+                "typeid":"57457",
+                "line":"121"
+            }
+        },
+        {
+            "Meta-Operant Neurolink Enhancer":{
+                "name":"Meta-Operant Neurolink Enhancer",
+                "typeid":"57458",
+                "line":"122"
+            }
+        },
+        {
+            "Hypnagogic Neurolink Enhancer":{
+                "name":"Hypnagogic Neurolink Enhancer",
+                "typeid":"57459",
+                "line":"123"
+            }
+        },
+        {
+            "Axosomatic Neurolink Enhancer":{
+                "name":"Axosomatic Neurolink Enhancer",
+                "typeid":"57460",
+                "line":"124"
+            }
+        },
+        {
+            "Cogni-Emotive Neurolink Enhancer":{
+                "name":"Cogni-Emotive Neurolink Enhancer",
+                "typeid":"57461",
+                "line":"125"
+            }
+        },
+        {
+            "Sense-Heuristic Neurolink Enhancer":{
+                "name":"Sense-Heuristic Neurolink Enhancer",
+                "typeid":"57462",
+                "line":"126"
+            }
+        },
+        {
+            "Isotropic Neofullerene Alpha-3":{
+                "name":"Isotropic Neofullerene Alpha-3",
+                "typeid":"57463",
+                "line":"127"
+            }
+        },
+        {
+            "Isotropic Neofullerene Beta-6":{
+                "name":"Isotropic Neofullerene Beta-6",
+                "typeid":"57464",
+                "line":"128"
+            }
+        },
+        {
+            "Isotropic Neofullerene Gamma-9":{
+                "name":"Isotropic Neofullerene Gamma-9",
+                "typeid":"57465",
+                "line":"129"
+            }
+        },
+        {
+            "Ultradian-Cycling Neurolink Stabilizer":{
+                "name":"Ultradian-Cycling Neurolink Stabilizer",
+                "typeid":"57466",
+                "line":"130"
+            }
+        },
+        {
+            "Reaction-Orienting Neurolink Stabilizer":{
+                "name":"Reaction-Orienting Neurolink Stabilizer",
+                "typeid":"57467",
+                "line":"131"
+            }
+        },
+        {
+            "Stress-Responding Neurolink Stabilizer":{
+                "name":"Stress-Responding Neurolink Stabilizer",
+                "typeid":"57468",
+                "line":"132"
+            }
+        },
+        {
+            "Goal-Orienting Neurolink Stabilizer":{
+                "name":"Goal-Orienting Neurolink Stabilizer",
+                "typeid":"57469",
+                "line":"133"
+            }
+        }
+    ]
+}

@@ -1,0 +1,501 @@
+{
+    "Structure Equipment":[
+        {
+            "Standup Supercapital Shipyard I":{
+                "name":"Standup Supercapital Shipyard I",
+                "typeid":"35877",
+                "line":"3"
+            }
+        },
+        {
+            "Standup Manufacturing Plant I":{
+                "name":"Standup Manufacturing Plant I",
+                "typeid":"35878",
+                "line":"4"
+            }
+        },
+        {
+            "Standup Capital Shipyard I":{
+                "name":"Standup Capital Shipyard I",
+                "typeid":"35881",
+                "line":"5"
+            }
+        },
+        {
+            "Standup Research Lab I":{
+                "name":"Standup Research Lab I",
+                "typeid":"35891",
+                "line":"6"
+            }
+        },
+        {
+            "Standup Market Hub I":{
+                "name":"Standup Market Hub I",
+                "typeid":"35892",
+                "line":"7"
+            }
+        },
+        {
+            "Standup Cloning Center I":{
+                "name":"Standup Cloning Center I",
+                "typeid":"35894",
+                "line":"8"
+            }
+        },
+        {
+            "Standup Reprocessing Facility I":{
+                "name":"Standup Reprocessing Facility I",
+                "typeid":"35899",
+                "line":"9"
+            }
+        },
+        {
+            "Standup Anticapital Missile Launcher I":{
+                "name":"Standup Anticapital Missile Launcher I",
+                "typeid":"35921",
+                "line":"10"
+            }
+        },
+        {
+            "Standup Multirole Missile Launcher I":{
+                "name":"Standup Multirole Missile Launcher I",
+                "typeid":"35922",
+                "line":"11"
+            }
+        },
+        {
+            "Standup Guided Bomb Launcher I":{
+                "name":"Standup Guided Bomb Launcher I",
+                "typeid":"35923",
+                "line":"12"
+            }
+        },
+        {
+            "Standup XL Energy Neutralizer I":{
+                "name":"Standup XL Energy Neutralizer I",
+                "typeid":"35924",
+                "line":"13"
+            }
+        },
+        {
+            "Standup Heavy Energy Neutralizer I":{
+                "name":"Standup Heavy Energy Neutralizer I",
+                "typeid":"35925",
+                "line":"14"
+            }
+        },
+        {
+            "Standup Point Defense Battery I":{
+                "name":"Standup Point Defense Battery I",
+                "typeid":"35926",
+                "line":"15"
+            }
+        },
+        {
+            "Standup Arcing Vorton Projector I":{
+                "name":"Standup Arcing Vorton Projector I",
+                "typeid":"35928",
+                "line":"16"
+            }
+        },
+        {
+            "Standup Variable Spectrum ECM I":{
+                "name":"Standup Variable Spectrum ECM I",
+                "typeid":"35940",
+                "line":"17"
+            }
+        },
+        {
+            "Standup Stasis Webifier I":{
+                "name":"Standup Stasis Webifier I",
+                "typeid":"35943",
+                "line":"18"
+            }
+        },
+        {
+            "Standup Energy Neutralization Burst Projector":{
+                "name":"Standup Energy Neutralization Burst Projector",
+                "typeid":"35944",
+                "line":"19"
+            }
+        },
+        {
+            "Standup Weapon Disruptor I":{
+                "name":"Standup Weapon Disruptor I",
+                "typeid":"35945",
+                "line":"20"
+            }
+        },
+        {
+            "Standup Target Painter I":{
+                "name":"Standup Target Painter I",
+                "typeid":"35947",
+                "line":"21"
+            }
+        },
+        {
+            "Standup Focused Warp Disruptor I":{
+                "name":"Standup Focused Warp Disruptor I",
+                "typeid":"35949",
+                "line":"22"
+            }
+        },
+        {
+            "Standup Ballistic Control System I":{
+                "name":"Standup Ballistic Control System I",
+                "typeid":"35959",
+                "line":"23"
+            }
+        },
+        {
+            "Standup Missile Guidance Enhancer I":{
+                "name":"Standup Missile Guidance Enhancer I",
+                "typeid":"35962",
+                "line":"24"
+            }
+        },
+        {
+            "Standup Co-Processor Array I":{
+                "name":"Standup Co-Processor Array I",
+                "typeid":"35963",
+                "line":"25"
+            }
+        },
+        {
+            "Standup Reactor Control Unit I":{
+                "name":"Standup Reactor Control Unit I",
+                "typeid":"35965",
+                "line":"26"
+            }
+        },
+        {
+            "Standup Signal Amplifier I":{
+                "name":"Standup Signal Amplifier I",
+                "typeid":"37532",
+                "line":"27"
+            }
+        },
+        {
+            "Standup Moon Drill I":{
+                "name":"Standup Moon Drill I",
+                "typeid":"45009",
+                "line":"28"
+            }
+        },
+        {
+            "Standup Biochemical Reactor I":{
+                "name":"Standup Biochemical Reactor I",
+                "typeid":"45539",
+                "line":"29"
+            }
+        },
+        {
+            "Standup Hyasyoda Research Lab":{
+                "name":"Standup Hyasyoda Research Lab",
+                "typeid":"45550",
+                "line":"30"
+            }
+        },
+        {
+            "Dark Blood Standup Heavy Energy Neutralizer":{
+                "name":"Dark Blood Standup Heavy Energy Neutralizer",
+                "typeid":"46575",
+                "line":"31"
+            }
+        },
+        {
+            "Dread Guristas Standup Variable Spectrum ECM":{
+                "name":"Dread Guristas Standup Variable Spectrum ECM",
+                "typeid":"46577",
+                "line":"32"
+            }
+        },
+        {
+            "Standup Sensor Dampening Burst Projector":{
+                "name":"Standup Sensor Dampening Burst Projector",
+                "typeid":"47070",
+                "line":"33"
+            }
+        },
+        {
+            "Standup Warp Disruption Burst Projector":{
+                "name":"Standup Warp Disruption Burst Projector",
+                "typeid":"47073",
+                "line":"34"
+            }
+        },
+        {
+            "Standup Point Defense Battery II":{
+                "name":"Standup Point Defense Battery II",
+                "typeid":"47327",
+                "line":"35"
+            }
+        },
+        {
+            "Standup XL Energy Neutralizer II":{
+                "name":"Standup XL Energy Neutralizer II",
+                "typeid":"47330",
+                "line":"36"
+            }
+        },
+        {
+            "Standup Heavy Energy Neutralizer II":{
+                "name":"Standup Heavy Energy Neutralizer II",
+                "typeid":"47332",
+                "line":"37"
+            }
+        },
+        {
+            "Standup Variable Spectrum ECM II":{
+                "name":"Standup Variable Spectrum ECM II",
+                "typeid":"47338",
+                "line":"38"
+            }
+        },
+        {
+            "Standup Reactor Control Unit II":{
+                "name":"Standup Reactor Control Unit II",
+                "typeid":"47347",
+                "line":"39"
+            }
+        },
+        {
+            "Standup Signal Amplifier II":{
+                "name":"Standup Signal Amplifier II",
+                "typeid":"47348",
+                "line":"40"
+            }
+        },
+        {
+            "Standup Stasis Webifier II":{
+                "name":"Standup Stasis Webifier II",
+                "typeid":"47351",
+                "line":"41"
+            }
+        },
+        {
+            "Standup Cap Battery I":{
+                "name":"Standup Cap Battery I",
+                "typeid":"47352",
+                "line":"42"
+            }
+        },
+        {
+            "Standup Capacitor Power Relay II":{
+                "name":"Standup Capacitor Power Relay II",
+                "typeid":"47358",
+                "line":"43"
+            }
+        },
+        {
+            "Standup Layered Armor Plating I":{
+                "name":"Standup Layered Armor Plating I",
+                "typeid":"47360",
+                "line":"44"
+            }
+        },
+        {
+            "Standup Layered Armor Plating II":{
+                "name":"Standup Layered Armor Plating II",
+                "typeid":"47362",
+                "line":"45"
+            }
+        },
+        {
+            "Standup Weapon Disruptor II":{
+                "name":"Standup Weapon Disruptor II",
+                "typeid":"47364",
+                "line":"46"
+            }
+        },
+        {
+            "Standup Target Painter II":{
+                "name":"Standup Target Painter II",
+                "typeid":"47366",
+                "line":"47"
+            }
+        },
+        {
+            "Standup Remote Sensor Dampener II":{
+                "name":"Standup Remote Sensor Dampener II",
+                "typeid":"47368",
+                "line":"48"
+            }
+        },
+        {
+            "Astrahus Upwell Quantum Core":{
+                "name":"Astrahus Upwell Quantum Core",
+                "typeid":"56201",
+                "line":"49"
+            }
+        },
+        {
+            "Athanor Upwell Quantum Core":{
+                "name":"Athanor Upwell Quantum Core",
+                "typeid":"56202",
+                "line":"50"
+            }
+        },
+        {
+            "Raitaru Upwell Quantum Core":{
+                "name":"Raitaru Upwell Quantum Core",
+                "typeid":"56203",
+                "line":"51"
+            }
+        },
+        {
+            "Fortizar Upwell Quantum Core":{
+                "name":"Fortizar Upwell Quantum Core",
+                "typeid":"56204",
+                "line":"52"
+            }
+        },
+        {
+            "Tatara Upwell Quantum Core":{
+                "name":"Tatara Upwell Quantum Core",
+                "typeid":"56205",
+                "line":"53"
+            }
+        },
+        {
+            "Azbel Upwell Quantum Core":{
+                "name":"Azbel Upwell Quantum Core",
+                "typeid":"56206",
+                "line":"54"
+            }
+        },
+        {
+            "Keepstar Upwell Quantum Core":{
+                "name":"Keepstar Upwell Quantum Core",
+                "typeid":"56207",
+                "line":"55"
+            }
+        },
+        {
+            "Sotiyo Upwell Quantum Core":{
+                "name":"Sotiyo Upwell Quantum Core",
+                "typeid":"56208",
+                "line":"56"
+            }
+        },
+        {
+            "Standup Invention Lab I":{
+                "name":"Standup Invention Lab I",
+                "typeid":"35886",
+                "line":"57"
+            }
+        },
+        {
+            "Standup Remote Sensor Dampener I":{
+                "name":"Standup Remote Sensor Dampener I",
+                "typeid":"35941",
+                "line":"58"
+            }
+        },
+        {
+            "Standup Composite Reactor I":{
+                "name":"Standup Composite Reactor I",
+                "typeid":"45537",
+                "line":"59"
+            }
+        },
+        {
+            "Standup Hybrid Reactor I":{
+                "name":"Standup Hybrid Reactor I",
+                "typeid":"45538",
+                "line":"60"
+            }
+        },
+        {
+            "Standup ECM Jammer Burst Projector":{
+                "name":"Standup ECM Jammer Burst Projector",
+                "typeid":"47069",
+                "line":"61"
+            }
+        },
+        {
+            "Standup Stasis Webification Burst Projector":{
+                "name":"Standup Stasis Webification Burst Projector",
+                "typeid":"47071",
+                "line":"62"
+            }
+        },
+        {
+            "Standup Target Illumination Burst Projector":{
+                "name":"Standup Target Illumination Burst Projector",
+                "typeid":"47072",
+                "line":"63"
+            }
+        },
+        {
+            "Standup Weapon Disruption Burst Projector":{
+                "name":"Standup Weapon Disruption Burst Projector",
+                "typeid":"47074",
+                "line":"64"
+            }
+        },
+        {
+            "Standup Multirole Missile Launcher II":{
+                "name":"Standup Multirole Missile Launcher II",
+                "typeid":"47298",
+                "line":"65"
+            }
+        },
+        {
+            "Standup Anticapital Missile Launcher II":{
+                "name":"Standup Anticapital Missile Launcher II",
+                "typeid":"47323",
+                "line":"66"
+            }
+        },
+        {
+            "Standup Guided Bomb Launcher II":{
+                "name":"Standup Guided Bomb Launcher II",
+                "typeid":"47325",
+                "line":"67"
+            }
+        },
+        {
+            "Standup Focused Warp Disruptor II":{
+                "name":"Standup Focused Warp Disruptor II",
+                "typeid":"47334",
+                "line":"68"
+            }
+        },
+        {
+            "Standup Missile Guidance Enhancer II":{
+                "name":"Standup Missile Guidance Enhancer II",
+                "typeid":"47340",
+                "line":"69"
+            }
+        },
+        {
+            "Standup Ballistic Control System II":{
+                "name":"Standup Ballistic Control System II",
+                "typeid":"47342",
+                "line":"70"
+            }
+        },
+        {
+            "Standup Cap Battery II":{
+                "name":"Standup Cap Battery II",
+                "typeid":"47353",
+                "line":"71"
+            }
+        },
+        {
+            "Standup Capacitor Power Relay I":{
+                "name":"Standup Capacitor Power Relay I",
+                "typeid":"47356",
+                "line":"72"
+            }
+        },
+        {
+            "Standup Co-Processor Array II":{
+                "name":"Standup Co-Processor Array II",
+                "typeid":"47344",
+                "line":"73"
+            }
+        }
+    ]
+}

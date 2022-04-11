@@ -1,0 +1,172 @@
+{
+    "Ice ores":[
+        {
+            "Clear Icicle":{
+                "name":"Clear Icicle",
+                "typeid":"16262",
+                "line":"3"
+            }
+        },
+        {
+            "Glacial Mass":{
+                "name":"Glacial Mass",
+                "typeid":"16263",
+                "line":"4"
+            }
+        },
+        {
+            "Blue Ice":{
+                "name":"Blue Ice",
+                "typeid":"16264",
+                "line":"5"
+            }
+        },
+        {
+            "White Glaze":{
+                "name":"White Glaze",
+                "typeid":"16265",
+                "line":"6"
+            }
+        },
+        {
+            "Glare Crust":{
+                "name":"Glare Crust",
+                "typeid":"16266",
+                "line":"7"
+            }
+        },
+        {
+            "Dark Glitter":{
+                "name":"Dark Glitter",
+                "typeid":"16267",
+                "line":"8"
+            }
+        },
+        {
+            "Gelidus":{
+                "name":"Gelidus",
+                "typeid":"16268",
+                "line":"9"
+            }
+        },
+        {
+            "Krystallos":{
+                "name":"Krystallos",
+                "typeid":"16269",
+                "line":"10"
+            }
+        },
+        {
+            "Thick Blue Ice":{
+                "name":"Thick Blue Ice",
+                "typeid":"17975",
+                "line":"11"
+            }
+        },
+        {
+            "Pristine White Glaze":{
+                "name":"Pristine White Glaze",
+                "typeid":"17976",
+                "line":"12"
+            }
+        },
+        {
+            "Smooth Glacial Mass":{
+                "name":"Smooth Glacial Mass",
+                "typeid":"17977",
+                "line":"13"
+            }
+        },
+        {
+            "Enriched Clear Icicle":{
+                "name":"Enriched Clear Icicle",
+                "typeid":"17978",
+                "line":"14"
+            }
+        },
+        {
+            "Compressed Blue Ice":{
+                "name":"Compressed Blue Ice",
+                "typeid":"28433",
+                "line":"15"
+            }
+        },
+        {
+            "Compressed Clear Icicle":{
+                "name":"Compressed Clear Icicle",
+                "typeid":"28434",
+                "line":"16"
+            }
+        },
+        {
+            "Compressed Dark Glitter":{
+                "name":"Compressed Dark Glitter",
+                "typeid":"28435",
+                "line":"17"
+            }
+        },
+        {
+            "Compressed Enriched Clear Icicle":{
+                "name":"Compressed Enriched Clear Icicle",
+                "typeid":"28436",
+                "line":"18"
+            }
+        },
+        {
+            "Compressed Gelidus":{
+                "name":"Compressed Gelidus",
+                "typeid":"28437",
+                "line":"19"
+            }
+        },
+        {
+            "Compressed Glacial Mass":{
+                "name":"Compressed Glacial Mass",
+                "typeid":"28438",
+                "line":"20"
+            }
+        },
+        {
+            "Compressed Glare Crust":{
+                "name":"Compressed Glare Crust",
+                "typeid":"28439",
+                "line":"21"
+            }
+        },
+        {
+            "Compressed Krystallos":{
+                "name":"Compressed Krystallos",
+                "typeid":"28440",
+                "line":"22"
+            }
+        },
+        {
+            "Compressed Pristine White Glaze":{
+                "name":"Compressed Pristine White Glaze",
+                "typeid":"28441",
+                "line":"23"
+            }
+        },
+        {
+            "Compressed Smooth Glacial Mass":{
+                "name":"Compressed Smooth Glacial Mass",
+                "typeid":"28442",
+                "line":"24"
+            }
+        },
+        {
+            "Compressed Thick Blue Ice":{
+                "name":"Compressed Thick Blue Ice",
+                "typeid":"28443",
+                "line":"25"
+            }
+        },
+        {
+            "Compressed White Glaze":{
+                "name":"Compressed White Glaze",
+                "typeid":"28444",
+                "line":"26"
+            }
+        }
+    ]
+}

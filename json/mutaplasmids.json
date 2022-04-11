@@ -1,0 +1,1173 @@
+{
+    "Mutaplasmids":[
+        {
+            "Unstable 50MN Microwarpdrive Mutaplasmid":{
+                "name":"Unstable 50MN Microwarpdrive Mutaplasmid",
+                "typeid":"47297",
+                "line":"3"
+            }
+        },
+        {
+            "Decayed Stasis Webifier Mutaplasmid":{
+                "name":"Decayed Stasis Webifier Mutaplasmid",
+                "typeid":"47699",
+                "line":"4"
+            }
+        },
+        {
+            "Unstable Stasis Webifier Mutaplasmid":{
+                "name":"Unstable Stasis Webifier Mutaplasmid",
+                "typeid":"47700",
+                "line":"5"
+            }
+        },
+        {
+            "Decayed Warp Scrambler Mutaplasmid":{
+                "name":"Decayed Warp Scrambler Mutaplasmid",
+                "typeid":"47729",
+                "line":"6"
+            }
+        },
+        {
+            "Unstable Warp Scrambler Mutaplasmid":{
+                "name":"Unstable Warp Scrambler Mutaplasmid",
+                "typeid":"47730",
+                "line":"7"
+            }
+        },
+        {
+            "Gravid Warp Scrambler Mutaplasmid":{
+                "name":"Gravid Warp Scrambler Mutaplasmid",
+                "typeid":"47731",
+                "line":"8"
+            }
+        },
+        {
+            "Decayed Warp Disruptor Mutaplasmid":{
+                "name":"Decayed Warp Disruptor Mutaplasmid",
+                "typeid":"47733",
+                "line":"9"
+            }
+        },
+        {
+            "Gravid Warp Disruptor Mutaplasmid":{
+                "name":"Gravid Warp Disruptor Mutaplasmid",
+                "typeid":"47735",
+                "line":"10"
+            }
+        },
+        {
+            "Decayed 5MN Microwarpdrive Mutaplasmid":{
+                "name":"Decayed 5MN Microwarpdrive Mutaplasmid",
+                "typeid":"47737",
+                "line":"11"
+            }
+        },
+        {
+            "Gravid 5MN Microwarpdrive Mutaplasmid":{
+                "name":"Gravid 5MN Microwarpdrive Mutaplasmid",
+                "typeid":"47739",
+                "line":"12"
+            }
+        },
+        {
+            "Decayed 50MN Microwarpdrive Mutaplasmid":{
+                "name":"Decayed 50MN Microwarpdrive Mutaplasmid",
+                "typeid":"47742",
+                "line":"13"
+            }
+        },
+        {
+            "Gravid 500MN Microwarpdrive Mutaplasmid":{
+                "name":"Gravid 500MN Microwarpdrive Mutaplasmid",
+                "typeid":"47744",
+                "line":"14"
+            }
+        },
+        {
+            "Unstable 1MN Afterburner Mutaplasmid":{
+                "name":"Unstable 1MN Afterburner Mutaplasmid",
+                "typeid":"47747",
+                "line":"15"
+            }
+        },
+        {
+            "Decayed 10MN Afterburner Mutaplasmid":{
+                "name":"Decayed 10MN Afterburner Mutaplasmid",
+                "typeid":"47750",
+                "line":"16"
+            }
+        },
+        {
+            "Gravid 10MN Afterburner Mutaplasmid":{
+                "name":"Gravid 10MN Afterburner Mutaplasmid",
+                "typeid":"47752",
+                "line":"17"
+            }
+        },
+        {
+            "Decayed 100MN Afterburner Mutaplasmid":{
+                "name":"Decayed 100MN Afterburner Mutaplasmid",
+                "typeid":"47754",
+                "line":"18"
+            }
+        },
+        {
+            "Decayed Small Armor Repairer Mutaplasmid":{
+                "name":"Decayed Small Armor Repairer Mutaplasmid",
+                "typeid":"47766",
+                "line":"19"
+            }
+        },
+        {
+            "Unstable Small Armor Repairer Mutaplasmid":{
+                "name":"Unstable Small Armor Repairer Mutaplasmid",
+                "typeid":"47767",
+                "line":"20"
+            }
+        },
+        {
+            "Decayed Medium Armor Repairer Mutaplasmid":{
+                "name":"Decayed Medium Armor Repairer Mutaplasmid",
+                "typeid":"47770",
+                "line":"21"
+            }
+        },
+        {
+            "Unstable Medium Armor Repairer Mutaplasmid":{
+                "name":"Unstable Medium Armor Repairer Mutaplasmid",
+                "typeid":"47771",
+                "line":"22"
+            }
+        },
+        {
+            "Decayed Large Armor Repairer Mutaplasmid":{
+                "name":"Decayed Large Armor Repairer Mutaplasmid",
+                "typeid":"47774",
+                "line":"23"
+            }
+        },
+        {
+            "Gravid Large Armor Repairer Mutaplasmid":{
+                "name":"Gravid Large Armor Repairer Mutaplasmid",
+                "typeid":"47776",
+                "line":"24"
+            }
+        },
+        {
+            "Decayed Medium Shield Booster Mutaplasmid":{
+                "name":"Decayed Medium Shield Booster Mutaplasmid",
+                "typeid":"47782",
+                "line":"25"
+            }
+        },
+        {
+            "Unstable Medium Shield Booster Mutaplasmid":{
+                "name":"Unstable Medium Shield Booster Mutaplasmid",
+                "typeid":"47783",
+                "line":"26"
+            }
+        },
+        {
+            "Gravid Medium Shield Booster Mutaplasmid":{
+                "name":"Gravid Medium Shield Booster Mutaplasmid",
+                "typeid":"47784",
+                "line":"27"
+            }
+        },
+        {
+            "Unstable Large Shield Booster Mutaplasmid":{
+                "name":"Unstable Large Shield Booster Mutaplasmid",
+                "typeid":"47787",
+                "line":"28"
+            }
+        },
+        {
+            "Decayed X-Large Shield Booster Mutaplasmid":{
+                "name":"Decayed X-Large Shield Booster Mutaplasmid",
+                "typeid":"47790",
+                "line":"29"
+            }
+        },
+        {
+            "Unstable X-Large Shield Booster Mutaplasmid":{
+                "name":"Unstable X-Large Shield Booster Mutaplasmid",
+                "typeid":"47791",
+                "line":"30"
+            }
+        },
+        {
+            "Decayed Small Shield Extender Mutaplasmid":{
+                "name":"Decayed Small Shield Extender Mutaplasmid",
+                "typeid":"47797",
+                "line":"31"
+            }
+        },
+        {
+            "Unstable Small Shield Extender Mutaplasmid":{
+                "name":"Unstable Small Shield Extender Mutaplasmid",
+                "typeid":"47798",
+                "line":"32"
+            }
+        },
+        {
+            "Decayed Medium Shield Extender Mutaplasmid":{
+                "name":"Decayed Medium Shield Extender Mutaplasmid",
+                "typeid":"47801",
+                "line":"33"
+            }
+        },
+        {
+            "Unstable Medium Shield Extender Mutaplasmid":{
+                "name":"Unstable Medium Shield Extender Mutaplasmid",
+                "typeid":"47802",
+                "line":"34"
+            }
+        },
+        {
+            "Gravid Medium Shield Extender Mutaplasmid":{
+                "name":"Gravid Medium Shield Extender Mutaplasmid",
+                "typeid":"47803",
+                "line":"35"
+            }
+        },
+        {
+            "Unstable Small Armor Plate Mutaplasmid":{
+                "name":"Unstable Small Armor Plate Mutaplasmid",
+                "typeid":"47810",
+                "line":"36"
+            }
+        },
+        {
+            "Unstable Medium Armor Plate Mutaplasmid":{
+                "name":"Unstable Medium Armor Plate Mutaplasmid",
+                "typeid":"47814",
+                "line":"37"
+            }
+        },
+        {
+            "Gravid Medium Armor Plate Mutaplasmid":{
+                "name":"Gravid Medium Armor Plate Mutaplasmid",
+                "typeid":"47815",
+                "line":"38"
+            }
+        },
+        {
+            "Decayed Large Armor Plate Mutaplasmid":{
+                "name":"Decayed Large Armor Plate Mutaplasmid",
+                "typeid":"47816",
+                "line":"39"
+            }
+        },
+        {
+            "Unstable Large Armor Plate Mutaplasmid":{
+                "name":"Unstable Large Armor Plate Mutaplasmid",
+                "typeid":"47818",
+                "line":"40"
+            }
+        },
+        {
+            "Gravid Large Armor Plate Mutaplasmid":{
+                "name":"Gravid Large Armor Plate Mutaplasmid",
+                "typeid":"47819",
+                "line":"41"
+            }
+        },
+        {
+            "Decayed Small Energy Neutralizer Mutaplasmid":{
+                "name":"Decayed Small Energy Neutralizer Mutaplasmid",
+                "typeid":"47821",
+                "line":"42"
+            }
+        },
+        {
+            "Unstable Small Energy Neutralizer Mutaplasmid":{
+                "name":"Unstable Small Energy Neutralizer Mutaplasmid",
+                "typeid":"47822",
+                "line":"43"
+            }
+        },
+        {
+            "Gravid Small Energy Neutralizer Mutaplasmid":{
+                "name":"Gravid Small Energy Neutralizer Mutaplasmid",
+                "typeid":"47823",
+                "line":"44"
+            }
+        },
+        {
+            "Gravid Medium Energy Neutralizer Mutaplasmid":{
+                "name":"Gravid Medium Energy Neutralizer Mutaplasmid",
+                "typeid":"47827",
+                "line":"45"
+            }
+        },
+        {
+            "Unstable Heavy Energy Neutralizer Mutaplasmid":{
+                "name":"Unstable Heavy Energy Neutralizer Mutaplasmid",
+                "typeid":"47830",
+                "line":"46"
+            }
+        },
+        {
+            "Gravid Heavy Energy Neutralizer Mutaplasmid":{
+                "name":"Gravid Heavy Energy Neutralizer Mutaplasmid",
+                "typeid":"47831",
+                "line":"47"
+            }
+        },
+        {
+            "Unstable Small Ancillary Armor Repairer Mutaplasmid":{
+                "name":"Unstable Small Ancillary Armor Repairer Mutaplasmid",
+                "typeid":"47841",
+                "line":"48"
+            }
+        },
+        {
+            "Unstable Large Ancillary Armor Repairer Mutaplasmid":{
+                "name":"Unstable Large Ancillary Armor Repairer Mutaplasmid",
+                "typeid":"47845",
+                "line":"49"
+            }
+        },
+        {
+            "Gravid Small Energy Nosferatu Mutaplasmid":{
+                "name":"Gravid Small Energy Nosferatu Mutaplasmid",
+                "typeid":"48417",
+                "line":"50"
+            }
+        },
+        {
+            "Gravid Medium Energy Nosferatu Mutaplasmid":{
+                "name":"Gravid Medium Energy Nosferatu Mutaplasmid",
+                "typeid":"48421",
+                "line":"51"
+            }
+        },
+        {
+            "Unstable Medium Energy Nosferatu Mutaplasmid":{
+                "name":"Unstable Medium Energy Nosferatu Mutaplasmid",
+                "typeid":"48422",
+                "line":"52"
+            }
+        },
+        {
+            "Decayed Heavy Energy Nosferatu Mutaplasmid":{
+                "name":"Decayed Heavy Energy Nosferatu Mutaplasmid",
+                "typeid":"48424",
+                "line":"53"
+            }
+        },
+        {
+            "Unstable Heavy Energy Nosferatu Mutaplasmid":{
+                "name":"Unstable Heavy Energy Nosferatu Mutaplasmid",
+                "typeid":"48426",
+                "line":"54"
+            }
+        },
+        {
+            "Decayed Small Cap Battery Mutaplasmid":{
+                "name":"Decayed Small Cap Battery Mutaplasmid",
+                "typeid":"48428",
+                "line":"55"
+            }
+        },
+        {
+            "Unstable Small Cap Battery Mutaplasmid":{
+                "name":"Unstable Small Cap Battery Mutaplasmid",
+                "typeid":"48430",
+                "line":"56"
+            }
+        },
+        {
+            "Gravid Medium Cap Battery Mutaplasmid":{
+                "name":"Gravid Medium Cap Battery Mutaplasmid",
+                "typeid":"48433",
+                "line":"57"
+            }
+        },
+        {
+            "Decayed Large Cap Battery Mutaplasmid":{
+                "name":"Decayed Large Cap Battery Mutaplasmid",
+                "typeid":"48436",
+                "line":"58"
+            }
+        },
+        {
+            "Unstable Large Cap Battery Mutaplasmid":{
+                "name":"Unstable Large Cap Battery Mutaplasmid",
+                "typeid":"48438",
+                "line":"59"
+            }
+        },
+        {
+            "Gravid Magnetic Field Stabilizer Mutaplasmid":{
+                "name":"Gravid Magnetic Field Stabilizer Mutaplasmid",
+                "typeid":"49724",
+                "line":"60"
+            }
+        },
+        {
+            "Unstable Magnetic Field Stabilizer Mutaplasmid":{
+                "name":"Unstable Magnetic Field Stabilizer Mutaplasmid",
+                "typeid":"49725",
+                "line":"61"
+            }
+        },
+        {
+            "Decayed Heat Sink Mutaplasmid":{
+                "name":"Decayed Heat Sink Mutaplasmid",
+                "typeid":"49727",
+                "line":"62"
+            }
+        },
+        {
+            "Gravid Heat Sink Mutaplasmid":{
+                "name":"Gravid Heat Sink Mutaplasmid",
+                "typeid":"49728",
+                "line":"63"
+            }
+        },
+        {
+            "Unstable Heat Sink Mutaplasmid":{
+                "name":"Unstable Heat Sink Mutaplasmid",
+                "typeid":"49729",
+                "line":"64"
+            }
+        },
+        {
+            "Decayed Gyrostabilizer Mutaplasmid":{
+                "name":"Decayed Gyrostabilizer Mutaplasmid",
+                "typeid":"49731",
+                "line":"65"
+            }
+        },
+        {
+            "Gravid Gyrostabilizer Mutaplasmid":{
+                "name":"Gravid Gyrostabilizer Mutaplasmid",
+                "typeid":"49732",
+                "line":"66"
+            }
+        },
+        {
+            "Unstable Gyrostabilizer Mutaplasmid":{
+                "name":"Unstable Gyrostabilizer Mutaplasmid",
+                "typeid":"49733",
+                "line":"67"
+            }
+        },
+        {
+            "Gravid Entropic Radiation Sink Mutaplasmid":{
+                "name":"Gravid Entropic Radiation Sink Mutaplasmid",
+                "typeid":"49736",
+                "line":"68"
+            }
+        },
+        {
+            "Unstable Entropic Radiation Sink Mutaplasmid":{
+                "name":"Unstable Entropic Radiation Sink Mutaplasmid",
+                "typeid":"49737",
+                "line":"69"
+            }
+        },
+        {
+            "Unstable Ballistic Control System Mutaplasmid":{
+                "name":"Unstable Ballistic Control System Mutaplasmid",
+                "typeid":"49741",
+                "line":"70"
+            }
+        },
+        {
+            "Gravid Damage Control Mutaplasmid":{
+                "name":"Gravid Damage Control Mutaplasmid",
+                "typeid":"52225",
+                "line":"71"
+            }
+        },
+        {
+            "Unstable Damage Control Mutaplasmid":{
+                "name":"Unstable Damage Control Mutaplasmid",
+                "typeid":"52226",
+                "line":"72"
+            }
+        },
+        {
+            "Unstable Assault Damage Control Mutaplasmid":{
+                "name":"Unstable Assault Damage Control Mutaplasmid",
+                "typeid":"52231",
+                "line":"73"
+            }
+        },
+        {
+            "Decayed Heavy Warp Scrambler Mutaplasmid":{
+                "name":"Decayed Heavy Warp Scrambler Mutaplasmid",
+                "typeid":"56269",
+                "line":"74"
+            }
+        },
+        {
+            "Unstable Heavy Warp Scrambler Mutaplasmid":{
+                "name":"Unstable Heavy Warp Scrambler Mutaplasmid",
+                "typeid":"56270",
+                "line":"75"
+            }
+        },
+        {
+            "Gravid Heavy Warp Scrambler Mutaplasmid":{
+                "name":"Gravid Heavy Warp Scrambler Mutaplasmid",
+                "typeid":"56271",
+                "line":"76"
+            }
+        },
+        {
+            "Unstable Heavy Warp Disruptor Mutaplasmid":{
+                "name":"Unstable Heavy Warp Disruptor Mutaplasmid",
+                "typeid":"56272",
+                "line":"77"
+            }
+        },
+        {
+            "Gravid Heavy Warp Disruptor Mutaplasmid":{
+                "name":"Gravid Heavy Warp Disruptor Mutaplasmid",
+                "typeid":"56273",
+                "line":"78"
+            }
+        },
+        {
+            "Decayed Heavy Warp Disruptor Mutaplasmid":{
+                "name":"Decayed Heavy Warp Disruptor Mutaplasmid",
+                "typeid":"56274",
+                "line":"79"
+            }
+        },
+        {
+            "Decayed 10000MN Afterburner Mutaplasmid":{
+                "name":"Decayed 10000MN Afterburner Mutaplasmid",
+                "typeid":"56275",
+                "line":"80"
+            }
+        },
+        {
+            "Unstable 10000MN Afterburner Mutaplasmid":{
+                "name":"Unstable 10000MN Afterburner Mutaplasmid",
+                "typeid":"56276",
+                "line":"81"
+            }
+        },
+        {
+            "Gravid 10000MN Afterburner Mutaplasmid":{
+                "name":"Gravid 10000MN Afterburner Mutaplasmid",
+                "typeid":"56277",
+                "line":"82"
+            }
+        },
+        {
+            "Decayed 50000MN Microwarpdrive Mutaplasmid":{
+                "name":"Decayed 50000MN Microwarpdrive Mutaplasmid",
+                "typeid":"56278",
+                "line":"83"
+            }
+        },
+        {
+            "Unstable 50000MN Microwarpdrive Mutaplasmid":{
+                "name":"Unstable 50000MN Microwarpdrive Mutaplasmid",
+                "typeid":"56279",
+                "line":"84"
+            }
+        },
+        {
+            "Gravid 50000MN Microwarpdrive Mutaplasmid":{
+                "name":"Gravid 50000MN Microwarpdrive Mutaplasmid",
+                "typeid":"56280",
+                "line":"85"
+            }
+        },
+        {
+            "Decayed Capital Armor Repairer Mutaplasmid":{
+                "name":"Decayed Capital Armor Repairer Mutaplasmid",
+                "typeid":"56281",
+                "line":"86"
+            }
+        },
+        {
+            "Unstable Capital Armor Repairer Mutaplasmid":{
+                "name":"Unstable Capital Armor Repairer Mutaplasmid",
+                "typeid":"56282",
+                "line":"87"
+            }
+        },
+        {
+            "Gravid Capital Armor Repairer Mutaplasmid":{
+                "name":"Gravid Capital Armor Repairer Mutaplasmid",
+                "typeid":"56283",
+                "line":"88"
+            }
+        },
+        {
+            "Unstable Capital Ancillary Armor Repairer Mutaplasmid":{
+                "name":"Unstable Capital Ancillary Armor Repairer Mutaplasmid",
+                "typeid":"56284",
+                "line":"89"
+            }
+        },
+        {
+            "Decayed Capital Shield Booster Mutaplasmid":{
+                "name":"Decayed Capital Shield Booster Mutaplasmid",
+                "typeid":"56285",
+                "line":"90"
+            }
+        },
+        {
+            "Unstable Capital Shield Booster Mutaplasmid":{
+                "name":"Unstable Capital Shield Booster Mutaplasmid",
+                "typeid":"56286",
+                "line":"91"
+            }
+        },
+        {
+            "Gravid Capital Shield Booster Mutaplasmid":{
+                "name":"Gravid Capital Shield Booster Mutaplasmid",
+                "typeid":"56287",
+                "line":"92"
+            }
+        },
+        {
+            "Unstable Capital Ancillary Shield Booster Mutaplasmid":{
+                "name":"Unstable Capital Ancillary Shield Booster Mutaplasmid",
+                "typeid":"56288",
+                "line":"93"
+            }
+        },
+        {
+            "Decayed Capital Energy Nosferatu Mutaplasmid":{
+                "name":"Decayed Capital Energy Nosferatu Mutaplasmid",
+                "typeid":"56289",
+                "line":"94"
+            }
+        },
+        {
+            "Unstable Capital Energy Nosferatu Mutaplasmid":{
+                "name":"Unstable Capital Energy Nosferatu Mutaplasmid",
+                "typeid":"56290",
+                "line":"95"
+            }
+        },
+        {
+            "Gravid Capital Energy Nosferatu Mutaplasmid":{
+                "name":"Gravid Capital Energy Nosferatu Mutaplasmid",
+                "typeid":"56291",
+                "line":"96"
+            }
+        },
+        {
+            "Decayed Capital Energy Neutralizer Mutaplasmid":{
+                "name":"Decayed Capital Energy Neutralizer Mutaplasmid",
+                "typeid":"56292",
+                "line":"97"
+            }
+        },
+        {
+            "Unstable Capital Energy Neutralizer Mutaplasmid":{
+                "name":"Unstable Capital Energy Neutralizer Mutaplasmid",
+                "typeid":"56293",
+                "line":"98"
+            }
+        },
+        {
+            "Gravid Capital Energy Neutralizer Mutaplasmid":{
+                "name":"Gravid Capital Energy Neutralizer Mutaplasmid",
+                "typeid":"56294",
+                "line":"99"
+            }
+        },
+        {
+            "Decayed Siege Module Mutaplasmid":{
+                "name":"Decayed Siege Module Mutaplasmid",
+                "typeid":"56299",
+                "line":"100"
+            }
+        },
+        {
+            "Unstable Siege Module Mutaplasmid":{
+                "name":"Unstable Siege Module Mutaplasmid",
+                "typeid":"56300",
+                "line":"101"
+            }
+        },
+        {
+            "Gravid Siege Module Mutaplasmid":{
+                "name":"Gravid Siege Module Mutaplasmid",
+                "typeid":"56301",
+                "line":"102"
+            }
+        },
+        {
+            "Exigent Light Drone Navigation Mutaplasmid":{
+                "name":"Exigent Light Drone Navigation Mutaplasmid",
+                "typeid":"60460",
+                "line":"103"
+            }
+        },
+        {
+            "Exigent Light Drone Firepower Mutaplasmid":{
+                "name":"Exigent Light Drone Firepower Mutaplasmid",
+                "typeid":"60461",
+                "line":"104"
+            }
+        },
+        {
+            "Exigent Light Drone Durability Mutaplasmid":{
+                "name":"Exigent Light Drone Durability Mutaplasmid",
+                "typeid":"60462",
+                "line":"105"
+            }
+        },
+        {
+            "Exigent Heavy Drone Navigation Mutaplasmid":{
+                "name":"Exigent Heavy Drone Navigation Mutaplasmid",
+                "typeid":"60463",
+                "line":"106"
+            }
+        },
+        {
+            "Exigent Heavy Drone Firepower Mutaplasmid":{
+                "name":"Exigent Heavy Drone Firepower Mutaplasmid",
+                "typeid":"60464",
+                "line":"107"
+            }
+        },
+        {
+            "Exigent Heavy Drone Durability Mutaplasmid":{
+                "name":"Exigent Heavy Drone Durability Mutaplasmid",
+                "typeid":"60465",
+                "line":"108"
+            }
+        },
+        {
+            "Exigent Heavy Drone Projection Mutaplasmid":{
+                "name":"Exigent Heavy Drone Projection Mutaplasmid",
+                "typeid":"60466",
+                "line":"109"
+            }
+        },
+        {
+            "Exigent Sentry Drone Precision Mutaplasmid":{
+                "name":"Exigent Sentry Drone Precision Mutaplasmid",
+                "typeid":"60467",
+                "line":"110"
+            }
+        },
+        {
+            "Exigent Sentry Drone Firepower Mutaplasmid":{
+                "name":"Exigent Sentry Drone Firepower Mutaplasmid",
+                "typeid":"60468",
+                "line":"111"
+            }
+        },
+        {
+            "Exigent Sentry Drone Durability Mutaplasmid":{
+                "name":"Exigent Sentry Drone Durability Mutaplasmid",
+                "typeid":"60469",
+                "line":"112"
+            }
+        },
+        {
+            "Exigent Sentry Drone Projection Mutaplasmid":{
+                "name":"Exigent Sentry Drone Projection Mutaplasmid",
+                "typeid":"60470",
+                "line":"113"
+            }
+        },
+        {
+            "Exigent Medium Drone Navigation Mutaplasmid":{
+                "name":"Exigent Medium Drone Navigation Mutaplasmid",
+                "typeid":"60472",
+                "line":"114"
+            }
+        },
+        {
+            "Exigent Medium Drone Firepower Mutaplasmid":{
+                "name":"Exigent Medium Drone Firepower Mutaplasmid",
+                "typeid":"60473",
+                "line":"115"
+            }
+        },
+        {
+            "Exigent Medium Drone Durability Mutaplasmid":{
+                "name":"Exigent Medium Drone Durability Mutaplasmid",
+                "typeid":"60474",
+                "line":"116"
+            }
+        },
+        {
+            "Radical Drone Damage Amplifier Mutaplasmid":{
+                "name":"Radical Drone Damage Amplifier Mutaplasmid",
+                "typeid":"60476",
+                "line":"117"
+            }
+        },
+        {
+            "Radical Fighter Support Unit Mutaplasmid":{
+                "name":"Radical Fighter Support Unit Mutaplasmid",
+                "typeid":"60477",
+                "line":"118"
+            }
+        },
+        {
+            "Decayed 500MN Microwarpdrive Mutaplasmid":{
+                "name":"Decayed 500MN Microwarpdrive Mutaplasmid",
+                "typeid":"47299",
+                "line":"119"
+            }
+        },
+        {
+            "Gravid Stasis Webifier Mutaplasmid":{
+                "name":"Gravid Stasis Webifier Mutaplasmid",
+                "typeid":"47701",
+                "line":"120"
+            }
+        },
+        {
+            "Unstable Warp Disruptor Mutaplasmid":{
+                "name":"Unstable Warp Disruptor Mutaplasmid",
+                "typeid":"47734",
+                "line":"121"
+            }
+        },
+        {
+            "Unstable 5MN Microwarpdrive Mutaplasmid":{
+                "name":"Unstable 5MN Microwarpdrive Mutaplasmid",
+                "typeid":"47738",
+                "line":"122"
+            }
+        },
+        {
+            "Gravid 50MN Microwarpdrive Mutaplasmid":{
+                "name":"Gravid 50MN Microwarpdrive Mutaplasmid",
+                "typeid":"47741",
+                "line":"123"
+            }
+        },
+        {
+            "Unstable 500MN Microwarpdrive Mutaplasmid":{
+                "name":"Unstable 500MN Microwarpdrive Mutaplasmid",
+                "typeid":"47743",
+                "line":"124"
+            }
+        },
+        {
+            "Decayed 1MN Afterburner Mutaplasmid":{
+                "name":"Decayed 1MN Afterburner Mutaplasmid",
+                "typeid":"47746",
+                "line":"125"
+            }
+        },
+        {
+            "Gravid 1MN Afterburner Mutaplasmid":{
+                "name":"Gravid 1MN Afterburner Mutaplasmid",
+                "typeid":"47748",
+                "line":"126"
+            }
+        },
+        {
+            "Unstable 10MN Afterburner Mutaplasmid":{
+                "name":"Unstable 10MN Afterburner Mutaplasmid",
+                "typeid":"47751",
+                "line":"127"
+            }
+        },
+        {
+            "Unstable 100MN Afterburner Mutaplasmid":{
+                "name":"Unstable 100MN Afterburner Mutaplasmid",
+                "typeid":"47755",
+                "line":"128"
+            }
+        },
+        {
+            "Gravid 100MN Afterburner Mutaplasmid":{
+                "name":"Gravid 100MN Afterburner Mutaplasmid",
+                "typeid":"47756",
+                "line":"129"
+            }
+        },
+        {
+            "Gravid Small Armor Repairer Mutaplasmid":{
+                "name":"Gravid Small Armor Repairer Mutaplasmid",
+                "typeid":"47768",
+                "line":"130"
+            }
+        },
+        {
+            "Gravid Medium Armor Repairer Mutaplasmid":{
+                "name":"Gravid Medium Armor Repairer Mutaplasmid",
+                "typeid":"47772",
+                "line":"131"
+            }
+        },
+        {
+            "Unstable Large Armor Repairer Mutaplasmid":{
+                "name":"Unstable Large Armor Repairer Mutaplasmid",
+                "typeid":"47775",
+                "line":"132"
+            }
+        },
+        {
+            "Decayed Small Shield Booster Mutaplasmid":{
+                "name":"Decayed Small Shield Booster Mutaplasmid",
+                "typeid":"47778",
+                "line":"133"
+            }
+        },
+        {
+            "Unstable Small Shield Booster Mutaplasmid":{
+                "name":"Unstable Small Shield Booster Mutaplasmid",
+                "typeid":"47779",
+                "line":"134"
+            }
+        },
+        {
+            "Gravid Small Shield Booster Mutaplasmid":{
+                "name":"Gravid Small Shield Booster Mutaplasmid",
+                "typeid":"47780",
+                "line":"135"
+            }
+        },
+        {
+            "Decayed Large Shield Booster Mutaplasmid":{
+                "name":"Decayed Large Shield Booster Mutaplasmid",
+                "typeid":"47786",
+                "line":"136"
+            }
+        },
+        {
+            "Gravid Large Shield Booster Mutaplasmid":{
+                "name":"Gravid Large Shield Booster Mutaplasmid",
+                "typeid":"47788",
+                "line":"137"
+            }
+        },
+        {
+            "Gravid X-Large Shield Booster Mutaplasmid":{
+                "name":"Gravid X-Large Shield Booster Mutaplasmid",
+                "typeid":"47792",
+                "line":"138"
+            }
+        },
+        {
+            "Gravid Small Shield Extender Mutaplasmid":{
+                "name":"Gravid Small Shield Extender Mutaplasmid",
+                "typeid":"47799",
+                "line":"139"
+            }
+        },
+        {
+            "Decayed Large Shield Extender Mutaplasmid":{
+                "name":"Decayed Large Shield Extender Mutaplasmid",
+                "typeid":"47805",
+                "line":"140"
+            }
+        },
+        {
+            "Unstable Large Shield Extender Mutaplasmid":{
+                "name":"Unstable Large Shield Extender Mutaplasmid",
+                "typeid":"47806",
+                "line":"141"
+            }
+        },
+        {
+            "Gravid Large Shield Extender Mutaplasmid":{
+                "name":"Gravid Large Shield Extender Mutaplasmid",
+                "typeid":"47807",
+                "line":"142"
+            }
+        },
+        {
+            "Decayed Small Armor Plate Mutaplasmid":{
+                "name":"Decayed Small Armor Plate Mutaplasmid",
+                "typeid":"47809",
+                "line":"143"
+            }
+        },
+        {
+            "Gravid Small Armor Plate Mutaplasmid":{
+                "name":"Gravid Small Armor Plate Mutaplasmid",
+                "typeid":"47811",
+                "line":"144"
+            }
+        },
+        {
+            "Decayed Medium Armor Plate Mutaplasmid":{
+                "name":"Decayed Medium Armor Plate Mutaplasmid",
+                "typeid":"47813",
+                "line":"145"
+            }
+        },
+        {
+            "Decayed Medium Energy Neutralizer Mutaplasmid":{
+                "name":"Decayed Medium Energy Neutralizer Mutaplasmid",
+                "typeid":"47825",
+                "line":"146"
+            }
+        },
+        {
+            "Unstable Medium Energy Neutralizer Mutaplasmid":{
+                "name":"Unstable Medium Energy Neutralizer Mutaplasmid",
+                "typeid":"47826",
+                "line":"147"
+            }
+        },
+        {
+            "Decayed Heavy Energy Neutralizer Mutaplasmid":{
+                "name":"Decayed Heavy Energy Neutralizer Mutaplasmid",
+                "typeid":"47829",
+                "line":"148"
+            }
+        },
+        {
+            "Unstable Medium Ancillary Shield Booster Mutaplasmid":{
+                "name":"Unstable Medium Ancillary Shield Booster Mutaplasmid",
+                "typeid":"47835",
+                "line":"149"
+            }
+        },
+        {
+            "Unstable Large Ancillary Shield Booster Mutaplasmid":{
+                "name":"Unstable Large Ancillary Shield Booster Mutaplasmid",
+                "typeid":"47837",
+                "line":"150"
+            }
+        },
+        {
+            "Unstable X-Large Ancillary Shield Booster Mutaplasmid":{
+                "name":"Unstable X-Large Ancillary Shield Booster Mutaplasmid",
+                "typeid":"47839",
+                "line":"151"
+            }
+        },
+        {
+            "Unstable Medium Ancillary Armor Repairer Mutaplasmid":{
+                "name":"Unstable Medium Ancillary Armor Repairer Mutaplasmid",
+                "typeid":"47843",
+                "line":"152"
+            }
+        },
+        {
+            "Decayed Small Energy Nosferatu Mutaplasmid":{
+                "name":"Decayed Small Energy Nosferatu Mutaplasmid",
+                "typeid":"48416",
+                "line":"153"
+            }
+        },
+        {
+            "Unstable Small Energy Nosferatu Mutaplasmid":{
+                "name":"Unstable Small Energy Nosferatu Mutaplasmid",
+                "typeid":"48418",
+                "line":"154"
+            }
+        },
+        {
+            "Decayed Medium Energy Nosferatu Mutaplasmid":{
+                "name":"Decayed Medium Energy Nosferatu Mutaplasmid",
+                "typeid":"48420",
+                "line":"155"
+            }
+        },
+        {
+            "Gravid Heavy Energy Nosferatu Mutaplasmid":{
+                "name":"Gravid Heavy Energy Nosferatu Mutaplasmid",
+                "typeid":"48425",
+                "line":"156"
+            }
+        },
+        {
+            "Gravid Small Cap Battery Mutaplasmid":{
+                "name":"Gravid Small Cap Battery Mutaplasmid",
+                "typeid":"48429",
+                "line":"157"
+            }
+        },
+        {
+            "Decayed Medium Cap Battery Mutaplasmid":{
+                "name":"Decayed Medium Cap Battery Mutaplasmid",
+                "typeid":"48432",
+                "line":"158"
+            }
+        },
+        {
+            "Unstable Medium Cap Battery Mutaplasmid":{
+                "name":"Unstable Medium Cap Battery Mutaplasmid",
+                "typeid":"48434",
+                "line":"159"
+            }
+        },
+        {
+            "Gravid Large Cap Battery Mutaplasmid":{
+                "name":"Gravid Large Cap Battery Mutaplasmid",
+                "typeid":"48437",
+                "line":"160"
+            }
+        },
+        {
+            "Decayed Magnetic Field Stabilizer Mutaplasmid":{
+                "name":"Decayed Magnetic Field Stabilizer Mutaplasmid",
+                "typeid":"49723",
+                "line":"161"
+            }
+        },
+        {
+            "Decayed Entropic Radiation Sink Mutaplasmid":{
+                "name":"Decayed Entropic Radiation Sink Mutaplasmid",
+                "typeid":"49735",
+                "line":"162"
+            }
+        },
+        {
+            "Decayed Ballistic Control System Mutaplasmid":{
+                "name":"Decayed Ballistic Control System Mutaplasmid",
+                "typeid":"49739",
+                "line":"163"
+            }
+        },
+        {
+            "Gravid Ballistic Control System Mutaplasmid":{
+                "name":"Gravid Ballistic Control System Mutaplasmid",
+                "typeid":"49740",
+                "line":"164"
+            }
+        },
+        {
+            "Decayed Damage Control Mutaplasmid":{
+                "name":"Decayed Damage Control Mutaplasmid",
+                "typeid":"52224",
+                "line":"165"
+            }
+        },
+        {
+            "Decayed Assault Damage Control Mutaplasmid":{
+                "name":"Decayed Assault Damage Control Mutaplasmid",
+                "typeid":"52228",
+                "line":"166"
+            }
+        },
+        {
+            "Gravid Assault Damage Control Mutaplasmid":{
+                "name":"Gravid Assault Damage Control Mutaplasmid",
+                "typeid":"52229",
+                "line":"167"
+            }
+        },
+        {
+            "Exigent Light Drone Projection Mutaplasmid":{
+                "name":"Exigent Light Drone Projection Mutaplasmid",
+                "typeid":"60471",
+                "line":"168"
+            }
+        },
+        {
+            "Exigent Medium Drone Projection Mutaplasmid":{
+                "name":"Exigent Medium Drone Projection Mutaplasmid",
+                "typeid":"60475",
+                "line":"169"
+            }
+        }
+    ]
+}

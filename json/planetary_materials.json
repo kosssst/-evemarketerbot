@@ -1,0 +1,571 @@
+{
+    "Planetary materials":[
+        {
+            "Enriched Uranium":{
+                "name":"Enriched Uranium",
+                "typeid":"44",
+                "line":"3"
+            }
+        },
+        {
+            "Microorganisms":{
+                "name":"Microorganisms",
+                "typeid":"2073",
+                "line":"4"
+            }
+        },
+        {
+            "Base Metals":{
+                "name":"Base Metals",
+                "typeid":"2267",
+                "line":"5"
+            }
+        },
+        {
+            "Aqueous Liquids":{
+                "name":"Aqueous Liquids",
+                "typeid":"2268",
+                "line":"6"
+            }
+        },
+        {
+            "Noble Metals":{
+                "name":"Noble Metals",
+                "typeid":"2270",
+                "line":"7"
+            }
+        },
+        {
+            "Heavy Metals":{
+                "name":"Heavy Metals",
+                "typeid":"2272",
+                "line":"8"
+            }
+        },
+        {
+            "Planktic Colonies":{
+                "name":"Planktic Colonies",
+                "typeid":"2286",
+                "line":"9"
+            }
+        },
+        {
+            "Complex Organisms":{
+                "name":"Complex Organisms",
+                "typeid":"2287",
+                "line":"10"
+            }
+        },
+        {
+            "Carbon Compounds":{
+                "name":"Carbon Compounds",
+                "typeid":"2288",
+                "line":"11"
+            }
+        },
+        {
+            "Autotrophs":{
+                "name":"Autotrophs",
+                "typeid":"2305",
+                "line":"12"
+            }
+        },
+        {
+            "Non-CS Crystals":{
+                "name":"Non-CS Crystals",
+                "typeid":"2306",
+                "line":"13"
+            }
+        },
+        {
+            "Felsic Magma":{
+                "name":"Felsic Magma",
+                "typeid":"2307",
+                "line":"14"
+            }
+        },
+        {
+            "Suspended Plasma":{
+                "name":"Suspended Plasma",
+                "typeid":"2308",
+                "line":"15"
+            }
+        },
+        {
+            "Ionic Solutions":{
+                "name":"Ionic Solutions",
+                "typeid":"2309",
+                "line":"16"
+            }
+        },
+        {
+            "Noble Gas":{
+                "name":"Noble Gas",
+                "typeid":"2310",
+                "line":"17"
+            }
+        },
+        {
+            "Supertensile Plastics":{
+                "name":"Supertensile Plastics",
+                "typeid":"2312",
+                "line":"18"
+            }
+        },
+        {
+            "Oxides":{
+                "name":"Oxides",
+                "typeid":"2317",
+                "line":"19"
+            }
+        },
+        {
+            "Test Cultures":{
+                "name":"Test Cultures",
+                "typeid":"2319",
+                "line":"20"
+            }
+        },
+        {
+            "Polyaramids":{
+                "name":"Polyaramids",
+                "typeid":"2321",
+                "line":"21"
+            }
+        },
+        {
+            "Microfiber Shielding":{
+                "name":"Microfiber Shielding",
+                "typeid":"2327",
+                "line":"22"
+            }
+        },
+        {
+            "Biocells":{
+                "name":"Biocells",
+                "typeid":"2329",
+                "line":"23"
+            }
+        },
+        {
+            "Condensates":{
+                "name":"Condensates",
+                "typeid":"2344",
+                "line":"24"
+            }
+        },
+        {
+            "Camera Drones":{
+                "name":"Camera Drones",
+                "typeid":"2345",
+                "line":"25"
+            }
+        },
+        {
+            "Synthetic Synapses":{
+                "name":"Synthetic Synapses",
+                "typeid":"2346",
+                "line":"26"
+            }
+        },
+        {
+            "Gel-Matrix Biopaste":{
+                "name":"Gel-Matrix Biopaste",
+                "typeid":"2348",
+                "line":"27"
+            }
+        },
+        {
+            "Supercomputers":{
+                "name":"Supercomputers",
+                "typeid":"2349",
+                "line":"28"
+            }
+        },
+        {
+            "Smartfab Units":{
+                "name":"Smartfab Units",
+                "typeid":"2351",
+                "line":"29"
+            }
+        },
+        {
+            "Nuclear Reactors":{
+                "name":"Nuclear Reactors",
+                "typeid":"2352",
+                "line":"30"
+            }
+        },
+        {
+            "Neocoms":{
+                "name":"Neocoms",
+                "typeid":"2354",
+                "line":"31"
+            }
+        },
+        {
+            "Biotech Research Reports":{
+                "name":"Biotech Research Reports",
+                "typeid":"2358",
+                "line":"32"
+            }
+        },
+        {
+            "Industrial Explosives":{
+                "name":"Industrial Explosives",
+                "typeid":"2360",
+                "line":"33"
+            }
+        },
+        {
+            "Hermetic Membranes":{
+                "name":"Hermetic Membranes",
+                "typeid":"2361",
+                "line":"34"
+            }
+        },
+        {
+            "Hazmat Detection Systems":{
+                "name":"Hazmat Detection Systems",
+                "typeid":"2366",
+                "line":"35"
+            }
+        },
+        {
+            "Cryoprotectant Solution":{
+                "name":"Cryoprotectant Solution",
+                "typeid":"2367",
+                "line":"36"
+            }
+        },
+        {
+            "Plasmoids":{
+                "name":"Plasmoids",
+                "typeid":"2389",
+                "line":"37"
+            }
+        },
+        {
+            "Electrolytes":{
+                "name":"Electrolytes",
+                "typeid":"2390",
+                "line":"38"
+            }
+        },
+        {
+            "Oxidizing Compound":{
+                "name":"Oxidizing Compound",
+                "typeid":"2392",
+                "line":"39"
+            }
+        },
+        {
+            "Bacteria":{
+                "name":"Bacteria",
+                "typeid":"2393",
+                "line":"40"
+            }
+        },
+        {
+            "Proteins":{
+                "name":"Proteins",
+                "typeid":"2395",
+                "line":"41"
+            }
+        },
+        {
+            "Biofuels":{
+                "name":"Biofuels",
+                "typeid":"2396",
+                "line":"42"
+            }
+        },
+        {
+            "Industrial Fibers":{
+                "name":"Industrial Fibers",
+                "typeid":"2397",
+                "line":"43"
+            }
+        },
+        {
+            "Reactive Metals":{
+                "name":"Reactive Metals",
+                "typeid":"2398",
+                "line":"44"
+            }
+        },
+        {
+            "Precious Metals":{
+                "name":"Precious Metals",
+                "typeid":"2399",
+                "line":"45"
+            }
+        },
+        {
+            "Toxic Metals":{
+                "name":"Toxic Metals",
+                "typeid":"2400",
+                "line":"46"
+            }
+        },
+        {
+            "Chiral Structures":{
+                "name":"Chiral Structures",
+                "typeid":"2401",
+                "line":"47"
+            }
+        },
+        {
+            "Nanites":{
+                "name":"Nanites",
+                "typeid":"2463",
+                "line":"48"
+            }
+        },
+        {
+            "Broadcast Node":{
+                "name":"Broadcast Node",
+                "typeid":"2867",
+                "line":"49"
+            }
+        },
+        {
+            "Integrity Response Drones":{
+                "name":"Integrity Response Drones",
+                "typeid":"2868",
+                "line":"50"
+            }
+        },
+        {
+            "Nano-Factory":{
+                "name":"Nano-Factory",
+                "typeid":"2869",
+                "line":"51"
+            }
+        },
+        {
+            "Organic Mortar Applicators":{
+                "name":"Organic Mortar Applicators",
+                "typeid":"2870",
+                "line":"52"
+            }
+        },
+        {
+            "Recursive Computing Module":{
+                "name":"Recursive Computing Module",
+                "typeid":"2871",
+                "line":"53"
+            }
+        },
+        {
+            "Self-Harmonizing Power Core":{
+                "name":"Self-Harmonizing Power Core",
+                "typeid":"2872",
+                "line":"54"
+            }
+        },
+        {
+            "Sterile Conduits":{
+                "name":"Sterile Conduits",
+                "typeid":"2875",
+                "line":"55"
+            }
+        },
+        {
+            "Water":{
+                "name":"Water",
+                "typeid":"3645",
+                "line":"56"
+            }
+        },
+        {
+            "Oxygen":{
+                "name":"Oxygen",
+                "typeid":"3683",
+                "line":"57"
+            }
+        },
+        {
+            "Mechanical Parts":{
+                "name":"Mechanical Parts",
+                "typeid":"3689",
+                "line":"58"
+            }
+        },
+        {
+            "Synthetic Oil":{
+                "name":"Synthetic Oil",
+                "typeid":"3691",
+                "line":"59"
+            }
+        },
+        {
+            "Fertilizer":{
+                "name":"Fertilizer",
+                "typeid":"3693",
+                "line":"60"
+            }
+        },
+        {
+            "Polytextiles":{
+                "name":"Polytextiles",
+                "typeid":"3695",
+                "line":"61"
+            }
+        },
+        {
+            "Silicate Glass":{
+                "name":"Silicate Glass",
+                "typeid":"3697",
+                "line":"62"
+            }
+        },
+        {
+            "Livestock":{
+                "name":"Livestock",
+                "typeid":"3725",
+                "line":"63"
+            }
+        },
+        {
+            "Viral Agent":{
+                "name":"Viral Agent",
+                "typeid":"3775",
+                "line":"64"
+            }
+        },
+        {
+            "Biomass":{
+                "name":"Biomass",
+                "typeid":"3779",
+                "line":"65"
+            }
+        },
+        {
+            "Construction Blocks":{
+                "name":"Construction Blocks",
+                "typeid":"3828",
+                "line":"66"
+            }
+        },
+        {
+            "Silicon":{
+                "name":"Silicon",
+                "typeid":"9828",
+                "line":"67"
+            }
+        },
+        {
+            "Rocket Fuel":{
+                "name":"Rocket Fuel",
+                "typeid":"9830",
+                "line":"68"
+            }
+        },
+        {
+            "Coolant":{
+                "name":"Coolant",
+                "typeid":"9832",
+                "line":"69"
+            }
+        },
+        {
+            "Guidance Systems":{
+                "name":"Guidance Systems",
+                "typeid":"9834",
+                "line":"70"
+            }
+        },
+        {
+            "Consumer Electronics":{
+                "name":"Consumer Electronics",
+                "typeid":"9836",
+                "line":"71"
+            }
+        },
+        {
+            "Superconductors":{
+                "name":"Superconductors",
+                "typeid":"9838",
+                "line":"72"
+            }
+        },
+        {
+            "Transmitter":{
+                "name":"Transmitter",
+                "typeid":"9840",
+                "line":"73"
+            }
+        },
+        {
+            "Miniature Electronics":{
+                "name":"Miniature Electronics",
+                "typeid":"9842",
+                "line":"74"
+            }
+        },
+        {
+            "Planetary Vehicles":{
+                "name":"Planetary Vehicles",
+                "typeid":"9846",
+                "line":"75"
+            }
+        },
+        {
+            "Robotics":{
+                "name":"Robotics",
+                "typeid":"9848",
+                "line":"76"
+            }
+        },
+        {
+            "Transcranial Microcontrollers":{
+                "name":"Transcranial Microcontrollers",
+                "typeid":"12836",
+                "line":"77"
+            }
+        },
+        {
+            "Genetically Enhanced Livestock":{
+                "name":"Genetically Enhanced Livestock",
+                "typeid":"15317",
+                "line":"78"
+            }
+        },
+        {
+            "Ukomi Superconductors":{
+                "name":"Ukomi Superconductors",
+                "typeid":"17136",
+                "line":"79"
+            }
+        },
+        {
+            "Data Chips":{
+                "name":"Data Chips",
+                "typeid":"17392",
+                "line":"80"
+            }
+        },
+        {
+            "High-Tech Transmitters":{
+                "name":"High-Tech Transmitters",
+                "typeid":"17898",
+                "line":"81"
+            }
+        },
+        {
+            "Vaccines":{
+                "name":"Vaccines",
+                "typeid":"28974",
+                "line":"82"
+            }
+        },
+        {
+            "Reactive Gas":{
+                "name":"Reactive Gas",
+                "typeid":"2311",
+                "line":"83"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1327 @@
+{
+    "Structure Modifications":[
+        {
+            "Standup M-Set Basic Medium Ship Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Basic Medium Ship Manufacturing Material Efficiency II",
+                "typeid":"37147",
+                "line":"3"
+            }
+        },
+        {
+            "Standup M-Set Drone and Fighter Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Drone and Fighter Manufacturing Time Efficiency I",
+                "typeid":"37148",
+                "line":"4"
+            }
+        },
+        {
+            "Standup M-Set Drone and Fighter Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Drone and Fighter Manufacturing Time Efficiency II",
+                "typeid":"37149",
+                "line":"5"
+            }
+        },
+        {
+            "Standup M-Set Ammunition Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Ammunition Manufacturing Time Efficiency I",
+                "typeid":"37150",
+                "line":"6"
+            }
+        },
+        {
+            "Standup M-Set Ammunition Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Ammunition Manufacturing Time Efficiency II",
+                "typeid":"37151",
+                "line":"7"
+            }
+        },
+        {
+            "Standup M-Set Basic Large Ship Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Basic Large Ship Manufacturing Material Efficiency II",
+                "typeid":"37152",
+                "line":"8"
+            }
+        },
+        {
+            "Standup M-Set Basic Medium Ship Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Basic Medium Ship Manufacturing Time Efficiency II",
+                "typeid":"37153",
+                "line":"9"
+            }
+        },
+        {
+            "Standup M-Set Basic Small Ship Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Basic Small Ship Manufacturing Material Efficiency I",
+                "typeid":"37154",
+                "line":"10"
+            }
+        },
+        {
+            "Standup M-Set Basic Small Ship Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Basic Small Ship Manufacturing Material Efficiency II",
+                "typeid":"37155",
+                "line":"11"
+            }
+        },
+        {
+            "Standup M-Set Drone and Fighter Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Drone and Fighter Manufacturing Material Efficiency I",
+                "typeid":"37156",
+                "line":"12"
+            }
+        },
+        {
+            "Standup M-Set Drone and Fighter Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Drone and Fighter Manufacturing Material Efficiency II",
+                "typeid":"37157",
+                "line":"13"
+            }
+        },
+        {
+            "Standup M-Set Ammunition Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Ammunition Manufacturing Material Efficiency I",
+                "typeid":"37158",
+                "line":"14"
+            }
+        },
+        {
+            "Standup M-Set Ammunition Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Ammunition Manufacturing Material Efficiency II",
+                "typeid":"37159",
+                "line":"15"
+            }
+        },
+        {
+            "Standup M-Set Equipment Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Equipment Manufacturing Time Efficiency I",
+                "typeid":"37160",
+                "line":"16"
+            }
+        },
+        {
+            "Standup M-Set Equipment Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Equipment Manufacturing Time Efficiency II",
+                "typeid":"37161",
+                "line":"17"
+            }
+        },
+        {
+            "Standup M-Set Basic Small Ship Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Basic Small Ship Manufacturing Time Efficiency I",
+                "typeid":"37162",
+                "line":"18"
+            }
+        },
+        {
+            "Standup M-Set Basic Small Ship Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Basic Small Ship Manufacturing Time Efficiency II",
+                "typeid":"37163",
+                "line":"19"
+            }
+        },
+        {
+            "Standup L-Set Ammunition Manufacturing Efficiency II":{
+                "name":"Standup L-Set Ammunition Manufacturing Efficiency II",
+                "typeid":"37165",
+                "line":"20"
+            }
+        },
+        {
+            "Standup L-Set Basic Large Ship Manufacturing Efficiency I":{
+                "name":"Standup L-Set Basic Large Ship Manufacturing Efficiency I",
+                "typeid":"37166",
+                "line":"21"
+            }
+        },
+        {
+            "Standup L-Set Basic Large Ship Manufacturing Efficiency II":{
+                "name":"Standup L-Set Basic Large Ship Manufacturing Efficiency II",
+                "typeid":"37167",
+                "line":"22"
+            }
+        },
+        {
+            "Standup L-Set Advanced Large Ship Manufacturing Efficiency I":{
+                "name":"Standup L-Set Advanced Large Ship Manufacturing Efficiency I",
+                "typeid":"37168",
+                "line":"23"
+            }
+        },
+        {
+            "Standup L-Set Advanced Large Ship Manufacturing Efficiency II":{
+                "name":"Standup L-Set Advanced Large Ship Manufacturing Efficiency II",
+                "typeid":"37169",
+                "line":"24"
+            }
+        },
+        {
+            "Standup L-Set Equipment Manufacturing Efficiency I":{
+                "name":"Standup L-Set Equipment Manufacturing Efficiency I",
+                "typeid":"37170",
+                "line":"25"
+            }
+        },
+        {
+            "Standup L-Set Equipment Manufacturing Efficiency II":{
+                "name":"Standup L-Set Equipment Manufacturing Efficiency II",
+                "typeid":"37171",
+                "line":"26"
+            }
+        },
+        {
+            "Standup L-Set Capital Ship Manufacturing Efficiency II":{
+                "name":"Standup L-Set Capital Ship Manufacturing Efficiency II",
+                "typeid":"37172",
+                "line":"27"
+            }
+        },
+        {
+            "Standup L-Set Capital Ship Manufacturing Efficiency I":{
+                "name":"Standup L-Set Capital Ship Manufacturing Efficiency I",
+                "typeid":"37173",
+                "line":"28"
+            }
+        },
+        {
+            "Standup L-Set Advanced Component Manufacturing Efficiency I":{
+                "name":"Standup L-Set Advanced Component Manufacturing Efficiency I",
+                "typeid":"37174",
+                "line":"29"
+            }
+        },
+        {
+            "Standup L-Set Advanced Component Manufacturing Efficiency II":{
+                "name":"Standup L-Set Advanced Component Manufacturing Efficiency II",
+                "typeid":"37175",
+                "line":"30"
+            }
+        },
+        {
+            "Standup XL-Set Equipment and Consumable Manufacturing Efficiency I":{
+                "name":"Standup XL-Set Equipment and Consumable Manufacturing Efficiency I",
+                "typeid":"37178",
+                "line":"31"
+            }
+        },
+        {
+            "Standup XL-Set Equipment and Consumable Manufacturing Efficiency II":{
+                "name":"Standup XL-Set Equipment and Consumable Manufacturing Efficiency II",
+                "typeid":"37179",
+                "line":"32"
+            }
+        },
+        {
+            "Standup XL-Set Ship Manufacturing Efficiency I":{
+                "name":"Standup XL-Set Ship Manufacturing Efficiency I",
+                "typeid":"37180",
+                "line":"33"
+            }
+        },
+        {
+            "Standup XL-Set Laboratory Optimization II":{
+                "name":"Standup XL-Set Laboratory Optimization II",
+                "typeid":"37182",
+                "line":"34"
+            }
+        },
+        {
+            "Standup XL-Set Laboratory Optimization I":{
+                "name":"Standup XL-Set Laboratory Optimization I",
+                "typeid":"37183",
+                "line":"35"
+            }
+        },
+        {
+            "Standup M-Set Missile Precision I":{
+                "name":"Standup M-Set Missile Precision I",
+                "typeid":"37216",
+                "line":"36"
+            }
+        },
+        {
+            "Standup M-Set Missile Precision II":{
+                "name":"Standup M-Set Missile Precision II",
+                "typeid":"37217",
+                "line":"37"
+            }
+        },
+        {
+            "Standup M-Set Energy Neutralizer Projection I":{
+                "name":"Standup M-Set Energy Neutralizer Projection I",
+                "typeid":"37218",
+                "line":"38"
+            }
+        },
+        {
+            "Standup M-Set Energy Neutralizer Projection II":{
+                "name":"Standup M-Set Energy Neutralizer Projection II",
+                "typeid":"37219",
+                "line":"39"
+            }
+        },
+        {
+            "Standup M-Set Missile Projection I":{
+                "name":"Standup M-Set Missile Projection I",
+                "typeid":"37220",
+                "line":"40"
+            }
+        },
+        {
+            "Standup M-Set Missile Projection II":{
+                "name":"Standup M-Set Missile Projection II",
+                "typeid":"37221",
+                "line":"41"
+            }
+        },
+        {
+            "Standup M-Set Energy Neutralizer Economy I":{
+                "name":"Standup M-Set Energy Neutralizer Economy I",
+                "typeid":"37222",
+                "line":"42"
+            }
+        },
+        {
+            "Standup M-Set Energy Neutralizer Economy II":{
+                "name":"Standup M-Set Energy Neutralizer Economy II",
+                "typeid":"37223",
+                "line":"43"
+            }
+        },
+        {
+            "Standup M-Set Electronic Warfare Projection I":{
+                "name":"Standup M-Set Electronic Warfare Projection I",
+                "typeid":"37228",
+                "line":"44"
+            }
+        },
+        {
+            "Standup M-Set Electronic Warfare Projection II":{
+                "name":"Standup M-Set Electronic Warfare Projection II",
+                "typeid":"37229",
+                "line":"45"
+            }
+        },
+        {
+            "Standup M-Set Electronic Warfare Economy I":{
+                "name":"Standup M-Set Electronic Warfare Economy I",
+                "typeid":"37230",
+                "line":"46"
+            }
+        },
+        {
+            "Standup M-Set Electronic Warfare Economy II":{
+                "name":"Standup M-Set Electronic Warfare Economy II",
+                "typeid":"37231",
+                "line":"47"
+            }
+        },
+        {
+            "Standup M-Set Structure Target Multiplexing I":{
+                "name":"Standup M-Set Structure Target Multiplexing I",
+                "typeid":"37232",
+                "line":"48"
+            }
+        },
+        {
+            "Standup M-Set Structure Target Multiplexing II":{
+                "name":"Standup M-Set Structure Target Multiplexing II",
+                "typeid":"37233",
+                "line":"49"
+            }
+        },
+        {
+            "Standup M-Set Enhanced Targeting System I":{
+                "name":"Standup M-Set Enhanced Targeting System I",
+                "typeid":"37234",
+                "line":"50"
+            }
+        },
+        {
+            "Standup M-Set Enhanced Targeting System II":{
+                "name":"Standup M-Set Enhanced Targeting System II",
+                "typeid":"37235",
+                "line":"51"
+            }
+        },
+        {
+            "Standup L-Set Missile Flight Processor I":{
+                "name":"Standup L-Set Missile Flight Processor I",
+                "typeid":"37248",
+                "line":"52"
+            }
+        },
+        {
+            "Standup L-Set Missile Flight Processor II":{
+                "name":"Standup L-Set Missile Flight Processor II",
+                "typeid":"37249",
+                "line":"53"
+            }
+        },
+        {
+            "Standup L-Set Energy Neutralizer Feedback Control I":{
+                "name":"Standup L-Set Energy Neutralizer Feedback Control I",
+                "typeid":"37250",
+                "line":"54"
+            }
+        },
+        {
+            "Standup L-Set Energy Neutralizer Feedback Control II":{
+                "name":"Standup L-Set Energy Neutralizer Feedback Control II",
+                "typeid":"37251",
+                "line":"55"
+            }
+        },
+        {
+            "Standup L-Set EW Command System I":{
+                "name":"Standup L-Set EW Command System I",
+                "typeid":"37254",
+                "line":"56"
+            }
+        },
+        {
+            "Standup L-Set EW Command System II":{
+                "name":"Standup L-Set EW Command System II",
+                "typeid":"37255",
+                "line":"57"
+            }
+        },
+        {
+            "Standup L-Set Bomb Aimer I":{
+                "name":"Standup L-Set Bomb Aimer I",
+                "typeid":"37256",
+                "line":"58"
+            }
+        },
+        {
+            "Standup L-Set Bomb Aimer II":{
+                "name":"Standup L-Set Bomb Aimer II",
+                "typeid":"37257",
+                "line":"59"
+            }
+        },
+        {
+            "Standup L-Set Point Defense Battery Control I":{
+                "name":"Standup L-Set Point Defense Battery Control I",
+                "typeid":"37258",
+                "line":"60"
+            }
+        },
+        {
+            "Standup L-Set Point Defense Battery Control II":{
+                "name":"Standup L-Set Point Defense Battery Control II",
+                "typeid":"37259",
+                "line":"61"
+            }
+        },
+        {
+            "Standup L-Set Target Acquisition Array I":{
+                "name":"Standup L-Set Target Acquisition Array I",
+                "typeid":"37260",
+                "line":"62"
+            }
+        },
+        {
+            "Standup L-Set Target Acquisition Array II":{
+                "name":"Standup L-Set Target Acquisition Array II",
+                "typeid":"37261",
+                "line":"63"
+            }
+        },
+        {
+            "Standup XL-Set Missile Fire Control Computer I":{
+                "name":"Standup XL-Set Missile Fire Control Computer I",
+                "typeid":"37268",
+                "line":"64"
+            }
+        },
+        {
+            "Standup XL-Set Missile Fire Control Computer II":{
+                "name":"Standup XL-Set Missile Fire Control Computer II",
+                "typeid":"37269",
+                "line":"65"
+            }
+        },
+        {
+            "Standup XL-Set EW and Emissions Co-ordinator I":{
+                "name":"Standup XL-Set EW and Emissions Co-ordinator I",
+                "typeid":"37272",
+                "line":"66"
+            }
+        },
+        {
+            "Standup XL-Set EW and Emissions Co-ordinator II":{
+                "name":"Standup XL-Set EW and Emissions Co-ordinator II",
+                "typeid":"37273",
+                "line":"67"
+            }
+        },
+        {
+            "Standup XL-Set Extinction Level Weapons Suite I":{
+                "name":"Standup XL-Set Extinction Level Weapons Suite I",
+                "typeid":"37274",
+                "line":"68"
+            }
+        },
+        {
+            "Standup XL-Set Extinction Level Weapons Suite II":{
+                "name":"Standup XL-Set Extinction Level Weapons Suite II",
+                "typeid":"37275",
+                "line":"69"
+            }
+        },
+        {
+            "OLD M-Set HS Materials Reclamation I":{
+                "name":"OLD M-Set HS Materials Reclamation I",
+                "typeid":"37280",
+                "line":"70"
+            }
+        },
+        {
+            "OLD M-Set HS Materials Reclamation II":{
+                "name":"OLD M-Set HS Materials Reclamation II",
+                "typeid":"37281",
+                "line":"71"
+            }
+        },
+        {
+            "OLD L-Set Ore Grading Processor I":{
+                "name":"OLD L-Set Ore Grading Processor I",
+                "typeid":"37282",
+                "line":"72"
+            }
+        },
+        {
+            "OLD L-Set Ore Grading Processor II":{
+                "name":"OLD L-Set Ore Grading Processor II",
+                "typeid":"37283",
+                "line":"73"
+            }
+        },
+        {
+            "OLD XL-Set Reprocessing Monitor I":{
+                "name":"OLD XL-Set Reprocessing Monitor I",
+                "typeid":"37284",
+                "line":"74"
+            }
+        },
+        {
+            "OLD XL-Set Reprocessing Monitor II":{
+                "name":"OLD XL-Set Reprocessing Monitor II",
+                "typeid":"37285",
+                "line":"75"
+            }
+        },
+        {
+            "OLD M-Set LNS Materials Reclamation I":{
+                "name":"OLD M-Set LNS Materials Reclamation I",
+                "typeid":"41422",
+                "line":"76"
+            }
+        },
+        {
+            "OLD M-Set LNS Materials Reclamation II":{
+                "name":"OLD M-Set LNS Materials Reclamation II",
+                "typeid":"41423",
+                "line":"77"
+            }
+        },
+        {
+            "OLD M-Set I1 Materials Reclamation I":{
+                "name":"OLD M-Set I1 Materials Reclamation I",
+                "typeid":"41424",
+                "line":"78"
+            }
+        },
+        {
+            "OLD M-Set I1 Materials Reclamation II":{
+                "name":"OLD M-Set I1 Materials Reclamation II",
+                "typeid":"41425",
+                "line":"79"
+            }
+        },
+        {
+            "OLD M-Set I2 Materials Reclamation I":{
+                "name":"OLD M-Set I2 Materials Reclamation I",
+                "typeid":"41426",
+                "line":"80"
+            }
+        },
+        {
+            "OLD M-Set I2 Materials Reclamation II":{
+                "name":"OLD M-Set I2 Materials Reclamation II",
+                "typeid":"41427",
+                "line":"81"
+            }
+        },
+        {
+            "OLD L-Set Ice Grading Processor I":{
+                "name":"OLD L-Set Ice Grading Processor I",
+                "typeid":"41428",
+                "line":"82"
+            }
+        },
+        {
+            "OLD L-Set Ice Grading Processor II":{
+                "name":"OLD L-Set Ice Grading Processor II",
+                "typeid":"41429",
+                "line":"83"
+            }
+        },
+        {
+            "Standup XL-Set Structure and Component Manufacturing Efficiency II":{
+                "name":"Standup XL-Set Structure and Component Manufacturing Efficiency II",
+                "typeid":"43705",
+                "line":"84"
+            }
+        },
+        {
+            "Standup L-Set Advanced Small Ship Manufacturing Efficiency I":{
+                "name":"Standup L-Set Advanced Small Ship Manufacturing Efficiency I",
+                "typeid":"43707",
+                "line":"85"
+            }
+        },
+        {
+            "Standup L-Set Advanced Small Ship Manufacturing Efficiency II":{
+                "name":"Standup L-Set Advanced Small Ship Manufacturing Efficiency II",
+                "typeid":"43708",
+                "line":"86"
+            }
+        },
+        {
+            "Standup L-Set Advanced Medium Ship Manufacturing Efficiency I":{
+                "name":"Standup L-Set Advanced Medium Ship Manufacturing Efficiency I",
+                "typeid":"43709",
+                "line":"87"
+            }
+        },
+        {
+            "Standup L-Set Advanced Medium Ship Manufacturing Efficiency II":{
+                "name":"Standup L-Set Advanced Medium Ship Manufacturing Efficiency II",
+                "typeid":"43711",
+                "line":"88"
+            }
+        },
+        {
+            "Standup L-Set Drone and Fighter Manufacturing Efficiency I":{
+                "name":"Standup L-Set Drone and Fighter Manufacturing Efficiency I",
+                "typeid":"43712",
+                "line":"89"
+            }
+        },
+        {
+            "Standup L-Set Basic Small Ship Manufacturing Efficiency II":{
+                "name":"Standup L-Set Basic Small Ship Manufacturing Efficiency II",
+                "typeid":"43715",
+                "line":"90"
+            }
+        },
+        {
+            "Standup L-Set Basic Medium Ship Manufacturing Efficiency II":{
+                "name":"Standup L-Set Basic Medium Ship Manufacturing Efficiency II",
+                "typeid":"43717",
+                "line":"91"
+            }
+        },
+        {
+            "Standup L-Set Basic Capital Component Manufacturing Efficiency I":{
+                "name":"Standup L-Set Basic Capital Component Manufacturing Efficiency I",
+                "typeid":"43718",
+                "line":"92"
+            }
+        },
+        {
+            "Standup L-Set Basic Capital Component Manufacturing Efficiency II":{
+                "name":"Standup L-Set Basic Capital Component Manufacturing Efficiency II",
+                "typeid":"43719",
+                "line":"93"
+            }
+        },
+        {
+            "Standup L-Set Structure Manufacturing Efficiency I":{
+                "name":"Standup L-Set Structure Manufacturing Efficiency I",
+                "typeid":"43720",
+                "line":"94"
+            }
+        },
+        {
+            "Standup L-Set Invention Optimization I":{
+                "name":"Standup L-Set Invention Optimization I",
+                "typeid":"43722",
+                "line":"95"
+            }
+        },
+        {
+            "Standup L-Set Invention Optimization II":{
+                "name":"Standup L-Set Invention Optimization II",
+                "typeid":"43723",
+                "line":"96"
+            }
+        },
+        {
+            "Standup L-Set ME Research Optimization II":{
+                "name":"Standup L-Set ME Research Optimization II",
+                "typeid":"43725",
+                "line":"97"
+            }
+        },
+        {
+            "Standup L-Set TE Research Optimization II":{
+                "name":"Standup L-Set TE Research Optimization II",
+                "typeid":"43727",
+                "line":"98"
+            }
+        },
+        {
+            "Standup L-Set Blueprint Copy Optimization I":{
+                "name":"Standup L-Set Blueprint Copy Optimization I",
+                "typeid":"43729",
+                "line":"99"
+            }
+        },
+        {
+            "Standup M-Set Basic Large Ship Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Basic Large Ship Manufacturing Material Efficiency I",
+                "typeid":"43732",
+                "line":"100"
+            }
+        },
+        {
+            "Standup M-Set Basic Large Ship Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Basic Large Ship Manufacturing Time Efficiency II",
+                "typeid":"43734",
+                "line":"101"
+            }
+        },
+        {
+            "Standup M-Set Advanced Small Ship Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Advanced Small Ship Manufacturing Material Efficiency II",
+                "typeid":"43854",
+                "line":"102"
+            }
+        },
+        {
+            "Standup M-Set Advanced Small Ship Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Advanced Small Ship Manufacturing Material Efficiency I",
+                "typeid":"43855",
+                "line":"103"
+            }
+        },
+        {
+            "Standup M-Set Advanced Small Ship Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Advanced Small Ship Manufacturing Time Efficiency I",
+                "typeid":"43856",
+                "line":"104"
+            }
+        },
+        {
+            "Standup M-Set Advanced Large Ship Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Advanced Large Ship Manufacturing Material Efficiency I",
+                "typeid":"43862",
+                "line":"105"
+            }
+        },
+        {
+            "Standup M-Set Advanced Large Ship Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Advanced Large Ship Manufacturing Material Efficiency II",
+                "typeid":"43863",
+                "line":"106"
+            }
+        },
+        {
+            "Standup M-Set Advanced Large Ship Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Advanced Large Ship Manufacturing Time Efficiency I",
+                "typeid":"43865",
+                "line":"107"
+            }
+        },
+        {
+            "Standup M-Set Advanced Component Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Advanced Component Manufacturing Material Efficiency II",
+                "typeid":"43866",
+                "line":"108"
+            }
+        },
+        {
+            "Standup M-Set Advanced Component Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Advanced Component Manufacturing Time Efficiency II",
+                "typeid":"43868",
+                "line":"109"
+            }
+        },
+        {
+            "Standup M-Set Advanced Component Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Advanced Component Manufacturing Time Efficiency I",
+                "typeid":"43869",
+                "line":"110"
+            }
+        },
+        {
+            "Standup M-Set Basic Capital Component Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Basic Capital Component Manufacturing Material Efficiency II",
+                "typeid":"43871",
+                "line":"111"
+            }
+        },
+        {
+            "Standup M-Set Basic Capital Component Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Basic Capital Component Manufacturing Time Efficiency I",
+                "typeid":"43872",
+                "line":"112"
+            }
+        },
+        {
+            "Standup M-Set Basic Capital Component Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Basic Capital Component Manufacturing Time Efficiency II",
+                "typeid":"43873",
+                "line":"113"
+            }
+        },
+        {
+            "Standup M-Set Structure Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Structure Manufacturing Time Efficiency II",
+                "typeid":"43877",
+                "line":"114"
+            }
+        },
+        {
+            "Standup M-Set ME Research Accelerator II":{
+                "name":"Standup M-Set ME Research Accelerator II",
+                "typeid":"43882",
+                "line":"115"
+            }
+        },
+        {
+            "Standup M-Set ME Research Accelerator I":{
+                "name":"Standup M-Set ME Research Accelerator I",
+                "typeid":"43883",
+                "line":"116"
+            }
+        },
+        {
+            "Standup M-Set ME Research Cost Optimization I":{
+                "name":"Standup M-Set ME Research Cost Optimization I",
+                "typeid":"43885",
+                "line":"117"
+            }
+        },
+        {
+            "Standup M-Set TE Research Cost Optimization II":{
+                "name":"Standup M-Set TE Research Cost Optimization II",
+                "typeid":"43886",
+                "line":"118"
+            }
+        },
+        {
+            "Standup M-Set TE Research Cost Optimization I":{
+                "name":"Standup M-Set TE Research Cost Optimization I",
+                "typeid":"43887",
+                "line":"119"
+            }
+        },
+        {
+            "Standup M-Set TE Research Accelerator I":{
+                "name":"Standup M-Set TE Research Accelerator I",
+                "typeid":"43889",
+                "line":"120"
+            }
+        },
+        {
+            "Standup M-Set Blueprint Copy Cost Optimization II":{
+                "name":"Standup M-Set Blueprint Copy Cost Optimization II",
+                "typeid":"43890",
+                "line":"121"
+            }
+        },
+        {
+            "Standup M-Set Blueprint Copy Accelerator II":{
+                "name":"Standup M-Set Blueprint Copy Accelerator II",
+                "typeid":"43892",
+                "line":"122"
+            }
+        },
+        {
+            "Standup M-Set Blueprint Copy Accelerator I":{
+                "name":"Standup M-Set Blueprint Copy Accelerator I",
+                "typeid":"43893",
+                "line":"123"
+            }
+        },
+        {
+            "Standup M-Set Equipment Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Equipment Manufacturing Material Efficiency II",
+                "typeid":"43921",
+                "line":"124"
+            }
+        },
+        {
+            "Standup M-Set Thukker Basic Capital Component Manufacturing Material Efficiency":{
+                "name":"Standup M-Set Thukker Basic Capital Component Manufacturing Material Efficiency",
+                "typeid":"45544",
+                "line":"125"
+            }
+        },
+        {
+            "Standup L-Set Thukker Basic Capital Component Manufacturing Efficiency":{
+                "name":"Standup L-Set Thukker Basic Capital Component Manufacturing Efficiency",
+                "typeid":"45546",
+                "line":"126"
+            }
+        },
+        {
+            "Standup XL-Set Thukker Structure and Component Manufacturing Efficiency":{
+                "name":"Standup XL-Set Thukker Structure and Component Manufacturing Efficiency",
+                "typeid":"45548",
+                "line":"127"
+            }
+        },
+        {
+            "Standup L-Set Thukker Advanced Component Manufacturing Efficiency":{
+                "name":"Standup L-Set Thukker Advanced Component Manufacturing Efficiency",
+                "typeid":"45641",
+                "line":"128"
+            }
+        },
+        {
+            "Standup M-Set Moon Drilling Efficiency I":{
+                "name":"Standup M-Set Moon Drilling Efficiency I",
+                "typeid":"46323",
+                "line":"129"
+            }
+        },
+        {
+            "Standup M-Set Moon Drilling Stability I":{
+                "name":"Standup M-Set Moon Drilling Stability I",
+                "typeid":"46325",
+                "line":"130"
+            }
+        },
+        {
+            "Standup L-Set Moon Drilling Proficiency I":{
+                "name":"Standup L-Set Moon Drilling Proficiency I",
+                "typeid":"46327",
+                "line":"131"
+            }
+        },
+        {
+            "Standup L-Set Moon Drilling Proficiency II":{
+                "name":"Standup L-Set Moon Drilling Proficiency II",
+                "typeid":"46328",
+                "line":"132"
+            }
+        },
+        {
+            "Standup M-Set Composite Reactor Time Efficiency I":{
+                "name":"Standup M-Set Composite Reactor Time Efficiency I",
+                "typeid":"46484",
+                "line":"133"
+            }
+        },
+        {
+            "Standup M-Set Hybrid Reactor Time Efficiency I":{
+                "name":"Standup M-Set Hybrid Reactor Time Efficiency I",
+                "typeid":"46488",
+                "line":"134"
+            }
+        },
+        {
+            "Standup M-Set Hybrid Reactor Time Efficiency II":{
+                "name":"Standup M-Set Hybrid Reactor Time Efficiency II",
+                "typeid":"46489",
+                "line":"135"
+            }
+        },
+        {
+            "Standup M-Set Hybrid Reactor Material Efficiency I":{
+                "name":"Standup M-Set Hybrid Reactor Material Efficiency I",
+                "typeid":"46490",
+                "line":"136"
+            }
+        },
+        {
+            "Standup M-Set Hybrid Reactor Material Efficiency II":{
+                "name":"Standup M-Set Hybrid Reactor Material Efficiency II",
+                "typeid":"46491",
+                "line":"137"
+            }
+        },
+        {
+            "Standup M-Set Biochemical Reactor Time Efficiency II":{
+                "name":"Standup M-Set Biochemical Reactor Time Efficiency II",
+                "typeid":"46493",
+                "line":"138"
+            }
+        },
+        {
+            "Standup M-Set Biochemical Reactor Material Efficiency I":{
+                "name":"Standup M-Set Biochemical Reactor Material Efficiency I",
+                "typeid":"46494",
+                "line":"139"
+            }
+        },
+        {
+            "Standup M-Set Biochemical Reactor Material Efficiency II":{
+                "name":"Standup M-Set Biochemical Reactor Material Efficiency II",
+                "typeid":"46495",
+                "line":"140"
+            }
+        },
+        {
+            "Standup L-Set Reactor Efficiency II":{
+                "name":"Standup L-Set Reactor Efficiency II",
+                "typeid":"46497",
+                "line":"141"
+            }
+        },
+        {
+            "Standup M-Set Asteroid Ore Grading Processor I":{
+                "name":"Standup M-Set Asteroid Ore Grading Processor I",
+                "typeid":"46633",
+                "line":"142"
+            }
+        },
+        {
+            "Standup M-Set Asteroid Ore Grading Processor II":{
+                "name":"Standup M-Set Asteroid Ore Grading Processor II",
+                "typeid":"46634",
+                "line":"143"
+            }
+        },
+        {
+            "Standup L-Set Reprocessing Monitor I":{
+                "name":"Standup L-Set Reprocessing Monitor I",
+                "typeid":"46639",
+                "line":"144"
+            }
+        },
+        {
+            "Standup L-Set Reprocessing Monitor II":{
+                "name":"Standup L-Set Reprocessing Monitor II",
+                "typeid":"46640",
+                "line":"145"
+            }
+        },
+        {
+            "Standup XL-Set Reprocessing Monitor II":{
+                "name":"Standup XL-Set Reprocessing Monitor II",
+                "typeid":"46642",
+                "line":"146"
+            }
+        },
+        {
+            "Standup M-Set Basic Medium Ship Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Basic Medium Ship Manufacturing Material Efficiency I",
+                "typeid":"37146",
+                "line":"147"
+            }
+        },
+        {
+            "Standup L-Set Ammunition Manufacturing Efficiency I":{
+                "name":"Standup L-Set Ammunition Manufacturing Efficiency I",
+                "typeid":"37164",
+                "line":"148"
+            }
+        },
+        {
+            "Standup XL-Set Ship Manufacturing Efficiency II":{
+                "name":"Standup XL-Set Ship Manufacturing Efficiency II",
+                "typeid":"37181",
+                "line":"149"
+            }
+        },
+        {
+            "Standup XL-Set Structure and Component Manufacturing Efficiency I":{
+                "name":"Standup XL-Set Structure and Component Manufacturing Efficiency I",
+                "typeid":"43704",
+                "line":"150"
+            }
+        },
+        {
+            "Standup L-Set Drone and Fighter Manufacturing Efficiency II":{
+                "name":"Standup L-Set Drone and Fighter Manufacturing Efficiency II",
+                "typeid":"43713",
+                "line":"151"
+            }
+        },
+        {
+            "Standup L-Set Basic Small Ship Manufacturing Efficiency I":{
+                "name":"Standup L-Set Basic Small Ship Manufacturing Efficiency I",
+                "typeid":"43714",
+                "line":"152"
+            }
+        },
+        {
+            "Standup L-Set Basic Medium Ship Manufacturing Efficiency I":{
+                "name":"Standup L-Set Basic Medium Ship Manufacturing Efficiency I",
+                "typeid":"43716",
+                "line":"153"
+            }
+        },
+        {
+            "Standup L-Set Structure Manufacturing Efficiency II":{
+                "name":"Standup L-Set Structure Manufacturing Efficiency II",
+                "typeid":"43721",
+                "line":"154"
+            }
+        },
+        {
+            "Standup L-Set ME Research Optimization I":{
+                "name":"Standup L-Set ME Research Optimization I",
+                "typeid":"43724",
+                "line":"155"
+            }
+        },
+        {
+            "Standup L-Set TE Research Optimization I":{
+                "name":"Standup L-Set TE Research Optimization I",
+                "typeid":"43726",
+                "line":"156"
+            }
+        },
+        {
+            "Standup L-Set Blueprint Copy Optimization II":{
+                "name":"Standup L-Set Blueprint Copy Optimization II",
+                "typeid":"43730",
+                "line":"157"
+            }
+        },
+        {
+            "Standup M-Set Basic Large Ship Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Basic Large Ship Manufacturing Time Efficiency I",
+                "typeid":"43733",
+                "line":"158"
+            }
+        },
+        {
+            "Standup M-Set Advanced Small Ship Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Advanced Small Ship Manufacturing Time Efficiency II",
+                "typeid":"43857",
+                "line":"159"
+            }
+        },
+        {
+            "Standup M-Set Advanced Medium Ship Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Advanced Medium Ship Manufacturing Material Efficiency I",
+                "typeid":"43858",
+                "line":"160"
+            }
+        },
+        {
+            "Standup M-Set Advanced Medium Ship Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Advanced Medium Ship Manufacturing Material Efficiency II",
+                "typeid":"43859",
+                "line":"161"
+            }
+        },
+        {
+            "Standup M-Set Advanced Medium Ship Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Advanced Medium Ship Manufacturing Time Efficiency I",
+                "typeid":"43860",
+                "line":"162"
+            }
+        },
+        {
+            "Standup M-Set Advanced Medium Ship Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Advanced Medium Ship Manufacturing Time Efficiency II",
+                "typeid":"43861",
+                "line":"163"
+            }
+        },
+        {
+            "Standup M-Set Advanced Large Ship Manufacturing Time Efficiency II":{
+                "name":"Standup M-Set Advanced Large Ship Manufacturing Time Efficiency II",
+                "typeid":"43864",
+                "line":"164"
+            }
+        },
+        {
+            "Standup M-Set Advanced Component Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Advanced Component Manufacturing Material Efficiency I",
+                "typeid":"43867",
+                "line":"165"
+            }
+        },
+        {
+            "Standup M-Set Basic Capital Component Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Basic Capital Component Manufacturing Material Efficiency I",
+                "typeid":"43870",
+                "line":"166"
+            }
+        },
+        {
+            "Standup M-Set Structure Manufacturing Material Efficiency II":{
+                "name":"Standup M-Set Structure Manufacturing Material Efficiency II",
+                "typeid":"43874",
+                "line":"167"
+            }
+        },
+        {
+            "Standup M-Set Structure Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Structure Manufacturing Material Efficiency I",
+                "typeid":"43875",
+                "line":"168"
+            }
+        },
+        {
+            "Standup M-Set Structure Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Structure Manufacturing Time Efficiency I",
+                "typeid":"43876",
+                "line":"169"
+            }
+        },
+        {
+            "Standup M-Set Invention Cost Optimization II":{
+                "name":"Standup M-Set Invention Cost Optimization II",
+                "typeid":"43878",
+                "line":"170"
+            }
+        },
+        {
+            "Standup M-Set Invention Cost Optimization I":{
+                "name":"Standup M-Set Invention Cost Optimization I",
+                "typeid":"43879",
+                "line":"171"
+            }
+        },
+        {
+            "Standup M-Set Invention Accelerator I":{
+                "name":"Standup M-Set Invention Accelerator I",
+                "typeid":"43880",
+                "line":"172"
+            }
+        },
+        {
+            "Standup M-Set Invention Accelerator II":{
+                "name":"Standup M-Set Invention Accelerator II",
+                "typeid":"43881",
+                "line":"173"
+            }
+        },
+        {
+            "Standup M-Set ME Research Cost Optimization II":{
+                "name":"Standup M-Set ME Research Cost Optimization II",
+                "typeid":"43884",
+                "line":"174"
+            }
+        },
+        {
+            "Standup M-Set TE Research Accelerator II":{
+                "name":"Standup M-Set TE Research Accelerator II",
+                "typeid":"43888",
+                "line":"175"
+            }
+        },
+        {
+            "Standup M-Set Blueprint Copy Cost Optimization I":{
+                "name":"Standup M-Set Blueprint Copy Cost Optimization I",
+                "typeid":"43891",
+                "line":"176"
+            }
+        },
+        {
+            "Standup M-Set Basic Medium Ship Manufacturing Time Efficiency I":{
+                "name":"Standup M-Set Basic Medium Ship Manufacturing Time Efficiency I",
+                "typeid":"43919",
+                "line":"177"
+            }
+        },
+        {
+            "Standup M-Set Equipment Manufacturing Material Efficiency I":{
+                "name":"Standup M-Set Equipment Manufacturing Material Efficiency I",
+                "typeid":"43920",
+                "line":"178"
+            }
+        },
+        {
+            "Standup M-Set Thukker Advanced Component Manufacturing Material Efficiency":{
+                "name":"Standup M-Set Thukker Advanced Component Manufacturing Material Efficiency",
+                "typeid":"45640",
+                "line":"179"
+            }
+        },
+        {
+            "Standup M-Set Moon Drilling Efficiency II":{
+                "name":"Standup M-Set Moon Drilling Efficiency II",
+                "typeid":"46324",
+                "line":"180"
+            }
+        },
+        {
+            "Standup M-Set Moon Drilling Stability II":{
+                "name":"Standup M-Set Moon Drilling Stability II",
+                "typeid":"46326",
+                "line":"181"
+            }
+        },
+        {
+            "Standup M-Set Composite Reactor Time Efficiency II":{
+                "name":"Standup M-Set Composite Reactor Time Efficiency II",
+                "typeid":"46485",
+                "line":"182"
+            }
+        },
+        {
+            "Standup M-Set Composite Reactor Material Efficiency I":{
+                "name":"Standup M-Set Composite Reactor Material Efficiency I",
+                "typeid":"46486",
+                "line":"183"
+            }
+        },
+        {
+            "Standup M-Set Composite Reactor Material Efficiency II":{
+                "name":"Standup M-Set Composite Reactor Material Efficiency II",
+                "typeid":"46487",
+                "line":"184"
+            }
+        },
+        {
+            "Standup M-Set Biochemical Reactor Time Efficiency I":{
+                "name":"Standup M-Set Biochemical Reactor Time Efficiency I",
+                "typeid":"46492",
+                "line":"185"
+            }
+        },
+        {
+            "Standup L-Set Reactor Efficiency I":{
+                "name":"Standup L-Set Reactor Efficiency I",
+                "typeid":"46496",
+                "line":"186"
+            }
+        },
+        {
+            "Standup M-Set Ice Grading Processor I":{
+                "name":"Standup M-Set Ice Grading Processor I",
+                "typeid":"46635",
+                "line":"187"
+            }
+        },
+        {
+            "Standup M-Set Ice Grading Processor II":{
+                "name":"Standup M-Set Ice Grading Processor II",
+                "typeid":"46636",
+                "line":"188"
+            }
+        },
+        {
+            "Standup M-Set Moon Ore Grading Processor I":{
+                "name":"Standup M-Set Moon Ore Grading Processor I",
+                "typeid":"46637",
+                "line":"189"
+            }
+        },
+        {
+            "Standup M-Set Moon Ore Grading Processor II":{
+                "name":"Standup M-Set Moon Ore Grading Processor II",
+                "typeid":"46638",
+                "line":"190"
+            }
+        },
+        {
+            "Standup XL-Set Reprocessing Monitor I":{
+                "name":"Standup XL-Set Reprocessing Monitor I",
+                "typeid":"46641",
+                "line":"191"
+            }
+        }
+    ]
+}

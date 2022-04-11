@@ -1,0 +1,956 @@
+{
+    "Standard ore":[
+        {
+            "Plagioclase":{
+                "name":"Plagioclase",
+                "typeid":"18",
+                "line":"3"
+            }
+        },
+        {
+            "Spodumain":{
+                "name":"Spodumain",
+                "typeid":"19",
+                "line":"4"
+            }
+        },
+        {
+            "Kernite":{
+                "name":"Kernite",
+                "typeid":"20",
+                "line":"5"
+            }
+        },
+        {
+            "Hedbergite":{
+                "name":"Hedbergite",
+                "typeid":"21",
+                "line":"6"
+            }
+        },
+        {
+            "Arkonor":{
+                "name":"Arkonor",
+                "typeid":"22",
+                "line":"7"
+            }
+        },
+        {
+            "Bistot":{
+                "name":"Bistot",
+                "typeid":"1223",
+                "line":"8"
+            }
+        },
+        {
+            "Pyroxeres":{
+                "name":"Pyroxeres",
+                "typeid":"1224",
+                "line":"9"
+            }
+        },
+        {
+            "Crokite":{
+                "name":"Crokite",
+                "typeid":"1225",
+                "line":"10"
+            }
+        },
+        {
+            "Jaspet":{
+                "name":"Jaspet",
+                "typeid":"1226",
+                "line":"11"
+            }
+        },
+        {
+            "Omber":{
+                "name":"Omber",
+                "typeid":"1227",
+                "line":"12"
+            }
+        },
+        {
+            "Scordite":{
+                "name":"Scordite",
+                "typeid":"1228",
+                "line":"13"
+            }
+        },
+        {
+            "Gneiss":{
+                "name":"Gneiss",
+                "typeid":"1229",
+                "line":"14"
+            }
+        },
+        {
+            "Veldspar":{
+                "name":"Veldspar",
+                "typeid":"1230",
+                "line":"15"
+            }
+        },
+        {
+            "Hemorphite":{
+                "name":"Hemorphite",
+                "typeid":"1231",
+                "line":"16"
+            }
+        },
+        {
+            "Dark Ochre":{
+                "name":"Dark Ochre",
+                "typeid":"1232",
+                "line":"17"
+            }
+        },
+        {
+            "Mercoxit":{
+                "name":"Mercoxit",
+                "typeid":"11396",
+                "line":"18"
+            }
+        },
+        {
+            "Crimson Arkonor":{
+                "name":"Crimson Arkonor",
+                "typeid":"17425",
+                "line":"19"
+            }
+        },
+        {
+            "Prime Arkonor":{
+                "name":"Prime Arkonor",
+                "typeid":"17426",
+                "line":"20"
+            }
+        },
+        {
+            "Triclinic Bistot":{
+                "name":"Triclinic Bistot",
+                "typeid":"17428",
+                "line":"21"
+            }
+        },
+        {
+            "Monoclinic Bistot":{
+                "name":"Monoclinic Bistot",
+                "typeid":"17429",
+                "line":"22"
+            }
+        },
+        {
+            "Sharp Crokite":{
+                "name":"Sharp Crokite",
+                "typeid":"17432",
+                "line":"23"
+            }
+        },
+        {
+            "Crystalline Crokite":{
+                "name":"Crystalline Crokite",
+                "typeid":"17433",
+                "line":"24"
+            }
+        },
+        {
+            "Onyx Ochre":{
+                "name":"Onyx Ochre",
+                "typeid":"17436",
+                "line":"25"
+            }
+        },
+        {
+            "Obsidian Ochre":{
+                "name":"Obsidian Ochre",
+                "typeid":"17437",
+                "line":"26"
+            }
+        },
+        {
+            "Vitric Hedbergite":{
+                "name":"Vitric Hedbergite",
+                "typeid":"17440",
+                "line":"27"
+            }
+        },
+        {
+            "Glazed Hedbergite":{
+                "name":"Glazed Hedbergite",
+                "typeid":"17441",
+                "line":"28"
+            }
+        },
+        {
+            "Vivid Hemorphite":{
+                "name":"Vivid Hemorphite",
+                "typeid":"17444",
+                "line":"29"
+            }
+        },
+        {
+            "Radiant Hemorphite":{
+                "name":"Radiant Hemorphite",
+                "typeid":"17445",
+                "line":"30"
+            }
+        },
+        {
+            "Pure Jaspet":{
+                "name":"Pure Jaspet",
+                "typeid":"17448",
+                "line":"31"
+            }
+        },
+        {
+            "Pristine Jaspet":{
+                "name":"Pristine Jaspet",
+                "typeid":"17449",
+                "line":"32"
+            }
+        },
+        {
+            "Luminous Kernite":{
+                "name":"Luminous Kernite",
+                "typeid":"17452",
+                "line":"33"
+            }
+        },
+        {
+            "Fiery Kernite":{
+                "name":"Fiery Kernite",
+                "typeid":"17453",
+                "line":"34"
+            }
+        },
+        {
+            "Azure Plagioclase":{
+                "name":"Azure Plagioclase",
+                "typeid":"17455",
+                "line":"35"
+            }
+        },
+        {
+            "Rich Plagioclase":{
+                "name":"Rich Plagioclase",
+                "typeid":"17456",
+                "line":"36"
+            }
+        },
+        {
+            "Solid Pyroxeres":{
+                "name":"Solid Pyroxeres",
+                "typeid":"17459",
+                "line":"37"
+            }
+        },
+        {
+            "Viscous Pyroxeres":{
+                "name":"Viscous Pyroxeres",
+                "typeid":"17460",
+                "line":"38"
+            }
+        },
+        {
+            "Condensed Scordite":{
+                "name":"Condensed Scordite",
+                "typeid":"17463",
+                "line":"39"
+            }
+        },
+        {
+            "Massive Scordite":{
+                "name":"Massive Scordite",
+                "typeid":"17464",
+                "line":"40"
+            }
+        },
+        {
+            "Bright Spodumain":{
+                "name":"Bright Spodumain",
+                "typeid":"17466",
+                "line":"41"
+            }
+        },
+        {
+            "Gleaming Spodumain":{
+                "name":"Gleaming Spodumain",
+                "typeid":"17467",
+                "line":"42"
+            }
+        },
+        {
+            "Concentrated Veldspar":{
+                "name":"Concentrated Veldspar",
+                "typeid":"17470",
+                "line":"43"
+            }
+        },
+        {
+            "Dense Veldspar":{
+                "name":"Dense Veldspar",
+                "typeid":"17471",
+                "line":"44"
+            }
+        },
+        {
+            "Iridescent Gneiss":{
+                "name":"Iridescent Gneiss",
+                "typeid":"17865",
+                "line":"45"
+            }
+        },
+        {
+            "Prismatic Gneiss":{
+                "name":"Prismatic Gneiss",
+                "typeid":"17866",
+                "line":"46"
+            }
+        },
+        {
+            "Silvery Omber":{
+                "name":"Silvery Omber",
+                "typeid":"17867",
+                "line":"47"
+            }
+        },
+        {
+            "Golden Omber":{
+                "name":"Golden Omber",
+                "typeid":"17868",
+                "line":"48"
+            }
+        },
+        {
+            "Magma Mercoxit":{
+                "name":"Magma Mercoxit",
+                "typeid":"17869",
+                "line":"49"
+            }
+        },
+        {
+            "Vitreous Mercoxit":{
+                "name":"Vitreous Mercoxit",
+                "typeid":"17870",
+                "line":"50"
+            }
+        },
+        {
+            "Compressed Arkonor":{
+                "name":"Compressed Arkonor",
+                "typeid":"28367",
+                "line":"51"
+            }
+        },
+        {
+            "Compressed Crimson Arkonor":{
+                "name":"Compressed Crimson Arkonor",
+                "typeid":"28385",
+                "line":"52"
+            }
+        },
+        {
+            "Compressed Prime Arkonor":{
+                "name":"Compressed Prime Arkonor",
+                "typeid":"28387",
+                "line":"53"
+            }
+        },
+        {
+            "Compressed Bistot":{
+                "name":"Compressed Bistot",
+                "typeid":"28388",
+                "line":"54"
+            }
+        },
+        {
+            "Compressed Monoclinic Bistot":{
+                "name":"Compressed Monoclinic Bistot",
+                "typeid":"28389",
+                "line":"55"
+            }
+        },
+        {
+            "Compressed Triclinic Bistot":{
+                "name":"Compressed Triclinic Bistot",
+                "typeid":"28390",
+                "line":"56"
+            }
+        },
+        {
+            "Compressed Crokite":{
+                "name":"Compressed Crokite",
+                "typeid":"28391",
+                "line":"57"
+            }
+        },
+        {
+            "Compressed Crystalline Crokite":{
+                "name":"Compressed Crystalline Crokite",
+                "typeid":"28392",
+                "line":"58"
+            }
+        },
+        {
+            "Compressed Sharp Crokite":{
+                "name":"Compressed Sharp Crokite",
+                "typeid":"28393",
+                "line":"59"
+            }
+        },
+        {
+            "Compressed Dark Ochre":{
+                "name":"Compressed Dark Ochre",
+                "typeid":"28394",
+                "line":"60"
+            }
+        },
+        {
+            "Compressed Obsidian Ochre":{
+                "name":"Compressed Obsidian Ochre",
+                "typeid":"28395",
+                "line":"61"
+            }
+        },
+        {
+            "Compressed Onyx Ochre":{
+                "name":"Compressed Onyx Ochre",
+                "typeid":"28396",
+                "line":"62"
+            }
+        },
+        {
+            "Compressed Gneiss":{
+                "name":"Compressed Gneiss",
+                "typeid":"28397",
+                "line":"63"
+            }
+        },
+        {
+            "Compressed Iridescent Gneiss":{
+                "name":"Compressed Iridescent Gneiss",
+                "typeid":"28398",
+                "line":"64"
+            }
+        },
+        {
+            "Compressed Prismatic Gneiss":{
+                "name":"Compressed Prismatic Gneiss",
+                "typeid":"28399",
+                "line":"65"
+            }
+        },
+        {
+            "Compressed Glazed Hedbergite":{
+                "name":"Compressed Glazed Hedbergite",
+                "typeid":"28400",
+                "line":"66"
+            }
+        },
+        {
+            "Compressed Hedbergite":{
+                "name":"Compressed Hedbergite",
+                "typeid":"28401",
+                "line":"67"
+            }
+        },
+        {
+            "Compressed Vitric Hedbergite":{
+                "name":"Compressed Vitric Hedbergite",
+                "typeid":"28402",
+                "line":"68"
+            }
+        },
+        {
+            "Compressed Hemorphite":{
+                "name":"Compressed Hemorphite",
+                "typeid":"28403",
+                "line":"69"
+            }
+        },
+        {
+            "Compressed Radiant Hemorphite":{
+                "name":"Compressed Radiant Hemorphite",
+                "typeid":"28404",
+                "line":"70"
+            }
+        },
+        {
+            "Compressed Vivid Hemorphite":{
+                "name":"Compressed Vivid Hemorphite",
+                "typeid":"28405",
+                "line":"71"
+            }
+        },
+        {
+            "Compressed Jaspet":{
+                "name":"Compressed Jaspet",
+                "typeid":"28406",
+                "line":"72"
+            }
+        },
+        {
+            "Compressed Pristine Jaspet":{
+                "name":"Compressed Pristine Jaspet",
+                "typeid":"28407",
+                "line":"73"
+            }
+        },
+        {
+            "Compressed Pure Jaspet":{
+                "name":"Compressed Pure Jaspet",
+                "typeid":"28408",
+                "line":"74"
+            }
+        },
+        {
+            "Compressed Fiery Kernite":{
+                "name":"Compressed Fiery Kernite",
+                "typeid":"28409",
+                "line":"75"
+            }
+        },
+        {
+            "Compressed Kernite":{
+                "name":"Compressed Kernite",
+                "typeid":"28410",
+                "line":"76"
+            }
+        },
+        {
+            "Compressed Luminous Kernite":{
+                "name":"Compressed Luminous Kernite",
+                "typeid":"28411",
+                "line":"77"
+            }
+        },
+        {
+            "Compressed Magma Mercoxit":{
+                "name":"Compressed Magma Mercoxit",
+                "typeid":"28412",
+                "line":"78"
+            }
+        },
+        {
+            "Compressed Mercoxit":{
+                "name":"Compressed Mercoxit",
+                "typeid":"28413",
+                "line":"79"
+            }
+        },
+        {
+            "Compressed Vitreous Mercoxit":{
+                "name":"Compressed Vitreous Mercoxit",
+                "typeid":"28414",
+                "line":"80"
+            }
+        },
+        {
+            "Compressed Golden Omber":{
+                "name":"Compressed Golden Omber",
+                "typeid":"28415",
+                "line":"81"
+            }
+        },
+        {
+            "Compressed Omber":{
+                "name":"Compressed Omber",
+                "typeid":"28416",
+                "line":"82"
+            }
+        },
+        {
+            "Compressed Silvery Omber":{
+                "name":"Compressed Silvery Omber",
+                "typeid":"28417",
+                "line":"83"
+            }
+        },
+        {
+            "Compressed Bright Spodumain":{
+                "name":"Compressed Bright Spodumain",
+                "typeid":"28418",
+                "line":"84"
+            }
+        },
+        {
+            "Compressed Gleaming Spodumain":{
+                "name":"Compressed Gleaming Spodumain",
+                "typeid":"28419",
+                "line":"85"
+            }
+        },
+        {
+            "Compressed Spodumain":{
+                "name":"Compressed Spodumain",
+                "typeid":"28420",
+                "line":"86"
+            }
+        },
+        {
+            "Compressed Azure Plagioclase":{
+                "name":"Compressed Azure Plagioclase",
+                "typeid":"28421",
+                "line":"87"
+            }
+        },
+        {
+            "Compressed Plagioclase":{
+                "name":"Compressed Plagioclase",
+                "typeid":"28422",
+                "line":"88"
+            }
+        },
+        {
+            "Compressed Rich Plagioclase":{
+                "name":"Compressed Rich Plagioclase",
+                "typeid":"28423",
+                "line":"89"
+            }
+        },
+        {
+            "Compressed Pyroxeres":{
+                "name":"Compressed Pyroxeres",
+                "typeid":"28424",
+                "line":"90"
+            }
+        },
+        {
+            "Compressed Solid Pyroxeres":{
+                "name":"Compressed Solid Pyroxeres",
+                "typeid":"28425",
+                "line":"91"
+            }
+        },
+        {
+            "Compressed Viscous Pyroxeres":{
+                "name":"Compressed Viscous Pyroxeres",
+                "typeid":"28426",
+                "line":"92"
+            }
+        },
+        {
+            "Compressed Condensed Scordite":{
+                "name":"Compressed Condensed Scordite",
+                "typeid":"28427",
+                "line":"93"
+            }
+        },
+        {
+            "Compressed Massive Scordite":{
+                "name":"Compressed Massive Scordite",
+                "typeid":"28428",
+                "line":"94"
+            }
+        },
+        {
+            "Compressed Scordite":{
+                "name":"Compressed Scordite",
+                "typeid":"28429",
+                "line":"95"
+            }
+        },
+        {
+            "Compressed Concentrated Veldspar":{
+                "name":"Compressed Concentrated Veldspar",
+                "typeid":"28430",
+                "line":"96"
+            }
+        },
+        {
+            "Compressed Dense Veldspar":{
+                "name":"Compressed Dense Veldspar",
+                "typeid":"28431",
+                "line":"97"
+            }
+        },
+        {
+            "Compressed Veldspar":{
+                "name":"Compressed Veldspar",
+                "typeid":"28432",
+                "line":"98"
+            }
+        },
+        {
+            "Cubic Bistot":{
+                "name":"Cubic Bistot",
+                "typeid":"46676",
+                "line":"99"
+            }
+        },
+        {
+            "Scintillating Hemorphite":{
+                "name":"Scintillating Hemorphite",
+                "typeid":"46681",
+                "line":"100"
+            }
+        },
+        {
+            "Sparkling Plagioclase":{
+                "name":"Sparkling Plagioclase",
+                "typeid":"46685",
+                "line":"101"
+            }
+        },
+        {
+            "Glossy Scordite":{
+                "name":"Glossy Scordite",
+                "typeid":"46687",
+                "line":"102"
+            }
+        },
+        {
+            "Compressed Pellucid Crokite":{
+                "name":"Compressed Pellucid Crokite",
+                "typeid":"46693",
+                "line":"103"
+            }
+        },
+        {
+            "Compressed Lustrous Hedbergite":{
+                "name":"Compressed Lustrous Hedbergite",
+                "typeid":"46696",
+                "line":"104"
+            }
+        },
+        {
+            "Compressed Immaculate Jaspet":{
+                "name":"Compressed Immaculate Jaspet",
+                "typeid":"46698",
+                "line":"105"
+            }
+        },
+        {
+            "Compressed Sparkling Plagioclase":{
+                "name":"Compressed Sparkling Plagioclase",
+                "typeid":"46701",
+                "line":"106"
+            }
+        },
+        {
+            "Compressed Glossy Scordite":{
+                "name":"Compressed Glossy Scordite",
+                "typeid":"46703",
+                "line":"107"
+            }
+        },
+        {
+            "Compressed Dazzling Spodumain":{
+                "name":"Compressed Dazzling Spodumain",
+                "typeid":"46704",
+                "line":"108"
+            }
+        },
+        {
+            "Compressed Stable Veldspar":{
+                "name":"Compressed Stable Veldspar",
+                "typeid":"46705",
+                "line":"109"
+            }
+        },
+        {
+            "Talassonite":{
+                "name":"Talassonite",
+                "typeid":"52306",
+                "line":"110"
+            }
+        },
+        {
+            "Bezdnacine":{
+                "name":"Bezdnacine",
+                "typeid":"52316",
+                "line":"111"
+            }
+        },
+        {
+            "Abyssal Talassonite":{
+                "name":"Abyssal Talassonite",
+                "typeid":"56625",
+                "line":"112"
+            }
+        },
+        {
+            "Hadal Talassonite":{
+                "name":"Hadal Talassonite",
+                "typeid":"56626",
+                "line":"113"
+            }
+        },
+        {
+            "Abyssal Bezdnacine":{
+                "name":"Abyssal Bezdnacine",
+                "typeid":"56627",
+                "line":"114"
+            }
+        },
+        {
+            "Abyssal Rakovene":{
+                "name":"Abyssal Rakovene",
+                "typeid":"56629",
+                "line":"115"
+            }
+        },
+        {
+            "Hadal Rakovene":{
+                "name":"Hadal Rakovene",
+                "typeid":"56630",
+                "line":"116"
+            }
+        },
+        {
+            "Jet Ochre":{
+                "name":"Jet Ochre",
+                "typeid":"46675",
+                "line":"117"
+            }
+        },
+        {
+            "Pellucid Crokite":{
+                "name":"Pellucid Crokite",
+                "typeid":"46677",
+                "line":"118"
+            }
+        },
+        {
+            "Flawless Arkonor":{
+                "name":"Flawless Arkonor",
+                "typeid":"46678",
+                "line":"119"
+            }
+        },
+        {
+            "Brilliant Gneiss":{
+                "name":"Brilliant Gneiss",
+                "typeid":"46679",
+                "line":"120"
+            }
+        },
+        {
+            "Lustrous Hedbergite":{
+                "name":"Lustrous Hedbergite",
+                "typeid":"46680",
+                "line":"121"
+            }
+        },
+        {
+            "Immaculate Jaspet":{
+                "name":"Immaculate Jaspet",
+                "typeid":"46682",
+                "line":"122"
+            }
+        },
+        {
+            "Resplendant Kernite":{
+                "name":"Resplendant Kernite",
+                "typeid":"46683",
+                "line":"123"
+            }
+        },
+        {
+            "Platinoid Omber":{
+                "name":"Platinoid Omber",
+                "typeid":"46684",
+                "line":"124"
+            }
+        },
+        {
+            "Opulent Pyroxeres":{
+                "name":"Opulent Pyroxeres",
+                "typeid":"46686",
+                "line":"125"
+            }
+        },
+        {
+            "Dazzling Spodumain":{
+                "name":"Dazzling Spodumain",
+                "typeid":"46688",
+                "line":"126"
+            }
+        },
+        {
+            "Stable Veldspar":{
+                "name":"Stable Veldspar",
+                "typeid":"46689",
+                "line":"127"
+            }
+        },
+        {
+            "Compressed Flawless Arkonor":{
+                "name":"Compressed Flawless Arkonor",
+                "typeid":"46691",
+                "line":"128"
+            }
+        },
+        {
+            "Compressed Cubic Bistot":{
+                "name":"Compressed Cubic Bistot",
+                "typeid":"46692",
+                "line":"129"
+            }
+        },
+        {
+            "Compressed Jet Ochre":{
+                "name":"Compressed Jet Ochre",
+                "typeid":"46694",
+                "line":"130"
+            }
+        },
+        {
+            "Compressed Brilliant Gneiss":{
+                "name":"Compressed Brilliant Gneiss",
+                "typeid":"46695",
+                "line":"131"
+            }
+        },
+        {
+            "Compressed Scintillating Hemorphite":{
+                "name":"Compressed Scintillating Hemorphite",
+                "typeid":"46697",
+                "line":"132"
+            }
+        },
+        {
+            "Compressed Resplendant Kernite":{
+                "name":"Compressed Resplendant Kernite",
+                "typeid":"46699",
+                "line":"133"
+            }
+        },
+        {
+            "Compressed Platinoid Omber":{
+                "name":"Compressed Platinoid Omber",
+                "typeid":"46700",
+                "line":"134"
+            }
+        },
+        {
+            "Compressed Opulent Pyroxeres":{
+                "name":"Compressed Opulent Pyroxeres",
+                "typeid":"46702",
+                "line":"135"
+            }
+        },
+        {
+            "Hiemal Tricarboxyl Vapor":{
+                "name":"Hiemal Tricarboxyl Vapor",
+                "typeid":"49787",
+                "line":"136"
+            }
+        },
+        {
+            "Rakovene":{
+                "name":"Rakovene",
+                "typeid":"52315",
+                "line":"137"
+            }
+        },
+        {
+            "Hadal Bezdnacine":{
+                "name":"Hadal Bezdnacine",
+                "typeid":"56628",
+                "line":"138"
+            }
+        }
+    ]
+}

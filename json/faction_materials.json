@@ -1,0 +1,760 @@
+{
+    "Faction materials":[
+        {
+            "Sleeper Foundation Block":{
+                "name":"Sleeper Foundation Block",
+                "typeid":"20110",
+                "line":"3"
+            }
+        },
+        {
+            "Sleeper Split Cables":{
+                "name":"Sleeper Split Cables",
+                "typeid":"21073",
+                "line":"4"
+            }
+        },
+        {
+            "Talocan Sketch Books":{
+                "name":"Talocan Sketch Books",
+                "typeid":"21074",
+                "line":"5"
+            }
+        },
+        {
+            "Talocan Molecule Binder":{
+                "name":"Talocan Molecule Binder",
+                "typeid":"21075",
+                "line":"6"
+            }
+        },
+        {
+            "Talocan Stasis Inverter":{
+                "name":"Talocan Stasis Inverter",
+                "typeid":"21076",
+                "line":"7"
+            }
+        },
+        {
+            "Talocan Info Shards":{
+                "name":"Talocan Info Shards",
+                "typeid":"21077",
+                "line":"8"
+            }
+        },
+        {
+            "Talocan Reflective Sheets":{
+                "name":"Talocan Reflective Sheets",
+                "typeid":"21078",
+                "line":"9"
+            }
+        },
+        {
+            "Talocan Perpetual Clock":{
+                "name":"Talocan Perpetual Clock",
+                "typeid":"21079",
+                "line":"10"
+            }
+        },
+        {
+            "Talocan Solid Atomizer":{
+                "name":"Talocan Solid Atomizer",
+                "typeid":"21080",
+                "line":"11"
+            }
+        },
+        {
+            "Talocan Mechanical Gears":{
+                "name":"Talocan Mechanical Gears",
+                "typeid":"21081",
+                "line":"12"
+            }
+        },
+        {
+            "Talocan System Interface Unit":{
+                "name":"Talocan System Interface Unit",
+                "typeid":"21082",
+                "line":"13"
+            }
+        },
+        {
+            "Talocan Mathematical Schematics":{
+                "name":"Talocan Mathematical Schematics",
+                "typeid":"21084",
+                "line":"14"
+            }
+        },
+        {
+            "Talocan Automation Accounts":{
+                "name":"Talocan Automation Accounts",
+                "typeid":"21085",
+                "line":"15"
+            }
+        },
+        {
+            "Talocan Partition Plates":{
+                "name":"Talocan Partition Plates",
+                "typeid":"21086",
+                "line":"16"
+            }
+        },
+        {
+            "Talocan Intricate Formulas":{
+                "name":"Talocan Intricate Formulas",
+                "typeid":"21087",
+                "line":"17"
+            }
+        },
+        {
+            "Talocan Stasis Deflector":{
+                "name":"Talocan Stasis Deflector",
+                "typeid":"21088",
+                "line":"18"
+            }
+        },
+        {
+            "Talocan Ignition Device":{
+                "name":"Talocan Ignition Device",
+                "typeid":"21089",
+                "line":"19"
+            }
+        },
+        {
+            "Sleeper Data Interface Protocol":{
+                "name":"Sleeper Data Interface Protocol",
+                "typeid":"21568",
+                "line":"20"
+            }
+        },
+        {
+            "Sleeper Profound Research Notes":{
+                "name":"Sleeper Profound Research Notes",
+                "typeid":"21569",
+                "line":"21"
+            }
+        },
+        {
+            "Sleeper Manuscripts":{
+                "name":"Sleeper Manuscripts",
+                "typeid":"21570",
+                "line":"22"
+            }
+        },
+        {
+            "Sleeper Technical Schematics":{
+                "name":"Sleeper Technical Schematics",
+                "typeid":"21571",
+                "line":"23"
+            }
+        },
+        {
+            "Sleeper Data Crystals":{
+                "name":"Sleeper Data Crystals",
+                "typeid":"21572",
+                "line":"24"
+            }
+        },
+        {
+            "Sleeper Micro Circuits":{
+                "name":"Sleeper Micro Circuits",
+                "typeid":"21584",
+                "line":"25"
+            }
+        },
+        {
+            "Sleeper Cryo Batteries":{
+                "name":"Sleeper Cryo Batteries",
+                "typeid":"21585",
+                "line":"26"
+            }
+        },
+        {
+            "Sleeper Virtual Energizer":{
+                "name":"Sleeper Virtual Energizer",
+                "typeid":"21586",
+                "line":"27"
+            }
+        },
+        {
+            "Electronic Link":{
+                "name":"Electronic Link",
+                "typeid":"21587",
+                "line":"28"
+            }
+        },
+        {
+            "Spare Parts":{
+                "name":"Spare Parts",
+                "typeid":"21588",
+                "line":"29"
+            }
+        },
+        {
+            "Power Couplings":{
+                "name":"Power Couplings",
+                "typeid":"21589",
+                "line":"30"
+            }
+        },
+        {
+            "Armor Blocks":{
+                "name":"Armor Blocks",
+                "typeid":"21590",
+                "line":"31"
+            }
+        },
+        {
+            "Computer Chips":{
+                "name":"Computer Chips",
+                "typeid":"21591",
+                "line":"32"
+            }
+        },
+        {
+            "Electric Conduit":{
+                "name":"Electric Conduit",
+                "typeid":"21592",
+                "line":"33"
+            }
+        },
+        {
+            "Mechanic Parts":{
+                "name":"Mechanic Parts",
+                "typeid":"21593",
+                "line":"34"
+            }
+        },
+        {
+            "Energy Cells":{
+                "name":"Energy Cells",
+                "typeid":"21594",
+                "line":"35"
+            }
+        },
+        {
+            "Construction Alloy":{
+                "name":"Construction Alloy",
+                "typeid":"21595",
+                "line":"36"
+            }
+        },
+        {
+            "Data Processor":{
+                "name":"Data Processor",
+                "typeid":"21596",
+                "line":"37"
+            }
+        },
+        {
+            "Sleeper Hyperbooster":{
+                "name":"Sleeper Hyperbooster",
+                "typeid":"21719",
+                "line":"38"
+            }
+        },
+        {
+            "Sleeper Thermal Regulator":{
+                "name":"Sleeper Thermal Regulator",
+                "typeid":"21720",
+                "line":"39"
+            }
+        },
+        {
+            "Sleeper Heat Nullifying Coil":{
+                "name":"Sleeper Heat Nullifying Coil",
+                "typeid":"21721",
+                "line":"40"
+            }
+        },
+        {
+            "Sleeper Nanite Cluster":{
+                "name":"Sleeper Nanite Cluster",
+                "typeid":"21722",
+                "line":"41"
+            }
+        },
+        {
+            "Sleeper Reintegration Control":{
+                "name":"Sleeper Reintegration Control",
+                "typeid":"21723",
+                "line":"42"
+            }
+        },
+        {
+            "Guristas Heavy Weapon Console":{
+                "name":"Guristas Heavy Weapon Console",
+                "typeid":"21724",
+                "line":"43"
+            }
+        },
+        {
+            "Guristas Medium Weapon Console":{
+                "name":"Guristas Medium Weapon Console",
+                "typeid":"21725",
+                "line":"44"
+            }
+        },
+        {
+            "Guristas Light Weapon Console":{
+                "name":"Guristas Light Weapon Console",
+                "typeid":"21726",
+                "line":"45"
+            }
+        },
+        {
+            "Guristas Gravity Focuser":{
+                "name":"Guristas Gravity Focuser",
+                "typeid":"21727",
+                "line":"46"
+            }
+        },
+        {
+            "Guristas Graviton Hardening":{
+                "name":"Guristas Graviton Hardening",
+                "typeid":"21728",
+                "line":"47"
+            }
+        },
+        {
+            "Angel Advanced Trigger Mechanism":{
+                "name":"Angel Advanced Trigger Mechanism",
+                "typeid":"21729",
+                "line":"48"
+            }
+        },
+        {
+            "Angel Standard Trigger Mechanism":{
+                "name":"Angel Standard Trigger Mechanism",
+                "typeid":"21730",
+                "line":"49"
+            }
+        },
+        {
+            "Angel Simple Trigger Mechanism":{
+                "name":"Angel Simple Trigger Mechanism",
+                "typeid":"21731",
+                "line":"50"
+            }
+        },
+        {
+            "Angel Spatial Analyzer":{
+                "name":"Angel Spatial Analyzer",
+                "typeid":"21732",
+                "line":"51"
+            }
+        },
+        {
+            "Angel Dynamic Calibrator":{
+                "name":"Angel Dynamic Calibrator",
+                "typeid":"21733",
+                "line":"52"
+            }
+        },
+        {
+            "Elite Drone AI":{
+                "name":"Elite Drone AI",
+                "typeid":"21815",
+                "line":"53"
+            }
+        },
+        {
+            "Yan Jung Crystal Cylinder":{
+                "name":"Yan Jung Crystal Cylinder",
+                "typeid":"23128",
+                "line":"54"
+            }
+        },
+        {
+            "Yan Jung Paradox Box":{
+                "name":"Yan Jung Paradox Box",
+                "typeid":"23129",
+                "line":"55"
+            }
+        },
+        {
+            "Yan Jung Thunder Kite":{
+                "name":"Yan Jung Thunder Kite",
+                "typeid":"23130",
+                "line":"56"
+            }
+        },
+        {
+            "Yan Jung Void Machine":{
+                "name":"Yan Jung Void Machine",
+                "typeid":"23131",
+                "line":"57"
+            }
+        },
+        {
+            "Yan Jung Tachyon Stetoscope":{
+                "name":"Yan Jung Tachyon Stetoscope",
+                "typeid":"23132",
+                "line":"58"
+            }
+        },
+        {
+            "Takmahl Phrenic Appendix":{
+                "name":"Takmahl Phrenic Appendix",
+                "typeid":"23133",
+                "line":"59"
+            }
+        },
+        {
+            "Takmahl Dynamic Gauge":{
+                "name":"Takmahl Dynamic Gauge",
+                "typeid":"23134",
+                "line":"60"
+            }
+        },
+        {
+            "Takmahl Gyro Ballast":{
+                "name":"Takmahl Gyro Ballast",
+                "typeid":"23135",
+                "line":"61"
+            }
+        },
+        {
+            "Takmahl Biodroid Controller":{
+                "name":"Takmahl Biodroid Controller",
+                "typeid":"23136",
+                "line":"62"
+            }
+        },
+        {
+            "Takmahl Quantum Sphere":{
+                "name":"Takmahl Quantum Sphere",
+                "typeid":"23137",
+                "line":"63"
+            }
+        },
+        {
+            "Yan Jung Null Shell":{
+                "name":"Yan Jung Null Shell",
+                "typeid":"23138",
+                "line":"64"
+            }
+        },
+        {
+            "Yan Jung Glass Scale":{
+                "name":"Yan Jung Glass Scale",
+                "typeid":"23139",
+                "line":"65"
+            }
+        },
+        {
+            "Yan Jung Plenary Wire":{
+                "name":"Yan Jung Plenary Wire",
+                "typeid":"23140",
+                "line":"66"
+            }
+        },
+        {
+            "Yan Jung Silk Armor":{
+                "name":"Yan Jung Silk Armor",
+                "typeid":"23141",
+                "line":"67"
+            }
+        },
+        {
+            "Yan Jung Nano Fabric":{
+                "name":"Yan Jung Nano Fabric",
+                "typeid":"23142",
+                "line":"68"
+            }
+        },
+        {
+            "Takmahl Diamond Rod":{
+                "name":"Takmahl Diamond Rod",
+                "typeid":"23143",
+                "line":"69"
+            }
+        },
+        {
+            "Takmahl Cohere Cord":{
+                "name":"Takmahl Cohere Cord",
+                "typeid":"23144",
+                "line":"70"
+            }
+        },
+        {
+            "Takmahl Solid Mox":{
+                "name":"Takmahl Solid Mox",
+                "typeid":"23145",
+                "line":"71"
+            }
+        },
+        {
+            "Takmahl Magnetic Slab":{
+                "name":"Takmahl Magnetic Slab",
+                "typeid":"23146",
+                "line":"72"
+            }
+        },
+        {
+            "Takmahl Tri-polished Lens":{
+                "name":"Takmahl Tri-polished Lens",
+                "typeid":"23147",
+                "line":"73"
+            }
+        },
+        {
+            "Blood Raider Limited Ballistic Control":{
+                "name":"Blood Raider Limited Ballistic Control",
+                "typeid":"23148",
+                "line":"74"
+            }
+        },
+        {
+            "Blood Raider Regular Ballistic Control":{
+                "name":"Blood Raider Regular Ballistic Control",
+                "typeid":"23149",
+                "line":"75"
+            }
+        },
+        {
+            "Blood Raider Extreme Ballistic Control":{
+                "name":"Blood Raider Extreme Ballistic Control",
+                "typeid":"23150",
+                "line":"76"
+            }
+        },
+        {
+            "Blood Raider Weapon Integration Unit":{
+                "name":"Blood Raider Weapon Integration Unit",
+                "typeid":"23151",
+                "line":"77"
+            }
+        },
+        {
+            "Blood Raider Power Redistributor":{
+                "name":"Blood Raider Power Redistributor",
+                "typeid":"23152",
+                "line":"78"
+            }
+        },
+        {
+            "Serpentis Plain Target Guider":{
+                "name":"Serpentis Plain Target Guider",
+                "typeid":"23153",
+                "line":"79"
+            }
+        },
+        {
+            "Serpentis Basic Target Guider":{
+                "name":"Serpentis Basic Target Guider",
+                "typeid":"23154",
+                "line":"80"
+            }
+        },
+        {
+            "Serpentis Complex Target Guider":{
+                "name":"Serpentis Complex Target Guider",
+                "typeid":"23155",
+                "line":"81"
+            }
+        },
+        {
+            "Serpentis 3D Scanner Gamut":{
+                "name":"Serpentis 3D Scanner Gamut",
+                "typeid":"23156",
+                "line":"82"
+            }
+        },
+        {
+            "Serpentis Multi-tasking Processor":{
+                "name":"Serpentis Multi-tasking Processor",
+                "typeid":"23157",
+                "line":"83"
+            }
+        },
+        {
+            "Positron Cord":{
+                "name":"Positron Cord",
+                "typeid":"23158",
+                "line":"84"
+            }
+        },
+        {
+            "Auxiliary Parts":{
+                "name":"Auxiliary Parts",
+                "typeid":"23159",
+                "line":"85"
+            }
+        },
+        {
+            "Force Cable":{
+                "name":"Force Cable",
+                "typeid":"23160",
+                "line":"86"
+            }
+        },
+        {
+            "Elemental Crux":{
+                "name":"Elemental Crux",
+                "typeid":"23161",
+                "line":"87"
+            }
+        },
+        {
+            "Analog Panel":{
+                "name":"Analog Panel",
+                "typeid":"23162",
+                "line":"88"
+            }
+        },
+        {
+            "Current Amplifier":{
+                "name":"Current Amplifier",
+                "typeid":"23163",
+                "line":"89"
+            }
+        },
+        {
+            "Second-hand Parts":{
+                "name":"Second-hand Parts",
+                "typeid":"23164",
+                "line":"90"
+            }
+        },
+        {
+            "Heat Depressor":{
+                "name":"Heat Depressor",
+                "typeid":"23165",
+                "line":"91"
+            }
+        },
+        {
+            "Internal Bulkhead":{
+                "name":"Internal Bulkhead",
+                "typeid":"23166",
+                "line":"92"
+            }
+        },
+        {
+            "Mainframe Bit":{
+                "name":"Mainframe Bit",
+                "typeid":"23167",
+                "line":"93"
+            }
+        },
+        {
+            "Yan Jung Info Matrix":{
+                "name":"Yan Jung Info Matrix",
+                "typeid":"23168",
+                "line":"94"
+            }
+        },
+        {
+            "Yan Jung Vellum Etch":{
+                "name":"Yan Jung Vellum Etch",
+                "typeid":"23169",
+                "line":"95"
+            }
+        },
+        {
+            "Yan Jung Trigonometric Laws":{
+                "name":"Yan Jung Trigonometric Laws",
+                "typeid":"23170",
+                "line":"96"
+            }
+        },
+        {
+            "Yan Jung Semiotic Theory":{
+                "name":"Yan Jung Semiotic Theory",
+                "typeid":"23171",
+                "line":"97"
+            }
+        },
+        {
+            "Yan Jung Singularity Fact Sheet":{
+                "name":"Yan Jung Singularity Fact Sheet",
+                "typeid":"23172",
+                "line":"98"
+            }
+        },
+        {
+            "Takmahl Binary Texts":{
+                "name":"Takmahl Binary Texts",
+                "typeid":"23173",
+                "line":"99"
+            }
+        },
+        {
+            "Takmahl Fractal Sheet":{
+                "name":"Takmahl Fractal Sheet",
+                "typeid":"23174",
+                "line":"100"
+            }
+        },
+        {
+            "Takmahl Centrifugal Primer":{
+                "name":"Takmahl Centrifugal Primer",
+                "typeid":"23175",
+                "line":"101"
+            }
+        },
+        {
+            "Takmahl Geometric Design":{
+                "name":"Takmahl Geometric Design",
+                "typeid":"23176",
+                "line":"102"
+            }
+        },
+        {
+            "Takmahl Astral Treatment":{
+                "name":"Takmahl Astral Treatment",
+                "typeid":"23177",
+                "line":"103"
+            }
+        },
+        {
+            "Drone Synaptic Relay Wiring":{
+                "name":"Drone Synaptic Relay Wiring",
+                "typeid":"28361",
+                "line":"104"
+            }
+        },
+        {
+            "Drone Capillary Fluid":{
+                "name":"Drone Capillary Fluid",
+                "typeid":"28362",
+                "line":"105"
+            }
+        },
+        {
+            "Drone Cerebral Fragment":{
+                "name":"Drone Cerebral Fragment",
+                "typeid":"28363",
+                "line":"106"
+            }
+        },
+        {
+            "Drone Tactical Limb":{
+                "name":"Drone Tactical Limb",
+                "typeid":"28364",
+                "line":"107"
+            }
+        },
+        {
+            "Drone Epidermal Shielding Chunk":{
+                "name":"Drone Epidermal Shielding Chunk",
+                "typeid":"28365",
+                "line":"108"
+            }
+        },
+        {
+            "Drone Coronary Unit":{
+                "name":"Drone Coronary Unit",
+                "typeid":"28366",
+                "line":"109"
+            }
+        },
+        {
+            "Serpentis Modified Capital Microprocessor":{
+                "name":"Serpentis Modified Capital Microprocessor",
+                "typeid":"42226",
+                "line":"110"
+            }
+        }
+    ]
+}

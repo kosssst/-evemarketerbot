@@ -1,52 +1,67 @@
 {
-	"Minerals": {
-		"sheetname": "Minerals",
-		"items": {
-			"Chromodynamic Tricarboxyls": {
-				"name": "Chromodynamic Tricarboxyls",
-				"typeid": 48927,
-				"line": "3"
-			},
-			"Isogen": {
-				"name": "Isogen",
-				"typeid": 37,
-				"line": "4"
-			},
-			"Megacyte": {
-				"name": "Megacyte",
-				"typeid": 40,
-				"line": "5"
-			},
-			"Mexallon": {
-				"name": "Mexallon",
-				"typeid": 36,
-				"line": "6"
-			},
-			"Morphite": {
-				"name": "Morphite",
-				"typeid": 11399,
-				"line": "7"
-			},
-			"Nocxium": {
-				"name": "Nocxium",
-				"typeid": 38,
-				"line": "8"
-			},
-			"Pyerite": {
-				"name": "Pyerite",
-				"typeid": 35,
-				"line": "9"
-			},
-			"Tritanium": {
-				"name": "Tritanium",
-				"typeid": 34,
-				"line": "10"
-			},
-			"Zydrine": {
-				"name": "Zydrine",
-				"typeid": 39,
-				"line": "11"
-			}
-		}
-	}
+    "Minerals":[
+        {
+            "Tritanium":{
+                "name":"Tritanium",
+                "typeid":"34",
+                "line":"3"
+            }
+        },
+        {
+            "Pyerite":{
+                "name":"Pyerite",
+                "typeid":"35",
+                "line":"4"
+            }
+        },
+        {
+            "Mexallon":{
+                "name":"Mexallon",
+                "typeid":"36",
+                "line":"5"
+            }
+        },
+        {
+            "Isogen":{
+                "name":"Isogen",
+                "typeid":"37",
+                "line":"6"
+            }
+        },
+        {
+            "Nocxium":{
+                "name":"Nocxium",
+                "typeid":"38",
+                "line":"7"
+            }
+        },
+        {
+            "Zydrine":{
+                "name":"Zydrine",
+                "typeid":"39",
+                "line":"8"
+            }
+        },
+        {
+            "Megacyte":{
+                "name":"Megacyte",
+                "typeid":"40",
+                "line":"9"
+            }
+        },
+        {
+            "Morphite":{
+                "name":"Morphite",
+                "typeid":"11399",
+                "line":"10"
+            }
+        },
+        {
+            "Chromodynamic Tricarboxyls":{
+                "name":"Chromodynamic Tricarboxyls",
+                "typeid":"48927",
+                "line":"11"
+            }
+        }
+    ]
 }

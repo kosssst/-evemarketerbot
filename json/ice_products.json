@@ -1,0 +1,53 @@
+{
+    "Ice products":[
+        {
+            "Heavy Water":{
+                "name":"Heavy Water",
+                "typeid":"16272",
+                "line":"3"
+            }
+        },
+        {
+            "Liquid Ozone":{
+                "name":"Liquid Ozone",
+                "typeid":"16273",
+                "line":"4"
+            }
+        },
+        {
+            "Helium Isotopes":{
+                "name":"Helium Isotopes",
+                "typeid":"16274",
+                "line":"5"
+            }
+        },
+        {
+            "Strontium Clathrates":{
+                "name":"Strontium Clathrates",
+                "typeid":"16275",
+                "line":"6"
+            }
+        },
+        {
+            "Oxygen Isotopes":{
+                "name":"Oxygen Isotopes",
+                "typeid":"17887",
+                "line":"7"
+            }
+        },
+        {
+            "Nitrogen Isotopes":{
+                "name":"Nitrogen Isotopes",
+                "typeid":"17888",
+                "line":"8"
+            }
+        },
+        {
+            "Hydrogen Isotopes":{
+                "name":"Hydrogen Isotopes",
+                "typeid":"17889",
+                "line":"9"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1166 @@
+{
+    "Components":[
+        {
+            "Oxygen Fuel Block":{
+                "name":"Oxygen Fuel Block",
+                "typeid":"4312",
+                "line":"3"
+            }
+        },
+        {
+            "R.A.M.- Armor/Hull Tech":{
+                "name":"R.A.M.- Armor/Hull Tech",
+                "typeid":"11475",
+                "line":"4"
+            }
+        },
+        {
+            "R.A.M.- Ammunition Tech":{
+                "name":"R.A.M.- Ammunition Tech",
+                "typeid":"11476",
+                "line":"5"
+            }
+        },
+        {
+            "R.A.M.- Starship Tech":{
+                "name":"R.A.M.- Starship Tech",
+                "typeid":"11478",
+                "line":"6"
+            }
+        },
+        {
+            "R.A.M.- Robotics":{
+                "name":"R.A.M.- Robotics",
+                "typeid":"11481",
+                "line":"7"
+            }
+        },
+        {
+            "R.A.M.- Energy Tech":{
+                "name":"R.A.M.- Energy Tech",
+                "typeid":"11482",
+                "line":"8"
+            }
+        },
+        {
+            "R.A.M.- Electronics":{
+                "name":"R.A.M.- Electronics",
+                "typeid":"11483",
+                "line":"9"
+            }
+        },
+        {
+            "R.A.M.- Shield Tech":{
+                "name":"R.A.M.- Shield Tech",
+                "typeid":"11484",
+                "line":"10"
+            }
+        },
+        {
+            "R.A.M.- Cybernetics":{
+                "name":"R.A.M.- Cybernetics",
+                "typeid":"11485",
+                "line":"11"
+            }
+        },
+        {
+            "R.A.M.- Weapon Tech":{
+                "name":"R.A.M.- Weapon Tech",
+                "typeid":"11486",
+                "line":"12"
+            }
+        },
+        {
+            "Plasma Thruster":{
+                "name":"Plasma Thruster",
+                "typeid":"11530",
+                "line":"13"
+            }
+        },
+        {
+            "Ion Thruster":{
+                "name":"Ion Thruster",
+                "typeid":"11531",
+                "line":"14"
+            }
+        },
+        {
+            "Fusion Thruster":{
+                "name":"Fusion Thruster",
+                "typeid":"11532",
+                "line":"15"
+            }
+        },
+        {
+            "Magpulse Thruster":{
+                "name":"Magpulse Thruster",
+                "typeid":"11533",
+                "line":"16"
+            }
+        },
+        {
+            "Gravimetric Sensor Cluster":{
+                "name":"Gravimetric Sensor Cluster",
+                "typeid":"11534",
+                "line":"17"
+            }
+        },
+        {
+            "Magnetometric Sensor Cluster":{
+                "name":"Magnetometric Sensor Cluster",
+                "typeid":"11535",
+                "line":"18"
+            }
+        },
+        {
+            "Ladar Sensor Cluster":{
+                "name":"Ladar Sensor Cluster",
+                "typeid":"11536",
+                "line":"19"
+            }
+        },
+        {
+            "Radar Sensor Cluster":{
+                "name":"Radar Sensor Cluster",
+                "typeid":"11537",
+                "line":"20"
+            }
+        },
+        {
+            "Nanomechanical Microprocessor":{
+                "name":"Nanomechanical Microprocessor",
+                "typeid":"11538",
+                "line":"21"
+            }
+        },
+        {
+            "Nanoelectrical Microprocessor":{
+                "name":"Nanoelectrical Microprocessor",
+                "typeid":"11539",
+                "line":"22"
+            }
+        },
+        {
+            "Quantum Microprocessor":{
+                "name":"Quantum Microprocessor",
+                "typeid":"11540",
+                "line":"23"
+            }
+        },
+        {
+            "Photon Microprocessor":{
+                "name":"Photon Microprocessor",
+                "typeid":"11541",
+                "line":"24"
+            }
+        },
+        {
+            "Fernite Carbide Composite Armor Plate":{
+                "name":"Fernite Carbide Composite Armor Plate",
+                "typeid":"11542",
+                "line":"25"
+            }
+        },
+        {
+            "Tungsten Carbide Armor Plate":{
+                "name":"Tungsten Carbide Armor Plate",
+                "typeid":"11543",
+                "line":"26"
+            }
+        },
+        {
+            "Titanium Diborite Armor Plate":{
+                "name":"Titanium Diborite Armor Plate",
+                "typeid":"11544",
+                "line":"27"
+            }
+        },
+        {
+            "Crystalline Carbonide Armor Plate":{
+                "name":"Crystalline Carbonide Armor Plate",
+                "typeid":"11545",
+                "line":"28"
+            }
+        },
+        {
+            "Fusion Reactor Unit":{
+                "name":"Fusion Reactor Unit",
+                "typeid":"11547",
+                "line":"29"
+            }
+        },
+        {
+            "Nuclear Reactor Unit":{
+                "name":"Nuclear Reactor Unit",
+                "typeid":"11548",
+                "line":"30"
+            }
+        },
+        {
+            "Antimatter Reactor Unit":{
+                "name":"Antimatter Reactor Unit",
+                "typeid":"11549",
+                "line":"31"
+            }
+        },
+        {
+            "Graviton Reactor Unit":{
+                "name":"Graviton Reactor Unit",
+                "typeid":"11550",
+                "line":"32"
+            }
+        },
+        {
+            "Electrolytic Capacitor Unit":{
+                "name":"Electrolytic Capacitor Unit",
+                "typeid":"11551",
+                "line":"33"
+            }
+        },
+        {
+            "Scalar Capacitor Unit":{
+                "name":"Scalar Capacitor Unit",
+                "typeid":"11552",
+                "line":"34"
+            }
+        },
+        {
+            "Oscillator Capacitor Unit":{
+                "name":"Oscillator Capacitor Unit",
+                "typeid":"11553",
+                "line":"35"
+            }
+        },
+        {
+            "Tesseract Capacitor Unit":{
+                "name":"Tesseract Capacitor Unit",
+                "typeid":"11554",
+                "line":"36"
+            }
+        },
+        {
+            "Deflection Shield Emitter":{
+                "name":"Deflection Shield Emitter",
+                "typeid":"11555",
+                "line":"37"
+            }
+        },
+        {
+            "Pulse Shield Emitter":{
+                "name":"Pulse Shield Emitter",
+                "typeid":"11556",
+                "line":"38"
+            }
+        },
+        {
+            "Linear Shield Emitter":{
+                "name":"Linear Shield Emitter",
+                "typeid":"11557",
+                "line":"39"
+            }
+        },
+        {
+            "Sustained Shield Emitter":{
+                "name":"Sustained Shield Emitter",
+                "typeid":"11558",
+                "line":"40"
+            }
+        },
+        {
+            "Particle Accelerator Unit":{
+                "name":"Particle Accelerator Unit",
+                "typeid":"11688",
+                "line":"41"
+            }
+        },
+        {
+            "Laser Focusing Crystals":{
+                "name":"Laser Focusing Crystals",
+                "typeid":"11689",
+                "line":"42"
+            }
+        },
+        {
+            "Superconductor Rails":{
+                "name":"Superconductor Rails",
+                "typeid":"11690",
+                "line":"43"
+            }
+        },
+        {
+            "Thermonuclear Trigger Unit":{
+                "name":"Thermonuclear Trigger Unit",
+                "typeid":"11691",
+                "line":"44"
+            }
+        },
+        {
+            "Nuclear Pulse Generator":{
+                "name":"Nuclear Pulse Generator",
+                "typeid":"11692",
+                "line":"45"
+            }
+        },
+        {
+            "Graviton Pulse Generator":{
+                "name":"Graviton Pulse Generator",
+                "typeid":"11693",
+                "line":"46"
+            }
+        },
+        {
+            "EM Pulse Generator":{
+                "name":"EM Pulse Generator",
+                "typeid":"11694",
+                "line":"47"
+            }
+        },
+        {
+            "Plasma Pulse Generator":{
+                "name":"Plasma Pulse Generator",
+                "typeid":"11695",
+                "line":"48"
+            }
+        },
+        {
+            "Capital Propulsion Engine":{
+                "name":"Capital Propulsion Engine",
+                "typeid":"21009",
+                "line":"49"
+            }
+        },
+        {
+            "Capital Turret Hardpoint":{
+                "name":"Capital Turret Hardpoint",
+                "typeid":"21011",
+                "line":"50"
+            }
+        },
+        {
+            "Capital Sensor Cluster":{
+                "name":"Capital Sensor Cluster",
+                "typeid":"21013",
+                "line":"51"
+            }
+        },
+        {
+            "Capital Armor Plates":{
+                "name":"Capital Armor Plates",
+                "typeid":"21017",
+                "line":"52"
+            }
+        },
+        {
+            "Capital Capacitor Battery":{
+                "name":"Capital Capacitor Battery",
+                "typeid":"21019",
+                "line":"53"
+            }
+        },
+        {
+            "Capital Power Generator":{
+                "name":"Capital Power Generator",
+                "typeid":"21021",
+                "line":"54"
+            }
+        },
+        {
+            "Capital Shield Emitter":{
+                "name":"Capital Shield Emitter",
+                "typeid":"21023",
+                "line":"55"
+            }
+        },
+        {
+            "Capital Jump Drive":{
+                "name":"Capital Jump Drive",
+                "typeid":"21025",
+                "line":"56"
+            }
+        },
+        {
+            "Capital Cargo Bay":{
+                "name":"Capital Cargo Bay",
+                "typeid":"21027",
+                "line":"57"
+            }
+        },
+        {
+            "Capital Drone Bay":{
+                "name":"Capital Drone Bay",
+                "typeid":"21029",
+                "line":"58"
+            }
+        },
+        {
+            "Capital Computer System":{
+                "name":"Capital Computer System",
+                "typeid":"21035",
+                "line":"59"
+            }
+        },
+        {
+            "Capital Construction Parts":{
+                "name":"Capital Construction Parts",
+                "typeid":"21037",
+                "line":"60"
+            }
+        },
+        {
+            "Capital Siege Array":{
+                "name":"Capital Siege Array",
+                "typeid":"21039",
+                "line":"61"
+            }
+        },
+        {
+            "Capital Launcher Hardpoint":{
+                "name":"Capital Launcher Hardpoint",
+                "typeid":"21041",
+                "line":"62"
+            }
+        },
+        {
+            "Structure Construction Parts":{
+                "name":"Structure Construction Parts",
+                "typeid":"21947",
+                "line":"63"
+            }
+        },
+        {
+            "Structure Hangar Array":{
+                "name":"Structure Hangar Array",
+                "typeid":"21949",
+                "line":"64"
+            }
+        },
+        {
+            "Structure Storage Bay":{
+                "name":"Structure Storage Bay",
+                "typeid":"21951",
+                "line":"65"
+            }
+        },
+        {
+            "Structure Laboratory":{
+                "name":"Structure Laboratory",
+                "typeid":"21953",
+                "line":"66"
+            }
+        },
+        {
+            "Structure Factory":{
+                "name":"Structure Factory",
+                "typeid":"21955",
+                "line":"67"
+            }
+        },
+        {
+            "Structure Repair Facility":{
+                "name":"Structure Repair Facility",
+                "typeid":"21957",
+                "line":"68"
+            }
+        },
+        {
+            "Structure Reprocessing Plant":{
+                "name":"Structure Reprocessing Plant",
+                "typeid":"21959",
+                "line":"69"
+            }
+        },
+        {
+            "Structure Docking Bay":{
+                "name":"Structure Docking Bay",
+                "typeid":"21961",
+                "line":"70"
+            }
+        },
+        {
+            "Structure Market Network":{
+                "name":"Structure Market Network",
+                "typeid":"21963",
+                "line":"71"
+            }
+        },
+        {
+            "Structure Medical Center":{
+                "name":"Structure Medical Center",
+                "typeid":"21965",
+                "line":"72"
+            }
+        },
+        {
+            "Structure Office Center":{
+                "name":"Structure Office Center",
+                "typeid":"21967",
+                "line":"73"
+            }
+        },
+        {
+            "Structure Mission Network":{
+                "name":"Structure Mission Network",
+                "typeid":"21969",
+                "line":"74"
+            }
+        },
+        {
+            "Capital Jump Bridge Array":{
+                "name":"Capital Jump Bridge Array",
+                "typeid":"24545",
+                "line":"75"
+            }
+        },
+        {
+            "Capital Clone Vat Bay":{
+                "name":"Capital Clone Vat Bay",
+                "typeid":"24547",
+                "line":"76"
+            }
+        },
+        {
+            "Capital Doomsday Weapon Mount":{
+                "name":"Capital Doomsday Weapon Mount",
+                "typeid":"24556",
+                "line":"77"
+            }
+        },
+        {
+            "Capital Ship Maintenance Bay":{
+                "name":"Capital Ship Maintenance Bay",
+                "typeid":"24558",
+                "line":"78"
+            }
+        },
+        {
+            "Capital Corporate Hangar Bay":{
+                "name":"Capital Corporate Hangar Bay",
+                "typeid":"24560",
+                "line":"79"
+            }
+        },
+        {
+            "Capital Antimatter Reactor Unit":{
+                "name":"Capital Antimatter Reactor Unit",
+                "typeid":"29039",
+                "line":"80"
+            }
+        },
+        {
+            "Capital Crystalline Carbonide Armor Plate":{
+                "name":"Capital Crystalline Carbonide Armor Plate",
+                "typeid":"29041",
+                "line":"81"
+            }
+        },
+        {
+            "Capital Deflection Shield Emitter":{
+                "name":"Capital Deflection Shield Emitter",
+                "typeid":"29043",
+                "line":"82"
+            }
+        },
+        {
+            "Capital Electrolytic Capacitor Unit":{
+                "name":"Capital Electrolytic Capacitor Unit",
+                "typeid":"29045",
+                "line":"83"
+            }
+        },
+        {
+            "Capital EM Pulse Generator":{
+                "name":"Capital EM Pulse Generator",
+                "typeid":"29047",
+                "line":"84"
+            }
+        },
+        {
+            "Capital Fernite Carbide Composite Armor Plate":{
+                "name":"Capital Fernite Carbide Composite Armor Plate",
+                "typeid":"29049",
+                "line":"85"
+            }
+        },
+        {
+            "Capital Fusion Reactor Unit":{
+                "name":"Capital Fusion Reactor Unit",
+                "typeid":"29051",
+                "line":"86"
+            }
+        },
+        {
+            "Capital Fusion Thruster":{
+                "name":"Capital Fusion Thruster",
+                "typeid":"29053",
+                "line":"87"
+            }
+        },
+        {
+            "Capital Gravimetric Sensor Cluster":{
+                "name":"Capital Gravimetric Sensor Cluster",
+                "typeid":"29055",
+                "line":"88"
+            }
+        },
+        {
+            "Capital Graviton Pulse Generator":{
+                "name":"Capital Graviton Pulse Generator",
+                "typeid":"29057",
+                "line":"89"
+            }
+        },
+        {
+            "Capital Graviton Reactor Unit":{
+                "name":"Capital Graviton Reactor Unit",
+                "typeid":"29059",
+                "line":"90"
+            }
+        },
+        {
+            "Capital Ion Thruster":{
+                "name":"Capital Ion Thruster",
+                "typeid":"29061",
+                "line":"91"
+            }
+        },
+        {
+            "Capital Laser Focusing Crystals":{
+                "name":"Capital Laser Focusing Crystals",
+                "typeid":"29063",
+                "line":"92"
+            }
+        },
+        {
+            "Capital Ladar Sensor Cluster":{
+                "name":"Capital Ladar Sensor Cluster",
+                "typeid":"29065",
+                "line":"93"
+            }
+        },
+        {
+            "Capital Linear Shield Emitter":{
+                "name":"Capital Linear Shield Emitter",
+                "typeid":"29067",
+                "line":"94"
+            }
+        },
+        {
+            "Capital Magnetometric Sensor Cluster":{
+                "name":"Capital Magnetometric Sensor Cluster",
+                "typeid":"29069",
+                "line":"95"
+            }
+        },
+        {
+            "Capital Magpulse Thruster":{
+                "name":"Capital Magpulse Thruster",
+                "typeid":"29071",
+                "line":"96"
+            }
+        },
+        {
+            "Capital Nanoelectrical Microprocessor":{
+                "name":"Capital Nanoelectrical Microprocessor",
+                "typeid":"29073",
+                "line":"97"
+            }
+        },
+        {
+            "Capital Nanomechanical Microprocessor":{
+                "name":"Capital Nanomechanical Microprocessor",
+                "typeid":"29075",
+                "line":"98"
+            }
+        },
+        {
+            "Capital Nuclear Pulse Generator":{
+                "name":"Capital Nuclear Pulse Generator",
+                "typeid":"29077",
+                "line":"99"
+            }
+        },
+        {
+            "Capital Nuclear Reactor Unit":{
+                "name":"Capital Nuclear Reactor Unit",
+                "typeid":"29079",
+                "line":"100"
+            }
+        },
+        {
+            "Capital Oscillator Capacitor Unit":{
+                "name":"Capital Oscillator Capacitor Unit",
+                "typeid":"29081",
+                "line":"101"
+            }
+        },
+        {
+            "Capital Particle Accelerator Unit":{
+                "name":"Capital Particle Accelerator Unit",
+                "typeid":"29083",
+                "line":"102"
+            }
+        },
+        {
+            "Capital Photon Microprocessor":{
+                "name":"Capital Photon Microprocessor",
+                "typeid":"29085",
+                "line":"103"
+            }
+        },
+        {
+            "Capital Plasma Pulse Generator":{
+                "name":"Capital Plasma Pulse Generator",
+                "typeid":"29087",
+                "line":"104"
+            }
+        },
+        {
+            "Capital Plasma Thruster":{
+                "name":"Capital Plasma Thruster",
+                "typeid":"29089",
+                "line":"105"
+            }
+        },
+        {
+            "Capital Pulse Shield Emitter":{
+                "name":"Capital Pulse Shield Emitter",
+                "typeid":"29091",
+                "line":"106"
+            }
+        },
+        {
+            "Capital Quantum Microprocessor":{
+                "name":"Capital Quantum Microprocessor",
+                "typeid":"29093",
+                "line":"107"
+            }
+        },
+        {
+            "Capital Radar Sensor Cluster":{
+                "name":"Capital Radar Sensor Cluster",
+                "typeid":"29095",
+                "line":"108"
+            }
+        },
+        {
+            "Capital Scalar Capacitor Unit":{
+                "name":"Capital Scalar Capacitor Unit",
+                "typeid":"29097",
+                "line":"109"
+            }
+        },
+        {
+            "Capital Superconductor Rails":{
+                "name":"Capital Superconductor Rails",
+                "typeid":"29099",
+                "line":"110"
+            }
+        },
+        {
+            "Capital Sustained Shield Emitter":{
+                "name":"Capital Sustained Shield Emitter",
+                "typeid":"29101",
+                "line":"111"
+            }
+        },
+        {
+            "Capital Tesseract Capacitor Unit":{
+                "name":"Capital Tesseract Capacitor Unit",
+                "typeid":"29103",
+                "line":"112"
+            }
+        },
+        {
+            "Capital Thermonuclear Trigger Unit":{
+                "name":"Capital Thermonuclear Trigger Unit",
+                "typeid":"29105",
+                "line":"113"
+            }
+        },
+        {
+            "Capital Titanium Diborite Armor Plate":{
+                "name":"Capital Titanium Diborite Armor Plate",
+                "typeid":"29107",
+                "line":"114"
+            }
+        },
+        {
+            "Capital Tungsten Carbide Armor Plate":{
+                "name":"Capital Tungsten Carbide Armor Plate",
+                "typeid":"29109",
+                "line":"115"
+            }
+        },
+        {
+            "Optimized Nano-Engines":{
+                "name":"Optimized Nano-Engines",
+                "typeid":"29992",
+                "line":"116"
+            }
+        },
+        {
+            "Warfare Computation Core":{
+                "name":"Warfare Computation Core",
+                "typeid":"29994",
+                "line":"117"
+            }
+        },
+        {
+            "Emergent Neurovisual Interface":{
+                "name":"Emergent Neurovisual Interface",
+                "typeid":"29996",
+                "line":"118"
+            }
+        },
+        {
+            "Fullerene Intercalated Sheets":{
+                "name":"Fullerene Intercalated Sheets",
+                "typeid":"30002",
+                "line":"119"
+            }
+        },
+        {
+            "Reinforced Metallofullerene Alloys":{
+                "name":"Reinforced Metallofullerene Alloys",
+                "typeid":"30008",
+                "line":"120"
+            }
+        },
+        {
+            "Metallofullerene Plating":{
+                "name":"Metallofullerene Plating",
+                "typeid":"30464",
+                "line":"121"
+            }
+        },
+        {
+            "Electromechanical Interface Nexus":{
+                "name":"Electromechanical Interface Nexus",
+                "typeid":"30466",
+                "line":"122"
+            }
+        },
+        {
+            "Neurovisual Output Analyzer":{
+                "name":"Neurovisual Output Analyzer",
+                "typeid":"30470",
+                "line":"123"
+            }
+        },
+        {
+            "Nanowire Composites":{
+                "name":"Nanowire Composites",
+                "typeid":"30474",
+                "line":"124"
+            }
+        },
+        {
+            "Fulleroferrocene Power Conduits":{
+                "name":"Fulleroferrocene Power Conduits",
+                "typeid":"30476",
+                "line":"125"
+            }
+        },
+        {
+            "Reconfigured Subspace Calibrator":{
+                "name":"Reconfigured Subspace Calibrator",
+                "typeid":"30478",
+                "line":"126"
+            }
+        },
+        {
+            "Spatial Attunement Unit":{
+                "name":"Spatial Attunement Unit",
+                "typeid":"33195",
+                "line":"127"
+            }
+        },
+        {
+            "Self-Assembling Nanolattice":{
+                "name":"Self-Assembling Nanolattice",
+                "typeid":"34396",
+                "line":"128"
+            }
+        },
+        {
+            "Structure Electromagnetic Sensor":{
+                "name":"Structure Electromagnetic Sensor",
+                "typeid":"36956",
+                "line":"129"
+            }
+        },
+        {
+            "Structure Acceleration Coils":{
+                "name":"Structure Acceleration Coils",
+                "typeid":"36957",
+                "line":"130"
+            }
+        },
+        {
+            "Structure Advertisement Nexus":{
+                "name":"Structure Advertisement Nexus",
+                "typeid":"36958",
+                "line":"131"
+            }
+        },
+        {
+            "Superconducting Magnetometric Amplifier":{
+                "name":"Superconducting Magnetometric Amplifier",
+                "typeid":"45652",
+                "line":"132"
+            }
+        },
+        {
+            "Superconducting Gravimetric Amplifier":{
+                "name":"Superconducting Gravimetric Amplifier",
+                "typeid":"45653",
+                "line":"133"
+            }
+        },
+        {
+            "Superconducting Ladar Amplifier":{
+                "name":"Superconducting Ladar Amplifier",
+                "typeid":"45655",
+                "line":"134"
+            }
+        },
+        {
+            "Singularity Radiation Convertor":{
+                "name":"Singularity Radiation Convertor",
+                "typeid":"52311",
+                "line":"135"
+            }
+        },
+        {
+            "Zero-Point Field Manipulator":{
+                "name":"Zero-Point Field Manipulator",
+                "typeid":"52312",
+                "line":"136"
+            }
+        },
+        {
+            "Trinary State Processor":{
+                "name":"Trinary State Processor",
+                "typeid":"52313",
+                "line":"137"
+            }
+        },
+        {
+            "Lattice Locked Dekaisogen":{
+                "name":"Lattice Locked Dekaisogen",
+                "typeid":"52314",
+                "line":"138"
+            }
+        },
+        {
+            "U-C Trigger Neurolink Conduit":{
+                "name":"U-C Trigger Neurolink Conduit",
+                "typeid":"57470",
+                "line":"139"
+            }
+        },
+        {
+            "R-O Trigger Neurolink Conduit":{
+                "name":"R-O Trigger Neurolink Conduit",
+                "typeid":"57471",
+                "line":"140"
+            }
+        },
+        {
+            "S-R Trigger Neurolink Conduit":{
+                "name":"S-R Trigger Neurolink Conduit",
+                "typeid":"57472",
+                "line":"141"
+            }
+        },
+        {
+            "G-O Trigger Neurolink Conduit":{
+                "name":"G-O Trigger Neurolink Conduit",
+                "typeid":"57473",
+                "line":"142"
+            }
+        },
+        {
+            "Radar-FTL Interlink Communicator":{
+                "name":"Radar-FTL Interlink Communicator",
+                "typeid":"57474",
+                "line":"143"
+            }
+        },
+        {
+            "Gravimetric-FTL Interlink Communicator":{
+                "name":"Gravimetric-FTL Interlink Communicator",
+                "typeid":"57475",
+                "line":"144"
+            }
+        },
+        {
+            "Magnetometric-FTL Interlink Communicator":{
+                "name":"Magnetometric-FTL Interlink Communicator",
+                "typeid":"57476",
+                "line":"145"
+            }
+        },
+        {
+            "Ladar-FTL Interlink Communicator":{
+                "name":"Ladar-FTL Interlink Communicator",
+                "typeid":"57477",
+                "line":"146"
+            }
+        },
+        {
+            "Auto-Integrity Preservation Seal":{
+                "name":"Auto-Integrity Preservation Seal",
+                "typeid":"57478",
+                "line":"147"
+            }
+        },
+        {
+            "Core Temperature Regulator":{
+                "name":"Core Temperature Regulator",
+                "typeid":"57479",
+                "line":"148"
+            }
+        },
+        {
+            "Programmable Purification Membrane":{
+                "name":"Programmable Purification Membrane",
+                "typeid":"57480",
+                "line":"149"
+            }
+        },
+        {
+            "Genetic Lock Preserver":{
+                "name":"Genetic Lock Preserver",
+                "typeid":"57481",
+                "line":"150"
+            }
+        },
+        {
+            "Genetic Safeguard Filter":{
+                "name":"Genetic Safeguard Filter",
+                "typeid":"57482",
+                "line":"151"
+            }
+        },
+        {
+            "Neurolink Enhancer Reservoir":{
+                "name":"Neurolink Enhancer Reservoir",
+                "typeid":"57483",
+                "line":"152"
+            }
+        },
+        {
+            "Genetic Structure Repairer":{
+                "name":"Genetic Structure Repairer",
+                "typeid":"57484",
+                "line":"153"
+            }
+        },
+        {
+            "Genetic Mutation Inhibiter":{
+                "name":"Genetic Mutation Inhibiter",
+                "typeid":"57485",
+                "line":"154"
+            }
+        },
+        {
+            "Life Support Backup Unit":{
+                "name":"Life Support Backup Unit",
+                "typeid":"57486",
+                "line":"155"
+            }
+        },
+        {
+            "Capital Core Temperature Regulator":{
+                "name":"Capital Core Temperature Regulator",
+                "typeid":"57487",
+                "line":"156"
+            }
+        },
+        {
+            "Neurolink Protection Cell":{
+                "name":"Neurolink Protection Cell",
+                "typeid":"57488",
+                "line":"157"
+            }
+        },
+        {
+            "Enhanced Neurolink Protection Cell":{
+                "name":"Enhanced Neurolink Protection Cell",
+                "typeid":"57489",
+                "line":"158"
+            }
+        },
+        {
+            "Superconducting Radar Amplifier":{
+                "name":"Superconducting Radar Amplifier",
+                "typeid":"45654",
+                "line":"159"
+            }
+        },
+        {
+            "Structure EXERT Conduit Coupler":{
+                "name":"Structure EXERT Conduit Coupler",
+                "typeid":"49720",
+                "line":"160"
+            }
+        },
+        {
+            "Radiation Absorption Thruster":{
+                "name":"Radiation Absorption Thruster",
+                "typeid":"52310",
+                "line":"161"
+            }
+        },
+        {
+            "Capital Ultratidal Entropic Mounting":{
+                "name":"Capital Ultratidal Entropic Mounting",
+                "typeid":"53035",
+                "line":"162"
+            }
+        },
+        {
+            "Capital Radiation Conversion Unit":{
+                "name":"Capital Radiation Conversion Unit",
+                "typeid":"53036",
+                "line":"163"
+            }
+        },
+        {
+            "Capital Absorption Thruster Array":{
+                "name":"Capital Absorption Thruster Array",
+                "typeid":"53037",
+                "line":"164"
+            }
+        },
+        {
+            "Capital Singularity Radiation Convertor":{
+                "name":"Capital Singularity Radiation Convertor",
+                "typeid":"53288",
+                "line":"165"
+            }
+        },
+        {
+            "Capital Zero-Point Field Manipulator":{
+                "name":"Capital Zero-Point Field Manipulator",
+                "typeid":"53289",
+                "line":"166"
+            }
+        },
+        {
+            "Capital Trinary State Processor":{
+                "name":"Capital Trinary State Processor",
+                "typeid":"53290",
+                "line":"167"
+            }
+        },
+        {
+            "Hydrogen Fuel Block":{
+                "name":"Hydrogen Fuel Block",
+                "typeid":"4246",
+                "line":"168"
+            }
+        }
+    ]
+}

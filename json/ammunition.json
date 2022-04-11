@@ -1,0 +1,6164 @@
+{
+    "Ammunition":[
+        {
+            "Carbonized Lead S":{
+                "name":"Carbonized Lead S",
+                "typeid":"178",
+                "line":"3"
+            }
+        },
+        {
+            "Nuclear S":{
+                "name":"Nuclear S",
+                "typeid":"179",
+                "line":"4"
+            }
+        },
+        {
+            "Proton S":{
+                "name":"Proton S",
+                "typeid":"180",
+                "line":"5"
+            }
+        },
+        {
+            "Depleted Uranium S":{
+                "name":"Depleted Uranium S",
+                "typeid":"181",
+                "line":"6"
+            }
+        },
+        {
+            "Titanium Sabot S":{
+                "name":"Titanium Sabot S",
+                "typeid":"182",
+                "line":"7"
+            }
+        },
+        {
+            "Fusion S":{
+                "name":"Fusion S",
+                "typeid":"183",
+                "line":"8"
+            }
+        },
+        {
+            "Phased Plasma S":{
+                "name":"Phased Plasma S",
+                "typeid":"184",
+                "line":"9"
+            }
+        },
+        {
+            "EMP S":{
+                "name":"EMP S",
+                "typeid":"185",
+                "line":"10"
+            }
+        },
+        {
+            "Carbonized Lead M":{
+                "name":"Carbonized Lead M",
+                "typeid":"186",
+                "line":"11"
+            }
+        },
+        {
+            "Nuclear M":{
+                "name":"Nuclear M",
+                "typeid":"187",
+                "line":"12"
+            }
+        },
+        {
+            "Proton M":{
+                "name":"Proton M",
+                "typeid":"188",
+                "line":"13"
+            }
+        },
+        {
+            "Depleted Uranium M":{
+                "name":"Depleted Uranium M",
+                "typeid":"189",
+                "line":"14"
+            }
+        },
+        {
+            "Fusion M":{
+                "name":"Fusion M",
+                "typeid":"191",
+                "line":"15"
+            }
+        },
+        {
+            "Phased Plasma M":{
+                "name":"Phased Plasma M",
+                "typeid":"192",
+                "line":"16"
+            }
+        },
+        {
+            "EMP M":{
+                "name":"EMP M",
+                "typeid":"193",
+                "line":"17"
+            }
+        },
+        {
+            "Carbonized Lead L":{
+                "name":"Carbonized Lead L",
+                "typeid":"194",
+                "line":"18"
+            }
+        },
+        {
+            "Nuclear L":{
+                "name":"Nuclear L",
+                "typeid":"195",
+                "line":"19"
+            }
+        },
+        {
+            "Proton L":{
+                "name":"Proton L",
+                "typeid":"196",
+                "line":"20"
+            }
+        },
+        {
+            "Titanium Sabot L":{
+                "name":"Titanium Sabot L",
+                "typeid":"198",
+                "line":"21"
+            }
+        },
+        {
+            "Fusion L":{
+                "name":"Fusion L",
+                "typeid":"199",
+                "line":"22"
+            }
+        },
+        {
+            "Phased Plasma L":{
+                "name":"Phased Plasma L",
+                "typeid":"200",
+                "line":"23"
+            }
+        },
+        {
+            "EMP L":{
+                "name":"EMP L",
+                "typeid":"201",
+                "line":"24"
+            }
+        },
+        {
+            "Mjolnir Cruise Missile":{
+                "name":"Mjolnir Cruise Missile",
+                "typeid":"202",
+                "line":"25"
+            }
+        },
+        {
+            "Inferno Cruise Missile":{
+                "name":"Inferno Cruise Missile",
+                "typeid":"204",
+                "line":"26"
+            }
+        },
+        {
+            "Nova Cruise Missile":{
+                "name":"Nova Cruise Missile",
+                "typeid":"205",
+                "line":"27"
+            }
+        },
+        {
+            "Nova Heavy Missile":{
+                "name":"Nova Heavy Missile",
+                "typeid":"206",
+                "line":"28"
+            }
+        },
+        {
+            "Mjolnir Heavy Missile":{
+                "name":"Mjolnir Heavy Missile",
+                "typeid":"207",
+                "line":"29"
+            }
+        },
+        {
+            "Inferno Heavy Missile":{
+                "name":"Inferno Heavy Missile",
+                "typeid":"208",
+                "line":"30"
+            }
+        },
+        {
+            "Scourge Heavy Missile":{
+                "name":"Scourge Heavy Missile",
+                "typeid":"209",
+                "line":"31"
+            }
+        },
+        {
+            "Inferno Light Missile":{
+                "name":"Inferno Light Missile",
+                "typeid":"211",
+                "line":"32"
+            }
+        },
+        {
+            "Mjolnir Light Missile":{
+                "name":"Mjolnir Light Missile",
+                "typeid":"212",
+                "line":"33"
+            }
+        },
+        {
+            "Nova Light Missile":{
+                "name":"Nova Light Missile",
+                "typeid":"213",
+                "line":"34"
+            }
+        },
+        {
+            "Iron Charge S":{
+                "name":"Iron Charge S",
+                "typeid":"215",
+                "line":"35"
+            }
+        },
+        {
+            "Tungsten Charge S":{
+                "name":"Tungsten Charge S",
+                "typeid":"216",
+                "line":"36"
+            }
+        },
+        {
+            "Iridium Charge S":{
+                "name":"Iridium Charge S",
+                "typeid":"217",
+                "line":"37"
+            }
+        },
+        {
+            "Lead Charge S":{
+                "name":"Lead Charge S",
+                "typeid":"218",
+                "line":"38"
+            }
+        },
+        {
+            "Thorium Charge S":{
+                "name":"Thorium Charge S",
+                "typeid":"219",
+                "line":"39"
+            }
+        },
+        {
+            "Uranium Charge S":{
+                "name":"Uranium Charge S",
+                "typeid":"220",
+                "line":"40"
+            }
+        },
+        {
+            "Plutonium Charge S":{
+                "name":"Plutonium Charge S",
+                "typeid":"221",
+                "line":"41"
+            }
+        },
+        {
+            "Antimatter Charge S":{
+                "name":"Antimatter Charge S",
+                "typeid":"222",
+                "line":"42"
+            }
+        },
+        {
+            "Tungsten Charge M":{
+                "name":"Tungsten Charge M",
+                "typeid":"224",
+                "line":"43"
+            }
+        },
+        {
+            "Iridium Charge M":{
+                "name":"Iridium Charge M",
+                "typeid":"225",
+                "line":"44"
+            }
+        },
+        {
+            "Lead Charge M":{
+                "name":"Lead Charge M",
+                "typeid":"226",
+                "line":"45"
+            }
+        },
+        {
+            "Thorium Charge M":{
+                "name":"Thorium Charge M",
+                "typeid":"227",
+                "line":"46"
+            }
+        },
+        {
+            "Uranium Charge M":{
+                "name":"Uranium Charge M",
+                "typeid":"228",
+                "line":"47"
+            }
+        },
+        {
+            "Plutonium Charge M":{
+                "name":"Plutonium Charge M",
+                "typeid":"229",
+                "line":"48"
+            }
+        },
+        {
+            "Antimatter Charge M":{
+                "name":"Antimatter Charge M",
+                "typeid":"230",
+                "line":"49"
+            }
+        },
+        {
+            "Iron Charge L":{
+                "name":"Iron Charge L",
+                "typeid":"231",
+                "line":"50"
+            }
+        },
+        {
+            "Tungsten Charge L":{
+                "name":"Tungsten Charge L",
+                "typeid":"232",
+                "line":"51"
+            }
+        },
+        {
+            "Iridium Charge L":{
+                "name":"Iridium Charge L",
+                "typeid":"233",
+                "line":"52"
+            }
+        },
+        {
+            "Lead Charge L":{
+                "name":"Lead Charge L",
+                "typeid":"234",
+                "line":"53"
+            }
+        },
+        {
+            "Thorium Charge L":{
+                "name":"Thorium Charge L",
+                "typeid":"235",
+                "line":"54"
+            }
+        },
+        {
+            "Uranium Charge L":{
+                "name":"Uranium Charge L",
+                "typeid":"236",
+                "line":"55"
+            }
+        },
+        {
+            "Plutonium Charge L":{
+                "name":"Plutonium Charge L",
+                "typeid":"237",
+                "line":"56"
+            }
+        },
+        {
+            "Antimatter Charge L":{
+                "name":"Antimatter Charge L",
+                "typeid":"238",
+                "line":"57"
+            }
+        },
+        {
+            "Radio S":{
+                "name":"Radio S",
+                "typeid":"239",
+                "line":"58"
+            }
+        },
+        {
+            "Microwave S":{
+                "name":"Microwave S",
+                "typeid":"240",
+                "line":"59"
+            }
+        },
+        {
+            "Infrared S":{
+                "name":"Infrared S",
+                "typeid":"241",
+                "line":"60"
+            }
+        },
+        {
+            "Standard S":{
+                "name":"Standard S",
+                "typeid":"242",
+                "line":"61"
+            }
+        },
+        {
+            "Ultraviolet S":{
+                "name":"Ultraviolet S",
+                "typeid":"243",
+                "line":"62"
+            }
+        },
+        {
+            "Xray S":{
+                "name":"Xray S",
+                "typeid":"244",
+                "line":"63"
+            }
+        },
+        {
+            "Gamma S":{
+                "name":"Gamma S",
+                "typeid":"245",
+                "line":"64"
+            }
+        },
+        {
+            "Multifrequency S":{
+                "name":"Multifrequency S",
+                "typeid":"246",
+                "line":"65"
+            }
+        },
+        {
+            "Radio M":{
+                "name":"Radio M",
+                "typeid":"247",
+                "line":"66"
+            }
+        },
+        {
+            "Microwave M":{
+                "name":"Microwave M",
+                "typeid":"248",
+                "line":"67"
+            }
+        },
+        {
+            "Infrared M":{
+                "name":"Infrared M",
+                "typeid":"249",
+                "line":"68"
+            }
+        },
+        {
+            "Standard M":{
+                "name":"Standard M",
+                "typeid":"250",
+                "line":"69"
+            }
+        },
+        {
+            "Ultraviolet M":{
+                "name":"Ultraviolet M",
+                "typeid":"251",
+                "line":"70"
+            }
+        },
+        {
+            "Xray M":{
+                "name":"Xray M",
+                "typeid":"252",
+                "line":"71"
+            }
+        },
+        {
+            "Gamma M":{
+                "name":"Gamma M",
+                "typeid":"253",
+                "line":"72"
+            }
+        },
+        {
+            "Multifrequency M":{
+                "name":"Multifrequency M",
+                "typeid":"254",
+                "line":"73"
+            }
+        },
+        {
+            "Radio L":{
+                "name":"Radio L",
+                "typeid":"255",
+                "line":"74"
+            }
+        },
+        {
+            "Infrared L":{
+                "name":"Infrared L",
+                "typeid":"257",
+                "line":"75"
+            }
+        },
+        {
+            "Standard L":{
+                "name":"Standard L",
+                "typeid":"258",
+                "line":"76"
+            }
+        },
+        {
+            "Ultraviolet L":{
+                "name":"Ultraviolet L",
+                "typeid":"259",
+                "line":"77"
+            }
+        },
+        {
+            "Xray L":{
+                "name":"Xray L",
+                "typeid":"260",
+                "line":"78"
+            }
+        },
+        {
+            "Gamma L":{
+                "name":"Gamma L",
+                "typeid":"261",
+                "line":"79"
+            }
+        },
+        {
+            "Multifrequency L":{
+                "name":"Multifrequency L",
+                "typeid":"262",
+                "line":"80"
+            }
+        },
+        {
+            "Cap Booster 25":{
+                "name":"Cap Booster 25",
+                "typeid":"263",
+                "line":"81"
+            }
+        },
+        {
+            "Cap Booster 50":{
+                "name":"Cap Booster 50",
+                "typeid":"264",
+                "line":"82"
+            }
+        },
+        {
+            "Scourge Rocket":{
+                "name":"Scourge Rocket",
+                "typeid":"266",
+                "line":"83"
+            }
+        },
+        {
+            "Scourge Torpedo":{
+                "name":"Scourge Torpedo",
+                "typeid":"267",
+                "line":"84"
+            }
+        },
+        {
+            "Mjolnir Auto-Targeting Light Missile I":{
+                "name":"Mjolnir Auto-Targeting Light Missile I",
+                "typeid":"269",
+                "line":"85"
+            }
+        },
+        {
+            "Scourge Auto-Targeting Light Missile I":{
+                "name":"Scourge Auto-Targeting Light Missile I",
+                "typeid":"1810",
+                "line":"86"
+            }
+        },
+        {
+            "Nova Auto-Targeting Light Missile I":{
+                "name":"Nova Auto-Targeting Light Missile I",
+                "typeid":"1814",
+                "line":"87"
+            }
+        },
+        {
+            "Inferno Auto-Targeting Light Missile I":{
+                "name":"Inferno Auto-Targeting Light Missile I",
+                "typeid":"1816",
+                "line":"88"
+            }
+        },
+        {
+            "Scourge Auto-Targeting Heavy Missile I":{
+                "name":"Scourge Auto-Targeting Heavy Missile I",
+                "typeid":"1818",
+                "line":"89"
+            }
+        },
+        {
+            "Mjolnir Auto-Targeting Heavy Missile I":{
+                "name":"Mjolnir Auto-Targeting Heavy Missile I",
+                "typeid":"1820",
+                "line":"90"
+            }
+        },
+        {
+            "Nova Auto-Targeting Heavy Missile I":{
+                "name":"Nova Auto-Targeting Heavy Missile I",
+                "typeid":"1822",
+                "line":"91"
+            }
+        },
+        {
+            "Inferno Auto-Targeting Heavy Missile I":{
+                "name":"Inferno Auto-Targeting Heavy Missile I",
+                "typeid":"1824",
+                "line":"92"
+            }
+        },
+        {
+            "Scourge Auto-Targeting Cruise Missile I":{
+                "name":"Scourge Auto-Targeting Cruise Missile I",
+                "typeid":"1826",
+                "line":"93"
+            }
+        },
+        {
+            "Mjolnir Auto-Targeting Cruise Missile I":{
+                "name":"Mjolnir Auto-Targeting Cruise Missile I",
+                "typeid":"1828",
+                "line":"94"
+            }
+        },
+        {
+            "Nova Auto-Targeting Cruise Missile I":{
+                "name":"Nova Auto-Targeting Cruise Missile I",
+                "typeid":"1830",
+                "line":"95"
+            }
+        },
+        {
+            "Inferno Auto-Targeting Cruise Missile I":{
+                "name":"Inferno Auto-Targeting Cruise Missile I",
+                "typeid":"1832",
+                "line":"96"
+            }
+        },
+        {
+            "Guristas Nova XL Cruise Missile":{
+                "name":"Guristas Nova XL Cruise Missile",
+                "typeid":"2178",
+                "line":"97"
+            }
+        },
+        {
+            "Guristas Scourge XL Cruise Missile":{
+                "name":"Guristas Scourge XL Cruise Missile",
+                "typeid":"2180",
+                "line":"98"
+            }
+        },
+        {
+            "Guristas Inferno XL Cruise Missile":{
+                "name":"Guristas Inferno XL Cruise Missile",
+                "typeid":"2182",
+                "line":"99"
+            }
+        },
+        {
+            "Guristas Mjolnir XL Cruise Missile":{
+                "name":"Guristas Mjolnir XL Cruise Missile",
+                "typeid":"2188",
+                "line":"100"
+            }
+        },
+        {
+            "Mjolnir Torpedo":{
+                "name":"Mjolnir Torpedo",
+                "typeid":"2506",
+                "line":"101"
+            }
+        },
+        {
+            "Nova Torpedo":{
+                "name":"Nova Torpedo",
+                "typeid":"2508",
+                "line":"102"
+            }
+        },
+        {
+            "Inferno Torpedo":{
+                "name":"Inferno Torpedo",
+                "typeid":"2510",
+                "line":"103"
+            }
+        },
+        {
+            "Mjolnir Rocket":{
+                "name":"Mjolnir Rocket",
+                "typeid":"2512",
+                "line":"104"
+            }
+        },
+        {
+            "Inferno Rocket":{
+                "name":"Inferno Rocket",
+                "typeid":"2514",
+                "line":"105"
+            }
+        },
+        {
+            "Nova Rocket":{
+                "name":"Nova Rocket",
+                "typeid":"2516",
+                "line":"106"
+            }
+        },
+        {
+            "Mjolnir Fury Light Missile":{
+                "name":"Mjolnir Fury Light Missile",
+                "typeid":"2613",
+                "line":"107"
+            }
+        },
+        {
+            "Inferno Fury Cruise Missile":{
+                "name":"Inferno Fury Cruise Missile",
+                "typeid":"2621",
+                "line":"108"
+            }
+        },
+        {
+            "Scourge Fury Heavy Missile":{
+                "name":"Scourge Fury Heavy Missile",
+                "typeid":"2629",
+                "line":"109"
+            }
+        },
+        {
+            "Inferno Precision Light Missile":{
+                "name":"Inferno Precision Light Missile",
+                "typeid":"2647",
+                "line":"110"
+            }
+        },
+        {
+            "Nova Precision Heavy Missile":{
+                "name":"Nova Precision Heavy Missile",
+                "typeid":"2655",
+                "line":"111"
+            }
+        },
+        {
+            "Scourge Rage Heavy Assault Missile":{
+                "name":"Scourge Rage Heavy Assault Missile",
+                "typeid":"2679",
+                "line":"112"
+            }
+        },
+        {
+            "Nova Javelin Torpedo":{
+                "name":"Nova Javelin Torpedo",
+                "typeid":"2801",
+                "line":"113"
+            }
+        },
+        {
+            "Inferno Rage Torpedo":{
+                "name":"Inferno Rage Torpedo",
+                "typeid":"2811",
+                "line":"114"
+            }
+        },
+        {
+            "Mjolnir Rage Rocket":{
+                "name":"Mjolnir Rage Rocket",
+                "typeid":"2817",
+                "line":"115"
+            }
+        },
+        {
+            "Cap Booster 75":{
+                "name":"Cap Booster 75",
+                "typeid":"3552",
+                "line":"116"
+            }
+        },
+        {
+            "Cap Booster 100":{
+                "name":"Cap Booster 100",
+                "typeid":"3554",
+                "line":"117"
+            }
+        },
+        {
+            "Cap Booster 400":{
+                "name":"Cap Booster 400",
+                "typeid":"11287",
+                "line":"118"
+            }
+        },
+        {
+            "Gleam S":{
+                "name":"Gleam S",
+                "typeid":"12557",
+                "line":"119"
+            }
+        },
+        {
+            "Aurora S":{
+                "name":"Aurora S",
+                "typeid":"12559",
+                "line":"120"
+            }
+        },
+        {
+            "Scorch S":{
+                "name":"Scorch S",
+                "typeid":"12563",
+                "line":"121"
+            }
+        },
+        {
+            "Conflagration S":{
+                "name":"Conflagration S",
+                "typeid":"12565",
+                "line":"122"
+            }
+        },
+        {
+            "Hail S":{
+                "name":"Hail S",
+                "typeid":"12608",
+                "line":"123"
+            }
+        },
+        {
+            "Void S":{
+                "name":"Void S",
+                "typeid":"12612",
+                "line":"124"
+            }
+        },
+        {
+            "Null S":{
+                "name":"Null S",
+                "typeid":"12614",
+                "line":"125"
+            }
+        },
+        {
+            "Spike S":{
+                "name":"Spike S",
+                "typeid":"12618",
+                "line":"126"
+            }
+        },
+        {
+            "Javelin S":{
+                "name":"Javelin S",
+                "typeid":"12620",
+                "line":"127"
+            }
+        },
+        {
+            "Barrage S":{
+                "name":"Barrage S",
+                "typeid":"12625",
+                "line":"128"
+            }
+        },
+        {
+            "Quake S":{
+                "name":"Quake S",
+                "typeid":"12631",
+                "line":"129"
+            }
+        },
+        {
+            "Tremor S":{
+                "name":"Tremor S",
+                "typeid":"12633",
+                "line":"130"
+            }
+        },
+        {
+            "Quake L":{
+                "name":"Quake L",
+                "typeid":"12761",
+                "line":"131"
+            }
+        },
+        {
+            "Tremor L":{
+                "name":"Tremor L",
+                "typeid":"12765",
+                "line":"132"
+            }
+        },
+        {
+            "Quake M":{
+                "name":"Quake M",
+                "typeid":"12767",
+                "line":"133"
+            }
+        },
+        {
+            "Tremor M":{
+                "name":"Tremor M",
+                "typeid":"12771",
+                "line":"134"
+            }
+        },
+        {
+            "Barrage M":{
+                "name":"Barrage M",
+                "typeid":"12773",
+                "line":"135"
+            }
+        },
+        {
+            "Barrage L":{
+                "name":"Barrage L",
+                "typeid":"12775",
+                "line":"136"
+            }
+        },
+        {
+            "Hail M":{
+                "name":"Hail M",
+                "typeid":"12777",
+                "line":"137"
+            }
+        },
+        {
+            "Hail L":{
+                "name":"Hail L",
+                "typeid":"12779",
+                "line":"138"
+            }
+        },
+        {
+            "Null M":{
+                "name":"Null M",
+                "typeid":"12785",
+                "line":"139"
+            }
+        },
+        {
+            "Null L":{
+                "name":"Null L",
+                "typeid":"12787",
+                "line":"140"
+            }
+        },
+        {
+            "Void M":{
+                "name":"Void M",
+                "typeid":"12789",
+                "line":"141"
+            }
+        },
+        {
+            "Void L":{
+                "name":"Void L",
+                "typeid":"12791",
+                "line":"142"
+            }
+        },
+        {
+            "Javelin M":{
+                "name":"Javelin M",
+                "typeid":"12801",
+                "line":"143"
+            }
+        },
+        {
+            "Javelin L":{
+                "name":"Javelin L",
+                "typeid":"12803",
+                "line":"144"
+            }
+        },
+        {
+            "Spike M":{
+                "name":"Spike M",
+                "typeid":"12805",
+                "line":"145"
+            }
+        },
+        {
+            "Spike L":{
+                "name":"Spike L",
+                "typeid":"12807",
+                "line":"146"
+            }
+        },
+        {
+            "Conflagration M":{
+                "name":"Conflagration M",
+                "typeid":"12814",
+                "line":"147"
+            }
+        },
+        {
+            "Scorch M":{
+                "name":"Scorch M",
+                "typeid":"12818",
+                "line":"148"
+            }
+        },
+        {
+            "Gleam M":{
+                "name":"Gleam M",
+                "typeid":"12826",
+                "line":"149"
+            }
+        },
+        {
+            "Gleam L":{
+                "name":"Gleam L",
+                "typeid":"12828",
+                "line":"150"
+            }
+        },
+        {
+            "Mjolnir Javelin Rocket":{
+                "name":"Mjolnir Javelin Rocket",
+                "typeid":"13119",
+                "line":"151"
+            }
+        },
+        {
+            "Nova Javelin Heavy Assault Missile":{
+                "name":"Nova Javelin Heavy Assault Missile",
+                "typeid":"13856",
+                "line":"152"
+            }
+        },
+        {
+            "Antimatter Charge XL":{
+                "name":"Antimatter Charge XL",
+                "typeid":"17648",
+                "line":"153"
+            }
+        },
+        {
+            "Iridium Charge XL":{
+                "name":"Iridium Charge XL",
+                "typeid":"17650",
+                "line":"154"
+            }
+        },
+        {
+            "Iron Charge XL":{
+                "name":"Iron Charge XL",
+                "typeid":"17652",
+                "line":"155"
+            }
+        },
+        {
+            "Lead Charge XL":{
+                "name":"Lead Charge XL",
+                "typeid":"17654",
+                "line":"156"
+            }
+        },
+        {
+            "Plutonium Charge XL":{
+                "name":"Plutonium Charge XL",
+                "typeid":"17656",
+                "line":"157"
+            }
+        },
+        {
+            "Thorium Charge XL":{
+                "name":"Thorium Charge XL",
+                "typeid":"17658",
+                "line":"158"
+            }
+        },
+        {
+            "Tungsten Charge XL":{
+                "name":"Tungsten Charge XL",
+                "typeid":"17660",
+                "line":"159"
+            }
+        },
+        {
+            "Uranium Charge XL":{
+                "name":"Uranium Charge XL",
+                "typeid":"17662",
+                "line":"160"
+            }
+        },
+        {
+            "Carbonized Lead XL":{
+                "name":"Carbonized Lead XL",
+                "typeid":"17664",
+                "line":"161"
+            }
+        },
+        {
+            "Depleted Uranium XL":{
+                "name":"Depleted Uranium XL",
+                "typeid":"17666",
+                "line":"162"
+            }
+        },
+        {
+            "EMP XL":{
+                "name":"EMP XL",
+                "typeid":"17668",
+                "line":"163"
+            }
+        },
+        {
+            "Fusion XL":{
+                "name":"Fusion XL",
+                "typeid":"17670",
+                "line":"164"
+            }
+        },
+        {
+            "Nuclear XL":{
+                "name":"Nuclear XL",
+                "typeid":"17672",
+                "line":"165"
+            }
+        },
+        {
+            "Phased Plasma XL":{
+                "name":"Phased Plasma XL",
+                "typeid":"17674",
+                "line":"166"
+            }
+        },
+        {
+            "Proton XL":{
+                "name":"Proton XL",
+                "typeid":"17676",
+                "line":"167"
+            }
+        },
+        {
+            "Titanium Sabot XL":{
+                "name":"Titanium Sabot XL",
+                "typeid":"17678",
+                "line":"168"
+            }
+        },
+        {
+            "Gamma XL":{
+                "name":"Gamma XL",
+                "typeid":"17680",
+                "line":"169"
+            }
+        },
+        {
+            "Infrared XL":{
+                "name":"Infrared XL",
+                "typeid":"17682",
+                "line":"170"
+            }
+        },
+        {
+            "Microwave XL":{
+                "name":"Microwave XL",
+                "typeid":"17684",
+                "line":"171"
+            }
+        },
+        {
+            "Multifrequency XL":{
+                "name":"Multifrequency XL",
+                "typeid":"17686",
+                "line":"172"
+            }
+        },
+        {
+            "Radio XL":{
+                "name":"Radio XL",
+                "typeid":"17688",
+                "line":"173"
+            }
+        },
+        {
+            "Standard XL":{
+                "name":"Standard XL",
+                "typeid":"17690",
+                "line":"174"
+            }
+        },
+        {
+            "Ultraviolet XL":{
+                "name":"Ultraviolet XL",
+                "typeid":"17692",
+                "line":"175"
+            }
+        },
+        {
+            "Xray XL":{
+                "name":"Xray XL",
+                "typeid":"17694",
+                "line":"176"
+            }
+        },
+        {
+            "Mjolnir XL Torpedo":{
+                "name":"Mjolnir XL Torpedo",
+                "typeid":"17857",
+                "line":"177"
+            }
+        },
+        {
+            "Scourge XL Torpedo":{
+                "name":"Scourge XL Torpedo",
+                "typeid":"17859",
+                "line":"178"
+            }
+        },
+        {
+            "Inferno XL Torpedo":{
+                "name":"Inferno XL Torpedo",
+                "typeid":"17861",
+                "line":"179"
+            }
+        },
+        {
+            "Nova XL Torpedo":{
+                "name":"Nova XL Torpedo",
+                "typeid":"17863",
+                "line":"180"
+            }
+        },
+        {
+            "Quest Survey Probe I":{
+                "name":"Quest Survey Probe I",
+                "typeid":"18626",
+                "line":"181"
+            }
+        },
+        {
+            "Discovery Survey Probe I":{
+                "name":"Discovery Survey Probe I",
+                "typeid":"18635",
+                "line":"182"
+            }
+        },
+        {
+            "Gaze Survey Probe I":{
+                "name":"Gaze Survey Probe I",
+                "typeid":"18637",
+                "line":"183"
+            }
+        },
+        {
+            "Shadow Iron Charge S":{
+                "name":"Shadow Iron Charge S",
+                "typeid":"19962",
+                "line":"184"
+            }
+        },
+        {
+            "Shadow Tungsten Charge S":{
+                "name":"Shadow Tungsten Charge S",
+                "typeid":"19964",
+                "line":"185"
+            }
+        },
+        {
+            "Shadow Iridium Charge S":{
+                "name":"Shadow Iridium Charge S",
+                "typeid":"19966",
+                "line":"186"
+            }
+        },
+        {
+            "Shadow Lead Charge S":{
+                "name":"Shadow Lead Charge S",
+                "typeid":"19968",
+                "line":"187"
+            }
+        },
+        {
+            "Arch Angel Carbonized Lead S":{
+                "name":"Arch Angel Carbonized Lead S",
+                "typeid":"19970",
+                "line":"188"
+            }
+        },
+        {
+            "Arch Angel Nuclear S":{
+                "name":"Arch Angel Nuclear S",
+                "typeid":"19972",
+                "line":"189"
+            }
+        },
+        {
+            "Arch Angel Proton S":{
+                "name":"Arch Angel Proton S",
+                "typeid":"19974",
+                "line":"190"
+            }
+        },
+        {
+            "Arch Angel Depleted Uranium S":{
+                "name":"Arch Angel Depleted Uranium S",
+                "typeid":"19976",
+                "line":"191"
+            }
+        },
+        {
+            "Sanshas Radio S":{
+                "name":"Sanshas Radio S",
+                "typeid":"19978",
+                "line":"192"
+            }
+        },
+        {
+            "Sanshas Microwave S":{
+                "name":"Sanshas Microwave S",
+                "typeid":"19980",
+                "line":"193"
+            }
+        },
+        {
+            "Sanshas Infrared S":{
+                "name":"Sanshas Infrared S",
+                "typeid":"19982",
+                "line":"194"
+            }
+        },
+        {
+            "Sanshas Standard S":{
+                "name":"Sanshas Standard S",
+                "typeid":"19984",
+                "line":"195"
+            }
+        },
+        {
+            "Arch Angel Titanium Sabot S":{
+                "name":"Arch Angel Titanium Sabot S",
+                "typeid":"19986",
+                "line":"196"
+            }
+        },
+        {
+            "Arch Angel Fusion S":{
+                "name":"Arch Angel Fusion S",
+                "typeid":"19988",
+                "line":"197"
+            }
+        },
+        {
+            "Arch Angel Phased Plasma S":{
+                "name":"Arch Angel Phased Plasma S",
+                "typeid":"19990",
+                "line":"198"
+            }
+        },
+        {
+            "Arch Angel EMP S":{
+                "name":"Arch Angel EMP S",
+                "typeid":"19992",
+                "line":"199"
+            }
+        },
+        {
+            "Arch Angel Nuclear M":{
+                "name":"Arch Angel Nuclear M",
+                "typeid":"19996",
+                "line":"200"
+            }
+        },
+        {
+            "Arch Angel Proton M":{
+                "name":"Arch Angel Proton M",
+                "typeid":"19998",
+                "line":"201"
+            }
+        },
+        {
+            "Arch Angel Depleted Uranium M":{
+                "name":"Arch Angel Depleted Uranium M",
+                "typeid":"20000",
+                "line":"202"
+            }
+        },
+        {
+            "Arch Angel Titanium Sabot M":{
+                "name":"Arch Angel Titanium Sabot M",
+                "typeid":"20002",
+                "line":"203"
+            }
+        },
+        {
+            "Arch Angel Fusion M":{
+                "name":"Arch Angel Fusion M",
+                "typeid":"20004",
+                "line":"204"
+            }
+        },
+        {
+            "Arch Angel Phased Plasma M":{
+                "name":"Arch Angel Phased Plasma M",
+                "typeid":"20006",
+                "line":"205"
+            }
+        },
+        {
+            "Arch Angel EMP M":{
+                "name":"Arch Angel EMP M",
+                "typeid":"20008",
+                "line":"206"
+            }
+        },
+        {
+            "Sanshas Radio M":{
+                "name":"Sanshas Radio M",
+                "typeid":"20010",
+                "line":"207"
+            }
+        },
+        {
+            "Sanshas Infrared M":{
+                "name":"Sanshas Infrared M",
+                "typeid":"20014",
+                "line":"208"
+            }
+        },
+        {
+            "Sanshas Standard M":{
+                "name":"Sanshas Standard M",
+                "typeid":"20016",
+                "line":"209"
+            }
+        },
+        {
+            "Sanshas Radio L":{
+                "name":"Sanshas Radio L",
+                "typeid":"20018",
+                "line":"210"
+            }
+        },
+        {
+            "Sanshas Microwave L":{
+                "name":"Sanshas Microwave L",
+                "typeid":"20020",
+                "line":"211"
+            }
+        },
+        {
+            "Sanshas Infrared L":{
+                "name":"Sanshas Infrared L",
+                "typeid":"20022",
+                "line":"212"
+            }
+        },
+        {
+            "Sanshas Standard L":{
+                "name":"Sanshas Standard L",
+                "typeid":"20024",
+                "line":"213"
+            }
+        },
+        {
+            "Sanshas Radio XL":{
+                "name":"Sanshas Radio XL",
+                "typeid":"20026",
+                "line":"214"
+            }
+        },
+        {
+            "Sanshas Microwave XL":{
+                "name":"Sanshas Microwave XL",
+                "typeid":"20028",
+                "line":"215"
+            }
+        },
+        {
+            "Sanshas Infrared XL":{
+                "name":"Sanshas Infrared XL",
+                "typeid":"20030",
+                "line":"216"
+            }
+        },
+        {
+            "Sanshas Standard XL":{
+                "name":"Sanshas Standard XL",
+                "typeid":"20032",
+                "line":"217"
+            }
+        },
+        {
+            "Shadow Thorium Charge S":{
+                "name":"Shadow Thorium Charge S",
+                "typeid":"20034",
+                "line":"218"
+            }
+        },
+        {
+            "Shadow Uranium Charge S":{
+                "name":"Shadow Uranium Charge S",
+                "typeid":"20036",
+                "line":"219"
+            }
+        },
+        {
+            "Shadow Plutonium Charge S":{
+                "name":"Shadow Plutonium Charge S",
+                "typeid":"20038",
+                "line":"220"
+            }
+        },
+        {
+            "Shadow Antimatter Charge S":{
+                "name":"Shadow Antimatter Charge S",
+                "typeid":"20040",
+                "line":"221"
+            }
+        },
+        {
+            "Shadow Iron Charge M":{
+                "name":"Shadow Iron Charge M",
+                "typeid":"20043",
+                "line":"222"
+            }
+        },
+        {
+            "Shadow Tungsten Charge M":{
+                "name":"Shadow Tungsten Charge M",
+                "typeid":"20045",
+                "line":"223"
+            }
+        },
+        {
+            "Shadow Iridium Charge M":{
+                "name":"Shadow Iridium Charge M",
+                "typeid":"20047",
+                "line":"224"
+            }
+        },
+        {
+            "Shadow Lead Charge M":{
+                "name":"Shadow Lead Charge M",
+                "typeid":"20049",
+                "line":"225"
+            }
+        },
+        {
+            "Shadow Thorium Charge M":{
+                "name":"Shadow Thorium Charge M",
+                "typeid":"20051",
+                "line":"226"
+            }
+        },
+        {
+            "Shadow Uranium Charge M":{
+                "name":"Shadow Uranium Charge M",
+                "typeid":"20053",
+                "line":"227"
+            }
+        },
+        {
+            "Shadow Plutonium Charge M":{
+                "name":"Shadow Plutonium Charge M",
+                "typeid":"20055",
+                "line":"228"
+            }
+        },
+        {
+            "Shadow Antimatter Charge M":{
+                "name":"Shadow Antimatter Charge M",
+                "typeid":"20057",
+                "line":"229"
+            }
+        },
+        {
+            "Mjolnir Heavy Assault Missile":{
+                "name":"Mjolnir Heavy Assault Missile",
+                "typeid":"20306",
+                "line":"230"
+            }
+        },
+        {
+            "Scourge Heavy Assault Missile":{
+                "name":"Scourge Heavy Assault Missile",
+                "typeid":"20307",
+                "line":"231"
+            }
+        },
+        {
+            "Inferno Heavy Assault Missile":{
+                "name":"Inferno Heavy Assault Missile",
+                "typeid":"20308",
+                "line":"232"
+            }
+        },
+        {
+            "Arch Angel Carbonized Lead L":{
+                "name":"Arch Angel Carbonized Lead L",
+                "typeid":"20721",
+                "line":"233"
+            }
+        },
+        {
+            "Arch Angel Nuclear L":{
+                "name":"Arch Angel Nuclear L",
+                "typeid":"20723",
+                "line":"234"
+            }
+        },
+        {
+            "Arch Angel Proton L":{
+                "name":"Arch Angel Proton L",
+                "typeid":"20725",
+                "line":"235"
+            }
+        },
+        {
+            "Arch Angel Depleted Uranium L":{
+                "name":"Arch Angel Depleted Uranium L",
+                "typeid":"20727",
+                "line":"236"
+            }
+        },
+        {
+            "Arch Angel Titanium Sabot L":{
+                "name":"Arch Angel Titanium Sabot L",
+                "typeid":"20729",
+                "line":"237"
+            }
+        },
+        {
+            "Arch Angel Fusion L":{
+                "name":"Arch Angel Fusion L",
+                "typeid":"20731",
+                "line":"238"
+            }
+        },
+        {
+            "Arch Angel Phased Plasma L":{
+                "name":"Arch Angel Phased Plasma L",
+                "typeid":"20733",
+                "line":"239"
+            }
+        },
+        {
+            "Arch Angel EMP L":{
+                "name":"Arch Angel EMP L",
+                "typeid":"20735",
+                "line":"240"
+            }
+        },
+        {
+            "Arch Angel Carbonized Lead XL":{
+                "name":"Arch Angel Carbonized Lead XL",
+                "typeid":"20737",
+                "line":"241"
+            }
+        },
+        {
+            "Arch Angel Depleted Uranium XL":{
+                "name":"Arch Angel Depleted Uranium XL",
+                "typeid":"20739",
+                "line":"242"
+            }
+        },
+        {
+            "Arch Angel EMP XL":{
+                "name":"Arch Angel EMP XL",
+                "typeid":"20741",
+                "line":"243"
+            }
+        },
+        {
+            "Arch Angel Fusion XL":{
+                "name":"Arch Angel Fusion XL",
+                "typeid":"20743",
+                "line":"244"
+            }
+        },
+        {
+            "Arch Angel Nuclear XL":{
+                "name":"Arch Angel Nuclear XL",
+                "typeid":"20745",
+                "line":"245"
+            }
+        },
+        {
+            "Arch Angel Phased Plasma XL":{
+                "name":"Arch Angel Phased Plasma XL",
+                "typeid":"20747",
+                "line":"246"
+            }
+        },
+        {
+            "Arch Angel Proton XL":{
+                "name":"Arch Angel Proton XL",
+                "typeid":"20749",
+                "line":"247"
+            }
+        },
+        {
+            "Arch Angel Titanium Sabot XL":{
+                "name":"Arch Angel Titanium Sabot XL",
+                "typeid":"20751",
+                "line":"248"
+            }
+        },
+        {
+            "Domination Carbonized Lead S":{
+                "name":"Domination Carbonized Lead S",
+                "typeid":"20753",
+                "line":"249"
+            }
+        },
+        {
+            "Domination Nuclear S":{
+                "name":"Domination Nuclear S",
+                "typeid":"20755",
+                "line":"250"
+            }
+        },
+        {
+            "Domination Proton S":{
+                "name":"Domination Proton S",
+                "typeid":"20757",
+                "line":"251"
+            }
+        },
+        {
+            "Domination Depleted Uranium S":{
+                "name":"Domination Depleted Uranium S",
+                "typeid":"20759",
+                "line":"252"
+            }
+        },
+        {
+            "Domination Titanium Sabot S":{
+                "name":"Domination Titanium Sabot S",
+                "typeid":"20761",
+                "line":"253"
+            }
+        },
+        {
+            "Domination Fusion S":{
+                "name":"Domination Fusion S",
+                "typeid":"20763",
+                "line":"254"
+            }
+        },
+        {
+            "Domination Phased Plasma S":{
+                "name":"Domination Phased Plasma S",
+                "typeid":"20765",
+                "line":"255"
+            }
+        },
+        {
+            "Domination EMP S":{
+                "name":"Domination EMP S",
+                "typeid":"20767",
+                "line":"256"
+            }
+        },
+        {
+            "Domination Carbonized Lead M":{
+                "name":"Domination Carbonized Lead M",
+                "typeid":"20769",
+                "line":"257"
+            }
+        },
+        {
+            "Domination Nuclear M":{
+                "name":"Domination Nuclear M",
+                "typeid":"20771",
+                "line":"258"
+            }
+        },
+        {
+            "Domination Proton M":{
+                "name":"Domination Proton M",
+                "typeid":"20773",
+                "line":"259"
+            }
+        },
+        {
+            "Domination Depleted Uranium M":{
+                "name":"Domination Depleted Uranium M",
+                "typeid":"20775",
+                "line":"260"
+            }
+        },
+        {
+            "Domination Titanium Sabot M":{
+                "name":"Domination Titanium Sabot M",
+                "typeid":"20777",
+                "line":"261"
+            }
+        },
+        {
+            "Domination Fusion M":{
+                "name":"Domination Fusion M",
+                "typeid":"20779",
+                "line":"262"
+            }
+        },
+        {
+            "Domination Phased Plasma M":{
+                "name":"Domination Phased Plasma M",
+                "typeid":"20781",
+                "line":"263"
+            }
+        },
+        {
+            "Domination EMP M":{
+                "name":"Domination EMP M",
+                "typeid":"20783",
+                "line":"264"
+            }
+        },
+        {
+            "Domination Carbonized Lead L":{
+                "name":"Domination Carbonized Lead L",
+                "typeid":"20785",
+                "line":"265"
+            }
+        },
+        {
+            "Domination Nuclear L":{
+                "name":"Domination Nuclear L",
+                "typeid":"20787",
+                "line":"266"
+            }
+        },
+        {
+            "Domination Proton L":{
+                "name":"Domination Proton L",
+                "typeid":"20789",
+                "line":"267"
+            }
+        },
+        {
+            "Domination Depleted Uranium L":{
+                "name":"Domination Depleted Uranium L",
+                "typeid":"20791",
+                "line":"268"
+            }
+        },
+        {
+            "Domination Titanium Sabot L":{
+                "name":"Domination Titanium Sabot L",
+                "typeid":"20793",
+                "line":"269"
+            }
+        },
+        {
+            "Domination Fusion L":{
+                "name":"Domination Fusion L",
+                "typeid":"20795",
+                "line":"270"
+            }
+        },
+        {
+            "Domination Phased Plasma L":{
+                "name":"Domination Phased Plasma L",
+                "typeid":"20797",
+                "line":"271"
+            }
+        },
+        {
+            "Domination EMP L":{
+                "name":"Domination EMP L",
+                "typeid":"20799",
+                "line":"272"
+            }
+        },
+        {
+            "Domination Carbonized Lead XL":{
+                "name":"Domination Carbonized Lead XL",
+                "typeid":"20801",
+                "line":"273"
+            }
+        },
+        {
+            "Domination Depleted Uranium XL":{
+                "name":"Domination Depleted Uranium XL",
+                "typeid":"20803",
+                "line":"274"
+            }
+        },
+        {
+            "Domination EMP XL":{
+                "name":"Domination EMP XL",
+                "typeid":"20805",
+                "line":"275"
+            }
+        },
+        {
+            "Domination Fusion XL":{
+                "name":"Domination Fusion XL",
+                "typeid":"20807",
+                "line":"276"
+            }
+        },
+        {
+            "Domination Nuclear XL":{
+                "name":"Domination Nuclear XL",
+                "typeid":"20809",
+                "line":"277"
+            }
+        },
+        {
+            "Domination Phased Plasma XL":{
+                "name":"Domination Phased Plasma XL",
+                "typeid":"20811",
+                "line":"278"
+            }
+        },
+        {
+            "Domination Proton XL":{
+                "name":"Domination Proton XL",
+                "typeid":"20813",
+                "line":"279"
+            }
+        },
+        {
+            "Domination Titanium Sabot XL":{
+                "name":"Domination Titanium Sabot XL",
+                "typeid":"20815",
+                "line":"280"
+            }
+        },
+        {
+            "Sanshas Ultraviolet S":{
+                "name":"Sanshas Ultraviolet S",
+                "typeid":"20817",
+                "line":"281"
+            }
+        },
+        {
+            "Sanshas Xray S":{
+                "name":"Sanshas Xray S",
+                "typeid":"20819",
+                "line":"282"
+            }
+        },
+        {
+            "Sanshas Gamma S":{
+                "name":"Sanshas Gamma S",
+                "typeid":"20821",
+                "line":"283"
+            }
+        },
+        {
+            "Sanshas Multifrequency S":{
+                "name":"Sanshas Multifrequency S",
+                "typeid":"20823",
+                "line":"284"
+            }
+        },
+        {
+            "Sanshas Ultraviolet M":{
+                "name":"Sanshas Ultraviolet M",
+                "typeid":"20825",
+                "line":"285"
+            }
+        },
+        {
+            "Sanshas Xray M":{
+                "name":"Sanshas Xray M",
+                "typeid":"20827",
+                "line":"286"
+            }
+        },
+        {
+            "Sanshas Gamma M":{
+                "name":"Sanshas Gamma M",
+                "typeid":"20829",
+                "line":"287"
+            }
+        },
+        {
+            "Sanshas Multifrequency M":{
+                "name":"Sanshas Multifrequency M",
+                "typeid":"20831",
+                "line":"288"
+            }
+        },
+        {
+            "Sanshas Ultraviolet L":{
+                "name":"Sanshas Ultraviolet L",
+                "typeid":"20833",
+                "line":"289"
+            }
+        },
+        {
+            "Sanshas Xray L":{
+                "name":"Sanshas Xray L",
+                "typeid":"20835",
+                "line":"290"
+            }
+        },
+        {
+            "Sanshas Gamma L":{
+                "name":"Sanshas Gamma L",
+                "typeid":"20837",
+                "line":"291"
+            }
+        },
+        {
+            "Sanshas Multifrequency L":{
+                "name":"Sanshas Multifrequency L",
+                "typeid":"20839",
+                "line":"292"
+            }
+        },
+        {
+            "Sanshas Ultraviolet XL":{
+                "name":"Sanshas Ultraviolet XL",
+                "typeid":"20841",
+                "line":"293"
+            }
+        },
+        {
+            "Sanshas Xray XL":{
+                "name":"Sanshas Xray XL",
+                "typeid":"20843",
+                "line":"294"
+            }
+        },
+        {
+            "Sanshas Gamma XL":{
+                "name":"Sanshas Gamma XL",
+                "typeid":"20845",
+                "line":"295"
+            }
+        },
+        {
+            "Sanshas Multifrequency XL":{
+                "name":"Sanshas Multifrequency XL",
+                "typeid":"20847",
+                "line":"296"
+            }
+        },
+        {
+            "True Sanshas Radio S":{
+                "name":"True Sanshas Radio S",
+                "typeid":"20849",
+                "line":"297"
+            }
+        },
+        {
+            "True Sanshas Microwave S":{
+                "name":"True Sanshas Microwave S",
+                "typeid":"20851",
+                "line":"298"
+            }
+        },
+        {
+            "True Sanshas Infrared S":{
+                "name":"True Sanshas Infrared S",
+                "typeid":"20853",
+                "line":"299"
+            }
+        },
+        {
+            "True Sanshas Standard S":{
+                "name":"True Sanshas Standard S",
+                "typeid":"20855",
+                "line":"300"
+            }
+        },
+        {
+            "True Sanshas Ultraviolet S":{
+                "name":"True Sanshas Ultraviolet S",
+                "typeid":"20857",
+                "line":"301"
+            }
+        },
+        {
+            "True Sanshas Xray S":{
+                "name":"True Sanshas Xray S",
+                "typeid":"20859",
+                "line":"302"
+            }
+        },
+        {
+            "True Sanshas Gamma S":{
+                "name":"True Sanshas Gamma S",
+                "typeid":"20861",
+                "line":"303"
+            }
+        },
+        {
+            "True Sanshas Multifrequency S":{
+                "name":"True Sanshas Multifrequency S",
+                "typeid":"20863",
+                "line":"304"
+            }
+        },
+        {
+            "True Sanshas Radio M":{
+                "name":"True Sanshas Radio M",
+                "typeid":"20865",
+                "line":"305"
+            }
+        },
+        {
+            "True Sanshas Microwave M":{
+                "name":"True Sanshas Microwave M",
+                "typeid":"20867",
+                "line":"306"
+            }
+        },
+        {
+            "True Sanshas Infrared M":{
+                "name":"True Sanshas Infrared M",
+                "typeid":"20869",
+                "line":"307"
+            }
+        },
+        {
+            "True Sanshas Standard M":{
+                "name":"True Sanshas Standard M",
+                "typeid":"20871",
+                "line":"308"
+            }
+        },
+        {
+            "True Sanshas Ultraviolet M":{
+                "name":"True Sanshas Ultraviolet M",
+                "typeid":"20873",
+                "line":"309"
+            }
+        },
+        {
+            "True Sanshas Xray M":{
+                "name":"True Sanshas Xray M",
+                "typeid":"20875",
+                "line":"310"
+            }
+        },
+        {
+            "True Sanshas Gamma M":{
+                "name":"True Sanshas Gamma M",
+                "typeid":"20877",
+                "line":"311"
+            }
+        },
+        {
+            "True Sanshas Multifrequency M":{
+                "name":"True Sanshas Multifrequency M",
+                "typeid":"20879",
+                "line":"312"
+            }
+        },
+        {
+            "True Sanshas Radio L":{
+                "name":"True Sanshas Radio L",
+                "typeid":"20881",
+                "line":"313"
+            }
+        },
+        {
+            "True Sanshas Microwave L":{
+                "name":"True Sanshas Microwave L",
+                "typeid":"20883",
+                "line":"314"
+            }
+        },
+        {
+            "True Sanshas Infrared L":{
+                "name":"True Sanshas Infrared L",
+                "typeid":"20885",
+                "line":"315"
+            }
+        },
+        {
+            "True Sanshas Standard L":{
+                "name":"True Sanshas Standard L",
+                "typeid":"20887",
+                "line":"316"
+            }
+        },
+        {
+            "True Sanshas Ultraviolet L":{
+                "name":"True Sanshas Ultraviolet L",
+                "typeid":"20889",
+                "line":"317"
+            }
+        },
+        {
+            "True Sanshas Xray L":{
+                "name":"True Sanshas Xray L",
+                "typeid":"20891",
+                "line":"318"
+            }
+        },
+        {
+            "True Sanshas Gamma L":{
+                "name":"True Sanshas Gamma L",
+                "typeid":"20893",
+                "line":"319"
+            }
+        },
+        {
+            "True Sanshas Multifrequency L":{
+                "name":"True Sanshas Multifrequency L",
+                "typeid":"20895",
+                "line":"320"
+            }
+        },
+        {
+            "True Sanshas Radio XL":{
+                "name":"True Sanshas Radio XL",
+                "typeid":"20897",
+                "line":"321"
+            }
+        },
+        {
+            "True Sanshas Microwave XL":{
+                "name":"True Sanshas Microwave XL",
+                "typeid":"20899",
+                "line":"322"
+            }
+        },
+        {
+            "True Sanshas Infrared XL":{
+                "name":"True Sanshas Infrared XL",
+                "typeid":"20901",
+                "line":"323"
+            }
+        },
+        {
+            "True Sanshas Standard XL":{
+                "name":"True Sanshas Standard XL",
+                "typeid":"20903",
+                "line":"324"
+            }
+        },
+        {
+            "True Sanshas Ultraviolet XL":{
+                "name":"True Sanshas Ultraviolet XL",
+                "typeid":"20905",
+                "line":"325"
+            }
+        },
+        {
+            "True Sanshas Xray XL":{
+                "name":"True Sanshas Xray XL",
+                "typeid":"20907",
+                "line":"326"
+            }
+        },
+        {
+            "True Sanshas Gamma XL":{
+                "name":"True Sanshas Gamma XL",
+                "typeid":"20909",
+                "line":"327"
+            }
+        },
+        {
+            "True Sanshas Multifrequency XL":{
+                "name":"True Sanshas Multifrequency XL",
+                "typeid":"20911",
+                "line":"328"
+            }
+        },
+        {
+            "Shadow Iron Charge L":{
+                "name":"Shadow Iron Charge L",
+                "typeid":"20913",
+                "line":"329"
+            }
+        },
+        {
+            "Shadow Tungsten Charge L":{
+                "name":"Shadow Tungsten Charge L",
+                "typeid":"20915",
+                "line":"330"
+            }
+        },
+        {
+            "Shadow Iridium Charge L":{
+                "name":"Shadow Iridium Charge L",
+                "typeid":"20917",
+                "line":"331"
+            }
+        },
+        {
+            "Shadow Lead Charge L":{
+                "name":"Shadow Lead Charge L",
+                "typeid":"20919",
+                "line":"332"
+            }
+        },
+        {
+            "Shadow Thorium Charge L":{
+                "name":"Shadow Thorium Charge L",
+                "typeid":"20921",
+                "line":"333"
+            }
+        },
+        {
+            "Shadow Uranium Charge L":{
+                "name":"Shadow Uranium Charge L",
+                "typeid":"20923",
+                "line":"334"
+            }
+        },
+        {
+            "Shadow Plutonium Charge L":{
+                "name":"Shadow Plutonium Charge L",
+                "typeid":"20925",
+                "line":"335"
+            }
+        },
+        {
+            "Shadow Antimatter Charge L":{
+                "name":"Shadow Antimatter Charge L",
+                "typeid":"20927",
+                "line":"336"
+            }
+        },
+        {
+            "Shadow Antimatter Charge XL":{
+                "name":"Shadow Antimatter Charge XL",
+                "typeid":"20929",
+                "line":"337"
+            }
+        },
+        {
+            "Shadow Iridium Charge XL":{
+                "name":"Shadow Iridium Charge XL",
+                "typeid":"20931",
+                "line":"338"
+            }
+        },
+        {
+            "Shadow Iron Charge XL":{
+                "name":"Shadow Iron Charge XL",
+                "typeid":"20933",
+                "line":"339"
+            }
+        },
+        {
+            "Shadow Lead Charge XL":{
+                "name":"Shadow Lead Charge XL",
+                "typeid":"20935",
+                "line":"340"
+            }
+        },
+        {
+            "Shadow Plutonium Charge XL":{
+                "name":"Shadow Plutonium Charge XL",
+                "typeid":"20937",
+                "line":"341"
+            }
+        },
+        {
+            "Shadow Thorium Charge XL":{
+                "name":"Shadow Thorium Charge XL",
+                "typeid":"20939",
+                "line":"342"
+            }
+        },
+        {
+            "Shadow Tungsten Charge XL":{
+                "name":"Shadow Tungsten Charge XL",
+                "typeid":"20941",
+                "line":"343"
+            }
+        },
+        {
+            "Shadow Uranium Charge XL":{
+                "name":"Shadow Uranium Charge XL",
+                "typeid":"20943",
+                "line":"344"
+            }
+        },
+        {
+            "Guardian Iron Charge S":{
+                "name":"Guardian Iron Charge S",
+                "typeid":"20945",
+                "line":"345"
+            }
+        },
+        {
+            "Guardian Iridium Charge S":{
+                "name":"Guardian Iridium Charge S",
+                "typeid":"20949",
+                "line":"346"
+            }
+        },
+        {
+            "Guardian Lead Charge S":{
+                "name":"Guardian Lead Charge S",
+                "typeid":"20951",
+                "line":"347"
+            }
+        },
+        {
+            "Guardian Thorium Charge S":{
+                "name":"Guardian Thorium Charge S",
+                "typeid":"20953",
+                "line":"348"
+            }
+        },
+        {
+            "Guardian Uranium Charge S":{
+                "name":"Guardian Uranium Charge S",
+                "typeid":"20955",
+                "line":"349"
+            }
+        },
+        {
+            "Guardian Plutonium Charge S":{
+                "name":"Guardian Plutonium Charge S",
+                "typeid":"20957",
+                "line":"350"
+            }
+        },
+        {
+            "Guardian Antimatter Charge S":{
+                "name":"Guardian Antimatter Charge S",
+                "typeid":"20959",
+                "line":"351"
+            }
+        },
+        {
+            "Guardian Iron Charge M":{
+                "name":"Guardian Iron Charge M",
+                "typeid":"20961",
+                "line":"352"
+            }
+        },
+        {
+            "Guardian Tungsten Charge M":{
+                "name":"Guardian Tungsten Charge M",
+                "typeid":"20963",
+                "line":"353"
+            }
+        },
+        {
+            "Guardian Iridium Charge M":{
+                "name":"Guardian Iridium Charge M",
+                "typeid":"20965",
+                "line":"354"
+            }
+        },
+        {
+            "Guardian Lead Charge M":{
+                "name":"Guardian Lead Charge M",
+                "typeid":"20967",
+                "line":"355"
+            }
+        },
+        {
+            "Guardian Thorium Charge M":{
+                "name":"Guardian Thorium Charge M",
+                "typeid":"20969",
+                "line":"356"
+            }
+        },
+        {
+            "Guardian Uranium Charge M":{
+                "name":"Guardian Uranium Charge M",
+                "typeid":"20971",
+                "line":"357"
+            }
+        },
+        {
+            "Guardian Plutonium Charge M":{
+                "name":"Guardian Plutonium Charge M",
+                "typeid":"20973",
+                "line":"358"
+            }
+        },
+        {
+            "Guardian Antimatter Charge M":{
+                "name":"Guardian Antimatter Charge M",
+                "typeid":"20975",
+                "line":"359"
+            }
+        },
+        {
+            "Guardian Iron Charge L":{
+                "name":"Guardian Iron Charge L",
+                "typeid":"20977",
+                "line":"360"
+            }
+        },
+        {
+            "Guardian Tungsten Charge L":{
+                "name":"Guardian Tungsten Charge L",
+                "typeid":"20979",
+                "line":"361"
+            }
+        },
+        {
+            "Guardian Iridium Charge L":{
+                "name":"Guardian Iridium Charge L",
+                "typeid":"20981",
+                "line":"362"
+            }
+        },
+        {
+            "Guardian Lead Charge L":{
+                "name":"Guardian Lead Charge L",
+                "typeid":"20983",
+                "line":"363"
+            }
+        },
+        {
+            "Guardian Thorium Charge L":{
+                "name":"Guardian Thorium Charge L",
+                "typeid":"20985",
+                "line":"364"
+            }
+        },
+        {
+            "Guardian Uranium Charge L":{
+                "name":"Guardian Uranium Charge L",
+                "typeid":"20987",
+                "line":"365"
+            }
+        },
+        {
+            "Guardian Plutonium Charge L":{
+                "name":"Guardian Plutonium Charge L",
+                "typeid":"20989",
+                "line":"366"
+            }
+        },
+        {
+            "Guardian Antimatter Charge L":{
+                "name":"Guardian Antimatter Charge L",
+                "typeid":"20991",
+                "line":"367"
+            }
+        },
+        {
+            "Guardian Antimatter Charge XL":{
+                "name":"Guardian Antimatter Charge XL",
+                "typeid":"20993",
+                "line":"368"
+            }
+        },
+        {
+            "Guardian Iridium Charge XL":{
+                "name":"Guardian Iridium Charge XL",
+                "typeid":"20995",
+                "line":"369"
+            }
+        },
+        {
+            "Guardian Iron Charge XL":{
+                "name":"Guardian Iron Charge XL",
+                "typeid":"20997",
+                "line":"370"
+            }
+        },
+        {
+            "Guardian Lead Charge XL":{
+                "name":"Guardian Lead Charge XL",
+                "typeid":"20999",
+                "line":"371"
+            }
+        },
+        {
+            "Guardian Plutonium Charge XL":{
+                "name":"Guardian Plutonium Charge XL",
+                "typeid":"21001",
+                "line":"372"
+            }
+        },
+        {
+            "Guardian Thorium Charge XL":{
+                "name":"Guardian Thorium Charge XL",
+                "typeid":"21003",
+                "line":"373"
+            }
+        },
+        {
+            "Guardian Tungsten Charge XL":{
+                "name":"Guardian Tungsten Charge XL",
+                "typeid":"21005",
+                "line":"374"
+            }
+        },
+        {
+            "Guardian Uranium Charge XL":{
+                "name":"Guardian Uranium Charge XL",
+                "typeid":"21007",
+                "line":"375"
+            }
+        },
+        {
+            "Blood Microwave S":{
+                "name":"Blood Microwave S",
+                "typeid":"21196",
+                "line":"376"
+            }
+        },
+        {
+            "Blood Infrared S":{
+                "name":"Blood Infrared S",
+                "typeid":"21198",
+                "line":"377"
+            }
+        },
+        {
+            "Blood Standard S":{
+                "name":"Blood Standard S",
+                "typeid":"21200",
+                "line":"378"
+            }
+        },
+        {
+            "Blood Ultraviolet S":{
+                "name":"Blood Ultraviolet S",
+                "typeid":"21202",
+                "line":"379"
+            }
+        },
+        {
+            "Blood Xray S":{
+                "name":"Blood Xray S",
+                "typeid":"21204",
+                "line":"380"
+            }
+        },
+        {
+            "Blood Gamma S":{
+                "name":"Blood Gamma S",
+                "typeid":"21206",
+                "line":"381"
+            }
+        },
+        {
+            "Blood Multifrequency S":{
+                "name":"Blood Multifrequency S",
+                "typeid":"21208",
+                "line":"382"
+            }
+        },
+        {
+            "Blood Microwave M":{
+                "name":"Blood Microwave M",
+                "typeid":"21210",
+                "line":"383"
+            }
+        },
+        {
+            "Blood Infrared M":{
+                "name":"Blood Infrared M",
+                "typeid":"21212",
+                "line":"384"
+            }
+        },
+        {
+            "Blood Standard M":{
+                "name":"Blood Standard M",
+                "typeid":"21214",
+                "line":"385"
+            }
+        },
+        {
+            "Blood Ultraviolet M":{
+                "name":"Blood Ultraviolet M",
+                "typeid":"21216",
+                "line":"386"
+            }
+        },
+        {
+            "Blood Xray M":{
+                "name":"Blood Xray M",
+                "typeid":"21218",
+                "line":"387"
+            }
+        },
+        {
+            "Blood Gamma M":{
+                "name":"Blood Gamma M",
+                "typeid":"21220",
+                "line":"388"
+            }
+        },
+        {
+            "Blood Multifrequency M":{
+                "name":"Blood Multifrequency M",
+                "typeid":"21222",
+                "line":"389"
+            }
+        },
+        {
+            "Blood Radio L":{
+                "name":"Blood Radio L",
+                "typeid":"21224",
+                "line":"390"
+            }
+        },
+        {
+            "Blood Microwave L":{
+                "name":"Blood Microwave L",
+                "typeid":"21226",
+                "line":"391"
+            }
+        },
+        {
+            "Blood Infrared L":{
+                "name":"Blood Infrared L",
+                "typeid":"21228",
+                "line":"392"
+            }
+        },
+        {
+            "Blood Standard L":{
+                "name":"Blood Standard L",
+                "typeid":"21230",
+                "line":"393"
+            }
+        },
+        {
+            "Blood Ultraviolet L":{
+                "name":"Blood Ultraviolet L",
+                "typeid":"21232",
+                "line":"394"
+            }
+        },
+        {
+            "Blood Xray L":{
+                "name":"Blood Xray L",
+                "typeid":"21234",
+                "line":"395"
+            }
+        },
+        {
+            "Blood Gamma L":{
+                "name":"Blood Gamma L",
+                "typeid":"21236",
+                "line":"396"
+            }
+        },
+        {
+            "Blood Multifrequency L":{
+                "name":"Blood Multifrequency L",
+                "typeid":"21238",
+                "line":"397"
+            }
+        },
+        {
+            "Blood Radio XL":{
+                "name":"Blood Radio XL",
+                "typeid":"21240",
+                "line":"398"
+            }
+        },
+        {
+            "Blood Microwave XL":{
+                "name":"Blood Microwave XL",
+                "typeid":"21242",
+                "line":"399"
+            }
+        },
+        {
+            "Blood Infrared XL":{
+                "name":"Blood Infrared XL",
+                "typeid":"21244",
+                "line":"400"
+            }
+        },
+        {
+            "Blood Standard XL":{
+                "name":"Blood Standard XL",
+                "typeid":"21246",
+                "line":"401"
+            }
+        },
+        {
+            "Blood Ultraviolet XL":{
+                "name":"Blood Ultraviolet XL",
+                "typeid":"21248",
+                "line":"402"
+            }
+        },
+        {
+            "Blood Xray XL":{
+                "name":"Blood Xray XL",
+                "typeid":"21250",
+                "line":"403"
+            }
+        },
+        {
+            "Blood Gamma XL":{
+                "name":"Blood Gamma XL",
+                "typeid":"21252",
+                "line":"404"
+            }
+        },
+        {
+            "Blood Multifrequency XL":{
+                "name":"Blood Multifrequency XL",
+                "typeid":"21254",
+                "line":"405"
+            }
+        },
+        {
+            "Dark Blood Radio S":{
+                "name":"Dark Blood Radio S",
+                "typeid":"21256",
+                "line":"406"
+            }
+        },
+        {
+            "Dark Blood Microwave S":{
+                "name":"Dark Blood Microwave S",
+                "typeid":"21258",
+                "line":"407"
+            }
+        },
+        {
+            "Dark Blood Infrared S":{
+                "name":"Dark Blood Infrared S",
+                "typeid":"21260",
+                "line":"408"
+            }
+        },
+        {
+            "Dark Blood Standard S":{
+                "name":"Dark Blood Standard S",
+                "typeid":"21262",
+                "line":"409"
+            }
+        },
+        {
+            "Dark Blood Ultraviolet S":{
+                "name":"Dark Blood Ultraviolet S",
+                "typeid":"21264",
+                "line":"410"
+            }
+        },
+        {
+            "Dark Blood Xray S":{
+                "name":"Dark Blood Xray S",
+                "typeid":"21266",
+                "line":"411"
+            }
+        },
+        {
+            "Dark Blood Gamma S":{
+                "name":"Dark Blood Gamma S",
+                "typeid":"21268",
+                "line":"412"
+            }
+        },
+        {
+            "Dark Blood Multifrequency S":{
+                "name":"Dark Blood Multifrequency S",
+                "typeid":"21270",
+                "line":"413"
+            }
+        },
+        {
+            "Dark Blood Radio M":{
+                "name":"Dark Blood Radio M",
+                "typeid":"21272",
+                "line":"414"
+            }
+        },
+        {
+            "Dark Blood Microwave M":{
+                "name":"Dark Blood Microwave M",
+                "typeid":"21274",
+                "line":"415"
+            }
+        },
+        {
+            "Dark Blood Infrared M":{
+                "name":"Dark Blood Infrared M",
+                "typeid":"21276",
+                "line":"416"
+            }
+        },
+        {
+            "Dark Blood Standard M":{
+                "name":"Dark Blood Standard M",
+                "typeid":"21278",
+                "line":"417"
+            }
+        },
+        {
+            "Dark Blood Ultraviolet M":{
+                "name":"Dark Blood Ultraviolet M",
+                "typeid":"21280",
+                "line":"418"
+            }
+        },
+        {
+            "Dark Blood Xray M":{
+                "name":"Dark Blood Xray M",
+                "typeid":"21282",
+                "line":"419"
+            }
+        },
+        {
+            "Dark Blood Gamma M":{
+                "name":"Dark Blood Gamma M",
+                "typeid":"21284",
+                "line":"420"
+            }
+        },
+        {
+            "Dark Blood Multifrequency M":{
+                "name":"Dark Blood Multifrequency M",
+                "typeid":"21286",
+                "line":"421"
+            }
+        },
+        {
+            "Dark Blood Radio L":{
+                "name":"Dark Blood Radio L",
+                "typeid":"21288",
+                "line":"422"
+            }
+        },
+        {
+            "Dark Blood Microwave L":{
+                "name":"Dark Blood Microwave L",
+                "typeid":"21290",
+                "line":"423"
+            }
+        },
+        {
+            "Dark Blood Infrared L":{
+                "name":"Dark Blood Infrared L",
+                "typeid":"21292",
+                "line":"424"
+            }
+        },
+        {
+            "Dark Blood Standard L":{
+                "name":"Dark Blood Standard L",
+                "typeid":"21294",
+                "line":"425"
+            }
+        },
+        {
+            "Dark Blood Ultraviolet L":{
+                "name":"Dark Blood Ultraviolet L",
+                "typeid":"21296",
+                "line":"426"
+            }
+        },
+        {
+            "Dark Blood Xray L":{
+                "name":"Dark Blood Xray L",
+                "typeid":"21298",
+                "line":"427"
+            }
+        },
+        {
+            "Dark Blood Gamma L":{
+                "name":"Dark Blood Gamma L",
+                "typeid":"21300",
+                "line":"428"
+            }
+        },
+        {
+            "Dark Blood Multifrequency L":{
+                "name":"Dark Blood Multifrequency L",
+                "typeid":"21302",
+                "line":"429"
+            }
+        },
+        {
+            "Dark Blood Radio XL":{
+                "name":"Dark Blood Radio XL",
+                "typeid":"21304",
+                "line":"430"
+            }
+        },
+        {
+            "Dark Blood Microwave XL":{
+                "name":"Dark Blood Microwave XL",
+                "typeid":"21306",
+                "line":"431"
+            }
+        },
+        {
+            "Dark Blood Infrared XL":{
+                "name":"Dark Blood Infrared XL",
+                "typeid":"21308",
+                "line":"432"
+            }
+        },
+        {
+            "Dark Blood Standard XL":{
+                "name":"Dark Blood Standard XL",
+                "typeid":"21310",
+                "line":"433"
+            }
+        },
+        {
+            "Dark Blood Ultraviolet XL":{
+                "name":"Dark Blood Ultraviolet XL",
+                "typeid":"21312",
+                "line":"434"
+            }
+        },
+        {
+            "Dark Blood Xray XL":{
+                "name":"Dark Blood Xray XL",
+                "typeid":"21314",
+                "line":"435"
+            }
+        },
+        {
+            "Dark Blood Gamma XL":{
+                "name":"Dark Blood Gamma XL",
+                "typeid":"21316",
+                "line":"436"
+            }
+        },
+        {
+            "Dark Blood Multifrequency XL":{
+                "name":"Dark Blood Multifrequency XL",
+                "typeid":"21318",
+                "line":"437"
+            }
+        },
+        {
+            "Guristas Iron Charge S":{
+                "name":"Guristas Iron Charge S",
+                "typeid":"21320",
+                "line":"438"
+            }
+        },
+        {
+            "Guristas Tungsten Charge S":{
+                "name":"Guristas Tungsten Charge S",
+                "typeid":"21322",
+                "line":"439"
+            }
+        },
+        {
+            "Guristas Iridium Charge S":{
+                "name":"Guristas Iridium Charge S",
+                "typeid":"21324",
+                "line":"440"
+            }
+        },
+        {
+            "Guristas Lead Charge S":{
+                "name":"Guristas Lead Charge S",
+                "typeid":"21326",
+                "line":"441"
+            }
+        },
+        {
+            "Guristas Thorium Charge S":{
+                "name":"Guristas Thorium Charge S",
+                "typeid":"21328",
+                "line":"442"
+            }
+        },
+        {
+            "Guristas Uranium Charge S":{
+                "name":"Guristas Uranium Charge S",
+                "typeid":"21330",
+                "line":"443"
+            }
+        },
+        {
+            "Guristas Plutonium Charge S":{
+                "name":"Guristas Plutonium Charge S",
+                "typeid":"21332",
+                "line":"444"
+            }
+        },
+        {
+            "Guristas Antimatter Charge S":{
+                "name":"Guristas Antimatter Charge S",
+                "typeid":"21334",
+                "line":"445"
+            }
+        },
+        {
+            "Guristas Iron Charge M":{
+                "name":"Guristas Iron Charge M",
+                "typeid":"21336",
+                "line":"446"
+            }
+        },
+        {
+            "Guristas Tungsten Charge M":{
+                "name":"Guristas Tungsten Charge M",
+                "typeid":"21338",
+                "line":"447"
+            }
+        },
+        {
+            "Guristas Iridium Charge M":{
+                "name":"Guristas Iridium Charge M",
+                "typeid":"21340",
+                "line":"448"
+            }
+        },
+        {
+            "Guristas Lead Charge M":{
+                "name":"Guristas Lead Charge M",
+                "typeid":"21342",
+                "line":"449"
+            }
+        },
+        {
+            "Guristas Thorium Charge M":{
+                "name":"Guristas Thorium Charge M",
+                "typeid":"21344",
+                "line":"450"
+            }
+        },
+        {
+            "Guristas Uranium Charge M":{
+                "name":"Guristas Uranium Charge M",
+                "typeid":"21346",
+                "line":"451"
+            }
+        },
+        {
+            "Guristas Plutonium Charge M":{
+                "name":"Guristas Plutonium Charge M",
+                "typeid":"21348",
+                "line":"452"
+            }
+        },
+        {
+            "Guristas Antimatter Charge M":{
+                "name":"Guristas Antimatter Charge M",
+                "typeid":"21350",
+                "line":"453"
+            }
+        },
+        {
+            "Guristas Iron Charge L":{
+                "name":"Guristas Iron Charge L",
+                "typeid":"21352",
+                "line":"454"
+            }
+        },
+        {
+            "Guristas Tungsten Charge L":{
+                "name":"Guristas Tungsten Charge L",
+                "typeid":"21354",
+                "line":"455"
+            }
+        },
+        {
+            "Guristas Iridium Charge L":{
+                "name":"Guristas Iridium Charge L",
+                "typeid":"21356",
+                "line":"456"
+            }
+        },
+        {
+            "Guristas Lead Charge L":{
+                "name":"Guristas Lead Charge L",
+                "typeid":"21358",
+                "line":"457"
+            }
+        },
+        {
+            "Guristas Thorium Charge L":{
+                "name":"Guristas Thorium Charge L",
+                "typeid":"21360",
+                "line":"458"
+            }
+        },
+        {
+            "Guristas Uranium Charge L":{
+                "name":"Guristas Uranium Charge L",
+                "typeid":"21362",
+                "line":"459"
+            }
+        },
+        {
+            "Guristas Plutonium Charge L":{
+                "name":"Guristas Plutonium Charge L",
+                "typeid":"21364",
+                "line":"460"
+            }
+        },
+        {
+            "Guristas Antimatter Charge L":{
+                "name":"Guristas Antimatter Charge L",
+                "typeid":"21366",
+                "line":"461"
+            }
+        },
+        {
+            "Guristas Antimatter Charge XL":{
+                "name":"Guristas Antimatter Charge XL",
+                "typeid":"21368",
+                "line":"462"
+            }
+        },
+        {
+            "Guristas Iridium Charge XL":{
+                "name":"Guristas Iridium Charge XL",
+                "typeid":"21370",
+                "line":"463"
+            }
+        },
+        {
+            "Guristas Iron Charge XL":{
+                "name":"Guristas Iron Charge XL",
+                "typeid":"21372",
+                "line":"464"
+            }
+        },
+        {
+            "Guristas Lead Charge XL":{
+                "name":"Guristas Lead Charge XL",
+                "typeid":"21374",
+                "line":"465"
+            }
+        },
+        {
+            "Guristas Plutonium Charge XL":{
+                "name":"Guristas Plutonium Charge XL",
+                "typeid":"21376",
+                "line":"466"
+            }
+        },
+        {
+            "Guristas Thorium Charge XL":{
+                "name":"Guristas Thorium Charge XL",
+                "typeid":"21378",
+                "line":"467"
+            }
+        },
+        {
+            "Guristas Tungsten Charge XL":{
+                "name":"Guristas Tungsten Charge XL",
+                "typeid":"21380",
+                "line":"468"
+            }
+        },
+        {
+            "Guristas Uranium Charge XL":{
+                "name":"Guristas Uranium Charge XL",
+                "typeid":"21382",
+                "line":"469"
+            }
+        },
+        {
+            "Dread Guristas Iron Charge S":{
+                "name":"Dread Guristas Iron Charge S",
+                "typeid":"21384",
+                "line":"470"
+            }
+        },
+        {
+            "Dread Guristas Tungsten Charge S":{
+                "name":"Dread Guristas Tungsten Charge S",
+                "typeid":"21386",
+                "line":"471"
+            }
+        },
+        {
+            "Dread Guristas Iridium Charge S":{
+                "name":"Dread Guristas Iridium Charge S",
+                "typeid":"21388",
+                "line":"472"
+            }
+        },
+        {
+            "Dread Guristas Lead Charge S":{
+                "name":"Dread Guristas Lead Charge S",
+                "typeid":"21390",
+                "line":"473"
+            }
+        },
+        {
+            "Dread Guristas Thorium Charge S":{
+                "name":"Dread Guristas Thorium Charge S",
+                "typeid":"21392",
+                "line":"474"
+            }
+        },
+        {
+            "Dread Guristas Uranium Charge S":{
+                "name":"Dread Guristas Uranium Charge S",
+                "typeid":"21394",
+                "line":"475"
+            }
+        },
+        {
+            "Dread Guristas Plutonium Charge S":{
+                "name":"Dread Guristas Plutonium Charge S",
+                "typeid":"21396",
+                "line":"476"
+            }
+        },
+        {
+            "Dread Guristas Antimatter Charge S":{
+                "name":"Dread Guristas Antimatter Charge S",
+                "typeid":"21398",
+                "line":"477"
+            }
+        },
+        {
+            "Dread Guristas Iron Charge M":{
+                "name":"Dread Guristas Iron Charge M",
+                "typeid":"21400",
+                "line":"478"
+            }
+        },
+        {
+            "Dread Guristas Tungsten Charge M":{
+                "name":"Dread Guristas Tungsten Charge M",
+                "typeid":"21402",
+                "line":"479"
+            }
+        },
+        {
+            "Dread Guristas Iridium Charge M":{
+                "name":"Dread Guristas Iridium Charge M",
+                "typeid":"21404",
+                "line":"480"
+            }
+        },
+        {
+            "Dread Guristas Lead Charge M":{
+                "name":"Dread Guristas Lead Charge M",
+                "typeid":"21406",
+                "line":"481"
+            }
+        },
+        {
+            "Dread Guristas Thorium Charge M":{
+                "name":"Dread Guristas Thorium Charge M",
+                "typeid":"21408",
+                "line":"482"
+            }
+        },
+        {
+            "Dread Guristas Uranium Charge M":{
+                "name":"Dread Guristas Uranium Charge M",
+                "typeid":"21410",
+                "line":"483"
+            }
+        },
+        {
+            "Dread Guristas Plutonium Charge M":{
+                "name":"Dread Guristas Plutonium Charge M",
+                "typeid":"21412",
+                "line":"484"
+            }
+        },
+        {
+            "Dread Guristas Antimatter Charge M":{
+                "name":"Dread Guristas Antimatter Charge M",
+                "typeid":"21414",
+                "line":"485"
+            }
+        },
+        {
+            "Dread Guristas Iron Charge L":{
+                "name":"Dread Guristas Iron Charge L",
+                "typeid":"21416",
+                "line":"486"
+            }
+        },
+        {
+            "Dread Guristas Tungsten Charge L":{
+                "name":"Dread Guristas Tungsten Charge L",
+                "typeid":"21418",
+                "line":"487"
+            }
+        },
+        {
+            "Dread Guristas Iridium Charge L":{
+                "name":"Dread Guristas Iridium Charge L",
+                "typeid":"21420",
+                "line":"488"
+            }
+        },
+        {
+            "Dread Guristas Lead Charge L":{
+                "name":"Dread Guristas Lead Charge L",
+                "typeid":"21422",
+                "line":"489"
+            }
+        },
+        {
+            "Dread Guristas Thorium Charge L":{
+                "name":"Dread Guristas Thorium Charge L",
+                "typeid":"21424",
+                "line":"490"
+            }
+        },
+        {
+            "Dread Guristas Uranium Charge L":{
+                "name":"Dread Guristas Uranium Charge L",
+                "typeid":"21426",
+                "line":"491"
+            }
+        },
+        {
+            "Dread Guristas Plutonium Charge L":{
+                "name":"Dread Guristas Plutonium Charge L",
+                "typeid":"21428",
+                "line":"492"
+            }
+        },
+        {
+            "Dread Guristas Antimatter Charge L":{
+                "name":"Dread Guristas Antimatter Charge L",
+                "typeid":"21430",
+                "line":"493"
+            }
+        },
+        {
+            "Dread Guristas Antimatter Charge XL":{
+                "name":"Dread Guristas Antimatter Charge XL",
+                "typeid":"21432",
+                "line":"494"
+            }
+        },
+        {
+            "Dread Guristas Iridium Charge XL":{
+                "name":"Dread Guristas Iridium Charge XL",
+                "typeid":"21434",
+                "line":"495"
+            }
+        },
+        {
+            "Dread Guristas Iron Charge XL":{
+                "name":"Dread Guristas Iron Charge XL",
+                "typeid":"21436",
+                "line":"496"
+            }
+        },
+        {
+            "Dread Guristas Lead Charge XL":{
+                "name":"Dread Guristas Lead Charge XL",
+                "typeid":"21438",
+                "line":"497"
+            }
+        },
+        {
+            "Dread Guristas Plutonium Charge XL":{
+                "name":"Dread Guristas Plutonium Charge XL",
+                "typeid":"21440",
+                "line":"498"
+            }
+        },
+        {
+            "Dread Guristas Thorium Charge XL":{
+                "name":"Dread Guristas Thorium Charge XL",
+                "typeid":"21442",
+                "line":"499"
+            }
+        },
+        {
+            "Dread Guristas Tungsten Charge XL":{
+                "name":"Dread Guristas Tungsten Charge XL",
+                "typeid":"21444",
+                "line":"500"
+            }
+        },
+        {
+            "Dread Guristas Uranium Charge XL":{
+                "name":"Dread Guristas Uranium Charge XL",
+                "typeid":"21446",
+                "line":"501"
+            }
+        },
+        {
+            "Blood Radio M":{
+                "name":"Blood Radio M",
+                "typeid":"21450",
+                "line":"502"
+            }
+        },
+        {
+            "Caldari Navy Antimatter Charge L":{
+                "name":"Caldari Navy Antimatter Charge L",
+                "typeid":"21740",
+                "line":"503"
+            }
+        },
+        {
+            "Nova Heavy Assault Missile":{
+                "name":"Nova Heavy Assault Missile",
+                "typeid":"21867",
+                "line":"504"
+            }
+        },
+        {
+            "Republic Fleet EMP L":{
+                "name":"Republic Fleet EMP L",
+                "typeid":"21894",
+                "line":"505"
+            }
+        },
+        {
+            "Republic Fleet EMP M":{
+                "name":"Republic Fleet EMP M",
+                "typeid":"21896",
+                "line":"506"
+            }
+        },
+        {
+            "Republic Fleet EMP S":{
+                "name":"Republic Fleet EMP S",
+                "typeid":"21898",
+                "line":"507"
+            }
+        },
+        {
+            "Republic Fleet EMP XL":{
+                "name":"Republic Fleet EMP XL",
+                "typeid":"21900",
+                "line":"508"
+            }
+        },
+        {
+            "Republic Fleet Fusion L":{
+                "name":"Republic Fleet Fusion L",
+                "typeid":"21902",
+                "line":"509"
+            }
+        },
+        {
+            "Republic Fleet Fusion M":{
+                "name":"Republic Fleet Fusion M",
+                "typeid":"21904",
+                "line":"510"
+            }
+        },
+        {
+            "Republic Fleet Fusion S":{
+                "name":"Republic Fleet Fusion S",
+                "typeid":"21906",
+                "line":"511"
+            }
+        },
+        {
+            "Republic Fleet Fusion XL":{
+                "name":"Republic Fleet Fusion XL",
+                "typeid":"21908",
+                "line":"512"
+            }
+        },
+        {
+            "Republic Fleet Nuclear L":{
+                "name":"Republic Fleet Nuclear L",
+                "typeid":"21910",
+                "line":"513"
+            }
+        },
+        {
+            "Republic Fleet Nuclear M":{
+                "name":"Republic Fleet Nuclear M",
+                "typeid":"21912",
+                "line":"514"
+            }
+        },
+        {
+            "Republic Fleet Nuclear S":{
+                "name":"Republic Fleet Nuclear S",
+                "typeid":"21914",
+                "line":"515"
+            }
+        },
+        {
+            "Republic Fleet Nuclear XL":{
+                "name":"Republic Fleet Nuclear XL",
+                "typeid":"21916",
+                "line":"516"
+            }
+        },
+        {
+            "Republic Fleet Phased Plasma L":{
+                "name":"Republic Fleet Phased Plasma L",
+                "typeid":"21918",
+                "line":"517"
+            }
+        },
+        {
+            "Republic Fleet Phased Plasma XL":{
+                "name":"Republic Fleet Phased Plasma XL",
+                "typeid":"21920",
+                "line":"518"
+            }
+        },
+        {
+            "Republic Fleet Phased Plasma M":{
+                "name":"Republic Fleet Phased Plasma M",
+                "typeid":"21922",
+                "line":"519"
+            }
+        },
+        {
+            "Republic Fleet Phased Plasma S":{
+                "name":"Republic Fleet Phased Plasma S",
+                "typeid":"21924",
+                "line":"520"
+            }
+        },
+        {
+            "Republic Fleet Proton L":{
+                "name":"Republic Fleet Proton L",
+                "typeid":"21926",
+                "line":"521"
+            }
+        },
+        {
+            "Republic Fleet Proton M":{
+                "name":"Republic Fleet Proton M",
+                "typeid":"21928",
+                "line":"522"
+            }
+        },
+        {
+            "Republic Fleet Proton S":{
+                "name":"Republic Fleet Proton S",
+                "typeid":"21931",
+                "line":"523"
+            }
+        },
+        {
+            "Republic Fleet Proton XL":{
+                "name":"Republic Fleet Proton XL",
+                "typeid":"21933",
+                "line":"524"
+            }
+        },
+        {
+            "Republic Fleet Titanium Sabot L":{
+                "name":"Republic Fleet Titanium Sabot L",
+                "typeid":"21935",
+                "line":"525"
+            }
+        },
+        {
+            "Republic Fleet Titanium Sabot M":{
+                "name":"Republic Fleet Titanium Sabot M",
+                "typeid":"21937",
+                "line":"526"
+            }
+        },
+        {
+            "Republic Fleet Titanium Sabot S":{
+                "name":"Republic Fleet Titanium Sabot S",
+                "typeid":"21939",
+                "line":"527"
+            }
+        },
+        {
+            "Republic Fleet Titanium Sabot XL":{
+                "name":"Republic Fleet Titanium Sabot XL",
+                "typeid":"21941",
+                "line":"528"
+            }
+        },
+        {
+            "Warp Disrupt Probe":{
+                "name":"Warp Disrupt Probe",
+                "typeid":"22778",
+                "line":"529"
+            }
+        },
+        {
+            "Federation Navy Antimatter Charge S":{
+                "name":"Federation Navy Antimatter Charge S",
+                "typeid":"22961",
+                "line":"530"
+            }
+        },
+        {
+            "Federation Navy Plutonium Charge S":{
+                "name":"Federation Navy Plutonium Charge S",
+                "typeid":"22963",
+                "line":"531"
+            }
+        },
+        {
+            "Federation Navy Uranium Charge S":{
+                "name":"Federation Navy Uranium Charge S",
+                "typeid":"22965",
+                "line":"532"
+            }
+        },
+        {
+            "Federation Navy Thorium Charge S":{
+                "name":"Federation Navy Thorium Charge S",
+                "typeid":"22967",
+                "line":"533"
+            }
+        },
+        {
+            "Federation Navy Lead Charge S":{
+                "name":"Federation Navy Lead Charge S",
+                "typeid":"22969",
+                "line":"534"
+            }
+        },
+        {
+            "Federation Navy Iridium Charge S":{
+                "name":"Federation Navy Iridium Charge S",
+                "typeid":"22971",
+                "line":"535"
+            }
+        },
+        {
+            "Federation Navy Tungsten Charge S":{
+                "name":"Federation Navy Tungsten Charge S",
+                "typeid":"22973",
+                "line":"536"
+            }
+        },
+        {
+            "Federation Navy Iron Charge S":{
+                "name":"Federation Navy Iron Charge S",
+                "typeid":"22975",
+                "line":"537"
+            }
+        },
+        {
+            "Federation Navy Antimatter Charge M":{
+                "name":"Federation Navy Antimatter Charge M",
+                "typeid":"22977",
+                "line":"538"
+            }
+        },
+        {
+            "Federation Navy Plutonium Charge M":{
+                "name":"Federation Navy Plutonium Charge M",
+                "typeid":"22979",
+                "line":"539"
+            }
+        },
+        {
+            "Federation Navy Uranium Charge M":{
+                "name":"Federation Navy Uranium Charge M",
+                "typeid":"22981",
+                "line":"540"
+            }
+        },
+        {
+            "Federation Navy Thorium Charge M":{
+                "name":"Federation Navy Thorium Charge M",
+                "typeid":"22983",
+                "line":"541"
+            }
+        },
+        {
+            "Federation Navy Lead Charge M":{
+                "name":"Federation Navy Lead Charge M",
+                "typeid":"22985",
+                "line":"542"
+            }
+        },
+        {
+            "Federation Navy Iridium Charge M":{
+                "name":"Federation Navy Iridium Charge M",
+                "typeid":"22987",
+                "line":"543"
+            }
+        },
+        {
+            "Federation Navy Tungsten Charge M":{
+                "name":"Federation Navy Tungsten Charge M",
+                "typeid":"22989",
+                "line":"544"
+            }
+        },
+        {
+            "Federation Navy Iron Charge M":{
+                "name":"Federation Navy Iron Charge M",
+                "typeid":"22991",
+                "line":"545"
+            }
+        },
+        {
+            "Federation Navy Antimatter Charge L":{
+                "name":"Federation Navy Antimatter Charge L",
+                "typeid":"22993",
+                "line":"546"
+            }
+        },
+        {
+            "Federation Navy Plutonium Charge L":{
+                "name":"Federation Navy Plutonium Charge L",
+                "typeid":"22995",
+                "line":"547"
+            }
+        },
+        {
+            "Federation Navy Uranium Charge L":{
+                "name":"Federation Navy Uranium Charge L",
+                "typeid":"22997",
+                "line":"548"
+            }
+        },
+        {
+            "Federation Navy Thorium Charge L":{
+                "name":"Federation Navy Thorium Charge L",
+                "typeid":"22999",
+                "line":"549"
+            }
+        },
+        {
+            "Federation Navy Lead Charge L":{
+                "name":"Federation Navy Lead Charge L",
+                "typeid":"23001",
+                "line":"550"
+            }
+        },
+        {
+            "Federation Navy Iridium Charge L":{
+                "name":"Federation Navy Iridium Charge L",
+                "typeid":"23003",
+                "line":"551"
+            }
+        },
+        {
+            "Federation Navy Tungsten Charge L":{
+                "name":"Federation Navy Tungsten Charge L",
+                "typeid":"23005",
+                "line":"552"
+            }
+        },
+        {
+            "Federation Navy Iron Charge L":{
+                "name":"Federation Navy Iron Charge L",
+                "typeid":"23007",
+                "line":"553"
+            }
+        },
+        {
+            "Caldari Navy Antimatter Charge S":{
+                "name":"Caldari Navy Antimatter Charge S",
+                "typeid":"23009",
+                "line":"554"
+            }
+        },
+        {
+            "Caldari Navy Plutonium Charge S":{
+                "name":"Caldari Navy Plutonium Charge S",
+                "typeid":"23011",
+                "line":"555"
+            }
+        },
+        {
+            "Caldari Navy Uranium Charge S":{
+                "name":"Caldari Navy Uranium Charge S",
+                "typeid":"23013",
+                "line":"556"
+            }
+        },
+        {
+            "Caldari Navy Thorium Charge S":{
+                "name":"Caldari Navy Thorium Charge S",
+                "typeid":"23015",
+                "line":"557"
+            }
+        },
+        {
+            "Caldari Navy Lead Charge S":{
+                "name":"Caldari Navy Lead Charge S",
+                "typeid":"23017",
+                "line":"558"
+            }
+        },
+        {
+            "Caldari Navy Iridium Charge S":{
+                "name":"Caldari Navy Iridium Charge S",
+                "typeid":"23019",
+                "line":"559"
+            }
+        },
+        {
+            "Caldari Navy Tungsten Charge S":{
+                "name":"Caldari Navy Tungsten Charge S",
+                "typeid":"23021",
+                "line":"560"
+            }
+        },
+        {
+            "Caldari Navy Iron Charge S":{
+                "name":"Caldari Navy Iron Charge S",
+                "typeid":"23023",
+                "line":"561"
+            }
+        },
+        {
+            "Caldari Navy Antimatter Charge M":{
+                "name":"Caldari Navy Antimatter Charge M",
+                "typeid":"23025",
+                "line":"562"
+            }
+        },
+        {
+            "Caldari Navy Plutonium Charge M":{
+                "name":"Caldari Navy Plutonium Charge M",
+                "typeid":"23027",
+                "line":"563"
+            }
+        },
+        {
+            "Caldari Navy Uranium Charge M":{
+                "name":"Caldari Navy Uranium Charge M",
+                "typeid":"23029",
+                "line":"564"
+            }
+        },
+        {
+            "Caldari Navy Thorium Charge M":{
+                "name":"Caldari Navy Thorium Charge M",
+                "typeid":"23031",
+                "line":"565"
+            }
+        },
+        {
+            "Caldari Navy Lead Charge M":{
+                "name":"Caldari Navy Lead Charge M",
+                "typeid":"23033",
+                "line":"566"
+            }
+        },
+        {
+            "Caldari Navy Iridium Charge M":{
+                "name":"Caldari Navy Iridium Charge M",
+                "typeid":"23035",
+                "line":"567"
+            }
+        },
+        {
+            "Caldari Navy Tungsten Charge M":{
+                "name":"Caldari Navy Tungsten Charge M",
+                "typeid":"23037",
+                "line":"568"
+            }
+        },
+        {
+            "Caldari Navy Iron Charge M":{
+                "name":"Caldari Navy Iron Charge M",
+                "typeid":"23039",
+                "line":"569"
+            }
+        },
+        {
+            "Caldari Navy Plutonium Charge L":{
+                "name":"Caldari Navy Plutonium Charge L",
+                "typeid":"23041",
+                "line":"570"
+            }
+        },
+        {
+            "Caldari Navy Uranium Charge L":{
+                "name":"Caldari Navy Uranium Charge L",
+                "typeid":"23043",
+                "line":"571"
+            }
+        },
+        {
+            "Caldari Navy Thorium Charge L":{
+                "name":"Caldari Navy Thorium Charge L",
+                "typeid":"23045",
+                "line":"572"
+            }
+        },
+        {
+            "Caldari Navy Lead Charge L":{
+                "name":"Caldari Navy Lead Charge L",
+                "typeid":"23047",
+                "line":"573"
+            }
+        },
+        {
+            "Caldari Navy Iridium Charge L":{
+                "name":"Caldari Navy Iridium Charge L",
+                "typeid":"23049",
+                "line":"574"
+            }
+        },
+        {
+            "Caldari Navy Tungsten Charge L":{
+                "name":"Caldari Navy Tungsten Charge L",
+                "typeid":"23051",
+                "line":"575"
+            }
+        },
+        {
+            "Caldari Navy Iron Charge L":{
+                "name":"Caldari Navy Iron Charge L",
+                "typeid":"23053",
+                "line":"576"
+            }
+        },
+        {
+            "Imperial Navy Multifrequency S":{
+                "name":"Imperial Navy Multifrequency S",
+                "typeid":"23071",
+                "line":"577"
+            }
+        },
+        {
+            "Imperial Navy Gamma S":{
+                "name":"Imperial Navy Gamma S",
+                "typeid":"23073",
+                "line":"578"
+            }
+        },
+        {
+            "Imperial Navy Xray S":{
+                "name":"Imperial Navy Xray S",
+                "typeid":"23075",
+                "line":"579"
+            }
+        },
+        {
+            "Imperial Navy Ultraviolet S":{
+                "name":"Imperial Navy Ultraviolet S",
+                "typeid":"23077",
+                "line":"580"
+            }
+        },
+        {
+            "Imperial Navy Standard S":{
+                "name":"Imperial Navy Standard S",
+                "typeid":"23079",
+                "line":"581"
+            }
+        },
+        {
+            "Imperial Navy Infrared S":{
+                "name":"Imperial Navy Infrared S",
+                "typeid":"23081",
+                "line":"582"
+            }
+        },
+        {
+            "Imperial Navy Microwave S":{
+                "name":"Imperial Navy Microwave S",
+                "typeid":"23083",
+                "line":"583"
+            }
+        },
+        {
+            "Imperial Navy Radio S":{
+                "name":"Imperial Navy Radio S",
+                "typeid":"23085",
+                "line":"584"
+            }
+        },
+        {
+            "Imperial Navy Multifrequency M":{
+                "name":"Imperial Navy Multifrequency M",
+                "typeid":"23089",
+                "line":"585"
+            }
+        },
+        {
+            "Imperial Navy Gamma M":{
+                "name":"Imperial Navy Gamma M",
+                "typeid":"23091",
+                "line":"586"
+            }
+        },
+        {
+            "Imperial Navy Xray M":{
+                "name":"Imperial Navy Xray M",
+                "typeid":"23093",
+                "line":"587"
+            }
+        },
+        {
+            "Imperial Navy Ultraviolet M":{
+                "name":"Imperial Navy Ultraviolet M",
+                "typeid":"23095",
+                "line":"588"
+            }
+        },
+        {
+            "Imperial Navy Standard M":{
+                "name":"Imperial Navy Standard M",
+                "typeid":"23097",
+                "line":"589"
+            }
+        },
+        {
+            "Imperial Navy Infrared M":{
+                "name":"Imperial Navy Infrared M",
+                "typeid":"23099",
+                "line":"590"
+            }
+        },
+        {
+            "Imperial Navy Microwave M":{
+                "name":"Imperial Navy Microwave M",
+                "typeid":"23101",
+                "line":"591"
+            }
+        },
+        {
+            "Imperial Navy Radio M":{
+                "name":"Imperial Navy Radio M",
+                "typeid":"23103",
+                "line":"592"
+            }
+        },
+        {
+            "Imperial Navy Multifrequency L":{
+                "name":"Imperial Navy Multifrequency L",
+                "typeid":"23105",
+                "line":"593"
+            }
+        },
+        {
+            "Imperial Navy Gamma L":{
+                "name":"Imperial Navy Gamma L",
+                "typeid":"23107",
+                "line":"594"
+            }
+        },
+        {
+            "Imperial Navy Xray L":{
+                "name":"Imperial Navy Xray L",
+                "typeid":"23109",
+                "line":"595"
+            }
+        },
+        {
+            "Imperial Navy Ultraviolet L":{
+                "name":"Imperial Navy Ultraviolet L",
+                "typeid":"23111",
+                "line":"596"
+            }
+        },
+        {
+            "Imperial Navy Standard L":{
+                "name":"Imperial Navy Standard L",
+                "typeid":"23113",
+                "line":"597"
+            }
+        },
+        {
+            "Imperial Navy Infrared L":{
+                "name":"Imperial Navy Infrared L",
+                "typeid":"23115",
+                "line":"598"
+            }
+        },
+        {
+            "Imperial Navy Microwave L":{
+                "name":"Imperial Navy Microwave L",
+                "typeid":"23117",
+                "line":"599"
+            }
+        },
+        {
+            "Imperial Navy Radio L":{
+                "name":"Imperial Navy Radio L",
+                "typeid":"23119",
+                "line":"600"
+            }
+        },
+        {
+            "Scourge Rage Rocket":{
+                "name":"Scourge Rage Rocket",
+                "typeid":"24471",
+                "line":"601"
+            }
+        },
+        {
+            "Nova Rage Rocket":{
+                "name":"Nova Rage Rocket",
+                "typeid":"24473",
+                "line":"602"
+            }
+        },
+        {
+            "Inferno Rage Rocket":{
+                "name":"Inferno Rage Rocket",
+                "typeid":"24475",
+                "line":"603"
+            }
+        },
+        {
+            "Scourge Javelin Rocket":{
+                "name":"Scourge Javelin Rocket",
+                "typeid":"24477",
+                "line":"604"
+            }
+        },
+        {
+            "Nova Javelin Rocket":{
+                "name":"Nova Javelin Rocket",
+                "typeid":"24478",
+                "line":"605"
+            }
+        },
+        {
+            "Inferno Javelin Rocket":{
+                "name":"Inferno Javelin Rocket",
+                "typeid":"24479",
+                "line":"606"
+            }
+        },
+        {
+            "Inferno Rage Heavy Assault Missile":{
+                "name":"Inferno Rage Heavy Assault Missile",
+                "typeid":"24486",
+                "line":"607"
+            }
+        },
+        {
+            "Nova Rage Heavy Assault Missile":{
+                "name":"Nova Rage Heavy Assault Missile",
+                "typeid":"24488",
+                "line":"608"
+            }
+        },
+        {
+            "Mjolnir Rage Heavy Assault Missile":{
+                "name":"Mjolnir Rage Heavy Assault Missile",
+                "typeid":"24490",
+                "line":"609"
+            }
+        },
+        {
+            "Scourge Javelin Heavy Assault Missile":{
+                "name":"Scourge Javelin Heavy Assault Missile",
+                "typeid":"24492",
+                "line":"610"
+            }
+        },
+        {
+            "Mjolnir Javelin Heavy Assault Missile":{
+                "name":"Mjolnir Javelin Heavy Assault Missile",
+                "typeid":"24493",
+                "line":"611"
+            }
+        },
+        {
+            "Inferno Javelin Heavy Assault Missile":{
+                "name":"Inferno Javelin Heavy Assault Missile",
+                "typeid":"24494",
+                "line":"612"
+            }
+        },
+        {
+            "Scourge Fury Light Missile":{
+                "name":"Scourge Fury Light Missile",
+                "typeid":"24495",
+                "line":"613"
+            }
+        },
+        {
+            "Nova Fury Light Missile":{
+                "name":"Nova Fury Light Missile",
+                "typeid":"24497",
+                "line":"614"
+            }
+        },
+        {
+            "Inferno Fury Light Missile":{
+                "name":"Inferno Fury Light Missile",
+                "typeid":"24499",
+                "line":"615"
+            }
+        },
+        {
+            "Scourge Precision Light Missile":{
+                "name":"Scourge Precision Light Missile",
+                "typeid":"24501",
+                "line":"616"
+            }
+        },
+        {
+            "Nova Precision Light Missile":{
+                "name":"Nova Precision Light Missile",
+                "typeid":"24503",
+                "line":"617"
+            }
+        },
+        {
+            "Mjolnir Precision Light Missile":{
+                "name":"Mjolnir Precision Light Missile",
+                "typeid":"24505",
+                "line":"618"
+            }
+        },
+        {
+            "Nova Fury Heavy Missile":{
+                "name":"Nova Fury Heavy Missile",
+                "typeid":"24507",
+                "line":"619"
+            }
+        },
+        {
+            "Mjolnir Fury Heavy Missile":{
+                "name":"Mjolnir Fury Heavy Missile",
+                "typeid":"24509",
+                "line":"620"
+            }
+        },
+        {
+            "Inferno Fury Heavy Missile":{
+                "name":"Inferno Fury Heavy Missile",
+                "typeid":"24511",
+                "line":"621"
+            }
+        },
+        {
+            "Scourge Precision Heavy Missile":{
+                "name":"Scourge Precision Heavy Missile",
+                "typeid":"24513",
+                "line":"622"
+            }
+        },
+        {
+            "Inferno Precision Heavy Missile":{
+                "name":"Inferno Precision Heavy Missile",
+                "typeid":"24515",
+                "line":"623"
+            }
+        },
+        {
+            "Mjolnir Precision Heavy Missile":{
+                "name":"Mjolnir Precision Heavy Missile",
+                "typeid":"24517",
+                "line":"624"
+            }
+        },
+        {
+            "Nova Rage Torpedo":{
+                "name":"Nova Rage Torpedo",
+                "typeid":"24519",
+                "line":"625"
+            }
+        },
+        {
+            "Scourge Rage Torpedo":{
+                "name":"Scourge Rage Torpedo",
+                "typeid":"24521",
+                "line":"626"
+            }
+        },
+        {
+            "Mjolnir Rage Torpedo":{
+                "name":"Mjolnir Rage Torpedo",
+                "typeid":"24523",
+                "line":"627"
+            }
+        },
+        {
+            "Inferno Javelin Torpedo":{
+                "name":"Inferno Javelin Torpedo",
+                "typeid":"24525",
+                "line":"628"
+            }
+        },
+        {
+            "Mjolnir Javelin Torpedo":{
+                "name":"Mjolnir Javelin Torpedo",
+                "typeid":"24527",
+                "line":"629"
+            }
+        },
+        {
+            "Scourge Javelin Torpedo":{
+                "name":"Scourge Javelin Torpedo",
+                "typeid":"24529",
+                "line":"630"
+            }
+        },
+        {
+            "Nova Fury Cruise Missile":{
+                "name":"Nova Fury Cruise Missile",
+                "typeid":"24531",
+                "line":"631"
+            }
+        },
+        {
+            "Scourge Fury Cruise Missile":{
+                "name":"Scourge Fury Cruise Missile",
+                "typeid":"24533",
+                "line":"632"
+            }
+        },
+        {
+            "Mjolnir Fury Cruise Missile":{
+                "name":"Mjolnir Fury Cruise Missile",
+                "typeid":"24535",
+                "line":"633"
+            }
+        },
+        {
+            "Guristas Inferno Rocket":{
+                "name":"Guristas Inferno Rocket",
+                "typeid":"27313",
+                "line":"634"
+            }
+        },
+        {
+            "Caldari Navy Inferno Rocket":{
+                "name":"Caldari Navy Inferno Rocket",
+                "typeid":"27315",
+                "line":"635"
+            }
+        },
+        {
+            "Dread Guristas Inferno Rocket":{
+                "name":"Dread Guristas Inferno Rocket",
+                "typeid":"27317",
+                "line":"636"
+            }
+        },
+        {
+            "Guristas Mjolnir Rocket":{
+                "name":"Guristas Mjolnir Rocket",
+                "typeid":"27319",
+                "line":"637"
+            }
+        },
+        {
+            "Caldari Navy Mjolnir Rocket":{
+                "name":"Caldari Navy Mjolnir Rocket",
+                "typeid":"27321",
+                "line":"638"
+            }
+        },
+        {
+            "Dread Guristas Mjolnir Rocket":{
+                "name":"Dread Guristas Mjolnir Rocket",
+                "typeid":"27323",
+                "line":"639"
+            }
+        },
+        {
+            "Guristas Nova Rocket":{
+                "name":"Guristas Nova Rocket",
+                "typeid":"27325",
+                "line":"640"
+            }
+        },
+        {
+            "Caldari Navy Nova Rocket":{
+                "name":"Caldari Navy Nova Rocket",
+                "typeid":"27327",
+                "line":"641"
+            }
+        },
+        {
+            "Dread Guristas Nova Rocket":{
+                "name":"Dread Guristas Nova Rocket",
+                "typeid":"27329",
+                "line":"642"
+            }
+        },
+        {
+            "Guristas Scourge Rocket":{
+                "name":"Guristas Scourge Rocket",
+                "typeid":"27331",
+                "line":"643"
+            }
+        },
+        {
+            "Caldari Navy Scourge Rocket":{
+                "name":"Caldari Navy Scourge Rocket",
+                "typeid":"27333",
+                "line":"644"
+            }
+        },
+        {
+            "Dread Guristas Scourge Rocket":{
+                "name":"Dread Guristas Scourge Rocket",
+                "typeid":"27335",
+                "line":"645"
+            }
+        },
+        {
+            "Guristas Mjolnir Torpedo":{
+                "name":"Guristas Mjolnir Torpedo",
+                "typeid":"27337",
+                "line":"646"
+            }
+        },
+        {
+            "Caldari Navy Mjolnir Torpedo":{
+                "name":"Caldari Navy Mjolnir Torpedo",
+                "typeid":"27339",
+                "line":"647"
+            }
+        },
+        {
+            "Dread Guristas Mjolnir Torpedo":{
+                "name":"Dread Guristas Mjolnir Torpedo",
+                "typeid":"27341",
+                "line":"648"
+            }
+        },
+        {
+            "Guristas Scourge Torpedo":{
+                "name":"Guristas Scourge Torpedo",
+                "typeid":"27343",
+                "line":"649"
+            }
+        },
+        {
+            "Caldari Navy Scourge Torpedo":{
+                "name":"Caldari Navy Scourge Torpedo",
+                "typeid":"27345",
+                "line":"650"
+            }
+        },
+        {
+            "Dread Guristas Scourge Torpedo":{
+                "name":"Dread Guristas Scourge Torpedo",
+                "typeid":"27347",
+                "line":"651"
+            }
+        },
+        {
+            "Guristas Inferno Torpedo":{
+                "name":"Guristas Inferno Torpedo",
+                "typeid":"27349",
+                "line":"652"
+            }
+        },
+        {
+            "Caldari Navy Inferno Torpedo":{
+                "name":"Caldari Navy Inferno Torpedo",
+                "typeid":"27351",
+                "line":"653"
+            }
+        },
+        {
+            "Guristas Scourge Light Missile":{
+                "name":"Guristas Scourge Light Missile",
+                "typeid":"27353",
+                "line":"654"
+            }
+        },
+        {
+            "Dread Guristas Inferno Torpedo":{
+                "name":"Dread Guristas Inferno Torpedo",
+                "typeid":"27355",
+                "line":"655"
+            }
+        },
+        {
+            "Guristas Nova Torpedo":{
+                "name":"Guristas Nova Torpedo",
+                "typeid":"27357",
+                "line":"656"
+            }
+        },
+        {
+            "Caldari Navy Nova Torpedo":{
+                "name":"Caldari Navy Nova Torpedo",
+                "typeid":"27359",
+                "line":"657"
+            }
+        },
+        {
+            "Caldari Navy Scourge Light Missile":{
+                "name":"Caldari Navy Scourge Light Missile",
+                "typeid":"27361",
+                "line":"658"
+            }
+        },
+        {
+            "Dread Guristas Nova Torpedo":{
+                "name":"Dread Guristas Nova Torpedo",
+                "typeid":"27363",
+                "line":"659"
+            }
+        },
+        {
+            "Dread Guristas Scourge Light Missile":{
+                "name":"Dread Guristas Scourge Light Missile",
+                "typeid":"27365",
+                "line":"660"
+            }
+        },
+        {
+            "Guristas Inferno Light Missile":{
+                "name":"Guristas Inferno Light Missile",
+                "typeid":"27367",
+                "line":"661"
+            }
+        },
+        {
+            "Dread Guristas Inferno Light Missile":{
+                "name":"Dread Guristas Inferno Light Missile",
+                "typeid":"27369",
+                "line":"662"
+            }
+        },
+        {
+            "Caldari Navy Inferno Light Missile":{
+                "name":"Caldari Navy Inferno Light Missile",
+                "typeid":"27371",
+                "line":"663"
+            }
+        },
+        {
+            "Guristas Mjolnir Cruise Missile":{
+                "name":"Guristas Mjolnir Cruise Missile",
+                "typeid":"27373",
+                "line":"664"
+            }
+        },
+        {
+            "Dread Guristas Nova Light Missile":{
+                "name":"Dread Guristas Nova Light Missile",
+                "typeid":"27375",
+                "line":"665"
+            }
+        },
+        {
+            "Caldari Navy Mjolnir Cruise Missile":{
+                "name":"Caldari Navy Mjolnir Cruise Missile",
+                "typeid":"27377",
+                "line":"666"
+            }
+        },
+        {
+            "Guristas Nova Light Missile":{
+                "name":"Guristas Nova Light Missile",
+                "typeid":"27379",
+                "line":"667"
+            }
+        },
+        {
+            "Caldari Navy Nova Light Missile":{
+                "name":"Caldari Navy Nova Light Missile",
+                "typeid":"27381",
+                "line":"668"
+            }
+        },
+        {
+            "Guristas Mjolnir Light Missile":{
+                "name":"Guristas Mjolnir Light Missile",
+                "typeid":"27383",
+                "line":"669"
+            }
+        },
+        {
+            "Dread Guristas Mjolnir Light Missile":{
+                "name":"Dread Guristas Mjolnir Light Missile",
+                "typeid":"27385",
+                "line":"670"
+            }
+        },
+        {
+            "Caldari Navy Mjolnir Light Missile":{
+                "name":"Caldari Navy Mjolnir Light Missile",
+                "typeid":"27387",
+                "line":"671"
+            }
+        },
+        {
+            "Dread Guristas Mjolnir Cruise Missile":{
+                "name":"Dread Guristas Mjolnir Cruise Missile",
+                "typeid":"27389",
+                "line":"672"
+            }
+        },
+        {
+            "Guristas Scourge Cruise Missile":{
+                "name":"Guristas Scourge Cruise Missile",
+                "typeid":"27391",
+                "line":"673"
+            }
+        },
+        {
+            "Guristas Nova Heavy Assault Missile":{
+                "name":"Guristas Nova Heavy Assault Missile",
+                "typeid":"27393",
+                "line":"674"
+            }
+        },
+        {
+            "Caldari Navy Scourge Cruise Missile":{
+                "name":"Caldari Navy Scourge Cruise Missile",
+                "typeid":"27395",
+                "line":"675"
+            }
+        },
+        {
+            "Dread Guristas Nova Heavy Assault Missile":{
+                "name":"Dread Guristas Nova Heavy Assault Missile",
+                "typeid":"27397",
+                "line":"676"
+            }
+        },
+        {
+            "Dread Guristas Scourge Cruise Missile":{
+                "name":"Dread Guristas Scourge Cruise Missile",
+                "typeid":"27399",
+                "line":"677"
+            }
+        },
+        {
+            "Caldari Navy Nova Heavy Assault Missile":{
+                "name":"Caldari Navy Nova Heavy Assault Missile",
+                "typeid":"27401",
+                "line":"678"
+            }
+        },
+        {
+            "Guristas Inferno Heavy Assault Missile":{
+                "name":"Guristas Inferno Heavy Assault Missile",
+                "typeid":"27403",
+                "line":"679"
+            }
+        },
+        {
+            "Caldari Navy Inferno Heavy Assault Missile":{
+                "name":"Caldari Navy Inferno Heavy Assault Missile",
+                "typeid":"27405",
+                "line":"680"
+            }
+        },
+        {
+            "Dread Guristas Inferno Heavy Assault Missile":{
+                "name":"Dread Guristas Inferno Heavy Assault Missile",
+                "typeid":"27407",
+                "line":"681"
+            }
+        },
+        {
+            "Guristas Inferno Cruise Missile":{
+                "name":"Guristas Inferno Cruise Missile",
+                "typeid":"27409",
+                "line":"682"
+            }
+        },
+        {
+            "Guristas Scourge Heavy Assault Missile":{
+                "name":"Guristas Scourge Heavy Assault Missile",
+                "typeid":"27411",
+                "line":"683"
+            }
+        },
+        {
+            "Caldari Navy Scourge Heavy Assault Missile":{
+                "name":"Caldari Navy Scourge Heavy Assault Missile",
+                "typeid":"27413",
+                "line":"684"
+            }
+        },
+        {
+            "Dread Guristas Scourge Heavy Assault Missile":{
+                "name":"Dread Guristas Scourge Heavy Assault Missile",
+                "typeid":"27415",
+                "line":"685"
+            }
+        },
+        {
+            "Guristas Mjolnir Heavy Assault Missile":{
+                "name":"Guristas Mjolnir Heavy Assault Missile",
+                "typeid":"27417",
+                "line":"686"
+            }
+        },
+        {
+            "Caldari Navy Mjolnir Heavy Assault Missile":{
+                "name":"Caldari Navy Mjolnir Heavy Assault Missile",
+                "typeid":"27419",
+                "line":"687"
+            }
+        },
+        {
+            "Dread Guristas Mjolnir Heavy Assault Missile":{
+                "name":"Dread Guristas Mjolnir Heavy Assault Missile",
+                "typeid":"27421",
+                "line":"688"
+            }
+        },
+        {
+            "Caldari Navy Inferno Cruise Missile":{
+                "name":"Caldari Navy Inferno Cruise Missile",
+                "typeid":"27423",
+                "line":"689"
+            }
+        },
+        {
+            "Dread Guristas Inferno Cruise Missile":{
+                "name":"Dread Guristas Inferno Cruise Missile",
+                "typeid":"27425",
+                "line":"690"
+            }
+        },
+        {
+            "Guristas Nova Cruise Missile":{
+                "name":"Guristas Nova Cruise Missile",
+                "typeid":"27427",
+                "line":"691"
+            }
+        },
+        {
+            "Caldari Navy Nova Cruise Missile":{
+                "name":"Caldari Navy Nova Cruise Missile",
+                "typeid":"27429",
+                "line":"692"
+            }
+        },
+        {
+            "Dread Guristas Nova Cruise Missile":{
+                "name":"Dread Guristas Nova Cruise Missile",
+                "typeid":"27431",
+                "line":"693"
+            }
+        },
+        {
+            "Guristas Mjolnir Heavy Missile":{
+                "name":"Guristas Mjolnir Heavy Missile",
+                "typeid":"27433",
+                "line":"694"
+            }
+        },
+        {
+            "Caldari Navy Mjolnir Heavy Missile":{
+                "name":"Caldari Navy Mjolnir Heavy Missile",
+                "typeid":"27435",
+                "line":"695"
+            }
+        },
+        {
+            "Dread Guristas Mjolnir Heavy Missile":{
+                "name":"Dread Guristas Mjolnir Heavy Missile",
+                "typeid":"27437",
+                "line":"696"
+            }
+        },
+        {
+            "Guristas Scourge Heavy Missile":{
+                "name":"Guristas Scourge Heavy Missile",
+                "typeid":"27439",
+                "line":"697"
+            }
+        },
+        {
+            "Caldari Navy Scourge Heavy Missile":{
+                "name":"Caldari Navy Scourge Heavy Missile",
+                "typeid":"27441",
+                "line":"698"
+            }
+        },
+        {
+            "Dread Guristas Scourge Heavy Missile":{
+                "name":"Dread Guristas Scourge Heavy Missile",
+                "typeid":"27443",
+                "line":"699"
+            }
+        },
+        {
+            "Guristas Inferno Heavy Missile":{
+                "name":"Guristas Inferno Heavy Missile",
+                "typeid":"27445",
+                "line":"700"
+            }
+        },
+        {
+            "Caldari Navy Inferno Heavy Missile":{
+                "name":"Caldari Navy Inferno Heavy Missile",
+                "typeid":"27447",
+                "line":"701"
+            }
+        },
+        {
+            "Dread Guristas Inferno Heavy Missile":{
+                "name":"Dread Guristas Inferno Heavy Missile",
+                "typeid":"27449",
+                "line":"702"
+            }
+        },
+        {
+            "Guristas Nova Heavy Missile":{
+                "name":"Guristas Nova Heavy Missile",
+                "typeid":"27451",
+                "line":"703"
+            }
+        },
+        {
+            "Caldari Navy Nova Heavy Missile":{
+                "name":"Caldari Navy Nova Heavy Missile",
+                "typeid":"27453",
+                "line":"704"
+            }
+        },
+        {
+            "Dread Guristas Nova Heavy Missile":{
+                "name":"Dread Guristas Nova Heavy Missile",
+                "typeid":"27455",
+                "line":"705"
+            }
+        },
+        {
+            "Imperial Navy Mjolnir Auto-Targeting Cruise Missile I":{
+                "name":"Imperial Navy Mjolnir Auto-Targeting Cruise Missile I",
+                "typeid":"27459",
+                "line":"706"
+            }
+        },
+        {
+            "Caldari Navy Scourge Auto-Targeting Cruise Missile I":{
+                "name":"Caldari Navy Scourge Auto-Targeting Cruise Missile I",
+                "typeid":"27465",
+                "line":"707"
+            }
+        },
+        {
+            "Federation Navy Inferno Auto-Targeting Cruise Missile I":{
+                "name":"Federation Navy Inferno Auto-Targeting Cruise Missile I",
+                "typeid":"27471",
+                "line":"708"
+            }
+        },
+        {
+            "Republic Fleet Nova Auto-Targeting Cruise Missile I":{
+                "name":"Republic Fleet Nova Auto-Targeting Cruise Missile I",
+                "typeid":"27477",
+                "line":"709"
+            }
+        },
+        {
+            "Imperial Navy Mjolnir Auto-Targeting Heavy Missile I":{
+                "name":"Imperial Navy Mjolnir Auto-Targeting Heavy Missile I",
+                "typeid":"27483",
+                "line":"710"
+            }
+        },
+        {
+            "Caldari Navy Scourge Auto-Targeting Heavy Missile I":{
+                "name":"Caldari Navy Scourge Auto-Targeting Heavy Missile I",
+                "typeid":"27489",
+                "line":"711"
+            }
+        },
+        {
+            "Federation Navy Inferno Auto-Targeting Heavy Missile I":{
+                "name":"Federation Navy Inferno Auto-Targeting Heavy Missile I",
+                "typeid":"27495",
+                "line":"712"
+            }
+        },
+        {
+            "Republic Fleet Nova Auto-Targeting Heavy Missile I":{
+                "name":"Republic Fleet Nova Auto-Targeting Heavy Missile I",
+                "typeid":"27501",
+                "line":"713"
+            }
+        },
+        {
+            "Imperial Navy Mjolnir Auto-Targeting Light Missile I":{
+                "name":"Imperial Navy Mjolnir Auto-Targeting Light Missile I",
+                "typeid":"27507",
+                "line":"714"
+            }
+        },
+        {
+            "Caldari Navy Scourge Auto-Targeting Light Missile I":{
+                "name":"Caldari Navy Scourge Auto-Targeting Light Missile I",
+                "typeid":"27513",
+                "line":"715"
+            }
+        },
+        {
+            "Federation Navy Inferno Auto-Targeting Light Missile I":{
+                "name":"Federation Navy Inferno Auto-Targeting Light Missile I",
+                "typeid":"27519",
+                "line":"716"
+            }
+        },
+        {
+            "Republic Fleet Nova Auto-Targeting Light Missile I":{
+                "name":"Republic Fleet Nova Auto-Targeting Light Missile I",
+                "typeid":"27525",
+                "line":"717"
+            }
+        },
+        {
+            "Concussion Bomb":{
+                "name":"Concussion Bomb",
+                "typeid":"27912",
+                "line":"718"
+            }
+        },
+        {
+            "Scorch Bomb":{
+                "name":"Scorch Bomb",
+                "typeid":"27916",
+                "line":"719"
+            }
+        },
+        {
+            "Shrapnel Bomb":{
+                "name":"Shrapnel Bomb",
+                "typeid":"27918",
+                "line":"720"
+            }
+        },
+        {
+            "Electron Bomb":{
+                "name":"Electron Bomb",
+                "typeid":"27920",
+                "line":"721"
+            }
+        },
+        {
+            "Lockbreaker Bomb":{
+                "name":"Lockbreaker Bomb",
+                "typeid":"27922",
+                "line":"722"
+            }
+        },
+        {
+            "Void Bomb":{
+                "name":"Void Bomb",
+                "typeid":"27924",
+                "line":"723"
+            }
+        },
+        {
+            "Republic Fleet Carbonized Lead L":{
+                "name":"Republic Fleet Carbonized Lead L",
+                "typeid":"28324",
+                "line":"724"
+            }
+        },
+        {
+            "Republic Fleet Carbonized Lead M":{
+                "name":"Republic Fleet Carbonized Lead M",
+                "typeid":"28326",
+                "line":"725"
+            }
+        },
+        {
+            "Republic Fleet Carbonized Lead S":{
+                "name":"Republic Fleet Carbonized Lead S",
+                "typeid":"28328",
+                "line":"726"
+            }
+        },
+        {
+            "Republic Fleet Carbonized Lead XL":{
+                "name":"Republic Fleet Carbonized Lead XL",
+                "typeid":"28330",
+                "line":"727"
+            }
+        },
+        {
+            "Republic Fleet Depleted Uranium L":{
+                "name":"Republic Fleet Depleted Uranium L",
+                "typeid":"28332",
+                "line":"728"
+            }
+        },
+        {
+            "Republic Fleet Depleted Uranium M":{
+                "name":"Republic Fleet Depleted Uranium M",
+                "typeid":"28334",
+                "line":"729"
+            }
+        },
+        {
+            "Republic Fleet Depleted Uranium S":{
+                "name":"Republic Fleet Depleted Uranium S",
+                "typeid":"28336",
+                "line":"730"
+            }
+        },
+        {
+            "Republic Fleet Depleted Uranium XL":{
+                "name":"Republic Fleet Depleted Uranium XL",
+                "typeid":"28338",
+                "line":"731"
+            }
+        },
+        {
+            "Nanite Repair Paste":{
+                "name":"Nanite Repair Paste",
+                "typeid":"28668",
+                "line":"732"
+            }
+        },
+        {
+            "Optimal Range Script":{
+                "name":"Optimal Range Script",
+                "typeid":"28999",
+                "line":"733"
+            }
+        },
+        {
+            "Tracking Speed Script":{
+                "name":"Tracking Speed Script",
+                "typeid":"29001",
+                "line":"734"
+            }
+        },
+        {
+            "Focused Warp Disruption Script":{
+                "name":"Focused Warp Disruption Script",
+                "typeid":"29003",
+                "line":"735"
+            }
+        },
+        {
+            "Optimal Range Disruption Script":{
+                "name":"Optimal Range Disruption Script",
+                "typeid":"29005",
+                "line":"736"
+            }
+        },
+        {
+            "Tracking Speed Disruption Script":{
+                "name":"Tracking Speed Disruption Script",
+                "typeid":"29007",
+                "line":"737"
+            }
+        },
+        {
+            "Targeting Range Script":{
+                "name":"Targeting Range Script",
+                "typeid":"29009",
+                "line":"738"
+            }
+        },
+        {
+            "Scan Resolution Script":{
+                "name":"Scan Resolution Script",
+                "typeid":"29011",
+                "line":"739"
+            }
+        },
+        {
+            "Scan Resolution Dampening Script":{
+                "name":"Scan Resolution Dampening Script",
+                "typeid":"29013",
+                "line":"740"
+            }
+        },
+        {
+            "Targeting Range Dampening Script":{
+                "name":"Targeting Range Dampening Script",
+                "typeid":"29015",
+                "line":"741"
+            }
+        },
+        {
+            "Guristas Nova XL Torpedo":{
+                "name":"Guristas Nova XL Torpedo",
+                "typeid":"29616",
+                "line":"742"
+            }
+        },
+        {
+            "Guristas Inferno XL Torpedo":{
+                "name":"Guristas Inferno XL Torpedo",
+                "typeid":"29618",
+                "line":"743"
+            }
+        },
+        {
+            "Guristas Scourge XL Torpedo":{
+                "name":"Guristas Scourge XL Torpedo",
+                "typeid":"29620",
+                "line":"744"
+            }
+        },
+        {
+            "Guristas Mjolnir XL Torpedo":{
+                "name":"Guristas Mjolnir XL Torpedo",
+                "typeid":"29622",
+                "line":"745"
+            }
+        },
+        {
+            "Core Scanner Probe I":{
+                "name":"Core Scanner Probe I",
+                "typeid":"30013",
+                "line":"746"
+            }
+        },
+        {
+            "Combat Scanner Probe I":{
+                "name":"Combat Scanner Probe I",
+                "typeid":"30028",
+                "line":"747"
+            }
+        },
+        {
+            "Sisters Combat Scanner Probe":{
+                "name":"Sisters Combat Scanner Probe",
+                "typeid":"30486",
+                "line":"748"
+            }
+        },
+        {
+            "Sisters Core Scanner Probe":{
+                "name":"Sisters Core Scanner Probe",
+                "typeid":"30488",
+                "line":"749"
+            }
+        },
+        {
+            "Navy Cap Booster 100":{
+                "name":"Navy Cap Booster 100",
+                "typeid":"31982",
+                "line":"750"
+            }
+        },
+        {
+            "Navy Cap Booster 150":{
+                "name":"Navy Cap Booster 150",
+                "typeid":"31990",
+                "line":"751"
+            }
+        },
+        {
+            "Navy Cap Booster 200":{
+                "name":"Navy Cap Booster 200",
+                "typeid":"31998",
+                "line":"752"
+            }
+        },
+        {
+            "Navy Cap Booster 400":{
+                "name":"Navy Cap Booster 400",
+                "typeid":"32006",
+                "line":"753"
+            }
+        },
+        {
+            "Navy Cap Booster 800":{
+                "name":"Navy Cap Booster 800",
+                "typeid":"32014",
+                "line":"754"
+            }
+        },
+        {
+            "RSS Core Scanner Probe":{
+                "name":"RSS Core Scanner Probe",
+                "typeid":"32246",
+                "line":"755"
+            }
+        },
+        {
+            "Scourge XL Cruise Missile":{
+                "name":"Scourge XL Cruise Missile",
+                "typeid":"32436",
+                "line":"756"
+            }
+        },
+        {
+            "Nova XL Cruise Missile":{
+                "name":"Nova XL Cruise Missile",
+                "typeid":"32438",
+                "line":"757"
+            }
+        },
+        {
+            "Inferno XL Cruise Missile":{
+                "name":"Inferno XL Cruise Missile",
+                "typeid":"32440",
+                "line":"758"
+            }
+        },
+        {
+            "Mjolnir XL Cruise Missile":{
+                "name":"Mjolnir XL Cruise Missile",
+                "typeid":"32442",
+                "line":"759"
+            }
+        },
+        {
+            "Defender Missile I":{
+                "name":"Defender Missile I",
+                "typeid":"32782",
+                "line":"760"
+            }
+        },
+        {
+            "Navy Cap Booster 25":{
+                "name":"Navy Cap Booster 25",
+                "typeid":"33330",
+                "line":"761"
+            }
+        },
+        {
+            "Navy Cap Booster 50":{
+                "name":"Navy Cap Booster 50",
+                "typeid":"33332",
+                "line":"762"
+            }
+        },
+        {
+            "Navy Cap Booster 75":{
+                "name":"Navy Cap Booster 75",
+                "typeid":"33334",
+                "line":"763"
+            }
+        },
+        {
+            "Surgical Warp Disrupt Probe":{
+                "name":"Surgical Warp Disrupt Probe",
+                "typeid":"34260",
+                "line":"764"
+            }
+        },
+        {
+            "Focused Void Bomb":{
+                "name":"Focused Void Bomb",
+                "typeid":"34264",
+                "line":"765"
+            }
+        },
+        {
+            "Missile Range Script":{
+                "name":"Missile Range Script",
+                "typeid":"35794",
+                "line":"766"
+            }
+        },
+        {
+            "Missile Precision Script":{
+                "name":"Missile Precision Script",
+                "typeid":"35795",
+                "line":"767"
+            }
+        },
+        {
+            "Standup Gravimetric ECM Script":{
+                "name":"Standup Gravimetric ECM Script",
+                "typeid":"37821",
+                "line":"768"
+            }
+        },
+        {
+            "Standup Ladar ECM Script":{
+                "name":"Standup Ladar ECM Script",
+                "typeid":"37822",
+                "line":"769"
+            }
+        },
+        {
+            "Standup Magnetometric ECM Script":{
+                "name":"Standup Magnetometric ECM Script",
+                "typeid":"37823",
+                "line":"770"
+            }
+        },
+        {
+            "Standup Radar ECM Script":{
+                "name":"Standup Radar ECM Script",
+                "typeid":"37824",
+                "line":"771"
+            }
+        },
+        {
+            "Standup Super-heavy Torpedo":{
+                "name":"Standup Super-heavy Torpedo",
+                "typeid":"37843",
+                "line":"772"
+            }
+        },
+        {
+            "Standup XL Cruise Missile":{
+                "name":"Standup XL Cruise Missile",
+                "typeid":"37844",
+                "line":"773"
+            }
+        },
+        {
+            "Standup AXL-SR Missile":{
+                "name":"Standup AXL-SR Missile",
+                "typeid":"37845",
+                "line":"774"
+            }
+        },
+        {
+            "Standup Cruise Missile":{
+                "name":"Standup Cruise Missile",
+                "typeid":"37846",
+                "line":"775"
+            }
+        },
+        {
+            "Standup Heavy Missile":{
+                "name":"Standup Heavy Missile",
+                "typeid":"37847",
+                "line":"776"
+            }
+        },
+        {
+            "Standup Light Missile":{
+                "name":"Standup Light Missile",
+                "typeid":"37848",
+                "line":"777"
+            }
+        },
+        {
+            "Standup Heavy Guided Bomb":{
+                "name":"Standup Heavy Guided Bomb",
+                "typeid":"37849",
+                "line":"778"
+            }
+        },
+        {
+            "Standup Light Guided Bomb":{
+                "name":"Standup Light Guided Bomb",
+                "typeid":"37850",
+                "line":"779"
+            }
+        },
+        {
+            "Missile Precision Disruption Script":{
+                "name":"Missile Precision Disruption Script",
+                "typeid":"40335",
+                "line":"780"
+            }
+        },
+        {
+            "ECCM Script":{
+                "name":"ECCM Script",
+                "typeid":"41155",
+                "line":"781"
+            }
+        },
+        {
+            "Scourge Javelin XL Torpedo":{
+                "name":"Scourge Javelin XL Torpedo",
+                "typeid":"41270",
+                "line":"782"
+            }
+        },
+        {
+            "Scourge Rage XL Torpedo":{
+                "name":"Scourge Rage XL Torpedo",
+                "typeid":"41271",
+                "line":"783"
+            }
+        },
+        {
+            "Nova Javelin XL Torpedo":{
+                "name":"Nova Javelin XL Torpedo",
+                "typeid":"41272",
+                "line":"784"
+            }
+        },
+        {
+            "Nova Rage XL Torpedo":{
+                "name":"Nova Rage XL Torpedo",
+                "typeid":"41273",
+                "line":"785"
+            }
+        },
+        {
+            "Mjolnir Javelin XL Torpedo":{
+                "name":"Mjolnir Javelin XL Torpedo",
+                "typeid":"41274",
+                "line":"786"
+            }
+        },
+        {
+            "Mjolnir Rage XL Torpedo":{
+                "name":"Mjolnir Rage XL Torpedo",
+                "typeid":"41275",
+                "line":"787"
+            }
+        },
+        {
+            "Inferno Javelin XL Torpedo":{
+                "name":"Inferno Javelin XL Torpedo",
+                "typeid":"41276",
+                "line":"788"
+            }
+        },
+        {
+            "Inferno Rage XL Torpedo":{
+                "name":"Inferno Rage XL Torpedo",
+                "typeid":"41277",
+                "line":"789"
+            }
+        },
+        {
+            "Inferno Precision XL Cruise Missile":{
+                "name":"Inferno Precision XL Cruise Missile",
+                "typeid":"41286",
+                "line":"790"
+            }
+        },
+        {
+            "Inferno Fury XL Cruise Missile":{
+                "name":"Inferno Fury XL Cruise Missile",
+                "typeid":"41287",
+                "line":"791"
+            }
+        },
+        {
+            "Scourge Precision XL Cruise Missile":{
+                "name":"Scourge Precision XL Cruise Missile",
+                "typeid":"41290",
+                "line":"792"
+            }
+        },
+        {
+            "Scourge Fury XL Cruise Missile":{
+                "name":"Scourge Fury XL Cruise Missile",
+                "typeid":"41291",
+                "line":"793"
+            }
+        },
+        {
+            "Nova Fury XL Cruise Missile":{
+                "name":"Nova Fury XL Cruise Missile",
+                "typeid":"41294",
+                "line":"794"
+            }
+        },
+        {
+            "Nova Precision XL Cruise Missile":{
+                "name":"Nova Precision XL Cruise Missile",
+                "typeid":"41295",
+                "line":"795"
+            }
+        },
+        {
+            "Mjolnir Precision XL Cruise Missile":{
+                "name":"Mjolnir Precision XL Cruise Missile",
+                "typeid":"41298",
+                "line":"796"
+            }
+        },
+        {
+            "Mjolnir Fury XL Cruise Missile":{
+                "name":"Mjolnir Fury XL Cruise Missile",
+                "typeid":"41299",
+                "line":"797"
+            }
+        },
+        {
+            "Hail XL":{
+                "name":"Hail XL",
+                "typeid":"41314",
+                "line":"798"
+            }
+        },
+        {
+            "Tremor XL":{
+                "name":"Tremor XL",
+                "typeid":"41318",
+                "line":"799"
+            }
+        },
+        {
+            "Quake XL":{
+                "name":"Quake XL",
+                "typeid":"41320",
+                "line":"800"
+            }
+        },
+        {
+            "Void XL":{
+                "name":"Void XL",
+                "typeid":"41322",
+                "line":"801"
+            }
+        },
+        {
+            "Null XL":{
+                "name":"Null XL",
+                "typeid":"41324",
+                "line":"802"
+            }
+        },
+        {
+            "Javelin XL":{
+                "name":"Javelin XL",
+                "typeid":"41326",
+                "line":"803"
+            }
+        },
+        {
+            "Spike XL":{
+                "name":"Spike XL",
+                "typeid":"41328",
+                "line":"804"
+            }
+        },
+        {
+            "Scorch XL":{
+                "name":"Scorch XL",
+                "typeid":"41330",
+                "line":"805"
+            }
+        },
+        {
+            "Conflagration XL":{
+                "name":"Conflagration XL",
+                "typeid":"41332",
+                "line":"806"
+            }
+        },
+        {
+            "Gleam XL":{
+                "name":"Gleam XL",
+                "typeid":"41334",
+                "line":"807"
+            }
+        },
+        {
+            "Aurora XL":{
+                "name":"Aurora XL",
+                "typeid":"41336",
+                "line":"808"
+            }
+        },
+        {
+            "Phobetor Warp Disrupt Probe":{
+                "name":"Phobetor Warp Disrupt Probe",
+                "typeid":"41402",
+                "line":"809"
+            }
+        },
+        {
+            "Cap Booster 3200":{
+                "name":"Cap Booster 3200",
+                "typeid":"41489",
+                "line":"810"
+            }
+        },
+        {
+            "Navy Cap Booster 3200":{
+                "name":"Navy Cap Booster 3200",
+                "typeid":"41490",
+                "line":"811"
+            }
+        },
+        {
+            "Armor EM Resistance Script":{
+                "name":"Armor EM Resistance Script",
+                "typeid":"41517",
+                "line":"812"
+            }
+        },
+        {
+            "Armor Thermal Resistance Script":{
+                "name":"Armor Thermal Resistance Script",
+                "typeid":"41518",
+                "line":"813"
+            }
+        },
+        {
+            "Armor Kinetic Resistance Script":{
+                "name":"Armor Kinetic Resistance Script",
+                "typeid":"41519",
+                "line":"814"
+            }
+        },
+        {
+            "Armor Explosive Resistance Script":{
+                "name":"Armor Explosive Resistance Script",
+                "typeid":"41520",
+                "line":"815"
+            }
+        },
+        {
+            "Shield EM Resistance Script":{
+                "name":"Shield EM Resistance Script",
+                "typeid":"41521",
+                "line":"816"
+            }
+        },
+        {
+            "Shield Thermal Resistance Script":{
+                "name":"Shield Thermal Resistance Script",
+                "typeid":"41522",
+                "line":"817"
+            }
+        },
+        {
+            "Shield Kinetic Resistance Script":{
+                "name":"Shield Kinetic Resistance Script",
+                "typeid":"41523",
+                "line":"818"
+            }
+        },
+        {
+            "Shield Explosive Resistance Script":{
+                "name":"Shield Explosive Resistance Script",
+                "typeid":"41524",
+                "line":"819"
+            }
+        },
+        {
+            "Active Shielding Charge":{
+                "name":"Active Shielding Charge",
+                "typeid":"42694",
+                "line":"820"
+            }
+        },
+        {
+            "Shield Harmonizing Charge":{
+                "name":"Shield Harmonizing Charge",
+                "typeid":"42695",
+                "line":"821"
+            }
+        },
+        {
+            "Mining Laser Field Enhancement Charge":{
+                "name":"Mining Laser Field Enhancement Charge",
+                "typeid":"42829",
+                "line":"822"
+            }
+        },
+        {
+            "Mining Laser Optimization Charge":{
+                "name":"Mining Laser Optimization Charge",
+                "typeid":"42830",
+                "line":"823"
+            }
+        },
+        {
+            "Armor Reinforcement Charge":{
+                "name":"Armor Reinforcement Charge",
+                "typeid":"42834",
+                "line":"824"
+            }
+        },
+        {
+            "Rapid Deployment Charge":{
+                "name":"Rapid Deployment Charge",
+                "typeid":"42840",
+                "line":"825"
+            }
+        },
+        {
+            "Tetryon Exotic Plasma S":{
+                "name":"Tetryon Exotic Plasma S",
+                "typeid":"47885",
+                "line":"826"
+            }
+        },
+        {
+            "Tetryon Exotic Plasma L":{
+                "name":"Tetryon Exotic Plasma L",
+                "typeid":"47887",
+                "line":"827"
+            }
+        },
+        {
+            "Baryon Exotic Plasma S":{
+                "name":"Baryon Exotic Plasma S",
+                "typeid":"47924",
+                "line":"828"
+            }
+        },
+        {
+            "Occult M":{
+                "name":"Occult M",
+                "typeid":"47930",
+                "line":"829"
+            }
+        },
+        {
+            "Baryon Exotic Plasma L":{
+                "name":"Baryon Exotic Plasma L",
+                "typeid":"47932",
+                "line":"830"
+            }
+        },
+        {
+            "Meson Exotic Plasma L":{
+                "name":"Meson Exotic Plasma L",
+                "typeid":"47933",
+                "line":"831"
+            }
+        },
+        {
+            "Baryon Exotic Plasma XL":{
+                "name":"Baryon Exotic Plasma XL",
+                "typeid":"52916",
+                "line":"832"
+            }
+        },
+        {
+            "MesmerFlux Condenser Pack S":{
+                "name":"MesmerFlux Condenser Pack S",
+                "typeid":"54770",
+                "line":"833"
+            }
+        },
+        {
+            "BlastShot Condenser Pack S":{
+                "name":"BlastShot Condenser Pack S",
+                "typeid":"54771",
+                "line":"834"
+            }
+        },
+        {
+            "SlamBolt Condenser Pack S":{
+                "name":"SlamBolt Condenser Pack S",
+                "typeid":"54772",
+                "line":"835"
+            }
+        },
+        {
+            "GalvaSurge Condenser Pack M":{
+                "name":"GalvaSurge Condenser Pack M",
+                "typeid":"54773",
+                "line":"836"
+            }
+        },
+        {
+            "MesmerFlux Condenser Pack M":{
+                "name":"MesmerFlux Condenser Pack M",
+                "typeid":"54774",
+                "line":"837"
+            }
+        },
+        {
+            "BlastShot Condenser Pack M":{
+                "name":"BlastShot Condenser Pack M",
+                "typeid":"54775",
+                "line":"838"
+            }
+        },
+        {
+            "SlamBolt Condenser Pack M":{
+                "name":"SlamBolt Condenser Pack M",
+                "typeid":"54776",
+                "line":"839"
+            }
+        },
+        {
+            "GalvaSurge Condenser Pack L":{
+                "name":"GalvaSurge Condenser Pack L",
+                "typeid":"54777",
+                "line":"840"
+            }
+        },
+        {
+            "MesmerFlux Condenser Pack L":{
+                "name":"MesmerFlux Condenser Pack L",
+                "typeid":"54778",
+                "line":"841"
+            }
+        },
+        {
+            "BlastShot Condenser Pack L":{
+                "name":"BlastShot Condenser Pack L",
+                "typeid":"54779",
+                "line":"842"
+            }
+        },
+        {
+            "SlamBolt Condenser Pack L":{
+                "name":"SlamBolt Condenser Pack L",
+                "typeid":"54780",
+                "line":"843"
+            }
+        },
+        {
+            "StrikeSnipe Ultra S":{
+                "name":"StrikeSnipe Ultra S",
+                "typeid":"54781",
+                "line":"844"
+            }
+        },
+        {
+            "StrikeSnipe Ultra L":{
+                "name":"StrikeSnipe Ultra L",
+                "typeid":"54782",
+                "line":"845"
+            }
+        },
+        {
+            "ElectroPunch Ultra L":{
+                "name":"ElectroPunch Ultra L",
+                "typeid":"54783",
+                "line":"846"
+            }
+        },
+        {
+            "ElectroPunch Ultra S":{
+                "name":"ElectroPunch Ultra S",
+                "typeid":"54784",
+                "line":"847"
+            }
+        },
+        {
+            "StrikeSnipe Ultra M":{
+                "name":"StrikeSnipe Ultra M",
+                "typeid":"54785",
+                "line":"848"
+            }
+        },
+        {
+            "ElectroPunch Ultra M":{
+                "name":"ElectroPunch Ultra M",
+                "typeid":"54786",
+                "line":"849"
+            }
+        },
+        {
+            "Stasis Webification Probe":{
+                "name":"Stasis Webification Probe",
+                "typeid":"56748",
+                "line":"850"
+            }
+        },
+        {
+            "Missile Range Disruption Script":{
+                "name":"Missile Range Disruption Script",
+                "typeid":"40334",
+                "line":"851"
+            }
+        },
+        {
+            "Barrage XL":{
+                "name":"Barrage XL",
+                "typeid":"41316",
+                "line":"852"
+            }
+        },
+        {
+            "Shield Extension Charge":{
+                "name":"Shield Extension Charge",
+                "typeid":"42696",
+                "line":"853"
+            }
+        },
+        {
+            "Mining Equipment Preservation Charge":{
+                "name":"Mining Equipment Preservation Charge",
+                "typeid":"42831",
+                "line":"854"
+            }
+        },
+        {
+            "Armor Energizing Charge":{
+                "name":"Armor Energizing Charge",
+                "typeid":"42832",
+                "line":"855"
+            }
+        },
+        {
+            "Rapid Repair Charge":{
+                "name":"Rapid Repair Charge",
+                "typeid":"42833",
+                "line":"856"
+            }
+        },
+        {
+            "Sensor Optimization Charge":{
+                "name":"Sensor Optimization Charge",
+                "typeid":"42835",
+                "line":"857"
+            }
+        },
+        {
+            "Electronic Superiority Charge":{
+                "name":"Electronic Superiority Charge",
+                "typeid":"42836",
+                "line":"858"
+            }
+        },
+        {
+            "Electronic Hardening Charge":{
+                "name":"Electronic Hardening Charge",
+                "typeid":"42837",
+                "line":"859"
+            }
+        },
+        {
+            "Evasive Maneuvers Charge":{
+                "name":"Evasive Maneuvers Charge",
+                "typeid":"42838",
+                "line":"860"
+            }
+        },
+        {
+            "Interdiction Maneuvers Charge":{
+                "name":"Interdiction Maneuvers Charge",
+                "typeid":"42839",
+                "line":"861"
+            }
+        },
+        {
+            "Focused Warp Scrambling Script":{
+                "name":"Focused Warp Scrambling Script",
+                "typeid":"45010",
+                "line":"862"
+            }
+        },
+        {
+            "Standup Focused Warp Scrambling Script":{
+                "name":"Standup Focused Warp Scrambling Script",
+                "typeid":"47336",
+                "line":"863"
+            }
+        },
+        {
+            "Tetryon Exotic Plasma M":{
+                "name":"Tetryon Exotic Plasma M",
+                "typeid":"47886",
+                "line":"864"
+            }
+        },
+        {
+            "Meson Exotic Plasma S":{
+                "name":"Meson Exotic Plasma S",
+                "typeid":"47925",
+                "line":"865"
+            }
+        },
+        {
+            "Occult S":{
+                "name":"Occult S",
+                "typeid":"47926",
+                "line":"866"
+            }
+        },
+        {
+            "Mystic S":{
+                "name":"Mystic S",
+                "typeid":"47927",
+                "line":"867"
+            }
+        },
+        {
+            "Baryon Exotic Plasma M":{
+                "name":"Baryon Exotic Plasma M",
+                "typeid":"47928",
+                "line":"868"
+            }
+        },
+        {
+            "Meson Exotic Plasma M":{
+                "name":"Meson Exotic Plasma M",
+                "typeid":"47929",
+                "line":"869"
+            }
+        },
+        {
+            "Mystic M":{
+                "name":"Mystic M",
+                "typeid":"47931",
+                "line":"870"
+            }
+        },
+        {
+            "Occult L":{
+                "name":"Occult L",
+                "typeid":"47934",
+                "line":"871"
+            }
+        },
+        {
+            "Mystic L":{
+                "name":"Mystic L",
+                "typeid":"47935",
+                "line":"872"
+            }
+        },
+        {
+            "Tetryon Exotic Plasma XL":{
+                "name":"Tetryon Exotic Plasma XL",
+                "typeid":"53301",
+                "line":"873"
+            }
+        },
+        {
+            "Meson Exotic Plasma XL":{
+                "name":"Meson Exotic Plasma XL",
+                "typeid":"53302",
+                "line":"874"
+            }
+        },
+        {
+            "GalvaSurge Condenser Pack S":{
+                "name":"GalvaSurge Condenser Pack S",
+                "typeid":"54769",
+                "line":"875"
+            }
+        },
+        {
+            "Titanium Sabot M":{
+                "name":"Titanium Sabot M",
+                "typeid":"190",
+                "line":"876"
+            }
+        },
+        {
+            "Depleted Uranium L":{
+                "name":"Depleted Uranium L",
+                "typeid":"197",
+                "line":"877"
+            }
+        },
+        {
+            "Iron Charge M":{
+                "name":"Iron Charge M",
+                "typeid":"223",
+                "line":"878"
+            }
+        },
+        {
+            "Microwave L":{
+                "name":"Microwave L",
+                "typeid":"256",
+                "line":"879"
+            }
+        },
+        {
+            "Aurora M":{
+                "name":"Aurora M",
+                "typeid":"12822",
+                "line":"880"
+            }
+        },
+        {
+            "Aurora L":{
+                "name":"Aurora L",
+                "typeid":"12824",
+                "line":"881"
+            }
+        },
+        {
+            "Guardian Tungsten Charge S":{
+                "name":"Guardian Tungsten Charge S",
+                "typeid":"20947",
+                "line":"882"
+            }
+        }
+    ]
+}

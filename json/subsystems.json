@@ -1,0 +1,340 @@
+{
+    "Subsystems":[
+        {
+            "Legion Defensive - Covert Reconfiguration":{
+                "name":"Legion Defensive - Covert Reconfiguration",
+                "typeid":"45586",
+                "line":"3"
+            }
+        },
+        {
+            "Legion Defensive - Augmented Plating":{
+                "name":"Legion Defensive - Augmented Plating",
+                "typeid":"45587",
+                "line":"4"
+            }
+        },
+        {
+            "Tengu Defensive - Amplification Node":{
+                "name":"Tengu Defensive - Amplification Node",
+                "typeid":"45591",
+                "line":"5"
+            }
+        },
+        {
+            "Proteus Defensive - Covert Reconfiguration":{
+                "name":"Proteus Defensive - Covert Reconfiguration",
+                "typeid":"45592",
+                "line":"6"
+            }
+        },
+        {
+            "Loki Defensive - Covert Reconfiguration":{
+                "name":"Loki Defensive - Covert Reconfiguration",
+                "typeid":"45595",
+                "line":"7"
+            }
+        },
+        {
+            "Legion Offensive - Assault Optimization":{
+                "name":"Legion Offensive - Assault Optimization",
+                "typeid":"45599",
+                "line":"8"
+            }
+        },
+        {
+            "Tengu Offensive - Accelerated Ejection Bay":{
+                "name":"Tengu Offensive - Accelerated Ejection Bay",
+                "typeid":"45601",
+                "line":"9"
+            }
+        },
+        {
+            "Tengu Offensive - Magnetic Infusion Basin":{
+                "name":"Tengu Offensive - Magnetic Infusion Basin",
+                "typeid":"45602",
+                "line":"10"
+            }
+        },
+        {
+            "Tengu Offensive - Support Processor":{
+                "name":"Tengu Offensive - Support Processor",
+                "typeid":"45603",
+                "line":"11"
+            }
+        },
+        {
+            "Proteus Offensive - Drone Synthesis Projector":{
+                "name":"Proteus Offensive - Drone Synthesis Projector",
+                "typeid":"45605",
+                "line":"12"
+            }
+        },
+        {
+            "Proteus Offensive - Support Processor":{
+                "name":"Proteus Offensive - Support Processor",
+                "typeid":"45606",
+                "line":"13"
+            }
+        },
+        {
+            "Loki Offensive - Projectile Scoping Array":{
+                "name":"Loki Offensive - Projectile Scoping Array",
+                "typeid":"45607",
+                "line":"14"
+            }
+        },
+        {
+            "Loki Offensive - Launcher Efficiency Configuration":{
+                "name":"Loki Offensive - Launcher Efficiency Configuration",
+                "typeid":"45608",
+                "line":"15"
+            }
+        },
+        {
+            "Loki Offensive - Support Processor":{
+                "name":"Loki Offensive - Support Processor",
+                "typeid":"45609",
+                "line":"16"
+            }
+        },
+        {
+            "Tengu Propulsion - Interdiction Nullifier":{
+                "name":"Tengu Propulsion - Interdiction Nullifier",
+                "typeid":"45613",
+                "line":"17"
+            }
+        },
+        {
+            "Tengu Propulsion - Fuel Catalyst":{
+                "name":"Tengu Propulsion - Fuel Catalyst",
+                "typeid":"45615",
+                "line":"18"
+            }
+        },
+        {
+            "Proteus Propulsion - Interdiction Nullifier":{
+                "name":"Proteus Propulsion - Interdiction Nullifier",
+                "typeid":"45616",
+                "line":"19"
+            }
+        },
+        {
+            "Proteus Propulsion - Hyperspatial Optimization":{
+                "name":"Proteus Propulsion - Hyperspatial Optimization",
+                "typeid":"45617",
+                "line":"20"
+            }
+        },
+        {
+            "Proteus Propulsion - Localized Injectors":{
+                "name":"Proteus Propulsion - Localized Injectors",
+                "typeid":"45618",
+                "line":"21"
+            }
+        },
+        {
+            "Loki Propulsion - Wake Limiter":{
+                "name":"Loki Propulsion - Wake Limiter",
+                "typeid":"45621",
+                "line":"22"
+            }
+        },
+        {
+            "Legion Core - Augmented Antimatter Reactor":{
+                "name":"Legion Core - Augmented Antimatter Reactor",
+                "typeid":"45623",
+                "line":"23"
+            }
+        },
+        {
+            "Legion Core - Energy Parasitic Complex":{
+                "name":"Legion Core - Energy Parasitic Complex",
+                "typeid":"45624",
+                "line":"24"
+            }
+        },
+        {
+            "Tengu Core - Electronic Efficiency Gate":{
+                "name":"Tengu Core - Electronic Efficiency Gate",
+                "typeid":"45625",
+                "line":"25"
+            }
+        },
+        {
+            "Tengu Core - Obfuscation Manifold":{
+                "name":"Tengu Core - Obfuscation Manifold",
+                "typeid":"45627",
+                "line":"26"
+            }
+        },
+        {
+            "Proteus Core - Electronic Efficiency Gate":{
+                "name":"Proteus Core - Electronic Efficiency Gate",
+                "typeid":"45628",
+                "line":"27"
+            }
+        },
+        {
+            "Proteus Core - Augmented Fusion Reactor":{
+                "name":"Proteus Core - Augmented Fusion Reactor",
+                "typeid":"45629",
+                "line":"28"
+            }
+        },
+        {
+            "Loki Core - Dissolution Sequencer":{
+                "name":"Loki Core - Dissolution Sequencer",
+                "typeid":"45631",
+                "line":"29"
+            }
+        },
+        {
+            "Legion Defensive - Nanobot Injector":{
+                "name":"Legion Defensive - Nanobot Injector",
+                "typeid":"45588",
+                "line":"30"
+            }
+        },
+        {
+            "Tengu Defensive - Covert Reconfiguration":{
+                "name":"Tengu Defensive - Covert Reconfiguration",
+                "typeid":"45589",
+                "line":"31"
+            }
+        },
+        {
+            "Tengu Defensive - Supplemental Screening":{
+                "name":"Tengu Defensive - Supplemental Screening",
+                "typeid":"45590",
+                "line":"32"
+            }
+        },
+        {
+            "Proteus Defensive - Augmented Plating":{
+                "name":"Proteus Defensive - Augmented Plating",
+                "typeid":"45593",
+                "line":"33"
+            }
+        },
+        {
+            "Proteus Defensive - Nanobot Injector":{
+                "name":"Proteus Defensive - Nanobot Injector",
+                "typeid":"45594",
+                "line":"34"
+            }
+        },
+        {
+            "Loki Defensive - Adaptive Defense Node":{
+                "name":"Loki Defensive - Adaptive Defense Node",
+                "typeid":"45597",
+                "line":"35"
+            }
+        },
+        {
+            "Legion Offensive - Liquid Crystal Magnifiers":{
+                "name":"Legion Offensive - Liquid Crystal Magnifiers",
+                "typeid":"45598",
+                "line":"36"
+            }
+        },
+        {
+            "Legion Offensive - Support Processor":{
+                "name":"Legion Offensive - Support Processor",
+                "typeid":"45600",
+                "line":"37"
+            }
+        },
+        {
+            "Proteus Offensive - Hybrid Encoding Platform":{
+                "name":"Proteus Offensive - Hybrid Encoding Platform",
+                "typeid":"45604",
+                "line":"38"
+            }
+        },
+        {
+            "Legion Propulsion - Interdiction Nullifier":{
+                "name":"Legion Propulsion - Interdiction Nullifier",
+                "typeid":"45610",
+                "line":"39"
+            }
+        },
+        {
+            "Legion Propulsion - Intercalated Nanofibers":{
+                "name":"Legion Propulsion - Intercalated Nanofibers",
+                "typeid":"45611",
+                "line":"40"
+            }
+        },
+        {
+            "Legion Propulsion - Wake Limiter":{
+                "name":"Legion Propulsion - Wake Limiter",
+                "typeid":"45612",
+                "line":"41"
+            }
+        },
+        {
+            "Tengu Propulsion - Chassis Optimization":{
+                "name":"Tengu Propulsion - Chassis Optimization",
+                "typeid":"45614",
+                "line":"42"
+            }
+        },
+        {
+            "Loki Propulsion - Interdiction Nullifier":{
+                "name":"Loki Propulsion - Interdiction Nullifier",
+                "typeid":"45619",
+                "line":"43"
+            }
+        },
+        {
+            "Loki Propulsion - Intercalated Nanofibers":{
+                "name":"Loki Propulsion - Intercalated Nanofibers",
+                "typeid":"45620",
+                "line":"44"
+            }
+        },
+        {
+            "Legion Core - Dissolution Sequencer":{
+                "name":"Legion Core - Dissolution Sequencer",
+                "typeid":"45622",
+                "line":"45"
+            }
+        },
+        {
+            "Tengu Core - Augmented Graviton Reactor":{
+                "name":"Tengu Core - Augmented Graviton Reactor",
+                "typeid":"45626",
+                "line":"46"
+            }
+        },
+        {
+            "Proteus Core - Friction Extension Processor":{
+                "name":"Proteus Core - Friction Extension Processor",
+                "typeid":"45630",
+                "line":"47"
+            }
+        },
+        {
+            "Loki Core - Augmented Nuclear Reactor":{
+                "name":"Loki Core - Augmented Nuclear Reactor",
+                "typeid":"45632",
+                "line":"48"
+            }
+        },
+        {
+            "Loki Core - Immobility Drivers":{
+                "name":"Loki Core - Immobility Drivers",
+                "typeid":"45633",
+                "line":"49"
+            }
+        },
+        {
+            "Loki Defensive - Augmented Durability":{
+                "name":"Loki Defensive - Augmented Durability",
+                "typeid":"45596",
+                "line":"50"
+            }
+        }
+    ]
+}

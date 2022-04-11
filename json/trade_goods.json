@@ -1,0 +1,4218 @@
+{
+    "Trade goods":[
+        {
+            "Garbage":{
+                "name":"Garbage",
+                "typeid":"41",
+                "line":"3"
+            }
+        },
+        {
+            "Spiced Wine":{
+                "name":"Spiced Wine",
+                "typeid":"42",
+                "line":"4"
+            }
+        },
+        {
+            "Antibiotics":{
+                "name":"Antibiotics",
+                "typeid":"43",
+                "line":"5"
+            }
+        },
+        {
+            "Frozen Plant Seeds":{
+                "name":"Frozen Plant Seeds",
+                "typeid":"45",
+                "line":"6"
+            }
+        },
+        {
+            "Broken Organic Mortar Applicators":{
+                "name":"Broken Organic Mortar Applicators",
+                "typeid":"2368",
+                "line":"7"
+            }
+        },
+        {
+            "Broken Sterile Conduits":{
+                "name":"Broken Sterile Conduits",
+                "typeid":"2369",
+                "line":"8"
+            }
+        },
+        {
+            "Broken Nano-Factory":{
+                "name":"Broken Nano-Factory",
+                "typeid":"2371",
+                "line":"9"
+            }
+        },
+        {
+            "Broken Self-Harmonizing Power Core":{
+                "name":"Broken Self-Harmonizing Power Core",
+                "typeid":"2373",
+                "line":"10"
+            }
+        },
+        {
+            "Broken Recursive Computing Module":{
+                "name":"Broken Recursive Computing Module",
+                "typeid":"2374",
+                "line":"11"
+            }
+        },
+        {
+            "Broken Broadcast Node":{
+                "name":"Broken Broadcast Node",
+                "typeid":"2375",
+                "line":"12"
+            }
+        },
+        {
+            "Broken Integrity Response Drones":{
+                "name":"Broken Integrity Response Drones",
+                "typeid":"2376",
+                "line":"13"
+            }
+        },
+        {
+            "Broken Wetware Mainframe":{
+                "name":"Broken Wetware Mainframe",
+                "typeid":"2377",
+                "line":"14"
+            }
+        },
+        {
+            "1000 Aurum Token":{
+                "name":"1000 Aurum Token",
+                "typeid":"2833",
+                "line":"15"
+            }
+        },
+        {
+            "Soil":{
+                "name":"Soil",
+                "typeid":"3643",
+                "line":"16"
+            }
+        },
+        {
+            "Holoreels":{
+                "name":"Holoreels",
+                "typeid":"3647",
+                "line":"17"
+            }
+        },
+        {
+            "Wheat":{
+                "name":"Wheat",
+                "typeid":"3673",
+                "line":"18"
+            }
+        },
+        {
+            "Hydrogen Batteries":{
+                "name":"Hydrogen Batteries",
+                "typeid":"3685",
+                "line":"19"
+            }
+        },
+        {
+            "Electronic Parts":{
+                "name":"Electronic Parts",
+                "typeid":"3687",
+                "line":"20"
+            }
+        },
+        {
+            "Quafe":{
+                "name":"Quafe",
+                "typeid":"3699",
+                "line":"21"
+            }
+        },
+        {
+            "Nerve Sticks":{
+                "name":"Nerve Sticks",
+                "typeid":"3703",
+                "line":"22"
+            }
+        },
+        {
+            "Crash":{
+                "name":"Crash",
+                "typeid":"3705",
+                "line":"23"
+            }
+        },
+        {
+            "Blue Pill":{
+                "name":"Blue Pill",
+                "typeid":"3707",
+                "line":"24"
+            }
+        },
+        {
+            "Drop":{
+                "name":"Drop",
+                "typeid":"3709",
+                "line":"25"
+            }
+        },
+        {
+            "X-Instinct":{
+                "name":"X-Instinct",
+                "typeid":"3711",
+                "line":"26"
+            }
+        },
+        {
+            "Vitoc":{
+                "name":"Vitoc",
+                "typeid":"3713",
+                "line":"27"
+            }
+        },
+        {
+            "Frozen Food":{
+                "name":"Frozen Food",
+                "typeid":"3715",
+                "line":"28"
+            }
+        },
+        {
+            "Dairy Products":{
+                "name":"Dairy Products",
+                "typeid":"3717",
+                "line":"29"
+            }
+        },
+        {
+            "Tourists":{
+                "name":"Tourists",
+                "typeid":"3719",
+                "line":"30"
+            }
+        },
+        {
+            "Slaves":{
+                "name":"Slaves",
+                "typeid":"3721",
+                "line":"31"
+            }
+        },
+        {
+            "Slaver Hound":{
+                "name":"Slaver Hound",
+                "typeid":"3723",
+                "line":"32"
+            }
+        },
+        {
+            "Plutonium":{
+                "name":"Plutonium",
+                "typeid":"3727",
+                "line":"33"
+            }
+        },
+        {
+            "Toxic Waste":{
+                "name":"Toxic Waste",
+                "typeid":"3729",
+                "line":"34"
+            }
+        },
+        {
+            "Ectoplasm":{
+                "name":"Ectoplasm",
+                "typeid":"3771",
+                "line":"35"
+            }
+        },
+        {
+            "Hydrochloric Acid":{
+                "name":"Hydrochloric Acid",
+                "typeid":"3773",
+                "line":"36"
+            }
+        },
+        {
+            "Long-limb Roes":{
+                "name":"Long-limb Roes",
+                "typeid":"3777",
+                "line":"37"
+            }
+        },
+        {
+            "Refugees":{
+                "name":"Refugees",
+                "typeid":"3806",
+                "line":"38"
+            }
+        },
+        {
+            "Marines":{
+                "name":"Marines",
+                "typeid":"3810",
+                "line":"39"
+            }
+        },
+        {
+            "Data Sheets":{
+                "name":"Data Sheets",
+                "typeid":"3812",
+                "line":"40"
+            }
+        },
+        {
+            "Reports":{
+                "name":"Reports",
+                "typeid":"3814",
+                "line":"41"
+            }
+        },
+        {
+            "Exile":{
+                "name":"Exile",
+                "typeid":"3818",
+                "line":"42"
+            }
+        },
+        {
+            "Sooth Sayer":{
+                "name":"Sooth Sayer",
+                "typeid":"3820",
+                "line":"43"
+            }
+        },
+        {
+            "Frentix":{
+                "name":"Frentix",
+                "typeid":"3822",
+                "line":"44"
+            }
+        },
+        {
+            "Crystal Egg":{
+                "name":"Crystal Egg",
+                "typeid":"3824",
+                "line":"45"
+            }
+        },
+        {
+            "Mindflood":{
+                "name":"Mindflood",
+                "typeid":"3826",
+                "line":"46"
+            }
+        },
+        {
+            "Exotic Dancers, Male":{
+                "name":"Exotic Dancers, Male",
+                "typeid":"4358",
+                "line":"47"
+            }
+        },
+        {
+            "Small Arms":{
+                "name":"Small Arms",
+                "typeid":"9844",
+                "line":"48"
+            }
+        },
+        {
+            "Spirits":{
+                "name":"Spirits",
+                "typeid":"9850",
+                "line":"49"
+            }
+        },
+        {
+            "Tobacco":{
+                "name":"Tobacco",
+                "typeid":"9852",
+                "line":"50"
+            }
+        },
+        {
+            "Criminal Dog Tag":{
+                "name":"Criminal Dog Tag",
+                "typeid":"11069",
+                "line":"51"
+            }
+        },
+        {
+            "Pax Amarria":{
+                "name":"Pax Amarria",
+                "typeid":"11585",
+                "line":"52"
+            }
+        },
+        {
+            "Defunct Drone Sensor Module":{
+                "name":"Defunct Drone Sensor Module",
+                "typeid":"11588",
+                "line":"53"
+            }
+        },
+        {
+            "Protein Delicacies":{
+                "name":"Protein Delicacies",
+                "typeid":"11855",
+                "line":"54"
+            }
+        },
+        {
+            "Synthetic Coffee":{
+                "name":"Synthetic Coffee",
+                "typeid":"11944",
+                "line":"55"
+            }
+        },
+        {
+            "Slaver":{
+                "name":"Slaver",
+                "typeid":"12049",
+                "line":"56"
+            }
+        },
+        {
+            "Homeless":{
+                "name":"Homeless",
+                "typeid":"12110",
+                "line":"57"
+            }
+        },
+        {
+            "Science Graduates":{
+                "name":"Science Graduates",
+                "typeid":"12243",
+                "line":"58"
+            }
+        },
+        {
+            "Criminal DNA":{
+                "name":"Criminal DNA",
+                "typeid":"12250",
+                "line":"59"
+            }
+        },
+        {
+            "Test Dummies":{
+                "name":"Test Dummies",
+                "typeid":"12302",
+                "line":"60"
+            }
+        },
+        {
+            "Angel Copper Tag":{
+                "name":"Angel Copper Tag",
+                "typeid":"12304",
+                "line":"61"
+            }
+        },
+        {
+            "Khumaak":{
+                "name":"Khumaak",
+                "typeid":"12478",
+                "line":"62"
+            }
+        },
+        {
+            "Angel Silver Tag":{
+                "name":"Angel Silver Tag",
+                "typeid":"12528",
+                "line":"63"
+            }
+        },
+        {
+            "Angel Brass Tag":{
+                "name":"Angel Brass Tag",
+                "typeid":"12529",
+                "line":"64"
+            }
+        },
+        {
+            "Angel Palladium Tag":{
+                "name":"Angel Palladium Tag",
+                "typeid":"12530",
+                "line":"65"
+            }
+        },
+        {
+            "Angel Crystal Tag":{
+                "name":"Angel Crystal Tag",
+                "typeid":"12531",
+                "line":"66"
+            }
+        },
+        {
+            "Blood Bronze Tag":{
+                "name":"Blood Bronze Tag",
+                "typeid":"12532",
+                "line":"67"
+            }
+        },
+        {
+            "Blood Silver Tag":{
+                "name":"Blood Silver Tag",
+                "typeid":"12533",
+                "line":"68"
+            }
+        },
+        {
+            "Blood Upper-Tier Tag":{
+                "name":"Blood Upper-Tier Tag",
+                "typeid":"12534",
+                "line":"69"
+            }
+        },
+        {
+            "Blood Platinum Tag":{
+                "name":"Blood Platinum Tag",
+                "typeid":"12535",
+                "line":"70"
+            }
+        },
+        {
+            "Blood Crystal Tag":{
+                "name":"Blood Crystal Tag",
+                "typeid":"12536",
+                "line":"71"
+            }
+        },
+        {
+            "Serpentis Bronze Tag":{
+                "name":"Serpentis Bronze Tag",
+                "typeid":"12537",
+                "line":"72"
+            }
+        },
+        {
+            "Serpentis Silver Tag":{
+                "name":"Serpentis Silver Tag",
+                "typeid":"12538",
+                "line":"73"
+            }
+        },
+        {
+            "Serpentis Gold Tag":{
+                "name":"Serpentis Gold Tag",
+                "typeid":"12539",
+                "line":"74"
+            }
+        },
+        {
+            "Serpentis Platinum Tag":{
+                "name":"Serpentis Platinum Tag",
+                "typeid":"12540",
+                "line":"75"
+            }
+        },
+        {
+            "Serpentis Crystal Tag":{
+                "name":"Serpentis Crystal Tag",
+                "typeid":"12541",
+                "line":"76"
+            }
+        },
+        {
+            "Guristas Bronze Tag":{
+                "name":"Guristas Bronze Tag",
+                "typeid":"12542",
+                "line":"77"
+            }
+        },
+        {
+            "Guristas Silver Tag":{
+                "name":"Guristas Silver Tag",
+                "typeid":"12543",
+                "line":"78"
+            }
+        },
+        {
+            "Guristas Gold Tag":{
+                "name":"Guristas Gold Tag",
+                "typeid":"12544",
+                "line":"79"
+            }
+        },
+        {
+            "Guristas Platinum Tag":{
+                "name":"Guristas Platinum Tag",
+                "typeid":"12545",
+                "line":"80"
+            }
+        },
+        {
+            "Guristas Crystal Tag":{
+                "name":"Guristas Crystal Tag",
+                "typeid":"12546",
+                "line":"81"
+            }
+        },
+        {
+            "Sansha Bronze Tag":{
+                "name":"Sansha Bronze Tag",
+                "typeid":"12547",
+                "line":"82"
+            }
+        },
+        {
+            "Sansha Silver Tag":{
+                "name":"Sansha Silver Tag",
+                "typeid":"12548",
+                "line":"83"
+            }
+        },
+        {
+            "Sansha Gold Tag":{
+                "name":"Sansha Gold Tag",
+                "typeid":"12549",
+                "line":"84"
+            }
+        },
+        {
+            "Sansha Platinum Tag":{
+                "name":"Sansha Platinum Tag",
+                "typeid":"12550",
+                "line":"85"
+            }
+        },
+        {
+            "Sansha Crystal Tag":{
+                "name":"Sansha Crystal Tag",
+                "typeid":"12551",
+                "line":"86"
+            }
+        },
+        {
+            "Quafe Ultra":{
+                "name":"Quafe Ultra",
+                "typeid":"12865",
+                "line":"87"
+            }
+        },
+        {
+            "Quafe Ultra Special Edition":{
+                "name":"Quafe Ultra Special Edition",
+                "typeid":"12994",
+                "line":"88"
+            }
+        },
+        {
+            "Ultra! Promotional Holoreel":{
+                "name":"Ultra! Promotional Holoreel",
+                "typeid":"12995",
+                "line":"89"
+            }
+        },
+        {
+            "Janitor":{
+                "name":"Janitor",
+                "typeid":"13267",
+                "line":"90"
+            }
+        },
+        {
+            "Korrani's DNA":{
+                "name":"Korrani's DNA",
+                "typeid":"13918",
+                "line":"91"
+            }
+        },
+        {
+            "Kruul's DNA":{
+                "name":"Kruul's DNA",
+                "typeid":"14292",
+                "line":"92"
+            }
+        },
+        {
+            "Zemnar":{
+                "name":"Zemnar",
+                "typeid":"14358",
+                "line":"93"
+            }
+        },
+        {
+            "Drezin's DNA":{
+                "name":"Drezin's DNA",
+                "typeid":"14483",
+                "line":"94"
+            }
+        },
+        {
+            "Galeptos Medicine":{
+                "name":"Galeptos Medicine",
+                "typeid":"15316",
+                "line":"95"
+            }
+        },
+        {
+            "Metal Scraps":{
+                "name":"Metal Scraps",
+                "typeid":"15331",
+                "line":"96"
+            }
+        },
+        {
+            "Research Tools":{
+                "name":"Research Tools",
+                "typeid":"15353",
+                "line":"97"
+            }
+        },
+        {
+            "Neophite":{
+                "name":"Neophite",
+                "typeid":"15410",
+                "line":"98"
+            }
+        },
+        {
+            "Federation Navy Midshipman Insignia I":{
+                "name":"Federation Navy Midshipman Insignia I",
+                "typeid":"15587",
+                "line":"99"
+            }
+        },
+        {
+            "Federation Navy Midshipman Insignia II":{
+                "name":"Federation Navy Midshipman Insignia II",
+                "typeid":"15588",
+                "line":"100"
+            }
+        },
+        {
+            "Federation Navy Midshipman Insignia III":{
+                "name":"Federation Navy Midshipman Insignia III",
+                "typeid":"15589",
+                "line":"101"
+            }
+        },
+        {
+            "Federation Navy Sergeant Insignia I":{
+                "name":"Federation Navy Sergeant Insignia I",
+                "typeid":"15590",
+                "line":"102"
+            }
+        },
+        {
+            "Federation Navy Sergeant Major Insignia I":{
+                "name":"Federation Navy Sergeant Major Insignia I",
+                "typeid":"15591",
+                "line":"103"
+            }
+        },
+        {
+            "Federation Navy Fleet Captain Insignia I":{
+                "name":"Federation Navy Fleet Captain Insignia I",
+                "typeid":"15592",
+                "line":"104"
+            }
+        },
+        {
+            "Federation Navy Fleet Major Insignia I":{
+                "name":"Federation Navy Fleet Major Insignia I",
+                "typeid":"15593",
+                "line":"105"
+            }
+        },
+        {
+            "Federation Navy Fleet Colonel Insignia I":{
+                "name":"Federation Navy Fleet Colonel Insignia I",
+                "typeid":"15594",
+                "line":"106"
+            }
+        },
+        {
+            "Caldari Navy Midshipman Insignia I":{
+                "name":"Caldari Navy Midshipman Insignia I",
+                "typeid":"15596",
+                "line":"107"
+            }
+        },
+        {
+            "Caldari Navy Midshipman Insignia II":{
+                "name":"Caldari Navy Midshipman Insignia II",
+                "typeid":"15597",
+                "line":"108"
+            }
+        },
+        {
+            "Caldari Navy Midshipman Insignia III":{
+                "name":"Caldari Navy Midshipman Insignia III",
+                "typeid":"15598",
+                "line":"109"
+            }
+        },
+        {
+            "Caldari Navy Captain Insignia I":{
+                "name":"Caldari Navy Captain Insignia I",
+                "typeid":"15599",
+                "line":"110"
+            }
+        },
+        {
+            "Caldari Navy Captain Insignia II":{
+                "name":"Caldari Navy Captain Insignia II",
+                "typeid":"15600",
+                "line":"111"
+            }
+        },
+        {
+            "Caldari Navy Captain Insignia III":{
+                "name":"Caldari Navy Captain Insignia III",
+                "typeid":"15601",
+                "line":"112"
+            }
+        },
+        {
+            "Caldari Navy Commodore Insignia I":{
+                "name":"Caldari Navy Commodore Insignia I",
+                "typeid":"15602",
+                "line":"113"
+            }
+        },
+        {
+            "Caldari Navy Admiral Insignia I":{
+                "name":"Caldari Navy Admiral Insignia I",
+                "typeid":"15604",
+                "line":"114"
+            }
+        },
+        {
+            "Caldari Navy Vice Admiral Insignia I":{
+                "name":"Caldari Navy Vice Admiral Insignia I",
+                "typeid":"15605",
+                "line":"115"
+            }
+        },
+        {
+            "Imperial Navy Midshipman Insignia I":{
+                "name":"Imperial Navy Midshipman Insignia I",
+                "typeid":"15607",
+                "line":"116"
+            }
+        },
+        {
+            "Imperial Navy Midshipman Insignia II":{
+                "name":"Imperial Navy Midshipman Insignia II",
+                "typeid":"15608",
+                "line":"117"
+            }
+        },
+        {
+            "Imperial Navy Midshipman Insignia III":{
+                "name":"Imperial Navy Midshipman Insignia III",
+                "typeid":"15609",
+                "line":"118"
+            }
+        },
+        {
+            "Imperial Navy Sergeant Insignia I":{
+                "name":"Imperial Navy Sergeant Insignia I",
+                "typeid":"15610",
+                "line":"119"
+            }
+        },
+        {
+            "Imperial Navy Sergeant Major Insignia I":{
+                "name":"Imperial Navy Sergeant Major Insignia I",
+                "typeid":"15611",
+                "line":"120"
+            }
+        },
+        {
+            "Imperial Navy Captain Insignia I":{
+                "name":"Imperial Navy Captain Insignia I",
+                "typeid":"15612",
+                "line":"121"
+            }
+        },
+        {
+            "Imperial Navy Major Insignia I":{
+                "name":"Imperial Navy Major Insignia I",
+                "typeid":"15613",
+                "line":"122"
+            }
+        },
+        {
+            "Imperial Navy Colonel Insignia I":{
+                "name":"Imperial Navy Colonel Insignia I",
+                "typeid":"15614",
+                "line":"123"
+            }
+        },
+        {
+            "Imperial Navy General Insignia I":{
+                "name":"Imperial Navy General Insignia I",
+                "typeid":"15615",
+                "line":"124"
+            }
+        },
+        {
+            "Ammatar Navy Midshipman Insignia I":{
+                "name":"Ammatar Navy Midshipman Insignia I",
+                "typeid":"15617",
+                "line":"125"
+            }
+        },
+        {
+            "Ammatar Navy Midshipman Insignia II":{
+                "name":"Ammatar Navy Midshipman Insignia II",
+                "typeid":"15618",
+                "line":"126"
+            }
+        },
+        {
+            "Ammatar Navy Midshipman Insignia III":{
+                "name":"Ammatar Navy Midshipman Insignia III",
+                "typeid":"15619",
+                "line":"127"
+            }
+        },
+        {
+            "Ammatar Navy Sergeant Insignia I":{
+                "name":"Ammatar Navy Sergeant Insignia I",
+                "typeid":"15620",
+                "line":"128"
+            }
+        },
+        {
+            "Ammatar Navy Sergeant Major Insignia I":{
+                "name":"Ammatar Navy Sergeant Major Insignia I",
+                "typeid":"15621",
+                "line":"129"
+            }
+        },
+        {
+            "Ammatar Navy Captain Insignia I":{
+                "name":"Ammatar Navy Captain Insignia I",
+                "typeid":"15622",
+                "line":"130"
+            }
+        },
+        {
+            "Ammatar Navy Major Insignia I":{
+                "name":"Ammatar Navy Major Insignia I",
+                "typeid":"15623",
+                "line":"131"
+            }
+        },
+        {
+            "Republic Fleet Midshipman Insignia I":{
+                "name":"Republic Fleet Midshipman Insignia I",
+                "typeid":"15625",
+                "line":"132"
+            }
+        },
+        {
+            "Republic Fleet Midshipman Insignia II":{
+                "name":"Republic Fleet Midshipman Insignia II",
+                "typeid":"15626",
+                "line":"133"
+            }
+        },
+        {
+            "Republic Fleet Midshipman Insignia III":{
+                "name":"Republic Fleet Midshipman Insignia III",
+                "typeid":"15627",
+                "line":"134"
+            }
+        },
+        {
+            "Republic Fleet Private Insignia I":{
+                "name":"Republic Fleet Private Insignia I",
+                "typeid":"15628",
+                "line":"135"
+            }
+        },
+        {
+            "Republic Fleet Private Insignia II":{
+                "name":"Republic Fleet Private Insignia II",
+                "typeid":"15629",
+                "line":"136"
+            }
+        },
+        {
+            "Republic Fleet Captain Insignia I":{
+                "name":"Republic Fleet Captain Insignia I",
+                "typeid":"15630",
+                "line":"137"
+            }
+        },
+        {
+            "Republic Fleet High Captain Insignia I":{
+                "name":"Republic Fleet High Captain Insignia I",
+                "typeid":"15631",
+                "line":"138"
+            }
+        },
+        {
+            "Republic Fleet Commander Insignia I":{
+                "name":"Republic Fleet Commander Insignia I",
+                "typeid":"15632",
+                "line":"139"
+            }
+        },
+        {
+            "Imperial Navy Squad Leader Insignia":{
+                "name":"Imperial Navy Squad Leader Insignia",
+                "typeid":"15634",
+                "line":"140"
+            }
+        },
+        {
+            "Imperial Navy Raid Leader Insignia":{
+                "name":"Imperial Navy Raid Leader Insignia",
+                "typeid":"15635",
+                "line":"141"
+            }
+        },
+        {
+            "Imperial Navy Sergeant Elite Insignia":{
+                "name":"Imperial Navy Sergeant Elite Insignia",
+                "typeid":"15636",
+                "line":"142"
+            }
+        },
+        {
+            "Yeni Sarum's Insignia":{
+                "name":"Yeni Sarum's Insignia",
+                "typeid":"15637",
+                "line":"143"
+            }
+        },
+        {
+            "Terachi Tash-Murkon's Insignia":{
+                "name":"Terachi Tash-Murkon's Insignia",
+                "typeid":"15638",
+                "line":"144"
+            }
+        },
+        {
+            "Karzo Sarum's Insignia":{
+                "name":"Karzo Sarum's Insignia",
+                "typeid":"15639",
+                "line":"145"
+            }
+        },
+        {
+            "Ammatar Navy Squad Leader Insignia":{
+                "name":"Ammatar Navy Squad Leader Insignia",
+                "typeid":"15640",
+                "line":"146"
+            }
+        },
+        {
+            "Ammatar Navy Raid Leader Insignia":{
+                "name":"Ammatar Navy Raid Leader Insignia",
+                "typeid":"15641",
+                "line":"147"
+            }
+        },
+        {
+            "Ammatar Navy Sergeant Elite Insignia":{
+                "name":"Ammatar Navy Sergeant Elite Insignia",
+                "typeid":"15642",
+                "line":"148"
+            }
+        },
+        {
+            "Ammatar Navy Fleet Commander Insignia":{
+                "name":"Ammatar Navy Fleet Commander Insignia",
+                "typeid":"15643",
+                "line":"149"
+            }
+        },
+        {
+            "Jerek Zuomi's Insignia":{
+                "name":"Jerek Zuomi's Insignia",
+                "typeid":"15645",
+                "line":"150"
+            }
+        },
+        {
+            "Federation Navy Command Sergeant Major Insignia I":{
+                "name":"Federation Navy Command Sergeant Major Insignia I",
+                "typeid":"15646",
+                "line":"151"
+            }
+        },
+        {
+            "Federation Navy Squad Leader Insignia":{
+                "name":"Federation Navy Squad Leader Insignia",
+                "typeid":"15647",
+                "line":"152"
+            }
+        },
+        {
+            "Federation Navy Raid Leader Insignia":{
+                "name":"Federation Navy Raid Leader Insignia",
+                "typeid":"15648",
+                "line":"153"
+            }
+        },
+        {
+            "Federation Navy Sergeant Elite Insignia":{
+                "name":"Federation Navy Sergeant Elite Insignia",
+                "typeid":"15649",
+                "line":"154"
+            }
+        },
+        {
+            "Federation Navy Fleet Commander Insignia":{
+                "name":"Federation Navy Fleet Commander Insignia",
+                "typeid":"15650",
+                "line":"155"
+            }
+        },
+        {
+            "Caldari Navy Captain Elite Insignia":{
+                "name":"Caldari Navy Captain Elite Insignia",
+                "typeid":"15653",
+                "line":"156"
+            }
+        },
+        {
+            "Caldari Navy Squad Leader Insignia":{
+                "name":"Caldari Navy Squad Leader Insignia",
+                "typeid":"15654",
+                "line":"157"
+            }
+        },
+        {
+            "Caldari Navy Raid Leader Insignia":{
+                "name":"Caldari Navy Raid Leader Insignia",
+                "typeid":"15655",
+                "line":"158"
+            }
+        },
+        {
+            "Caldari Navy Commodore Insignia II":{
+                "name":"Caldari Navy Commodore Insignia II",
+                "typeid":"15656",
+                "line":"159"
+            }
+        },
+        {
+            "Caldari Navy Fleet Commander Insignia":{
+                "name":"Caldari Navy Fleet Commander Insignia",
+                "typeid":"15657",
+                "line":"160"
+            }
+        },
+        {
+            "Naiyon Tai's Insignia":{
+                "name":"Naiyon Tai's Insignia",
+                "typeid":"15658",
+                "line":"161"
+            }
+        },
+        {
+            "Mizuma Gomi's Insignia":{
+                "name":"Mizuma Gomi's Insignia",
+                "typeid":"15659",
+                "line":"162"
+            }
+        },
+        {
+            "Republic Fleet Private Insignia III":{
+                "name":"Republic Fleet Private Insignia III",
+                "typeid":"15660",
+                "line":"163"
+            }
+        },
+        {
+            "Republic Fleet Commander Insignia II":{
+                "name":"Republic Fleet Commander Insignia II",
+                "typeid":"15661",
+                "line":"164"
+            }
+        },
+        {
+            "Republic Fleet Squad Leader Insignia":{
+                "name":"Republic Fleet Squad Leader Insignia",
+                "typeid":"15662",
+                "line":"165"
+            }
+        },
+        {
+            "Republic Fleet Raid Leader Insignia":{
+                "name":"Republic Fleet Raid Leader Insignia",
+                "typeid":"15663",
+                "line":"166"
+            }
+        },
+        {
+            "Republic Fleet Navy Commander Insignia":{
+                "name":"Republic Fleet Navy Commander Insignia",
+                "typeid":"15664",
+                "line":"167"
+            }
+        },
+        {
+            "Republic Fleet Private Elite Insignia":{
+                "name":"Republic Fleet Private Elite Insignia",
+                "typeid":"15666",
+                "line":"168"
+            }
+        },
+        {
+            "Kali Midez's Insignia":{
+                "name":"Kali Midez's Insignia",
+                "typeid":"15667",
+                "line":"169"
+            }
+        },
+        {
+            "Shaqil Dragat's Insignia":{
+                "name":"Shaqil Dragat's Insignia",
+                "typeid":"15668",
+                "line":"170"
+            }
+        },
+        {
+            "Imperial Navy General Insignia II":{
+                "name":"Imperial Navy General Insignia II",
+                "typeid":"15669",
+                "line":"171"
+            }
+        },
+        {
+            "Imperial Navy Fleet Commander Insignia":{
+                "name":"Imperial Navy Fleet Commander Insignia",
+                "typeid":"15670",
+                "line":"172"
+            }
+        },
+        {
+            "Ammatar Navy Colonel Insignia II":{
+                "name":"Ammatar Navy Colonel Insignia II",
+                "typeid":"15671",
+                "line":"173"
+            }
+        },
+        {
+            "Ammatar Navy Major Insignia II":{
+                "name":"Ammatar Navy Major Insignia II",
+                "typeid":"15672",
+                "line":"174"
+            }
+        },
+        {
+            "Federation Navy Fleet Colonel Insignia II":{
+                "name":"Federation Navy Fleet Colonel Insignia II",
+                "typeid":"15673",
+                "line":"175"
+            }
+        },
+        {
+            "Minmatar Freedom Fighter Insignia I":{
+                "name":"Minmatar Freedom Fighter Insignia I",
+                "typeid":"15674",
+                "line":"176"
+            }
+        },
+        {
+            "Ammatar Slave Trader Insignia":{
+                "name":"Ammatar Slave Trader Insignia",
+                "typeid":"15979",
+                "line":"177"
+            }
+        },
+        {
+            "Amarr Empire Slave Trader Insignia":{
+                "name":"Amarr Empire Slave Trader Insignia",
+                "typeid":"15980",
+                "line":"178"
+            }
+        },
+        {
+            "Khanid Slave Trader Insignia":{
+                "name":"Khanid Slave Trader Insignia",
+                "typeid":"15981",
+                "line":"179"
+            }
+        },
+        {
+            "Imperial Navy Sergeant Insignia II":{
+                "name":"Imperial Navy Sergeant Insignia II",
+                "typeid":"15992",
+                "line":"180"
+            }
+        },
+        {
+            "Ammatar Navy Sergeant Insignia II":{
+                "name":"Ammatar Navy Sergeant Insignia II",
+                "typeid":"15993",
+                "line":"181"
+            }
+        },
+        {
+            "Federation Navy Sergeant Insignia II":{
+                "name":"Federation Navy Sergeant Insignia II",
+                "typeid":"15994",
+                "line":"182"
+            }
+        },
+        {
+            "Caldari Navy Captain Insignia IV":{
+                "name":"Caldari Navy Captain Insignia IV",
+                "typeid":"15996",
+                "line":"183"
+            }
+        },
+        {
+            "Republic Fleet Private Insignia IV":{
+                "name":"Republic Fleet Private Insignia IV",
+                "typeid":"15997",
+                "line":"184"
+            }
+        },
+        {
+            "Republic Fleet Private Insignia V":{
+                "name":"Republic Fleet Private Insignia V",
+                "typeid":"15998",
+                "line":"185"
+            }
+        },
+        {
+            "Caldari Navy Captain Insignia V":{
+                "name":"Caldari Navy Captain Insignia V",
+                "typeid":"15999",
+                "line":"186"
+            }
+        },
+        {
+            "Imperial Navy Sergeant Insignia III":{
+                "name":"Imperial Navy Sergeant Insignia III",
+                "typeid":"16000",
+                "line":"187"
+            }
+        },
+        {
+            "Ammatar Navy Sergeant Insignia III":{
+                "name":"Ammatar Navy Sergeant Insignia III",
+                "typeid":"16001",
+                "line":"188"
+            }
+        },
+        {
+            "Federation Navy Sergeant Insignia III":{
+                "name":"Federation Navy Sergeant Insignia III",
+                "typeid":"16002",
+                "line":"189"
+            }
+        },
+        {
+            "CONCORD Officer Emblem":{
+                "name":"CONCORD Officer Emblem",
+                "typeid":"16118",
+                "line":"190"
+            }
+        },
+        {
+            "CONCORD Soldier Emblem":{
+                "name":"CONCORD Soldier Emblem",
+                "typeid":"16119",
+                "line":"191"
+            }
+        },
+        {
+            "CONCORD Piranha Emblem":{
+                "name":"CONCORD Piranha Emblem",
+                "typeid":"16120",
+                "line":"192"
+            }
+        },
+        {
+            "CONCORD Panther Emblem":{
+                "name":"CONCORD Panther Emblem",
+                "typeid":"16121",
+                "line":"193"
+            }
+        },
+        {
+            "CONCORD Captain Emblem":{
+                "name":"CONCORD Captain Emblem",
+                "typeid":"16122",
+                "line":"194"
+            }
+        },
+        {
+            "CONCORD Raptor Emblem":{
+                "name":"CONCORD Raptor Emblem",
+                "typeid":"16123",
+                "line":"195"
+            }
+        },
+        {
+            "CONCORD Colonel Emblem":{
+                "name":"CONCORD Colonel Emblem",
+                "typeid":"16124",
+                "line":"196"
+            }
+        },
+        {
+            "CONCORD General Emblem":{
+                "name":"CONCORD General Emblem",
+                "typeid":"16125",
+                "line":"197"
+            }
+        },
+        {
+            "Khanid Rookie Insignia":{
+                "name":"Khanid Rookie Insignia",
+                "typeid":"16179",
+                "line":"198"
+            }
+        },
+        {
+            "Khanid Fighter Insignia":{
+                "name":"Khanid Fighter Insignia",
+                "typeid":"16180",
+                "line":"199"
+            }
+        },
+        {
+            "Khanid Elite Fighter Insignia":{
+                "name":"Khanid Elite Fighter Insignia",
+                "typeid":"16181",
+                "line":"200"
+            }
+        },
+        {
+            "Khanid Scout Insignia":{
+                "name":"Khanid Scout Insignia",
+                "typeid":"16182",
+                "line":"201"
+            }
+        },
+        {
+            "Khanid Sparrow Insignia":{
+                "name":"Khanid Sparrow Insignia",
+                "typeid":"16183",
+                "line":"202"
+            }
+        },
+        {
+            "Khanid Officer Insignia":{
+                "name":"Khanid Officer Insignia",
+                "typeid":"16184",
+                "line":"203"
+            }
+        },
+        {
+            "Khanid Hawk Insignia":{
+                "name":"Khanid Hawk Insignia",
+                "typeid":"16185",
+                "line":"204"
+            }
+        },
+        {
+            "Khanid Eagle Insignia":{
+                "name":"Khanid Eagle Insignia",
+                "typeid":"16186",
+                "line":"205"
+            }
+        },
+        {
+            "Khanid Warbird Insignia":{
+                "name":"Khanid Warbird Insignia",
+                "typeid":"16187",
+                "line":"206"
+            }
+        },
+        {
+            "Khanid High Commander Insignia":{
+                "name":"Khanid High Commander Insignia",
+                "typeid":"16188",
+                "line":"207"
+            }
+        },
+        {
+            "Khanid Royal Insignia":{
+                "name":"Khanid Royal Insignia",
+                "typeid":"16189",
+                "line":"208"
+            }
+        },
+        {
+            "CONCORD Star Emblem":{
+                "name":"CONCORD Star Emblem",
+                "typeid":"16617",
+                "line":"209"
+            }
+        },
+        {
+            "Manufacturing Tools":{
+                "name":"Manufacturing Tools",
+                "typeid":"16686",
+                "line":"210"
+            }
+        },
+        {
+            "Novice Medal":{
+                "name":"Novice Medal",
+                "typeid":"16712",
+                "line":"211"
+            }
+        },
+        {
+            "Intermediate Medal":{
+                "name":"Intermediate Medal",
+                "typeid":"16713",
+                "line":"212"
+            }
+        },
+        {
+            "Legends Medal":{
+                "name":"Legends Medal",
+                "typeid":"16714",
+                "line":"213"
+            }
+        },
+        {
+            "Gallentean Planetary Vehicles":{
+                "name":"Gallentean Planetary Vehicles",
+                "typeid":"17143",
+                "line":"214"
+            }
+        },
+        {
+            "Angel Bronze Tag":{
+                "name":"Angel Bronze Tag",
+                "typeid":"17190",
+                "line":"215"
+            }
+        },
+        {
+            "Angel Diamond Tag":{
+                "name":"Angel Diamond Tag",
+                "typeid":"17192",
+                "line":"216"
+            }
+        },
+        {
+            "Angel Gold Tag":{
+                "name":"Angel Gold Tag",
+                "typeid":"17194",
+                "line":"217"
+            }
+        },
+        {
+            "Angel Platinum Tag":{
+                "name":"Angel Platinum Tag",
+                "typeid":"17196",
+                "line":"218"
+            }
+        },
+        {
+            "Angel Electrum Tag":{
+                "name":"Angel Electrum Tag",
+                "typeid":"17199",
+                "line":"219"
+            }
+        },
+        {
+            "Blood Copper Tag":{
+                "name":"Blood Copper Tag",
+                "typeid":"17200",
+                "line":"220"
+            }
+        },
+        {
+            "Blood Diamond Tag":{
+                "name":"Blood Diamond Tag",
+                "typeid":"17201",
+                "line":"221"
+            }
+        },
+        {
+            "Blood Palladium Tag":{
+                "name":"Blood Palladium Tag",
+                "typeid":"17202",
+                "line":"222"
+            }
+        },
+        {
+            "Blood Electrum Tag":{
+                "name":"Blood Electrum Tag",
+                "typeid":"17203",
+                "line":"223"
+            }
+        },
+        {
+            "Blood Brass Tag":{
+                "name":"Blood Brass Tag",
+                "typeid":"17204",
+                "line":"224"
+            }
+        },
+        {
+            "Guristas Copper Tag":{
+                "name":"Guristas Copper Tag",
+                "typeid":"17205",
+                "line":"225"
+            }
+        },
+        {
+            "Guristas Diamond Tag":{
+                "name":"Guristas Diamond Tag",
+                "typeid":"17206",
+                "line":"226"
+            }
+        },
+        {
+            "Guristas Brass Tag":{
+                "name":"Guristas Brass Tag",
+                "typeid":"17207",
+                "line":"227"
+            }
+        },
+        {
+            "Guristas Palladium Tag":{
+                "name":"Guristas Palladium Tag",
+                "typeid":"17208",
+                "line":"228"
+            }
+        },
+        {
+            "Guristas Electrum Tag":{
+                "name":"Guristas Electrum Tag",
+                "typeid":"17209",
+                "line":"229"
+            }
+        },
+        {
+            "Sansha Copper Tag":{
+                "name":"Sansha Copper Tag",
+                "typeid":"17210",
+                "line":"230"
+            }
+        },
+        {
+            "Sansha Diamond Tag":{
+                "name":"Sansha Diamond Tag",
+                "typeid":"17211",
+                "line":"231"
+            }
+        },
+        {
+            "Sansha Brass Tag":{
+                "name":"Sansha Brass Tag",
+                "typeid":"17212",
+                "line":"232"
+            }
+        },
+        {
+            "Sansha Palladium Tag":{
+                "name":"Sansha Palladium Tag",
+                "typeid":"17213",
+                "line":"233"
+            }
+        },
+        {
+            "Sansha Electrum Tag":{
+                "name":"Sansha Electrum Tag",
+                "typeid":"17214",
+                "line":"234"
+            }
+        },
+        {
+            "Serpentis Copper Tag":{
+                "name":"Serpentis Copper Tag",
+                "typeid":"17215",
+                "line":"235"
+            }
+        },
+        {
+            "Serpentis Diamond Tag":{
+                "name":"Serpentis Diamond Tag",
+                "typeid":"17216",
+                "line":"236"
+            }
+        },
+        {
+            "Serpentis Brass Tag":{
+                "name":"Serpentis Brass Tag",
+                "typeid":"17217",
+                "line":"237"
+            }
+        },
+        {
+            "Serpentis Palladium Tag":{
+                "name":"Serpentis Palladium Tag",
+                "typeid":"17218",
+                "line":"238"
+            }
+        },
+        {
+            "Serpentis Electrum Tag":{
+                "name":"Serpentis Electrum Tag",
+                "typeid":"17219",
+                "line":"239"
+            }
+        },
+        {
+            "Domination Brass Tag":{
+                "name":"Domination Brass Tag",
+                "typeid":"17220",
+                "line":"240"
+            }
+        },
+        {
+            "Domination Bronze Tag":{
+                "name":"Domination Bronze Tag",
+                "typeid":"17221",
+                "line":"241"
+            }
+        },
+        {
+            "Domination Copper Tag":{
+                "name":"Domination Copper Tag",
+                "typeid":"17222",
+                "line":"242"
+            }
+        },
+        {
+            "Domination Crystal Tag":{
+                "name":"Domination Crystal Tag",
+                "typeid":"17223",
+                "line":"243"
+            }
+        },
+        {
+            "Domination Diamond Tag":{
+                "name":"Domination Diamond Tag",
+                "typeid":"17224",
+                "line":"244"
+            }
+        },
+        {
+            "Domination Electrum Tag":{
+                "name":"Domination Electrum Tag",
+                "typeid":"17225",
+                "line":"245"
+            }
+        },
+        {
+            "Domination Gold Tag":{
+                "name":"Domination Gold Tag",
+                "typeid":"17226",
+                "line":"246"
+            }
+        },
+        {
+            "Domination Platinum Tag":{
+                "name":"Domination Platinum Tag",
+                "typeid":"17229",
+                "line":"247"
+            }
+        },
+        {
+            "Domination Silver Tag":{
+                "name":"Domination Silver Tag",
+                "typeid":"17230",
+                "line":"248"
+            }
+        },
+        {
+            "Dark Blood Brass Tag":{
+                "name":"Dark Blood Brass Tag",
+                "typeid":"17231",
+                "line":"249"
+            }
+        },
+        {
+            "Dark Blood Bronze Tag":{
+                "name":"Dark Blood Bronze Tag",
+                "typeid":"17232",
+                "line":"250"
+            }
+        },
+        {
+            "Dark Blood Copper Tag":{
+                "name":"Dark Blood Copper Tag",
+                "typeid":"17233",
+                "line":"251"
+            }
+        },
+        {
+            "Dark Blood Crystal Tag":{
+                "name":"Dark Blood Crystal Tag",
+                "typeid":"17234",
+                "line":"252"
+            }
+        },
+        {
+            "Dark Blood Diamond Tag":{
+                "name":"Dark Blood Diamond Tag",
+                "typeid":"17235",
+                "line":"253"
+            }
+        },
+        {
+            "Dark Blood Electrum Tag":{
+                "name":"Dark Blood Electrum Tag",
+                "typeid":"17236",
+                "line":"254"
+            }
+        },
+        {
+            "Dark Blood Palladium Tag":{
+                "name":"Dark Blood Palladium Tag",
+                "typeid":"17237",
+                "line":"255"
+            }
+        },
+        {
+            "Dark Blood Gold Tag":{
+                "name":"Dark Blood Gold Tag",
+                "typeid":"17238",
+                "line":"256"
+            }
+        },
+        {
+            "Dark Blood Silver Tag":{
+                "name":"Dark Blood Silver Tag",
+                "typeid":"17239",
+                "line":"257"
+            }
+        },
+        {
+            "Dark Blood Platinum Tag":{
+                "name":"Dark Blood Platinum Tag",
+                "typeid":"17240",
+                "line":"258"
+            }
+        },
+        {
+            "Dread Guristas Brass Tag":{
+                "name":"Dread Guristas Brass Tag",
+                "typeid":"17241",
+                "line":"259"
+            }
+        },
+        {
+            "Dread Guristas Bronze Tag":{
+                "name":"Dread Guristas Bronze Tag",
+                "typeid":"17242",
+                "line":"260"
+            }
+        },
+        {
+            "Dread Guristas Copper Tag":{
+                "name":"Dread Guristas Copper Tag",
+                "typeid":"17243",
+                "line":"261"
+            }
+        },
+        {
+            "Dread Guristas Crystal Tag":{
+                "name":"Dread Guristas Crystal Tag",
+                "typeid":"17244",
+                "line":"262"
+            }
+        },
+        {
+            "Dread Guristas Diamond Tag":{
+                "name":"Dread Guristas Diamond Tag",
+                "typeid":"17245",
+                "line":"263"
+            }
+        },
+        {
+            "Dread Guristas Electrum Tag":{
+                "name":"Dread Guristas Electrum Tag",
+                "typeid":"17247",
+                "line":"264"
+            }
+        },
+        {
+            "Dread Guristas Gold Tag":{
+                "name":"Dread Guristas Gold Tag",
+                "typeid":"17248",
+                "line":"265"
+            }
+        },
+        {
+            "Dread Guristas Palladium Tag":{
+                "name":"Dread Guristas Palladium Tag",
+                "typeid":"17249",
+                "line":"266"
+            }
+        },
+        {
+            "Dread Guristas Platinum Tag":{
+                "name":"Dread Guristas Platinum Tag",
+                "typeid":"17250",
+                "line":"267"
+            }
+        },
+        {
+            "Dread Guristas Silver Tag":{
+                "name":"Dread Guristas Silver Tag",
+                "typeid":"17251",
+                "line":"268"
+            }
+        },
+        {
+            "True Sansha Brass Tag":{
+                "name":"True Sansha Brass Tag",
+                "typeid":"17252",
+                "line":"269"
+            }
+        },
+        {
+            "True Sansha Bronze Tag":{
+                "name":"True Sansha Bronze Tag",
+                "typeid":"17253",
+                "line":"270"
+            }
+        },
+        {
+            "True Sansha Copper Tag":{
+                "name":"True Sansha Copper Tag",
+                "typeid":"17254",
+                "line":"271"
+            }
+        },
+        {
+            "True Sansha Crystal Tag":{
+                "name":"True Sansha Crystal Tag",
+                "typeid":"17255",
+                "line":"272"
+            }
+        },
+        {
+            "True Sansha Diamond Tag":{
+                "name":"True Sansha Diamond Tag",
+                "typeid":"17256",
+                "line":"273"
+            }
+        },
+        {
+            "True Sansha Electrum Tag":{
+                "name":"True Sansha Electrum Tag",
+                "typeid":"17257",
+                "line":"274"
+            }
+        },
+        {
+            "True Sansha Gold Tag":{
+                "name":"True Sansha Gold Tag",
+                "typeid":"17258",
+                "line":"275"
+            }
+        },
+        {
+            "True Sansha Palladium Tag":{
+                "name":"True Sansha Palladium Tag",
+                "typeid":"17259",
+                "line":"276"
+            }
+        },
+        {
+            "True Sansha Platinum Tag":{
+                "name":"True Sansha Platinum Tag",
+                "typeid":"17260",
+                "line":"277"
+            }
+        },
+        {
+            "True Sansha Silver Tag":{
+                "name":"True Sansha Silver Tag",
+                "typeid":"17261",
+                "line":"278"
+            }
+        },
+        {
+            "Shadow Serpentis Brass Tag":{
+                "name":"Shadow Serpentis Brass Tag",
+                "typeid":"17262",
+                "line":"279"
+            }
+        },
+        {
+            "Shadow Serpentis Bronze Tag":{
+                "name":"Shadow Serpentis Bronze Tag",
+                "typeid":"17263",
+                "line":"280"
+            }
+        },
+        {
+            "Shadow Serpentis Copper Tag":{
+                "name":"Shadow Serpentis Copper Tag",
+                "typeid":"17264",
+                "line":"281"
+            }
+        },
+        {
+            "Shadow Serpentis Crystal Tag":{
+                "name":"Shadow Serpentis Crystal Tag",
+                "typeid":"17266",
+                "line":"282"
+            }
+        },
+        {
+            "Shadow Serpentis Diamond Tag":{
+                "name":"Shadow Serpentis Diamond Tag",
+                "typeid":"17267",
+                "line":"283"
+            }
+        },
+        {
+            "Shadow Serpentis Electrum Tag":{
+                "name":"Shadow Serpentis Electrum Tag",
+                "typeid":"17268",
+                "line":"284"
+            }
+        },
+        {
+            "Shadow Serpentis Palladium Tag":{
+                "name":"Shadow Serpentis Palladium Tag",
+                "typeid":"17269",
+                "line":"285"
+            }
+        },
+        {
+            "Shadow Serpentis Gold Tag":{
+                "name":"Shadow Serpentis Gold Tag",
+                "typeid":"17270",
+                "line":"286"
+            }
+        },
+        {
+            "Shadow Serpentis Platinum Tag":{
+                "name":"Shadow Serpentis Platinum Tag",
+                "typeid":"17271",
+                "line":"287"
+            }
+        },
+        {
+            "Shadow Serpentis Silver Tag":{
+                "name":"Shadow Serpentis Silver Tag",
+                "typeid":"17272",
+                "line":"288"
+            }
+        },
+        {
+            "Chelm Soran's Tag":{
+                "name":"Chelm Soran's Tag",
+                "typeid":"17287",
+                "line":"289"
+            }
+        },
+        {
+            "Selynne Mardakar's Tag":{
+                "name":"Selynne Mardakar's Tag",
+                "typeid":"17289",
+                "line":"290"
+            }
+        },
+        {
+            "Brokara Ryver's Tag":{
+                "name":"Brokara Ryver's Tag",
+                "typeid":"17290",
+                "line":"291"
+            }
+        },
+        {
+            "Cormack Vaaja's Tag":{
+                "name":"Cormack Vaaja's Tag",
+                "typeid":"17291",
+                "line":"292"
+            }
+        },
+        {
+            "Setele Schellan's Tag":{
+                "name":"Setele Schellan's Tag",
+                "typeid":"17292",
+                "line":"293"
+            }
+        },
+        {
+            "Tuvan Orth's Tag":{
+                "name":"Tuvan Orth's Tag",
+                "typeid":"17293",
+                "line":"294"
+            }
+        },
+        {
+            "Brynn Jerdola's Tag":{
+                "name":"Brynn Jerdola's Tag",
+                "typeid":"17294",
+                "line":"295"
+            }
+        },
+        {
+            "Estamel Tharchon's Tag":{
+                "name":"Estamel Tharchon's Tag",
+                "typeid":"17295",
+                "line":"296"
+            }
+        },
+        {
+            "Vepas Minimala's Tag":{
+                "name":"Vepas Minimala's Tag",
+                "typeid":"17296",
+                "line":"297"
+            }
+        },
+        {
+            "Thon Eney's Tag":{
+                "name":"Thon Eney's Tag",
+                "typeid":"17297",
+                "line":"298"
+            }
+        },
+        {
+            "Kaikka Peunato's Tag":{
+                "name":"Kaikka Peunato's Tag",
+                "typeid":"17298",
+                "line":"299"
+            }
+        },
+        {
+            "Ahremen Arkah's Tag":{
+                "name":"Ahremen Arkah's Tag",
+                "typeid":"17300",
+                "line":"300"
+            }
+        },
+        {
+            "Raysere Giant's Tag":{
+                "name":"Raysere Giant's Tag",
+                "typeid":"17301",
+                "line":"301"
+            }
+        },
+        {
+            "Tairei Namazoth's Tag":{
+                "name":"Tairei Namazoth's Tag",
+                "typeid":"17302",
+                "line":"302"
+            }
+        },
+        {
+            "Tobias Kruzhor's Tag":{
+                "name":"Tobias Kruzhor's Tag",
+                "typeid":"17303",
+                "line":"303"
+            }
+        },
+        {
+            "Gotan Kreiss's Tag":{
+                "name":"Gotan Kreiss's Tag",
+                "typeid":"17304",
+                "line":"304"
+            }
+        },
+        {
+            "Hakim Stormare's Tag":{
+                "name":"Hakim Stormare's Tag",
+                "typeid":"17305",
+                "line":"305"
+            }
+        },
+        {
+            "Mizuro Cybon's Tag":{
+                "name":"Mizuro Cybon's Tag",
+                "typeid":"17306",
+                "line":"306"
+            }
+        },
+        {
+            "Gallente 106 Election Holoreel":{
+                "name":"Gallente 106 Election Holoreel",
+                "typeid":"17423",
+                "line":"307"
+            }
+        },
+        {
+            "Amarrian Wheat":{
+                "name":"Amarrian Wheat",
+                "typeid":"17424",
+                "line":"308"
+            }
+        },
+        {
+            "Jenmei's Tag":{
+                "name":"Jenmei's Tag",
+                "typeid":"17623",
+                "line":"309"
+            }
+        },
+        {
+            "Elena Gazky's DNA":{
+                "name":"Elena Gazky's DNA",
+                "typeid":"17624",
+                "line":"310"
+            }
+        },
+        {
+            "Imai Kenon's Tag":{
+                "name":"Imai Kenon's Tag",
+                "typeid":"17630",
+                "line":"311"
+            }
+        },
+        {
+            "Mordur's DNA":{
+                "name":"Mordur's DNA",
+                "typeid":"17640",
+                "line":"312"
+            }
+        },
+        {
+            "Caldari AZ-1 Nexus Chip":{
+                "name":"Caldari AZ-1 Nexus Chip",
+                "typeid":"17643",
+                "line":"313"
+            }
+        },
+        {
+            "Caldari CU-1 Nexus Chip":{
+                "name":"Caldari CU-1 Nexus Chip",
+                "typeid":"17646",
+                "line":"314"
+            }
+        },
+        {
+            "Caldari BY-1 Nexus Chip":{
+                "name":"Caldari BY-1 Nexus Chip",
+                "typeid":"17647",
+                "line":"315"
+            }
+        },
+        {
+            "Uleen Bloodsworn's Tag":{
+                "name":"Uleen Bloodsworn's Tag",
+                "typeid":"17743",
+                "line":"316"
+            }
+        },
+        {
+            "Activists":{
+                "name":"Activists",
+                "typeid":"17754",
+                "line":"317"
+            }
+        },
+        {
+            "Pro-Trade Pamphlets":{
+                "name":"Pro-Trade Pamphlets",
+                "typeid":"17755",
+                "line":"318"
+            }
+        },
+        {
+            "Exotic Dancers, Female":{
+                "name":"Exotic Dancers, Female",
+                "typeid":"17765",
+                "line":"319"
+            }
+        },
+        {
+            "Kameiras":{
+                "name":"Kameiras",
+                "typeid":"17767",
+                "line":"320"
+            }
+        },
+        {
+            "Amarr KIU-1 Nexus Chip":{
+                "name":"Amarr KIU-1 Nexus Chip",
+                "typeid":"17794",
+                "line":"321"
+            }
+        },
+        {
+            "Minmatar UUC Nexus Chip":{
+                "name":"Minmatar UUC Nexus Chip",
+                "typeid":"17814",
+                "line":"322"
+            }
+        },
+        {
+            "Minmatar UUA Nexus Chip":{
+                "name":"Minmatar UUA Nexus Chip",
+                "typeid":"17815",
+                "line":"323"
+            }
+        },
+        {
+            "Minmatar UUB Nexus Chip":{
+                "name":"Minmatar UUB Nexus Chip",
+                "typeid":"17816",
+                "line":"324"
+            }
+        },
+        {
+            "Genom Tara's Insignia":{
+                "name":"Genom Tara's Insignia",
+                "typeid":"17817",
+                "line":"325"
+            }
+        },
+        {
+            "Zor's DNA":{
+                "name":"Zor's DNA",
+                "typeid":"17840",
+                "line":"326"
+            }
+        },
+        {
+            "Lazarus's Tag":{
+                "name":"Lazarus's Tag",
+                "typeid":"17847",
+                "line":"327"
+            }
+        },
+        {
+            "Gallente Gamma Nexus Chip":{
+                "name":"Gallente Gamma Nexus Chip",
+                "typeid":"17848",
+                "line":"328"
+            }
+        },
+        {
+            "Gallente Beta Nexus Chip":{
+                "name":"Gallente Beta Nexus Chip",
+                "typeid":"17849",
+                "line":"329"
+            }
+        },
+        {
+            "Gallente Alpha Nexus Chip":{
+                "name":"Gallente Alpha Nexus Chip",
+                "typeid":"17850",
+                "line":"330"
+            }
+        },
+        {
+            "Faramon's Tag":{
+                "name":"Faramon's Tag",
+                "typeid":"17852",
+                "line":"331"
+            }
+        },
+        {
+            "High-Tech Scanner":{
+                "name":"High-Tech Scanner",
+                "typeid":"17894",
+                "line":"332"
+            }
+        },
+        {
+            "High-Tech Manufacturing Tools":{
+                "name":"High-Tech Manufacturing Tools",
+                "typeid":"17895",
+                "line":"333"
+            }
+        },
+        {
+            "High-Tech Small Arms":{
+                "name":"High-Tech Small Arms",
+                "typeid":"17897",
+                "line":"334"
+            }
+        },
+        {
+            "Ammatar Navy Colonel Insignia I":{
+                "name":"Ammatar Navy Colonel Insignia I",
+                "typeid":"17999",
+                "line":"335"
+            }
+        },
+        {
+            "Freed Slaves":{
+                "name":"Freed Slaves",
+                "typeid":"18029",
+                "line":"336"
+            }
+        },
+        {
+            "Olufami's DNA":{
+                "name":"Olufami's DNA",
+                "typeid":"18655",
+                "line":"337"
+            }
+        },
+        {
+            "Shimon Jaen's Insignia":{
+                "name":"Shimon Jaen's Insignia",
+                "typeid":"18657",
+                "line":"338"
+            }
+        },
+        {
+            "Zelfarios Kashnostramus's Tag":{
+                "name":"Zelfarios Kashnostramus's Tag",
+                "typeid":"18679",
+                "line":"339"
+            }
+        },
+        {
+            "Confiscated Viral Agent":{
+                "name":"Confiscated Viral Agent",
+                "typeid":"19398",
+                "line":"340"
+            }
+        },
+        {
+            "1st Tier Overseer's Personal Effects":{
+                "name":"1st Tier Overseer's Personal Effects",
+                "typeid":"19400",
+                "line":"341"
+            }
+        },
+        {
+            "2nd Tier Overseer's Personal Effects":{
+                "name":"2nd Tier Overseer's Personal Effects",
+                "typeid":"19401",
+                "line":"342"
+            }
+        },
+        {
+            "3rd Tier Overseer's Personal Effects":{
+                "name":"3rd Tier Overseer's Personal Effects",
+                "typeid":"19402",
+                "line":"343"
+            }
+        },
+        {
+            "4th Tier Overseer's Personal Effects":{
+                "name":"4th Tier Overseer's Personal Effects",
+                "typeid":"19403",
+                "line":"344"
+            }
+        },
+        {
+            "5th Tier Overseer's Personal Effects":{
+                "name":"5th Tier Overseer's Personal Effects",
+                "typeid":"19404",
+                "line":"345"
+            }
+        },
+        {
+            "6th Tier Overseer's Personal Effects":{
+                "name":"6th Tier Overseer's Personal Effects",
+                "typeid":"19405",
+                "line":"346"
+            }
+        },
+        {
+            "7th Tier Overseer's Personal Effects":{
+                "name":"7th Tier Overseer's Personal Effects",
+                "typeid":"19406",
+                "line":"347"
+            }
+        },
+        {
+            "8th Tier Overseer's Personal Effects":{
+                "name":"8th Tier Overseer's Personal Effects",
+                "typeid":"19407",
+                "line":"348"
+            }
+        },
+        {
+            "9th Tier Overseer's Personal Effects":{
+                "name":"9th Tier Overseer's Personal Effects",
+                "typeid":"19408",
+                "line":"349"
+            }
+        },
+        {
+            "11th Tier Overseer's Personal Effects":{
+                "name":"11th Tier Overseer's Personal Effects",
+                "typeid":"19409",
+                "line":"350"
+            }
+        },
+        {
+            "12th Tier Overseer's Personal Effects":{
+                "name":"12th Tier Overseer's Personal Effects",
+                "typeid":"19410",
+                "line":"351"
+            }
+        },
+        {
+            "13th Tier Overseer's Personal Effects":{
+                "name":"13th Tier Overseer's Personal Effects",
+                "typeid":"19411",
+                "line":"352"
+            }
+        },
+        {
+            "14th Tier Overseer's Personal Effects":{
+                "name":"14th Tier Overseer's Personal Effects",
+                "typeid":"19412",
+                "line":"353"
+            }
+        },
+        {
+            "15th Tier Overseer's Personal Effects":{
+                "name":"15th Tier Overseer's Personal Effects",
+                "typeid":"19413",
+                "line":"354"
+            }
+        },
+        {
+            "16th Tier Overseer's Personal Effects":{
+                "name":"16th Tier Overseer's Personal Effects",
+                "typeid":"19414",
+                "line":"355"
+            }
+        },
+        {
+            "17th Tier Overseer's Personal Effects":{
+                "name":"17th Tier Overseer's Personal Effects",
+                "typeid":"19415",
+                "line":"356"
+            }
+        },
+        {
+            "18th Tier Overseer's Personal Effects":{
+                "name":"18th Tier Overseer's Personal Effects",
+                "typeid":"19416",
+                "line":"357"
+            }
+        },
+        {
+            "19th Tier Overseer's Personal Effects":{
+                "name":"19th Tier Overseer's Personal Effects",
+                "typeid":"19417",
+                "line":"358"
+            }
+        },
+        {
+            "20th Tier Overseer's Personal Effects":{
+                "name":"20th Tier Overseer's Personal Effects",
+                "typeid":"19418",
+                "line":"359"
+            }
+        },
+        {
+            "21st Tier Overseer's Personal Effects":{
+                "name":"21st Tier Overseer's Personal Effects",
+                "typeid":"19419",
+                "line":"360"
+            }
+        },
+        {
+            "22nd Tier Overseer's Personal Effects":{
+                "name":"22nd Tier Overseer's Personal Effects",
+                "typeid":"19420",
+                "line":"361"
+            }
+        },
+        {
+            "23rd Tier Overseer's Personal Effects":{
+                "name":"23rd Tier Overseer's Personal Effects",
+                "typeid":"19421",
+                "line":"362"
+            }
+        },
+        {
+            "10th Tier Overseer's Personal Effects":{
+                "name":"10th Tier Overseer's Personal Effects",
+                "typeid":"19422",
+                "line":"363"
+            }
+        },
+        {
+            "Blaque Voucher":{
+                "name":"Blaque Voucher",
+                "typeid":"19461",
+                "line":"364"
+            }
+        },
+        {
+            "Foiritan Voucher":{
+                "name":"Foiritan Voucher",
+                "typeid":"19462",
+                "line":"365"
+            }
+        },
+        {
+            "Autrech Voucher":{
+                "name":"Autrech Voucher",
+                "typeid":"19463",
+                "line":"366"
+            }
+        },
+        {
+            "Jarkon Puman's Tag":{
+                "name":"Jarkon Puman's Tag",
+                "typeid":"19663",
+                "line":"367"
+            }
+        },
+        {
+            "Amarr Empire Starbase Charter":{
+                "name":"Amarr Empire Starbase Charter",
+                "typeid":"24592",
+                "line":"368"
+            }
+        },
+        {
+            "Caldari State Starbase Charter":{
+                "name":"Caldari State Starbase Charter",
+                "typeid":"24593",
+                "line":"369"
+            }
+        },
+        {
+            "Gallente Federation Starbase Charter":{
+                "name":"Gallente Federation Starbase Charter",
+                "typeid":"24594",
+                "line":"370"
+            }
+        },
+        {
+            "Minmatar Republic Starbase Charter":{
+                "name":"Minmatar Republic Starbase Charter",
+                "typeid":"24595",
+                "line":"371"
+            }
+        },
+        {
+            "Khanid Kingdom Starbase Charter":{
+                "name":"Khanid Kingdom Starbase Charter",
+                "typeid":"24596",
+                "line":"372"
+            }
+        },
+        {
+            "Ammatar Mandate Starbase Charter":{
+                "name":"Ammatar Mandate Starbase Charter",
+                "typeid":"24597",
+                "line":"373"
+            }
+        },
+        {
+            "Blood Gold Tag":{
+                "name":"Blood Gold Tag",
+                "typeid":"25239",
+                "line":"374"
+            }
+        },
+        {
+            "Fedo":{
+                "name":"Fedo",
+                "typeid":"26902",
+                "line":"375"
+            }
+        },
+        {
+            "Republic Fleet Navy Rear-Admiral Insignia":{
+                "name":"Republic Fleet Navy Rear-Admiral Insignia",
+                "typeid":"28231",
+                "line":"376"
+            }
+        },
+        {
+            "Federation Navy Fleet Rear-Admiral Insignia":{
+                "name":"Federation Navy Fleet Rear-Admiral Insignia",
+                "typeid":"28236",
+                "line":"377"
+            }
+        },
+        {
+            "Caldari Navy Fleet Rear-Admiral Insignia":{
+                "name":"Caldari Navy Fleet Rear-Admiral Insignia",
+                "typeid":"28237",
+                "line":"378"
+            }
+        },
+        {
+            "Imperial Navy Fleet Rear-Admiral Insignia":{
+                "name":"Imperial Navy Fleet Rear-Admiral Insignia",
+                "typeid":"28238",
+                "line":"379"
+            }
+        },
+        {
+            "Reinforced Metal Scraps":{
+                "name":"Reinforced Metal Scraps",
+                "typeid":"30497",
+                "line":"380"
+            }
+        },
+        {
+            "Neural Network Analyzer":{
+                "name":"Neural Network Analyzer",
+                "typeid":"30744",
+                "line":"381"
+            }
+        },
+        {
+            "Sleeper Data Library":{
+                "name":"Sleeper Data Library",
+                "typeid":"30745",
+                "line":"382"
+            }
+        },
+        {
+            "Ancient Coordinates Database":{
+                "name":"Ancient Coordinates Database",
+                "typeid":"30746",
+                "line":"383"
+            }
+        },
+        {
+            "Sleeper Drone AI Nexus":{
+                "name":"Sleeper Drone AI Nexus",
+                "typeid":"30747",
+                "line":"384"
+            }
+        },
+        {
+            "Olfei Medallion":{
+                "name":"Olfei Medallion",
+                "typeid":"32099",
+                "line":"385"
+            }
+        },
+        {
+            "100 Aurum Token":{
+                "name":"100 Aurum Token",
+                "typeid":"32792",
+                "line":"386"
+            }
+        },
+        {
+            "500 Aurum Token":{
+                "name":"500 Aurum Token",
+                "typeid":"32793",
+                "line":"387"
+            }
+        },
+        {
+            "Clone Soldier Trainer Tag":{
+                "name":"Clone Soldier Trainer Tag",
+                "typeid":"33138",
+                "line":"388"
+            }
+        },
+        {
+            "Clone Soldier Recruiter Tag":{
+                "name":"Clone Soldier Recruiter Tag",
+                "typeid":"33139",
+                "line":"389"
+            }
+        },
+        {
+            "Clone Soldier Transporter Tag":{
+                "name":"Clone Soldier Transporter Tag",
+                "typeid":"33140",
+                "line":"390"
+            }
+        },
+        {
+            "Clone Soldier Negotiator Tag":{
+                "name":"Clone Soldier Negotiator Tag",
+                "typeid":"33141",
+                "line":"391"
+            }
+        },
+        {
+            "Shattered Villard Wheel":{
+                "name":"Shattered Villard Wheel",
+                "typeid":"33539",
+                "line":"392"
+            }
+        },
+        {
+            "Covert Research Tools":{
+                "name":"Covert Research Tools",
+                "typeid":"33577",
+                "line":"393"
+            }
+        },
+        {
+            "Rogue Drone 46-X Nexus Chip":{
+                "name":"Rogue Drone 46-X Nexus Chip",
+                "typeid":"33618",
+                "line":"394"
+            }
+        },
+        {
+            "Rogue Drone 43-X Nexus Chip":{
+                "name":"Rogue Drone 43-X Nexus Chip",
+                "typeid":"33619",
+                "line":"395"
+            }
+        },
+        {
+            "Rogue Drone 42-X Nexus Chip":{
+                "name":"Rogue Drone 42-X Nexus Chip",
+                "typeid":"33620",
+                "line":"396"
+            }
+        },
+        {
+            "Guristas Data Sequence":{
+                "name":"Guristas Data Sequence",
+                "typeid":"33988",
+                "line":"397"
+            }
+        },
+        {
+            "Sentinel Sequence 0":{
+                "name":"Sentinel Sequence 0",
+                "typeid":"34540",
+                "line":"398"
+            }
+        },
+        {
+            "Sentinel Sequence 1":{
+                "name":"Sentinel Sequence 1",
+                "typeid":"34541",
+                "line":"399"
+            }
+        },
+        {
+            "Barbican Sequence 0":{
+                "name":"Barbican Sequence 0",
+                "typeid":"34542",
+                "line":"400"
+            }
+        },
+        {
+            "Barbican Sequence 1":{
+                "name":"Barbican Sequence 1",
+                "typeid":"34543",
+                "line":"401"
+            }
+        },
+        {
+            "Vidette Sequence 0":{
+                "name":"Vidette Sequence 0",
+                "typeid":"34544",
+                "line":"402"
+            }
+        },
+        {
+            "Vidette Sequence 1":{
+                "name":"Vidette Sequence 1",
+                "typeid":"34545",
+                "line":"403"
+            }
+        },
+        {
+            "Conflux Sequence 0":{
+                "name":"Conflux Sequence 0",
+                "typeid":"34546",
+                "line":"404"
+            }
+        },
+        {
+            "Conflux Sequence 1":{
+                "name":"Conflux Sequence 1",
+                "typeid":"34547",
+                "line":"405"
+            }
+        },
+        {
+            "Redoubt Sequence 0":{
+                "name":"Redoubt Sequence 0",
+                "typeid":"34548",
+                "line":"406"
+            }
+        },
+        {
+            "Redoubt Sequence 1":{
+                "name":"Redoubt Sequence 1",
+                "typeid":"34549",
+                "line":"407"
+            }
+        },
+        {
+            "Sentinel Index":{
+                "name":"Sentinel Index",
+                "typeid":"34551",
+                "line":"408"
+            }
+        },
+        {
+            "Barbican Index":{
+                "name":"Barbican Index",
+                "typeid":"34552",
+                "line":"409"
+            }
+        },
+        {
+            "Vidette Index":{
+                "name":"Vidette Index",
+                "typeid":"34553",
+                "line":"410"
+            }
+        },
+        {
+            "Conflux Index":{
+                "name":"Conflux Index",
+                "typeid":"34554",
+                "line":"411"
+            }
+        },
+        {
+            "Redoubt Index":{
+                "name":"Redoubt Index",
+                "typeid":"34555",
+                "line":"412"
+            }
+        },
+        {
+            "Sentinel Element":{
+                "name":"Sentinel Element",
+                "typeid":"34556",
+                "line":"413"
+            }
+        },
+        {
+            "Barbican Element":{
+                "name":"Barbican Element",
+                "typeid":"34557",
+                "line":"414"
+            }
+        },
+        {
+            "Vidette Element":{
+                "name":"Vidette Element",
+                "typeid":"34558",
+                "line":"415"
+            }
+        },
+        {
+            "Conflux Element":{
+                "name":"Conflux Element",
+                "typeid":"34559",
+                "line":"416"
+            }
+        },
+        {
+            "Redoubt Element":{
+                "name":"Redoubt Element",
+                "typeid":"34560",
+                "line":"417"
+            }
+        },
+        {
+            "Antikythera Element":{
+                "name":"Antikythera Element",
+                "typeid":"34575",
+                "line":"418"
+            }
+        },
+        {
+            "Coalesced Element Blueprint":{
+                "name":"Coalesced Element Blueprint",
+                "typeid":"36949",
+                "line":"419"
+            }
+        },
+        {
+            "Research Component":{
+                "name":"Research Component",
+                "typeid":"40456",
+                "line":"420"
+            }
+        },
+        {
+            "Jovian DNA Strand":{
+                "name":"Jovian DNA Strand",
+                "typeid":"40541",
+                "line":"421"
+            }
+        },
+        {
+            "Large 'Fortizar' Citadel BPC Token":{
+                "name":"Large 'Fortizar' Citadel BPC Token",
+                "typeid":"40549",
+                "line":"422"
+            }
+        },
+        {
+            "Subcompact TEBS Interface":{
+                "name":"Subcompact TEBS Interface",
+                "typeid":"40701",
+                "line":"423"
+            }
+        },
+        {
+            "Convoy Hawk 6 Escort Roster":{
+                "name":"Convoy Hawk 6 Escort Roster",
+                "typeid":"41023",
+                "line":"424"
+            }
+        },
+        {
+            "Audio Log Backup \u2013 115/11/11 A-0477":{
+                "name":"Audio Log Backup \u2013 115/11/11 A-0477",
+                "typeid":"41024",
+                "line":"425"
+            }
+        },
+        {
+            "Audio Log Backup \u2013 117/07/01 G-6640":{
+                "name":"Audio Log Backup \u2013 117/07/01 G-6640",
+                "typeid":"41025",
+                "line":"426"
+            }
+        },
+        {
+            "Manifest \u2013 Cargo 118/01/06 \u2013 CLEARENCE 1B":{
+                "name":"Manifest \u2013 Cargo 118/01/06 \u2013 CLEARENCE 1B",
+                "typeid":"41026",
+                "line":"427"
+            }
+        },
+        {
+            "Secure Comms Uplink ALPHA-6":{
+                "name":"Secure Comms Uplink ALPHA-6",
+                "typeid":"41027",
+                "line":"428"
+            }
+        },
+        {
+            "Medical Report 0401A \u2013 117/01/19":{
+                "name":"Medical Report 0401A \u2013 117/01/19",
+                "typeid":"41028",
+                "line":"429"
+            }
+        },
+        {
+            "Progress Report 0466B \u2013 117/02/28":{
+                "name":"Progress Report 0466B \u2013 117/02/28",
+                "typeid":"41029",
+                "line":"430"
+            }
+        },
+        {
+            "Ducia Foundry Strong Box":{
+                "name":"Ducia Foundry Strong Box",
+                "typeid":"43682",
+                "line":"431"
+            }
+        },
+        {
+            "Deep Core Mining Inc. Strong Box":{
+                "name":"Deep Core Mining Inc. Strong Box",
+                "typeid":"43685",
+                "line":"432"
+            }
+        },
+        {
+            "Poksu Mineral Group Strong Box":{
+                "name":"Poksu Mineral Group Strong Box",
+                "typeid":"43686",
+                "line":"433"
+            }
+        },
+        {
+            "Minedrill Strong Box":{
+                "name":"Minedrill Strong Box",
+                "typeid":"43687",
+                "line":"434"
+            }
+        },
+        {
+            "Minmatar Mining Corporation Strong Box":{
+                "name":"Minmatar Mining Corporation Strong Box",
+                "typeid":"43691",
+                "line":"435"
+            }
+        },
+        {
+            "Vherokior Tribe Strong Box":{
+                "name":"Vherokior Tribe Strong Box",
+                "typeid":"43692",
+                "line":"436"
+            }
+        },
+        {
+            "Thukker Mix Strong Box":{
+                "name":"Thukker Mix Strong Box",
+                "typeid":"43693",
+                "line":"437"
+            }
+        },
+        {
+            "True Creations Strong Box":{
+                "name":"True Creations Strong Box",
+                "typeid":"43695",
+                "line":"438"
+            }
+        },
+        {
+            "Blood Raider Strong Box":{
+                "name":"Blood Raider Strong Box",
+                "typeid":"43696",
+                "line":"439"
+            }
+        },
+        {
+            "Salvation Angels Strong Box":{
+                "name":"Salvation Angels Strong Box",
+                "typeid":"43698",
+                "line":"440"
+            }
+        },
+        {
+            "300 Aurum Token":{
+                "name":"300 Aurum Token",
+                "typeid":"44204",
+                "line":"441"
+            }
+        },
+        {
+            "Hyasyoda Research Lab Technical Data Chip":{
+                "name":"Hyasyoda Research Lab Technical Data Chip",
+                "typeid":"45584",
+                "line":"442"
+            }
+        },
+        {
+            "Blood Raider Molok Blueprint Armored Cache":{
+                "name":"Blood Raider Molok Blueprint Armored Cache",
+                "typeid":"45677",
+                "line":"443"
+            }
+        },
+        {
+            "Blood Raider Chemosh Blueprint Armored Cache":{
+                "name":"Blood Raider Chemosh Blueprint Armored Cache",
+                "typeid":"45678",
+                "line":"444"
+            }
+        },
+        {
+            "Blood Raider Standup Module Blueprint Armored Cache":{
+                "name":"Blood Raider Standup Module Blueprint Armored Cache",
+                "typeid":"46579",
+                "line":"445"
+            }
+        },
+        {
+            "Guristas Standup Module Blueprint Armored Cache":{
+                "name":"Guristas Standup Module Blueprint Armored Cache",
+                "typeid":"46580",
+                "line":"446"
+            }
+        },
+        {
+            "Guristas Loggerhead Blueprint Armored Cache":{
+                "name":"Guristas Loggerhead Blueprint Armored Cache",
+                "typeid":"46601",
+                "line":"447"
+            }
+        },
+        {
+            "Guristas Komodo Blueprint Armored Cache":{
+                "name":"Guristas Komodo Blueprint Armored Cache",
+                "typeid":"46603",
+                "line":"448"
+            }
+        },
+        {
+            "Compressed Capsule Shell":{
+                "name":"Compressed Capsule Shell",
+                "typeid":"47450",
+                "line":"449"
+            }
+        },
+        {
+            "Calm Exotic Filament":{
+                "name":"Calm Exotic Filament",
+                "typeid":"47761",
+                "line":"450"
+            }
+        },
+        {
+            "Calm Firestorm Filament":{
+                "name":"Calm Firestorm Filament",
+                "typeid":"47763",
+                "line":"451"
+            }
+        },
+        {
+            "Calm Gamma Filament":{
+                "name":"Calm Gamma Filament",
+                "typeid":"47764",
+                "line":"452"
+            }
+        },
+        {
+            "Fierce Exotic Filament":{
+                "name":"Fierce Exotic Filament",
+                "typeid":"47889",
+                "line":"453"
+            }
+        },
+        {
+            "Fierce Dark Filament":{
+                "name":"Fierce Dark Filament",
+                "typeid":"47893",
+                "line":"454"
+            }
+        },
+        {
+            "Chaotic Dark Filament":{
+                "name":"Chaotic Dark Filament",
+                "typeid":"47895",
+                "line":"455"
+            }
+        },
+        {
+            "Fierce Firestorm Filament":{
+                "name":"Fierce Firestorm Filament",
+                "typeid":"47897",
+                "line":"456"
+            }
+        },
+        {
+            "Agitated Gamma Filament":{
+                "name":"Agitated Gamma Filament",
+                "typeid":"47900",
+                "line":"457"
+            }
+        },
+        {
+            "Fierce Gamma Filament":{
+                "name":"Fierce Gamma Filament",
+                "typeid":"47901",
+                "line":"458"
+            }
+        },
+        {
+            "Fierce Electrical Filament":{
+                "name":"Fierce Electrical Filament",
+                "typeid":"47905",
+                "line":"459"
+            }
+        },
+        {
+            "Raging Electrical Filament":{
+                "name":"Raging Electrical Filament",
+                "typeid":"47906",
+                "line":"460"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AEA1":{
+                "name":"Triglavian Trinary Datastream AEA1",
+                "typeid":"48764",
+                "line":"461"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AEA2":{
+                "name":"Triglavian Trinary Datastream AEA2",
+                "typeid":"48765",
+                "line":"462"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream DAV2":{
+                "name":"Triglavian Trinary Datastream DAV2",
+                "typeid":"48768",
+                "line":"463"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream HFN1":{
+                "name":"Triglavian Trinary Datastream HFN1",
+                "typeid":"48770",
+                "line":"464"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream HFN2":{
+                "name":"Triglavian Trinary Datastream HFN2",
+                "typeid":"48771",
+                "line":"465"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream HFN3":{
+                "name":"Triglavian Trinary Datastream HFN3",
+                "typeid":"48772",
+                "line":"466"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AFN2":{
+                "name":"Triglavian Trinary Datastream AFN2",
+                "typeid":"48774",
+                "line":"467"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AFN3":{
+                "name":"Triglavian Trinary Datastream AFN3",
+                "typeid":"48775",
+                "line":"468"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AFN1":{
+                "name":"Triglavian Trinary Datastream AFN1",
+                "typeid":"48778",
+                "line":"469"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AFN4":{
+                "name":"Triglavian Trinary Datastream AFN4",
+                "typeid":"52191",
+                "line":"470"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AEA5":{
+                "name":"Triglavian Trinary Datastream AEA5",
+                "typeid":"52195",
+                "line":"471"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream DAV5":{
+                "name":"Triglavian Trinary Datastream DAV5",
+                "typeid":"52197",
+                "line":"472"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AFN6":{
+                "name":"Triglavian Trinary Datastream AFN6",
+                "typeid":"52409",
+                "line":"473"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream DAV6":{
+                "name":"Triglavian Trinary Datastream DAV6",
+                "typeid":"52410",
+                "line":"474"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream HFN6":{
+                "name":"Triglavian Trinary Datastream HFN6",
+                "typeid":"52413",
+                "line":"475"
+            }
+        },
+        {
+            "Zirnitra Blueprint Data Vault":{
+                "name":"Zirnitra Blueprint Data Vault",
+                "typeid":"53299",
+                "line":"476"
+            }
+        },
+        {
+            "Signal-25 'Needlejack' Filament":{
+                "name":"Signal-25 'Needlejack' Filament",
+                "typeid":"53983",
+                "line":"477"
+            }
+        },
+        {
+            "Signal-5 'Needlejack' Filament":{
+                "name":"Signal-5 'Needlejack' Filament",
+                "typeid":"53984",
+                "line":"478"
+            }
+        },
+        {
+            "Noise-15 'Needlejack' Filament":{
+                "name":"Noise-15 'Needlejack' Filament",
+                "typeid":"53985",
+                "line":"479"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream XCZ1":{
+                "name":"Triglavian Trinary Datastream XCZ1",
+                "typeid":"54804",
+                "line":"480"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream XCZ2":{
+                "name":"Triglavian Trinary Datastream XCZ2",
+                "typeid":"54805",
+                "line":"481"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream XCZ3":{
+                "name":"Triglavian Trinary Datastream XCZ3",
+                "typeid":"54806",
+                "line":"482"
+            }
+        },
+        {
+            "Triglavian Sublight Telemeter":{
+                "name":"Triglavian Sublight Telemeter",
+                "typeid":"55830",
+                "line":"483"
+            }
+        },
+        {
+            "Triglavian Transconduit Datacaster":{
+                "name":"Triglavian Transconduit Datacaster",
+                "typeid":"55831",
+                "line":"484"
+            }
+        },
+        {
+            "Triglavian Holographic Transcriber":{
+                "name":"Triglavian Holographic Transcriber",
+                "typeid":"55832",
+                "line":"485"
+            }
+        },
+        {
+            "EGDLI (2) Boosters Tier 1 (Omega)":{
+                "name":"EGDLI (2) Boosters Tier 1 (Omega)",
+                "typeid":"55836",
+                "line":"486"
+            }
+        },
+        {
+            "EGDLI (2) Boosters Tier 2 (Omega)":{
+                "name":"EGDLI (2) Boosters Tier 2 (Omega)",
+                "typeid":"55837",
+                "line":"487"
+            }
+        },
+        {
+            "EGDLI (2) Boosters Tier 3 (Omega)":{
+                "name":"EGDLI (2) Boosters Tier 3 (Omega)",
+                "typeid":"55838",
+                "line":"488"
+            }
+        },
+        {
+            "EGDLI (2) Abyssal Tier 1 (Omega)":{
+                "name":"EGDLI (2) Abyssal Tier 1 (Omega)",
+                "typeid":"55839",
+                "line":"489"
+            }
+        },
+        {
+            "EGDLI (2) Abyssal Tier 2 (Omega)":{
+                "name":"EGDLI (2) Abyssal Tier 2 (Omega)",
+                "typeid":"55840",
+                "line":"490"
+            }
+        },
+        {
+            "EGDLI (2) BPC Tier 1 (Omega)":{
+                "name":"EGDLI (2) BPC Tier 1 (Omega)",
+                "typeid":"55841",
+                "line":"491"
+            }
+        },
+        {
+            "EGDLI (2) BPC Tier 2 (Omega)":{
+                "name":"EGDLI (2) BPC Tier 2 (Omega)",
+                "typeid":"55842",
+                "line":"492"
+            }
+        },
+        {
+            "EGDLI (2) BPC Tier 3 (Omega)":{
+                "name":"EGDLI (2) BPC Tier 3 (Omega)",
+                "typeid":"55843",
+                "line":"493"
+            }
+        },
+        {
+            "EGDLI (2) Skin Tier 1 (Omega)":{
+                "name":"EGDLI (2) Skin Tier 1 (Omega)",
+                "typeid":"55844",
+                "line":"494"
+            }
+        },
+        {
+            "EGDLI (2) Skin Tier 2 (Omega)":{
+                "name":"EGDLI (2) Skin Tier 2 (Omega)",
+                "typeid":"55845",
+                "line":"495"
+            }
+        },
+        {
+            "EGDLI (2) Skin Tier 3 (Omega)":{
+                "name":"EGDLI (2) Skin Tier 3 (Omega)",
+                "typeid":"55846",
+                "line":"496"
+            }
+        },
+        {
+            "EGDLI (2) Boosters Tier 1 (Alpha)":{
+                "name":"EGDLI (2) Boosters Tier 1 (Alpha)",
+                "typeid":"55902",
+                "line":"497"
+            }
+        },
+        {
+            "EGDLI (2) Boosters Tier 2 (Alpha)":{
+                "name":"EGDLI (2) Boosters Tier 2 (Alpha)",
+                "typeid":"55903",
+                "line":"498"
+            }
+        },
+        {
+            "EGDLI (2) Boosters Tier 3 (Alpha)":{
+                "name":"EGDLI (2) Boosters Tier 3 (Alpha)",
+                "typeid":"55904",
+                "line":"499"
+            }
+        },
+        {
+            "EGDLI (2) BPC Tier 1 (Alpha)":{
+                "name":"EGDLI (2) BPC Tier 1 (Alpha)",
+                "typeid":"55905",
+                "line":"500"
+            }
+        },
+        {
+            "EGDLI (2) BPC Tier 2 (Alpha)":{
+                "name":"EGDLI (2) BPC Tier 2 (Alpha)",
+                "typeid":"55906",
+                "line":"501"
+            }
+        },
+        {
+            "EGDLI (2) BPC Tier 3 (Alpha)":{
+                "name":"EGDLI (2) BPC Tier 3 (Alpha)",
+                "typeid":"55907",
+                "line":"502"
+            }
+        },
+        {
+            "EGDLI (2) Skin Tier 1 (Alpha)":{
+                "name":"EGDLI (2) Skin Tier 1 (Alpha)",
+                "typeid":"55908",
+                "line":"503"
+            }
+        },
+        {
+            "EGDLI (2) Skin Tier 2 (Alpha)":{
+                "name":"EGDLI (2) Skin Tier 2 (Alpha)",
+                "typeid":"55909",
+                "line":"504"
+            }
+        },
+        {
+            "EGDLI (2) Skin Tier 3 (Alpha)":{
+                "name":"EGDLI (2) Skin Tier 3 (Alpha)",
+                "typeid":"55910",
+                "line":"505"
+            }
+        },
+        {
+            "EGDLI (2) Abyssal Tier 4 (Alpha)":{
+                "name":"EGDLI (2) Abyssal Tier 4 (Alpha)",
+                "typeid":"55911",
+                "line":"506"
+            }
+        },
+        {
+            "100K Bounty SCC Encrypted Bond":{
+                "name":"100K Bounty SCC Encrypted Bond",
+                "typeid":"55930",
+                "line":"507"
+            }
+        },
+        {
+            "10K Bounty SCC Encrypted Bond":{
+                "name":"10K Bounty SCC Encrypted Bond",
+                "typeid":"55931",
+                "line":"508"
+            }
+        },
+        {
+            "10M Bounty SCC Encrypted Bond":{
+                "name":"10M Bounty SCC Encrypted Bond",
+                "typeid":"55932",
+                "line":"509"
+            }
+        },
+        {
+            "1M Bounty SCC Encrypted Bond":{
+                "name":"1M Bounty SCC Encrypted Bond",
+                "typeid":"55933",
+                "line":"510"
+            }
+        },
+        {
+            "Glorification-1 'Devana' Filament":{
+                "name":"Glorification-1 'Devana' Filament",
+                "typeid":"56065",
+                "line":"511"
+            }
+        },
+        {
+            "Glorification-5 'Devana' Filament":{
+                "name":"Glorification-5 'Devana' Filament",
+                "typeid":"56066",
+                "line":"512"
+            }
+        },
+        {
+            "Glorification-15 'Devana' Filament":{
+                "name":"Glorification-15 'Devana' Filament",
+                "typeid":"56067",
+                "line":"513"
+            }
+        },
+        {
+            "Proximity-5 'Extraction' Filament":{
+                "name":"Proximity-5 'Extraction' Filament",
+                "typeid":"56068",
+                "line":"514"
+            }
+        },
+        {
+            "Proximity-15 'Extraction' Filament":{
+                "name":"Proximity-15 'Extraction' Filament",
+                "typeid":"56069",
+                "line":"515"
+            }
+        },
+        {
+            "Cladistic-5 'Krai Perun' Filament":{
+                "name":"Cladistic-5 'Krai Perun' Filament",
+                "typeid":"56070",
+                "line":"516"
+            }
+        },
+        {
+            "Cladistic-15 'Krai Perun' Filament":{
+                "name":"Cladistic-15 'Krai Perun' Filament",
+                "typeid":"56071",
+                "line":"517"
+            }
+        },
+        {
+            "Cladistic-5 'Krai Veles' Filament":{
+                "name":"Cladistic-5 'Krai Veles' Filament",
+                "typeid":"56072",
+                "line":"518"
+            }
+        },
+        {
+            "Cladistic-15 'Krai Veles' Filament":{
+                "name":"Cladistic-15 'Krai Veles' Filament",
+                "typeid":"56073",
+                "line":"519"
+            }
+        },
+        {
+            "Cladistic-5 'Krai Svarog' Filament":{
+                "name":"Cladistic-5 'Krai Svarog' Filament",
+                "typeid":"56074",
+                "line":"520"
+            }
+        },
+        {
+            "Cladistic-15 'Krai Svarog' Filament":{
+                "name":"Cladistic-15 'Krai Svarog' Filament",
+                "typeid":"56075",
+                "line":"521"
+            }
+        },
+        {
+            "Border-5 'Pochven' Filament":{
+                "name":"Border-5 'Pochven' Filament",
+                "typeid":"56076",
+                "line":"522"
+            }
+        },
+        {
+            "Border-15 'Pochven' Filament":{
+                "name":"Border-15 'Pochven' Filament",
+                "typeid":"56077",
+                "line":"523"
+            }
+        },
+        {
+            "Internal-5 'Pochven' Filament":{
+                "name":"Internal-5 'Pochven' Filament",
+                "typeid":"56078",
+                "line":"524"
+            }
+        },
+        {
+            "Internal-15 'Pochven' Filament":{
+                "name":"Internal-15 'Pochven' Filament",
+                "typeid":"56079",
+                "line":"525"
+            }
+        },
+        {
+            "Home-5 'Pochven' Filament":{
+                "name":"Home-5 'Pochven' Filament",
+                "typeid":"56080",
+                "line":"526"
+            }
+        },
+        {
+            "Home-15 'Pochven' Filament":{
+                "name":"Home-15 'Pochven' Filament",
+                "typeid":"56081",
+                "line":"527"
+            }
+        },
+        {
+            "Tranquil Electrical Filament":{
+                "name":"Tranquil Electrical Filament",
+                "typeid":"56131",
+                "line":"528"
+            }
+        },
+        {
+            "Tranquil Dark Filament":{
+                "name":"Tranquil Dark Filament",
+                "typeid":"56132",
+                "line":"529"
+            }
+        },
+        {
+            "Tranquil Exotic Filament":{
+                "name":"Tranquil Exotic Filament",
+                "typeid":"56133",
+                "line":"530"
+            }
+        },
+        {
+            "Tranquil Firestorm Filament":{
+                "name":"Tranquil Firestorm Filament",
+                "typeid":"56134",
+                "line":"531"
+            }
+        },
+        {
+            "Tranquil Gamma Filament":{
+                "name":"Tranquil Gamma Filament",
+                "typeid":"56136",
+                "line":"532"
+            }
+        },
+        {
+            "Cataclysmic Electrical Filament":{
+                "name":"Cataclysmic Electrical Filament",
+                "typeid":"56139",
+                "line":"533"
+            }
+        },
+        {
+            "Cataclysmic Dark Filament":{
+                "name":"Cataclysmic Dark Filament",
+                "typeid":"56140",
+                "line":"534"
+            }
+        },
+        {
+            "Cataclysmic Exotic Filament":{
+                "name":"Cataclysmic Exotic Filament",
+                "typeid":"56141",
+                "line":"535"
+            }
+        },
+        {
+            "Cataclysmic Firestorm Filament":{
+                "name":"Cataclysmic Firestorm Filament",
+                "typeid":"56142",
+                "line":"536"
+            }
+        },
+        {
+            "Cataclysmic Gamma Filament":{
+                "name":"Cataclysmic Gamma Filament",
+                "typeid":"56143",
+                "line":"537"
+            }
+        },
+        {
+            "Interstellar Navigation Logs":{
+                "name":"Interstellar Navigation Logs",
+                "typeid":"56708",
+                "line":"538"
+            }
+        },
+        {
+            "Corrupted Neurosynaptic Profile":{
+                "name":"Corrupted Neurosynaptic Profile",
+                "typeid":"56709",
+                "line":"539"
+            }
+        },
+        {
+            "Partial Neurosynaptic Profile":{
+                "name":"Partial Neurosynaptic Profile",
+                "typeid":"56710",
+                "line":"540"
+            }
+        },
+        {
+            "Intact Neurosynaptic Profile":{
+                "name":"Intact Neurosynaptic Profile",
+                "typeid":"56711",
+                "line":"541"
+            }
+        },
+        {
+            "Holistic Neurosynaptic Template":{
+                "name":"Holistic Neurosynaptic Template",
+                "typeid":"56712",
+                "line":"542"
+            }
+        },
+        {
+            "Vessel Core Hologram":{
+                "name":"Vessel Core Hologram",
+                "typeid":"56713",
+                "line":"543"
+            }
+        },
+        {
+            "Modular Systems Hologram":{
+                "name":"Modular Systems Hologram",
+                "typeid":"56714",
+                "line":"544"
+            }
+        },
+        {
+            "Cultural Semiosis Data":{
+                "name":"Cultural Semiosis Data",
+                "typeid":"56715",
+                "line":"545"
+            }
+        },
+        {
+            "Protective Equipment Patterns":{
+                "name":"Protective Equipment Patterns",
+                "typeid":"56716",
+                "line":"546"
+            }
+        },
+        {
+            "Quafe Hyper":{
+                "name":"Quafe Hyper",
+                "typeid":"57422",
+                "line":"547"
+            }
+        },
+        {
+            "Liberation Games Reward Token":{
+                "name":"Liberation Games Reward Token",
+                "typeid":"59752",
+                "line":"548"
+            }
+        },
+        {
+            "Rogue Drone Infestation Data":{
+                "name":"Rogue Drone Infestation Data",
+                "typeid":"60459",
+                "line":"549"
+            }
+        },
+        {
+            "Event 43 Proving Filament":{
+                "name":"Event 43 Proving Filament",
+                "typeid":"60601",
+                "line":"550"
+            }
+        },
+        {
+            "Event 44 Proving Filament":{
+                "name":"Event 44 Proving Filament",
+                "typeid":"60602",
+                "line":"551"
+            }
+        },
+        {
+            "Event 45 Proving Filament":{
+                "name":"Event 45 Proving Filament",
+                "typeid":"60603",
+                "line":"552"
+            }
+        },
+        {
+            "Event 46 Proving Filament":{
+                "name":"Event 46 Proving Filament",
+                "typeid":"60604",
+                "line":"553"
+            }
+        },
+        {
+            "AEGIS Security Patrol Reports":{
+                "name":"AEGIS Security Patrol Reports",
+                "typeid":"60750",
+                "line":"554"
+            }
+        },
+        {
+            "AEGIS Personnel File Backups":{
+                "name":"AEGIS Personnel File Backups",
+                "typeid":"60751",
+                "line":"555"
+            }
+        },
+        {
+            "AEGIS Fortification Schematics":{
+                "name":"AEGIS Fortification Schematics",
+                "typeid":"60752",
+                "line":"556"
+            }
+        },
+        {
+            "AEGIS Covert Operations Reports":{
+                "name":"AEGIS Covert Operations Reports",
+                "typeid":"60753",
+                "line":"557"
+            }
+        },
+        {
+            "Coalesced Element":{
+                "name":"Coalesced Element",
+                "typeid":"36902",
+                "line":"558"
+            }
+        },
+        {
+            "Medium 'Astrahus' Citadel BPC Token":{
+                "name":"Medium 'Astrahus' Citadel BPC Token",
+                "typeid":"40548",
+                "line":"559"
+            }
+        },
+        {
+            "Joint Harvesting Strong Box":{
+                "name":"Joint Harvesting Strong Box",
+                "typeid":"43683",
+                "line":"560"
+            }
+        },
+        {
+            "HZO Refinery Strong Box":{
+                "name":"HZO Refinery Strong Box",
+                "typeid":"43684",
+                "line":"561"
+            }
+        },
+        {
+            "Astral Mining Inc. Strong Box":{
+                "name":"Astral Mining Inc. Strong Box",
+                "typeid":"43688",
+                "line":"562"
+            }
+        },
+        {
+            "Material Acquisition Strong Box":{
+                "name":"Material Acquisition Strong Box",
+                "typeid":"43689",
+                "line":"563"
+            }
+        },
+        {
+            "Allotek Industries Strong Box":{
+                "name":"Allotek Industries Strong Box",
+                "typeid":"43690",
+                "line":"564"
+            }
+        },
+        {
+            "Guristas Production Strong Box":{
+                "name":"Guristas Production Strong Box",
+                "typeid":"43697",
+                "line":"565"
+            }
+        },
+        {
+            "Thukker Capital Component Manufacturing Technical Data Chip":{
+                "name":"Thukker Capital Component Manufacturing Technical Data Chip",
+                "typeid":"45585",
+                "line":"566"
+            }
+        },
+        {
+            "Blood Raider Dagon Blueprint Armored Cache":{
+                "name":"Blood Raider Dagon Blueprint Armored Cache",
+                "typeid":"45679",
+                "line":"567"
+            }
+        },
+        {
+            "Guristas Caiman Blueprint Armored Cache":{
+                "name":"Guristas Caiman Blueprint Armored Cache",
+                "typeid":"46602",
+                "line":"568"
+            }
+        },
+        {
+            "Calm Dark Filament":{
+                "name":"Calm Dark Filament",
+                "typeid":"47762",
+                "line":"569"
+            }
+        },
+        {
+            "Calm Electrical Filament":{
+                "name":"Calm Electrical Filament",
+                "typeid":"47765",
+                "line":"570"
+            }
+        },
+        {
+            "Agitated Exotic Filament":{
+                "name":"Agitated Exotic Filament",
+                "typeid":"47888",
+                "line":"571"
+            }
+        },
+        {
+            "Raging Exotic Filament":{
+                "name":"Raging Exotic Filament",
+                "typeid":"47890",
+                "line":"572"
+            }
+        },
+        {
+            "Chaotic Exotic Filament":{
+                "name":"Chaotic Exotic Filament",
+                "typeid":"47891",
+                "line":"573"
+            }
+        },
+        {
+            "Agitated Dark Filament":{
+                "name":"Agitated Dark Filament",
+                "typeid":"47892",
+                "line":"574"
+            }
+        },
+        {
+            "Raging Dark Filament":{
+                "name":"Raging Dark Filament",
+                "typeid":"47894",
+                "line":"575"
+            }
+        },
+        {
+            "Agitated Firestorm Filament":{
+                "name":"Agitated Firestorm Filament",
+                "typeid":"47896",
+                "line":"576"
+            }
+        },
+        {
+            "Raging Firestorm Filament":{
+                "name":"Raging Firestorm Filament",
+                "typeid":"47898",
+                "line":"577"
+            }
+        },
+        {
+            "Chaotic Firestorm Filament":{
+                "name":"Chaotic Firestorm Filament",
+                "typeid":"47899",
+                "line":"578"
+            }
+        },
+        {
+            "Raging Gamma Filament":{
+                "name":"Raging Gamma Filament",
+                "typeid":"47902",
+                "line":"579"
+            }
+        },
+        {
+            "Chaotic Gamma Filament":{
+                "name":"Chaotic Gamma Filament",
+                "typeid":"47903",
+                "line":"580"
+            }
+        },
+        {
+            "Agitated Electrical Filament":{
+                "name":"Agitated Electrical Filament",
+                "typeid":"47904",
+                "line":"581"
+            }
+        },
+        {
+            "Chaotic Electrical Filament":{
+                "name":"Chaotic Electrical Filament",
+                "typeid":"47907",
+                "line":"582"
+            }
+        },
+        {
+            "Triglavian Survey Database":{
+                "name":"Triglavian Survey Database",
+                "typeid":"48121",
+                "line":"583"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream DAV1":{
+                "name":"Triglavian Trinary Datastream DAV1",
+                "typeid":"48767",
+                "line":"584"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream DAV3":{
+                "name":"Triglavian Trinary Datastream DAV3",
+                "typeid":"48769",
+                "line":"585"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AEA3":{
+                "name":"Triglavian Trinary Datastream AEA3",
+                "typeid":"48777",
+                "line":"586"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AEA4":{
+                "name":"Triglavian Trinary Datastream AEA4",
+                "typeid":"52190",
+                "line":"587"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream DAV4":{
+                "name":"Triglavian Trinary Datastream DAV4",
+                "typeid":"52192",
+                "line":"588"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AFN5":{
+                "name":"Triglavian Trinary Datastream AFN5",
+                "typeid":"52196",
+                "line":"589"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream AEA6":{
+                "name":"Triglavian Trinary Datastream AEA6",
+                "typeid":"52408",
+                "line":"590"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream HFN4":{
+                "name":"Triglavian Trinary Datastream HFN4",
+                "typeid":"52411",
+                "line":"591"
+            }
+        },
+        {
+            "Triglavian Trinary Datastream HFN5":{
+                "name":"Triglavian Trinary Datastream HFN5",
+                "typeid":"52412",
+                "line":"592"
+            }
+        },
+        {
+            "Dreadnought Systems Diagram":{
+                "name":"Dreadnought Systems Diagram",
+                "typeid":"53291",
+                "line":"593"
+            }
+        },
+        {
+            "Noise-5 'Needlejack' Filament":{
+                "name":"Noise-5 'Needlejack' Filament",
+                "typeid":"53977",
+                "line":"594"
+            }
+        },
+        {
+            "Signal-15 'Needlejack' Filament":{
+                "name":"Signal-15 'Needlejack' Filament",
+                "typeid":"53986",
+                "line":"595"
+            }
+        },
+        {
+            "Noise-25 'Needlejack' Filament":{
+                "name":"Noise-25 'Needlejack' Filament",
+                "typeid":"53987",
+                "line":"596"
+            }
+        },
+        {
+            "Crimson Harvest Destroyer FFA Proving Filament":{
+                "name":"Crimson Harvest Destroyer FFA Proving Filament",
+                "typeid":"60078",
+                "line":"597"
+            }
+        },
+        {
+            "Prophecy FFA Proving Filament":{
+                "name":"Prophecy FFA Proving Filament",
+                "typeid":"60600",
+                "line":"598"
+            }
+        },
+        {
+            "Domination Palladium Tag":{
+                "name":"Domination Palladium Tag",
+                "typeid":"17227",
+                "line":"599"
+            }
+        },
+        {
+            "Vizan Ankonin's Tag":{
+                "name":"Vizan Ankonin's Tag",
+                "typeid":"17288",
+                "line":"600"
+            }
+        },
+        {
+            "Draclira Merlonne's Tag":{
+                "name":"Draclira Merlonne's Tag",
+                "typeid":"17299",
+                "line":"601"
+            }
+        },
+        {
+            "Raelek's Tag":{
+                "name":"Raelek's Tag",
+                "typeid":"17642",
+                "line":"602"
+            }
+        },
+        {
+            "Elite Slaves":{
+                "name":"Elite Slaves",
+                "typeid":"17796",
+                "line":"603"
+            }
+        },
+        {
+            "High-Tech Data Chip":{
+                "name":"High-Tech Data Chip",
+                "typeid":"17893",
+                "line":"604"
+            }
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "Gas":[
+        {
+            "Amber Cytoserocin":{
+                "name":"Amber Cytoserocin",
+                "typeid":"25268",
+                "line":"3"
+            }
+        },
+        {
+            "Golden Cytoserocin":{
+                "name":"Golden Cytoserocin",
+                "typeid":"25273",
+                "line":"4"
+            }
+        },
+        {
+            "Viridian Cytoserocin":{
+                "name":"Viridian Cytoserocin",
+                "typeid":"25274",
+                "line":"5"
+            }
+        },
+        {
+            "Celadon Cytoserocin":{
+                "name":"Celadon Cytoserocin",
+                "typeid":"25275",
+                "line":"6"
+            }
+        },
+        {
+            "Malachite Cytoserocin":{
+                "name":"Malachite Cytoserocin",
+                "typeid":"25276",
+                "line":"7"
+            }
+        },
+        {
+            "Lime Cytoserocin":{
+                "name":"Lime Cytoserocin",
+                "typeid":"25277",
+                "line":"8"
+            }
+        },
+        {
+            "Vermillion Cytoserocin":{
+                "name":"Vermillion Cytoserocin",
+                "typeid":"25278",
+                "line":"9"
+            }
+        },
+        {
+            "Azure Cytoserocin":{
+                "name":"Azure Cytoserocin",
+                "typeid":"25279",
+                "line":"10"
+            }
+        },
+        {
+            "Amber Mykoserocin":{
+                "name":"Amber Mykoserocin",
+                "typeid":"28694",
+                "line":"11"
+            }
+        },
+        {
+            "Azure Mykoserocin":{
+                "name":"Azure Mykoserocin",
+                "typeid":"28695",
+                "line":"12"
+            }
+        },
+        {
+            "Celadon Mykoserocin":{
+                "name":"Celadon Mykoserocin",
+                "typeid":"28696",
+                "line":"13"
+            }
+        },
+        {
+            "Golden Mykoserocin":{
+                "name":"Golden Mykoserocin",
+                "typeid":"28697",
+                "line":"14"
+            }
+        },
+        {
+            "Lime Mykoserocin":{
+                "name":"Lime Mykoserocin",
+                "typeid":"28698",
+                "line":"15"
+            }
+        },
+        {
+            "Malachite Mykoserocin":{
+                "name":"Malachite Mykoserocin",
+                "typeid":"28699",
+                "line":"16"
+            }
+        },
+        {
+            "Vermillion Mykoserocin":{
+                "name":"Vermillion Mykoserocin",
+                "typeid":"28700",
+                "line":"17"
+            }
+        },
+        {
+            "Viridian Mykoserocin":{
+                "name":"Viridian Mykoserocin",
+                "typeid":"28701",
+                "line":"18"
+            }
+        },
+        {
+            "Fullerite-C50":{
+                "name":"Fullerite-C50",
+                "typeid":"30370",
+                "line":"19"
+            }
+        },
+        {
+            "Fullerite-C60":{
+                "name":"Fullerite-C60",
+                "typeid":"30371",
+                "line":"20"
+            }
+        },
+        {
+            "Fullerite-C70":{
+                "name":"Fullerite-C70",
+                "typeid":"30372",
+                "line":"21"
+            }
+        },
+        {
+            "Fullerite-C72":{
+                "name":"Fullerite-C72",
+                "typeid":"30373",
+                "line":"22"
+            }
+        },
+        {
+            "Fullerite-C84":{
+                "name":"Fullerite-C84",
+                "typeid":"30374",
+                "line":"23"
+            }
+        },
+        {
+            "Fullerite-C28":{
+                "name":"Fullerite-C28",
+                "typeid":"30375",
+                "line":"24"
+            }
+        },
+        {
+            "Fullerite-C32":{
+                "name":"Fullerite-C32",
+                "typeid":"30376",
+                "line":"25"
+            }
+        },
+        {
+            "Fullerite-C320":{
+                "name":"Fullerite-C320",
+                "typeid":"30377",
+                "line":"26"
+            }
+        },
+        {
+            "Fullerite-C540":{
+                "name":"Fullerite-C540",
+                "typeid":"30378",
+                "line":"27"
+            }
+        }
+    ]
+}

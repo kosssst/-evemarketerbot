@@ -1,0 +1,424 @@
+{
+    "Salvage Materials":[
+        {
+            "Scorched Telemetry Processor":{
+                "name":"Scorched Telemetry Processor",
+                "typeid":"25588",
+                "line":"3"
+            }
+        },
+        {
+            "Malfunctioning Shield Emitter":{
+                "name":"Malfunctioning Shield Emitter",
+                "typeid":"25589",
+                "line":"4"
+            }
+        },
+        {
+            "Contaminated Nanite Compound":{
+                "name":"Contaminated Nanite Compound",
+                "typeid":"25590",
+                "line":"5"
+            }
+        },
+        {
+            "Contaminated Lorentz Fluid":{
+                "name":"Contaminated Lorentz Fluid",
+                "typeid":"25591",
+                "line":"6"
+            }
+        },
+        {
+            "Defective Current Pump":{
+                "name":"Defective Current Pump",
+                "typeid":"25592",
+                "line":"7"
+            }
+        },
+        {
+            "Smashed Trigger Unit":{
+                "name":"Smashed Trigger Unit",
+                "typeid":"25593",
+                "line":"8"
+            }
+        },
+        {
+            "Tangled Power Conduit":{
+                "name":"Tangled Power Conduit",
+                "typeid":"25594",
+                "line":"9"
+            }
+        },
+        {
+            "Alloyed Tritanium Bar":{
+                "name":"Alloyed Tritanium Bar",
+                "typeid":"25595",
+                "line":"10"
+            }
+        },
+        {
+            "Broken Drone Transceiver":{
+                "name":"Broken Drone Transceiver",
+                "typeid":"25596",
+                "line":"11"
+            }
+        },
+        {
+            "Damaged Artificial Neural Network":{
+                "name":"Damaged Artificial Neural Network",
+                "typeid":"25597",
+                "line":"12"
+            }
+        },
+        {
+            "Tripped Power Circuit":{
+                "name":"Tripped Power Circuit",
+                "typeid":"25598",
+                "line":"13"
+            }
+        },
+        {
+            "Charred Micro Circuit":{
+                "name":"Charred Micro Circuit",
+                "typeid":"25599",
+                "line":"14"
+            }
+        },
+        {
+            "Burned Logic Circuit":{
+                "name":"Burned Logic Circuit",
+                "typeid":"25600",
+                "line":"15"
+            }
+        },
+        {
+            "Fried Interface Circuit":{
+                "name":"Fried Interface Circuit",
+                "typeid":"25601",
+                "line":"16"
+            }
+        },
+        {
+            "Thruster Console":{
+                "name":"Thruster Console",
+                "typeid":"25602",
+                "line":"17"
+            }
+        },
+        {
+            "Melted Capacitor Console":{
+                "name":"Melted Capacitor Console",
+                "typeid":"25603",
+                "line":"18"
+            }
+        },
+        {
+            "Conductive Polymer":{
+                "name":"Conductive Polymer",
+                "typeid":"25604",
+                "line":"19"
+            }
+        },
+        {
+            "Armor Plates":{
+                "name":"Armor Plates",
+                "typeid":"25605",
+                "line":"20"
+            }
+        },
+        {
+            "Ward Console":{
+                "name":"Ward Console",
+                "typeid":"25606",
+                "line":"21"
+            }
+        },
+        {
+            "Telemetry Processor":{
+                "name":"Telemetry Processor",
+                "typeid":"25607",
+                "line":"22"
+            }
+        },
+        {
+            "Intact Shield Emitter":{
+                "name":"Intact Shield Emitter",
+                "typeid":"25608",
+                "line":"23"
+            }
+        },
+        {
+            "Nanite Compound":{
+                "name":"Nanite Compound",
+                "typeid":"25609",
+                "line":"24"
+            }
+        },
+        {
+            "Lorentz Fluid":{
+                "name":"Lorentz Fluid",
+                "typeid":"25610",
+                "line":"25"
+            }
+        },
+        {
+            "Current Pump":{
+                "name":"Current Pump",
+                "typeid":"25611",
+                "line":"26"
+            }
+        },
+        {
+            "Trigger Unit":{
+                "name":"Trigger Unit",
+                "typeid":"25612",
+                "line":"27"
+            }
+        },
+        {
+            "Power Conduit":{
+                "name":"Power Conduit",
+                "typeid":"25613",
+                "line":"28"
+            }
+        },
+        {
+            "Single-crystal Superalloy I-beam":{
+                "name":"Single-crystal Superalloy I-beam",
+                "typeid":"25614",
+                "line":"29"
+            }
+        },
+        {
+            "Drone Transceiver":{
+                "name":"Drone Transceiver",
+                "typeid":"25615",
+                "line":"30"
+            }
+        },
+        {
+            "Artificial Neural Network":{
+                "name":"Artificial Neural Network",
+                "typeid":"25616",
+                "line":"31"
+            }
+        },
+        {
+            "Power Circuit":{
+                "name":"Power Circuit",
+                "typeid":"25617",
+                "line":"32"
+            }
+        },
+        {
+            "Micro Circuit":{
+                "name":"Micro Circuit",
+                "typeid":"25618",
+                "line":"33"
+            }
+        },
+        {
+            "Logic Circuit":{
+                "name":"Logic Circuit",
+                "typeid":"25619",
+                "line":"34"
+            }
+        },
+        {
+            "Interface Circuit":{
+                "name":"Interface Circuit",
+                "typeid":"25620",
+                "line":"35"
+            }
+        },
+        {
+            "Impetus Console":{
+                "name":"Impetus Console",
+                "typeid":"25621",
+                "line":"36"
+            }
+        },
+        {
+            "Capacitor Console":{
+                "name":"Capacitor Console",
+                "typeid":"25622",
+                "line":"37"
+            }
+        },
+        {
+            "Conductive Thermoplastic":{
+                "name":"Conductive Thermoplastic",
+                "typeid":"25623",
+                "line":"38"
+            }
+        },
+        {
+            "Intact Armor Plates":{
+                "name":"Intact Armor Plates",
+                "typeid":"25624",
+                "line":"39"
+            }
+        },
+        {
+            "Enhanced Ward Console":{
+                "name":"Enhanced Ward Console",
+                "typeid":"25625",
+                "line":"40"
+            }
+        },
+        {
+            "Fused Nanomechanical Engines":{
+                "name":"Fused Nanomechanical Engines",
+                "typeid":"30018",
+                "line":"41"
+            }
+        },
+        {
+            "Powdered C-540 Graphite":{
+                "name":"Powdered C-540 Graphite",
+                "typeid":"30019",
+                "line":"42"
+            }
+        },
+        {
+            "Modified Fluid Router":{
+                "name":"Modified Fluid Router",
+                "typeid":"30021",
+                "line":"43"
+            }
+        },
+        {
+            "Heuristic Selfassemblers":{
+                "name":"Heuristic Selfassemblers",
+                "typeid":"30022",
+                "line":"44"
+            }
+        },
+        {
+            "Cartesian Temporal Coordinator":{
+                "name":"Cartesian Temporal Coordinator",
+                "typeid":"30024",
+                "line":"45"
+            }
+        },
+        {
+            "Emergent Combat Analyzer":{
+                "name":"Emergent Combat Analyzer",
+                "typeid":"30248",
+                "line":"46"
+            }
+        },
+        {
+            "Neurovisual Input Matrix":{
+                "name":"Neurovisual Input Matrix",
+                "typeid":"30251",
+                "line":"47"
+            }
+        },
+        {
+            "Thermoelectric Catalysts":{
+                "name":"Thermoelectric Catalysts",
+                "typeid":"30252",
+                "line":"48"
+            }
+        },
+        {
+            "Electromechanical Hull Sheeting":{
+                "name":"Electromechanical Hull Sheeting",
+                "typeid":"30254",
+                "line":"49"
+            }
+        },
+        {
+            "Resonance Calibration Matrix":{
+                "name":"Resonance Calibration Matrix",
+                "typeid":"30258",
+                "line":"50"
+            }
+        },
+        {
+            "Melted Nanoribbons":{
+                "name":"Melted Nanoribbons",
+                "typeid":"30259",
+                "line":"51"
+            }
+        },
+        {
+            "Jump Drive Control Nexus":{
+                "name":"Jump Drive Control Nexus",
+                "typeid":"30268",
+                "line":"52"
+            }
+        },
+        {
+            "Defensive Control Node":{
+                "name":"Defensive Control Node",
+                "typeid":"30269",
+                "line":"53"
+            }
+        },
+        {
+            "Central System Controller":{
+                "name":"Central System Controller",
+                "typeid":"30270",
+                "line":"54"
+            }
+        },
+        {
+            "Emergent Combat Intelligence":{
+                "name":"Emergent Combat Intelligence",
+                "typeid":"30271",
+                "line":"55"
+            }
+        },
+        {
+            "Ancient Radar Decorrelator":{
+                "name":"Ancient Radar Decorrelator",
+                "typeid":"45662",
+                "line":"56"
+            }
+        },
+        {
+            "Electromagnetic Metaprismatic Sheeting":{
+                "name":"Electromagnetic Metaprismatic Sheeting",
+                "typeid":"54970",
+                "line":"57"
+            }
+        },
+        {
+            "Hyperbolic Metatransistor Array":{
+                "name":"Hyperbolic Metatransistor Array",
+                "typeid":"54971",
+                "line":"58"
+            }
+        },
+        {
+            "Ultraconducting Ablative Nanocable":{
+                "name":"Ultraconducting Ablative Nanocable",
+                "typeid":"54972",
+                "line":"59"
+            }
+        },
+        {
+            "Scorched Microgravimeter":{
+                "name":"Scorched Microgravimeter",
+                "typeid":"45660",
+                "line":"60"
+            }
+        },
+        {
+            "Faraday Force Magnetometer":{
+                "name":"Faraday Force Magnetometer",
+                "typeid":"45661",
+                "line":"61"
+            }
+        },
+        {
+            "Synthetic Aperture Ladar Receiver":{
+                "name":"Synthetic Aperture Ladar Receiver",
+                "typeid":"45663",
+                "line":"62"
+            }
+        }
+    ]
+}

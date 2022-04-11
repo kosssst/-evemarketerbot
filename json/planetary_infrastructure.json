@@ -1,0 +1,67 @@
+{
+    "Planetary infrastructure":[
+        {
+            "Temperate Command Center":{
+                "name":"Temperate Command Center",
+                "typeid":"2254",
+                "line":"3"
+            }
+        },
+        {
+            "Barren Command Center":{
+                "name":"Barren Command Center",
+                "typeid":"2524",
+                "line":"4"
+            }
+        },
+        {
+            "Oceanic Command Center":{
+                "name":"Oceanic Command Center",
+                "typeid":"2525",
+                "line":"5"
+            }
+        },
+        {
+            "Ice Command Center":{
+                "name":"Ice Command Center",
+                "typeid":"2533",
+                "line":"6"
+            }
+        },
+        {
+            "Gas Command Center":{
+                "name":"Gas Command Center",
+                "typeid":"2534",
+                "line":"7"
+            }
+        },
+        {
+            "Lava Command Center":{
+                "name":"Lava Command Center",
+                "typeid":"2549",
+                "line":"8"
+            }
+        },
+        {
+            "Plasma Command Center":{
+                "name":"Plasma Command Center",
+                "typeid":"2551",
+                "line":"9"
+            }
+        },
+        {
+            "Customs Office Gantry":{
+                "name":"Customs Office Gantry",
+                "typeid":"3962",
+                "line":"10"
+            }
+        },
+        {
+            "Storm Command Center":{
+                "name":"Storm Command Center",
+                "typeid":"2550",
+                "line":"11"
+            }
+        }
+    ]
+}

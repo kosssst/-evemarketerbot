@@ -1,0 +1,127 @@
+{
+	"Alloys and Compounds": {
+		"sheetname": "Alloys and Compounds",
+		"data_file": "allys_compounds.json",
+		"key_file": ""
+	},
+	"Ammunition": {
+		"sheetname": "Ammunition",
+		"data_file": "ammunition.json",
+		"key_file": ""
+	},
+	"Components": {
+		"sheetname": "Components",
+		"data_file": "components.json",
+		"key_file": ""
+	},
+	"Drones": {
+		"sheetname": "Drones",
+		"data_file": "drones.json",
+		"key_file": ""
+	},
+	"Faction materials": {
+		"sheetname": "Faction materials",
+		"data_file": "faction_materials.json",
+		"key_file": ""
+	},
+	"Gas": {
+		"sheetname": "Gas",
+		"data_file": "gas.json",
+		"key_file": ""
+	},
+	"Ice ores": {
+		"sheetname": "Ice ores",
+		"data_file": "ice_ore.json",
+		"key_file": ""
+	},
+	"Ice products": {
+		"sheetname": "Ice products",
+		"data_file": "ice_products.json",
+		"key_file": ""
+	},
+	"Minerals": {
+		"sheetname": "Minerals",
+		"data_file": "minerals.json",
+		"key_file": ""
+	},
+	"Moon ores": {
+		"sheetname": "Moon ores",
+		"data_file": "moon_ores.json",
+		"key_file": ""
+	},
+	"Mutaplasmids": {
+		"sheetname": "Mutaplasmids",
+		"data_file": "mutaplasmids.json",
+		"key_file": ""
+	},
+	"Planetary infrastructure": {
+		"sheetname": "Planetary infrastructure",
+		"data_file": "planetary_infrastructure.json",
+		"key_file": ""
+	},
+	"Planetary materials": {
+		"sheetname": "Planetary materials",
+		"data_file": "planetary_materials.json",
+		"key_file": ""
+	},
+	"Reaction materials": {
+		"sheetname": "Reaction materials",
+		"data_file": "reaction_materials.json",
+		"key_file": ""
+	},
+	"Research Equipment": {
+		"sheetname": "Research Equipment",
+		"data_file": "research_equipment.json",
+		"key_file": ""
+	},
+	"Rigs": {
+		"sheetname": "Rigs",
+		"data_file": "rigs.json",
+		"key_file": ""
+	},
+	"Salvage Materials": {
+		"sheetname": "Salvage Materials",
+		"data_file": "salvage_materials.json",
+		"key_file": ""
+	},
+	"Ship equipment": {
+		"sheetname": "Ship equipment",
+		"data_file": "ship_equipment.json",
+		"key_file": ""
+	},
+	"Ships": {
+		"sheetname": "Ships",
+		"data_file": "ships.json",
+		"key_file": ""
+	},
+	"Standard ore": {
+		"sheetname": "Standard ore",
+		"data_file": "standard_ore.json",
+		"key_file": ""
+	},
+	"Structure Equipment": {
+		"sheetname": "Structure Equipment",
+		"data_file": "structure_equipment.json",
+		"key_file": ""
+	},
+	"Structure Modifications": {
+		"sheetname": "Structure Modifications",
+		"data_file": "structure_modifications.json",
+		"key_file": ""
+	},
+	"Structures": {
+		"sheetname": "Structures",
+		"data_file": "structures.json",
+		"key_file": ""
+	},
+	"Subsystems": {
+		"sheetname": "Subsystems",
+		"data_file": "subsystems.json",
+		"key_file": ""
+	},
+	"Trade goods": {
+		"sheetname": "Trade goods",
+		"data_file": "trade_goods.json",
+		"key_file": ""
+	}
+}

@@ -1,6 +1,6 @@
 # -evemarketerbot
 
-## **Bot is not ready!**
+## **README is outdated! It will be updated later**
 
 ***Works only on Windows***
 

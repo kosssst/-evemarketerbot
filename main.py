@@ -7,6 +7,7 @@ keyfile = open(config.key, 'r')
 data = json.load(keyfile)
 
 
+
 def start(file, key, process):
 	subprocess.call("python writer.py " + str(file) + " " + str(key) + " " + str(process), shell=True)
 

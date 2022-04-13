@@ -119,8 +119,8 @@
 		"data_file": "subsystems.json",
 		"key_file": ""
 	},
-	"Trade_goods": {
-		"sheetname": "Trade_goods",
+	"Trade_Goods": {
+		"sheetname": "Trade_Goods",
 		"data_file": "trade_goods.json",
 		"key_file": ""
 	}

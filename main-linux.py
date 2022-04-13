@@ -7,9 +7,10 @@ keyfile = open(config.key, 'r')
 data = json.load(keyfile)
 
 
-def start(file, key, process):
-	subprocess.call("python3 writer.py " + str(file) + " " + str(key) + " " + str(process), shell=True)
+
+def start(file, key, sheetname):
+	subprocess.call("python3 writer.py " + str(file) + " " + str(key) + " " + str(sheetname), shell=True)
 
 if __name__ == "__main__":
 	for i in data:
-		Thread(target = start, args = (data[i]["file"], data[i]["key"], data[i]["name"])).start()
+		Thread(target = start, args = (data[i]["data_file"], data[i]["key_file"], data[i]["sheetname"])).start()

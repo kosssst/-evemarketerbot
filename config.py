@@ -9,6 +9,6 @@ scope = [
 
 tablename = "evemarketer"
 
-delay = 15
+delay = 2
 
 error_delay = 100

@@ -41,16 +41,35 @@ def choice():
 
 
 if __name__ == "__main__":
-	mode = str(sys.argv[1])
-	choice()
-	if(str(mode) == "DEBUG"):
-		for i in range(len(sn)):
-			Thread(target = start, args = (files[i], kfiles[i], sn[i], "DEBUG")).start()
-			time.sleep(1)
-	elif(str(mode) == "INFO"):
-		for i in range(len(sn)):
-			Thread(target = start, args = (files[i], kfiles[i], sn[i], "DEBUG")).start()
-			time.sleep(1)
+	modes = []
+	k = 1
+	for i in sys.argv:
+		if(k == 1):
+			k = k + 1
+			continue
+		else:
+			modes.append(i)
+			k = k + 1
+
+	if "-c" in modes:
+		choice()
+		if "DEBUG" in modes:
+			for i in range(len(sn)):
+				Thread(target = start, args = (files[i], kfiles[i], sn[i], "DEBUG")).start()
+				time.sleep(1)
+		else:
+			for i in range(len(sn)):
+				Thread(target = start, args = (files[i], kfiles[i], sn[i], "INFO")).start()
+				time.sleep(1)
+	elif "-a" in modes:
+		if "DEBUG" in modes:
+			for i in data:
+				Thread(target = start, args = (data[i]["data_file"], data[i]["key_file"], data[i]["sheetname"], "DEBUG")).start()
+				time.sleep(1)
+		else:
+			for i in data:
+				Thread(target = start, args = (data[i]["data_file"], data[i]["key_file"], data[i]["sheetname"], "INFO")).start()
+				time.sleep(1)				
 	else:
-		print("Unavailable mode!")
+		print("Unavaliable mode")
 		sys.exit()

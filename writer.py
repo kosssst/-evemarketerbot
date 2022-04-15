@@ -20,7 +20,8 @@ def update_item(data_file, key_file, sheetname, logger):
 		creds = ServiceAccountCredentials.from_json_keyfile_name(("keys/"+key_file),config.scope)
 		client = gspread.authorize(creds)
 		sheet = client.open(config.tablename)
-		ws = sheet.worksheet(str(sheetname))
+		ws = sheet.worksheet("Test")
+		# str(sheetname)
 	except:
 		print("[ERROR]: APIError " + str(sheetname))
 		logger.error("Not connected to Google Sheets API")
@@ -42,24 +43,24 @@ def update_item(data_file, key_file, sheetname, logger):
 				try:
 					resp = 	requests.get(config.marketurl, dict(typeid=itemid))
 					data = resp.json()
-					buy_volume = data[0]["buy"]["volume"]
-					buy_wavg = data[0]["buy"]["wavg"]
-					buy_avg = data[0]["buy"]["avg"]
-					buy_min = data[0]["buy"]["min"]
-					buy_max = data[0]["buy"]["max"]
-					buy_variance = data[0]["buy"]["variance"]
-					buy_stddev = data[0]["buy"]["stdDev"]
-					buy_median = data[0]["buy"]["median"]
-					buy_five = data[0]["buy"]["fivePercent"]
-					sell_volume = data[0]["sell"]["volume"]
-					sell_wavg = data[0]["sell"]["wavg"]
-					sell_avg = data[0]["sell"]["avg"]
-					sell_min = data[0]["sell"]["min"]
-					sell_max = data[0]["sell"]["max"]
-					sell_variance = data[0]["sell"]["variance"]
-					sell_stddev = data[0]["sell"]["stdDev"]
-					sell_median = data[0]["sell"]["median"]
-					sell_five = data[0]["sell"]["fivePercent"]
+					buy_volume = str(data[0]["buy"]["volume"])
+					buy_wavg = str(data[0]["buy"]["wavg"])
+					buy_avg = str(data[0]["buy"]["avg"])
+					buy_min = str(data[0]["buy"]["min"])
+					buy_max = str(data[0]["buy"]["max"])
+					buy_variance = str(data[0]["buy"]["variance"])
+					buy_stddev = str(data[0]["buy"]["stdDev"])
+					buy_median = str(data[0]["buy"]["median"])
+					buy_five = str(data[0]["buy"]["fivePercent"])
+					sell_volume = str(data[0]["sell"]["volume"])
+					sell_wavg = str(data[0]["sell"]["wavg"])
+					sell_avg = str(data[0]["sell"]["avg"])
+					sell_min = str(data[0]["sell"]["min"])
+					sell_max = str(data[0]["sell"]["max"])
+					sell_variance = str(data[0]["sell"]["variance"])
+					sell_stddev = str(data[0]["sell"]["stdDev"])
+					sell_median = str(data[0]["sell"]["median"])
+					sell_five = str(data[0]["sell"]["fivePercent"])
 
 				except KeyboardInterrupt:
 					now = datetime.now()
@@ -75,26 +76,11 @@ def update_item(data_file, key_file, sheetname, logger):
 					time.sleep(config.error_delay)
 					continue
 				try:
-					ws.update(("A" + line), name)			
-					ws.update(("B" + line), buy_volume)
-					ws.update(("C" + line), buy_wavg)
-					ws.update(("D" + line), buy_avg)
-					ws.update(("E" + line), buy_min)
-					ws.update(("F" + line), buy_max)
-					ws.update(("G" + line), buy_variance)
-					ws.update(("H" + line), buy_stddev)
-					ws.update(("I" + line), buy_median)
-					ws.update(("J" + line), buy_five)
-					ws.update(("K" + line), sell_volume)
-					ws.update(("L" + line), sell_wavg)
-					ws.update(("M" + line), sell_avg)
-					ws.update(("N" + line), sell_min)
-					ws.update(("O" + line), sell_max)
-					ws.update(("P" + line), sell_variance)
-					ws.update(("Q" + line), sell_stddev)
-					ws.update(("R" + line), sell_median)
-					ws.update(("S" + line), sell_five)
-
+					cell_list = ws.range(("A" + str(line) + ":S" + str(line)))
+					cell_values = [name, buy_volume, buy_wavg, buy_avg, buy_min, buy_max, buy_variance, buy_stddev, buy_median, buy_five, sell_volume, sell_wavg, sell_avg, sell_min, sell_max, sell_variance, sell_stddev, sell_median, sell_five]
+					for i, val in enumerate(cell_values):
+						cell_list[i].value = val
+					ws.update_cells(cell_list)
 				except KeyboardInterrupt:
 					now = datetime.now()
 					current_time = now.strftime("%H:%M:%S")
@@ -109,12 +95,18 @@ def update_item(data_file, key_file, sheetname, logger):
 					time.sleep(config.error_delay)
 					continue
 				
-				now = datetime.now()
-				current_time = now.strftime("%H:%M:%S")
-				print("[" + str(current_time) + "] [INFO/" + str(sheetname) + "]: Updated item " + str(name))
-				logger.info("[" + str(current_time) + "] [INFO/" + str(sheetname) + "]: Updated item " + str(name))
+				try:
+					now = datetime.now()
+					current_time = now.strftime("%H:%M:%S")
+					print("[" + str(current_time) + "] [INFO/" + str(sheetname) + "]: Updated item " + str(name))
+					logger.info("[" + str(current_time) + "] [INFO/" + str(sheetname) + "]: Updated item " + str(name))
 
-				time.sleep(config.delay)
+					time.sleep(config.delay)
+				except KeyboardInterrupt:
+					now = datetime.now()
+					current_time = now.strftime("%H:%M:%S")
+					logger.info("[" + str(current_time) + "] Bot stoped")
+					sys.exit()
 
 if __name__ == "__main__":
 	now = datetime.now()
